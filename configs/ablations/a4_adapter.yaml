@@ -1,0 +1,17 @@
+id: A4
+name: adapter
+parent: B4
+parent_config: ../experiments/b4_planner_verifier.yaml
+metric:
+  - task_score
+  - overfit_gap
+  - peak_vram_mb
+  - train_time_seconds
+  - ood_score
+variants:
+  - name: off
+    changed:
+      adapter.enabled: false
+  - name: on
+    changed:
+      adapter.enabled: true

@@ -1,0 +1,27 @@
+id: B4
+name: adaptive_rag
+extends: ../base.yaml
+parent: B3
+prompt: b4_answer
+prompt_modules:
+  - query_planner
+  - evidence_check
+  - claim_verifier
+retrieval:
+  enabled: true
+  backend: hybrid_rerank
+  chunking: fixed
+  top_k: 5
+  metadata_filter: true
+planner:
+  enabled: true
+verification:
+  enabled: true
+  max_retries: 1
+  max_repair: 1
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: true

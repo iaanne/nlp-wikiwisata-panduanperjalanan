@@ -1,0 +1,19 @@
+id: B1
+name: structured_prompted_llm
+extends: ../base.yaml
+parent: B0
+prompt: b1_structured_abstain
+prompt_modules: []
+retrieval:
+  enabled: false
+  backend: null
+  top_k: 0
+verification:
+  enabled: false
+  max_retries: 0
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: true

@@ -1,0 +1,19 @@
+id: A1
+name: chunking
+parent: B2
+parent_config: ../experiments/b2_retrieval_variant.yaml
+metric:
+  - passage_recall
+  - index_size
+  - context_length
+  - groundedness
+variants:
+  - name: fixed
+    changed:
+      retrieval.chunking: fixed
+  - name: section
+    changed:
+      retrieval.chunking: section
+  - name: listing_item
+    changed:
+      retrieval.chunking: listing_item

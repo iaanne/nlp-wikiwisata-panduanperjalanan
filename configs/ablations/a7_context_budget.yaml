@@ -1,0 +1,15 @@
+id: A7
+name: context_budget
+parent: B4
+parent_config: ../experiments/b4_planner_verifier.yaml
+metric:
+  - quality
+  - p95_latency
+  - cost
+variants:
+  - name: 2k
+    changed:
+      budget.max_context_tokens: 2048
+  - name: 6k
+    changed:
+      budget.max_context_tokens: 6144

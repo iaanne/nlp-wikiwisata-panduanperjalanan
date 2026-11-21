@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "prompts": [
+    {
+      "id": "b0_default",
+      "version": "1.0.0",
+      "file": "system/b0_default_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "442b722ce16925208b5fba3cbdd2f40708162fcb140f2618e1a8edb739901499"
+    },
+    {
+      "id": "b1_structured_abstain",
+      "version": "1.0.0",
+      "file": "system/b1_structured_abstain_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": "few_shot/b1_examples.jsonl",
+      "sha256": "1858d63a89e575f36108b4f8d438e785f456353a8f7dbe45f402d8152c40c682"
+    },
+    {
+      "id": "b4_answer",
+      "version": "1.0.0",
+      "file": "system/b4_answer_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "4dc18236034ea2a7cce6af943ff74602ea061528b9b8197cd1760a128bd9e01b"
+    },
+    {
+      "id": "b6_tool_system",
+      "version": "1.0.0",
+      "file": "system/b6_tool_system_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "dcb4609d1c77d933d96a50805c569640881ce769116ff582b686dc2d66c3e9de"
+    },
+    {
+      "id": "query_planner",
+      "version": "1.0.0",
+      "file": "modules/query_planner_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "37bb5cf9e8ca0a6e68c3ce81dbd4edaa5dd662b8f782f92298ef42d93bd9f14e"
+    },
+    {
+      "id": "evidence_check",
+      "version": "1.0.0",
+      "file": "modules/evidence_check_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "4acefb7d2f080fb3a4d0a8ef8de1fb37fc0c6cd2bd882ba58b49d7e241f6d670"
+    },
+    {
+      "id": "claim_verifier",
+      "version": "1.0.0",
+      "file": "modules/claim_verifier_v1.0.txt",
+      "created_at": "2026-11-21",
+      "author": "ian",
+      "change_note": "versi awal",
+      "few_shot": null,
+      "sha256": "eb338b24e553dd485178abb70326e4eaf18918668e14940df36d29e377103e46"
+    }
+  ]
+}

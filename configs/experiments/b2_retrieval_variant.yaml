@@ -1,0 +1,21 @@
+id: B2
+name: naive_rag
+extends: ../base.yaml
+parent: B1
+prompt: b1_structured_abstain
+prompt_modules: []
+retrieval:
+  enabled: true
+  backend: dense
+  chunking: fixed
+  top_k: 5
+  metadata_filter: false
+verification:
+  enabled: false
+  max_retries: 0
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: true

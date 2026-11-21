@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "convert_currency arguments",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "amount",
+    "from_currency",
+    "to_currency",
+    "date"
+  ],
+  "properties": {
+    "amount": {
+      "type": "number",
+      "minimum": 0
+    },
+    "from_currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$"
+    },
+    "to_currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}

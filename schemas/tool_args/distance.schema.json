@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "haversine_distance arguments",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "lat1",
+    "lon1",
+    "lat2",
+    "lon2"
+  ],
+  "properties": {
+    "lat1": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "lon1": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat2": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "lon2": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    }
+  }
+}

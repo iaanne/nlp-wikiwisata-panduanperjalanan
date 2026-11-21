@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wikiwisata.local/schemas/manifest.schema.json",
+  "title": "Wikiwisata run manifest",
+  "type": "object",
+  "required": [
+    "run_id",
+    "created_at",
+    "config_path",
+    "config_hash",
+    "model",
+    "prompt_hashes",
+    "split",
+    "seed",
+    "decoding",
+    "dry_run"
+  ],
+  "properties": {
+    "run_id": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "config_path": {
+      "type": "string"
+    },
+    "config_hash": {
+      "type": "string"
+    },
+    "git_commit": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "model": {
+      "type": "object"
+    },
+    "prompt_hashes": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "index_hash": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "split": {
+      "type": "string"
+    },
+    "split_hash": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "adapter_hash": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "seed": {
+      "type": "integer"
+    },
+    "decoding": {
+      "type": "object"
+    },
+    "package_versions": {
+      "type": "object"
+    },
+    "hardware": {
+      "type": "object"
+    },
+    "dry_run": {
+      "type": "boolean"
+    },
+    "per_item": {
+      "type": "array"
+    }
+  }
+}

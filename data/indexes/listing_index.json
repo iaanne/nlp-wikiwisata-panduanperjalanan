@@ -1,0 +1,6 @@
+{
+  "index_hash": "b3f8a537e0b4441b041f7f60f2714d426704fab525a66d3892a6f938922bc7cd",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "chunk_strategy": "listing",
+  "chunk_count": 16
+}

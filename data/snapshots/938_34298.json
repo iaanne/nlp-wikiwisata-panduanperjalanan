@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afrika+bagian+Selatan",
+  "fetched_at": "2026-11-22T07:38:46.452968+00:00",
+  "title": "Afrika bagian Selatan",
+  "page_id": 938,
+  "revision_id": "34298",
+  "revision_timestamp": "2026-07-28T06:41:57Z",
+  "sha256": "b866fdf0dff63e869657c1a05e3b45a03ffacd881c78a8d018aac8f4e4902d5a",
+  "license": "CC BY-SA 4.0",
+  "city": "Afrika bagian Selatan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 938,
+          "ns": 0,
+          "title": "Afrika bagian Selatan",
+          "revisions": [
+            {
+              "revid": 34298,
+              "parentid": 34297,
+              "timestamp": "2026-07-28T06:41:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Eswatini banner Reed dance.jpg|caption=Festival Tari Buluh, Eswatini}}\n\n{{Confused|[[Afrika Selatan]], sebuah negara di Afrika bagian selatan|}}\n'''Afrika bagian Selatan''' beriklim subtropis, semi kering dan sedang; berbeda dengan sabana tropis dan hutan lebat di [[Afrika Tengah]].\n\n== Pahami ==\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n{{IsPartOf|Afrika}}\n\n{{Outlineregion}}\n{{Geo|-20.39|26.15|zoom=5}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Eswatini banner Reed dance.jpg|caption=Festival Tari Buluh, Eswatini}}\n\n{{Confused|[[Afrika Selatan]], sebuah negara di Afrika bagian selatan|}}\n'''Afrika bagian Selatan''' beriklim subtropis, semi kering dan sedang; berbeda dengan sabana tropis dan hutan lebat di [[Afrika Tengah]].\n\n== Pahami ==\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n{{IsPartOf|Afrika}}\n\n{{Outlineregion}}\n{{Geo|-20.39|26.15|zoom=5}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Arad+%28Israel%29",
+  "fetched_at": "2026-11-22T07:45:43.521793+00:00",
+  "title": "Arad (Israel)",
+  "page_id": 998,
+  "revision_id": "34484",
+  "revision_timestamp": "2026-07-29T14:02:40Z",
+  "sha256": "3a9c989e795e94c848cc8eaf366078a9aa93511b0ef3d8a26daf56ee0f411e83",
+  "license": "CC BY-SA 4.0",
+  "city": "Arad (Israel)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 998,
+          "ns": 0,
+          "title": "Arad (Israel)",
+          "revisions": [
+            {
+              "revid": 34484,
+              "parentid": 34483,
+              "timestamp": "2026-07-29T14:02:40Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Arad''' (''Ibrani'', ערד) [https://web.archive.org/web/20110224075314/http://www.arad.muni.il/] adalah sebuah kota kecil di [[Israel]] yang berada di perbatasan antara gurun [[Negev]] dan [[Gurun Yudea]]. Kota tersebut disebut juga ''Tel Arad''. Kota tersebut adalah tempat dari kota kuno Arad yang berjarak sekitar 10&nbsp;km dari sebelah timur pusat kota saat ini.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Arad''' (''Ibrani'', ערד) [https://web.archive.org/web/20110224075314/http://www.arad.muni.il/] adalah sebuah kota kecil di [[Israel]] yang berada di perbatasan antara gurun [[Negev]] dan [[Gurun Yudea]]. Kota tersebut disebut juga ''Tel Arad''. Kota tersebut adalah tempat dari kota kuno Arad yang berjarak sekitar 10&nbsp;km dari sebelah timur pusat kota saat ini.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

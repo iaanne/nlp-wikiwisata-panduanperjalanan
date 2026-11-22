@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aomori+%28prefektur%29",
+  "fetched_at": "2026-11-22T07:45:41.686577+00:00",
+  "title": "Aomori (prefektur)",
+  "page_id": 2086,
+  "revision_id": "38033",
+  "revision_timestamp": "2026-10-05T12:15:17Z",
+  "sha256": "0f1f476763b78168e60ded415bd60f016df89dbef7820d2ac75e574671af2786",
+  "license": "CC BY-SA 4.0",
+  "city": "Aomori (prefektur)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 2086,
+          "ns": 0,
+          "title": "Aomori (prefektur)",
+          "revisions": [
+            {
+              "revid": 38033,
+              "parentid": 24278,
+              "timestamp": "2026-10-05T12:15:17Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[http://www.pref.aomori.lg.jp/foreigners/index.html Prefektur Aomori]''' (青森県 ''Aomori-ken'') adalah prefektur paling utara di pulau Honshu, [[Jepang]].\n\n== Daerah ==\nAomori dibagi menjadi tiga wilayah utama, masing-masing dengan dialek mereka sendiri.\n=== Semenanjung Tsugaru ===\nBerada di sisi barat prefektur ini, wilayah ini meliputi Aomori dan Hirosaki. \n=== Semenanjung Shimokita ===\nSemenanjung berbentuk kapak ini berada di timur laut prefekur ini,  wilayah ini meliputi kota Ōma dan Mutsu\n=== Nanbu ===\nBerada di bagian tenggara prefektur ini, wilayah ini meliputi Hachinohe dan Misawa.\n\n== Kota ==\n* '''Aomori''' - ibukota prefektur\n* '''Hachinohe''' - kota dengan pantai yang indah\n* '''Hirosaki''' - \"Kyoto Utara\", bekas ibukota klan Tsugaru\n* '''Itayanagi''' - rumah dari Kapel Internasional, dan kebaktian gereja dalam bahasa Inggris\n* '''Misawa''' - kota yang indah di tepi laut \n* '''Mutsu''' - pusat administrasi Semenanjung Shimokita\n* '''Tsuruta'''\n* '''Goshogawara''' - rumah dari Festival Tachinebuta\n\n== Destinasi lainnya ==\n* '''Danau Towada''' - danau kaldera yang indah\n* '''Lembah Oirase''' - terkenal karena keindahannya\n* '''Showa Daibutsu''' - patung Buddha raksasa di Aomori yang berada di kompleks kuil yang indah\n* '''Shingo''' - kota kecil yang menampilkan tempat peristirahatan terakhir Kristus bagi kepercayaan orang aomori serta piramida Aomori\n* '''Shirakami-Sanchi''' - Situs Warisan Dunia untuk hutan beechnya yang belum terjamag, terkenal dengan Air Terjun Anmon-no-Taki"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[http://www.pref.aomori.lg.jp/foreigners/index.html Prefektur Aomori]''' (青森県 ''Aomori-ken'') adalah prefektur paling utara di pulau Honshu, [[Jepang]].\n\n== Daerah ==\nAomori dibagi menjadi tiga wilayah utama, masing-masing dengan dialek mereka sendiri.\n=== Semenanjung Tsugaru ===\nBerada di sisi barat prefektur ini, wilayah ini meliputi Aomori dan Hirosaki. \n=== Semenanjung Shimokita ===\nSemenanjung berbentuk kapak ini berada di timur laut prefekur ini,  wilayah ini meliputi kota Ōma dan Mutsu\n=== Nanbu ===\nBerada di bagian tenggara prefektur ini, wilayah ini meliputi Hachinohe dan Misawa.\n\n== Kota ==\n* '''Aomori''' - ibukota prefektur\n* '''Hachinohe''' - kota dengan pantai yang indah\n* '''Hirosaki''' - \"Kyoto Utara\", bekas ibukota klan Tsugaru\n* '''Itayanagi''' - rumah dari Kapel Internasional, dan kebaktian gereja dalam bahasa Inggris\n* '''Misawa''' - kota yang indah di tepi laut \n* '''Mutsu''' - pusat administrasi Semenanjung Shimokita\n* '''Tsuruta'''\n* '''Goshogawara''' - rumah dari Festival Tachinebuta\n\n== Destinasi lainnya ==\n* '''Danau Towada''' - danau kaldera yang indah\n* '''Lembah Oirase''' - terkenal karena keindahannya\n* '''Showa Daibutsu''' - patung Buddha raksasa di Aomori yang berada di kompleks kuil yang indah\n* '''Shingo''' - kota kecil yang menampilkan tempat peristirahatan terakhir Kristus bagi kepercayaan orang aomori serta piramida Aomori\n* '''Shirakami-Sanchi''' - Situs Warisan Dunia untuk hutan beechnya yang belum terjamag, terkenal dengan Air Terjun Anmon-no-Taki"
+}

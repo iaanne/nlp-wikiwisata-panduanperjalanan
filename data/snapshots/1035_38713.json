@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bagansiapiapi",
+  "fetched_at": "2026-11-22T07:49:42.174094+00:00",
+  "title": "Bagansiapiapi",
+  "page_id": 1035,
+  "revision_id": "38713",
+  "revision_timestamp": "2026-10-20T07:41:09Z",
+  "sha256": "1ba69c07aa618c85485cfde4d9352fd3568dc0f844b6a9d02cf7e9ac17aaac53",
+  "license": "CC BY-SA 4.0",
+  "city": "Bagansiapiapi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1035,
+          "ns": 0,
+          "title": "Bagansiapiapi",
+          "revisions": [
+            {
+              "revid": 38713,
+              "parentid": 34621,
+              "timestamp": "2026-10-20T07:41:09Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner}}\n'''Bagansiapiapi''' (atau '''Bagan Siapi-api''') adalah ibukota dari Kabupaten Rokan Hilir, [[Riau]]. Kota Bagansiapiapi terletak di muara Sungai Rokan, di pesisir utara Kabupaten Rokan Hilir. Kota ini berdekatan dengan Selat Malaka yang merupakan lalu lintas perdagangan internasional.\n\n==Pahami==\nBagan siapi-api dulunya merupakan salah satu kota penghasil ikan terbesar di Indonesia. Penduduk di kota ini mayoritas suku Melayu dan Tionghoa, sebagian besar mata pencaharian masyarakat ialah berlaut sebagai nelayan.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n==Lihat==\n* '''Ritual Bakar Tongkang''' bertujuan untuk mengenang para leluhur orang Tionghoa dalam menemukan Bagansiapiapi dan sebagai wujud syukur kepada Dewa Ki Hu Ong Ya. \n* '''Perayaan Imlek''' di Bagansiapiapi berlangsung 15 hari sampai malam Cap Go Meh. Selama perayaan [[Tahun Baru Imlek]], lampion beraneka bentuk dan ukuran menghiasi rumah-rumah penduduk, perkantoran, kelenteng dan vihara, bahkan di sepanjang jalan-jalan besar\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* Kwetiau Bagan\n* Miso Bagan\n* Nasi Lemak Bagan\n* Kue Kacang Pukul\n\n== Minum ==\n'''Es campur pelangi bagan''' merupakan minuman khas daerah ini. \n\n== Tidur ==\n\n# Bahan hotel\n# Hotel Kesuma\n# Hotel Lion\n# Hotel Bahan siapi-api \n\nHarga terjangkau mulai dari 150-300 ribuan permalam.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* Ke Barat, [[Pulau Berkey]].\n\n{{IsPartOf|Riau}}\n{{outlinecity}}\n{{Geo|||}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner}}\n'''Bagansiapiapi''' (atau '''Bagan Siapi-api''') adalah ibukota dari Kabupaten Rokan Hilir, [[Riau]]. Kota Bagansiapiapi terletak di muara Sungai Rokan, di pesisir utara Kabupaten Rokan Hilir. Kota ini berdekatan dengan Selat Malaka yang merupakan lalu lintas perdagangan internasional.\n\n==Pahami==\nBagan siapi-api dulunya merupakan salah satu kota penghasil ikan terbesar di Indonesia. Penduduk di kota ini mayoritas suku Melayu dan Tionghoa, sebagian besar mata pencaharian masyarakat ialah berlaut sebagai nelayan.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n==Lihat==\n* '''Ritual Bakar Tongkang''' bertujuan untuk mengenang para leluhur orang Tionghoa dalam menemukan Bagansiapiapi dan sebagai wujud syukur kepada Dewa Ki Hu Ong Ya. \n* '''Perayaan Imlek''' di Bagansiapiapi berlangsung 15 hari sampai malam Cap Go Meh. Selama perayaan [[Tahun Baru Imlek]], lampion beraneka bentuk dan ukuran menghiasi rumah-rumah penduduk, perkantoran, kelenteng dan vihara, bahkan di sepanjang jalan-jalan besar\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* Kwetiau Bagan\n* Miso Bagan\n* Nasi Lemak Bagan\n* Kue Kacang Pukul\n\n== Minum ==\n'''Es campur pelangi bagan''' merupakan minuman khas daerah ini. \n\n== Tidur ==\n\n# Bahan hotel\n# Hotel Kesuma\n# Hotel Lion\n# Hotel Bahan siapi-api \n\nHarga terjangkau mulai dari 150-300 ribuan permalam.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* Ke Barat, [[Pulau Berkey]].\n\n{{IsPartOf|Riau}}\n{{outlinecity}}\n{{Geo|||}}"
+}

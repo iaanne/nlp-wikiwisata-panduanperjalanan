@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Arktik",
+  "fetched_at": "2026-11-22T07:46:43.096979+00:00",
+  "title": "Arktik",
+  "page_id": 1008,
+  "revision_id": "34522",
+  "revision_timestamp": "2026-07-29T14:49:27Z",
+  "sha256": "bb493949553257c1d5d124c6136fe48c1ea4d75bc8c636362a894104814d9736",
+  "license": "CC BY-SA 4.0",
+  "city": "Arktik",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1008,
+          "ns": 0,
+          "title": "Arktik",
+          "revisions": [
+            {
+              "revid": 34522,
+              "parentid": 34521,
+              "timestamp": "2026-07-29T14:49:27Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Arktik''' adalah bagian paling utara di Bumi.\n\n[[Berkas:Arctica surface.jpg|thumb|Arktik]]\n==Wilayah==\n* [[Amerika Serikat]]: '''[[Alaska Arktik]]'''\n* [[Kanada]]: '''[[Yukon]]''', '''[[Teritorial Barat Laut]]''', '''[[Nunavut]]''' dan sebagian '''[[Quebec Utara]]'''\n* '''[[Tanah Hijau]]'''\n* Beberapa pulau lepas [[Islandia]]\n* [[Norwegia]]: '''[[Norwegia Utara]]''', '''[[Svalbard]]''' dan '''[[Jan Mayen]]'''\n* [[Swedia]]: '''[[Wilayah Norrbotten]]'''\n* [[Finlandia]]: '''[[Lapland Finlandia]]'''\n* [[Rusia]]: '''[[Rusia Barat Laut]]''', '''[[Krasnoyarsk Krai]]''', '''[[Yakutia]]''' dan '''[[Chukotka]]'''\n* '''[[Kepulauan Samudera Arktik]]'''\n\n==Kota==\n\n* [[Bodø]], Norwegia\n* [[Kiruna]], Swedia\n* [[Murmansk]], Rusia\n* [[Tromsø]], Norwegia\n* [[Fairbanks]], Alaska\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\nSatu-satunya jalan keluar dari Kutub Utara adalah ke selatan atau ke [[luar angkasa]].\n\n{{IsPartOf|Destinasi lainnya}}\n{{Extraregion|subregion=yes}}\n\n{{Geo|89.9997|0.0001|zoom=3}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Arktik''' adalah bagian paling utara di Bumi.\n\n[[Berkas:Arctica surface.jpg|thumb|Arktik]]\n==Wilayah==\n* [[Amerika Serikat]]: '''[[Alaska Arktik]]'''\n* [[Kanada]]: '''[[Yukon]]''', '''[[Teritorial Barat Laut]]''', '''[[Nunavut]]''' dan sebagian '''[[Quebec Utara]]'''\n* '''[[Tanah Hijau]]'''\n* Beberapa pulau lepas [[Islandia]]\n* [[Norwegia]]: '''[[Norwegia Utara]]''', '''[[Svalbard]]''' dan '''[[Jan Mayen]]'''\n* [[Swedia]]: '''[[Wilayah Norrbotten]]'''\n* [[Finlandia]]: '''[[Lapland Finlandia]]'''\n* [[Rusia]]: '''[[Rusia Barat Laut]]''', '''[[Krasnoyarsk Krai]]''', '''[[Yakutia]]''' dan '''[[Chukotka]]'''\n* '''[[Kepulauan Samudera Arktik]]'''\n\n==Kota==\n\n* [[Bodø]], Norwegia\n* [[Kiruna]], Swedia\n* [[Murmansk]], Rusia\n* [[Tromsø]], Norwegia\n* [[Fairbanks]], Alaska\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\nSatu-satunya jalan keluar dari Kutub Utara adalah ke selatan atau ke [[luar angkasa]].\n\n{{IsPartOf|Destinasi lainnya}}\n{{Extraregion|subregion=yes}}\n\n{{Geo|89.9997|0.0001|zoom=3}}"
+}

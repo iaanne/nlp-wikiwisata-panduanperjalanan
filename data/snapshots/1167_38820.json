@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bontang",
+  "fetched_at": "2026-11-22T08:04:43.364094+00:00",
+  "title": "Bontang",
+  "page_id": 1167,
+  "revision_id": "38820",
+  "revision_timestamp": "2026-11-05T07:33:53Z",
+  "sha256": "c3480c433eca3855921839bfa26b0773dccd107cfa2bf7e2b015cea1dd3c4e4a",
+  "license": "CC BY-SA 4.0",
+  "city": "Bontang",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1167,
+          "ns": 0,
+          "title": "Bontang",
+          "revisions": [
+            {
+              "revid": 38820,
+              "parentid": 37330,
+              "timestamp": "2026-11-05T07:33:53Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bontang banner.jpg|caption=}}\n'''Bontang''' adalah sebuah kota di [[Kalimantan Timur]], di [[Indonesia]] bagian pulau [[Kalimantan]]. Kota ini terletak sekitar 120 kilometer dari Kota Samarinda, berbatasan langsung dengan Kabupaten Kutai Timur di bagian utara dan barat, Kabupaten Kutai Kartanegara di selatan dan Selat Makassar di timur.\n\n==Pahami==\nBontang pada awalnya adalah pemukiman di bawah Kesultanan Kutai yang berpusat di Tenggarong. Menurut legenda, pemukiman ini dirintis oleh seorang kerabat Sultan Kutai bernama Aji Pao.\n\nPada tahun 1920, Desa Bontang ditetapkan sebagai kota kecamatan yang dengan sebutan ''Onder District Van Bontang'' yang dipimpin oleh seorang asisten wedana.\n\nBontang sendiri terkenal sebagai kota industri. Di kota ini terdapat dua perusahaan besar yaitu PT Badak Natural Gas Liquefaction dan PT Pupuk Kaltim. Kedua perusahaan tersebut membangun sarana dan prasarana penting bagi pertumbuhan ekonomi kota ini.\n\nKota ini resmi menjadi kotamadya otonom pada tahun 1999.\n\n==Menuju ke sini==\nAnda bisa naik bus dari [[Samarinda]] atau menyewa mobil. Biaya untuk tiket bus adalah US$2, serta US$35 untuk sewa mobil.\n\nAnda juga bisa melakukan penerbangan dari Bandara Temindung di Samarinda ke Bandara Badak NGL di Bontang.\n\n==Berkeliling==\n{{mapframe}}\nTransportasi umum di Kota Bontang meliputi angkutan darat lokal. Pilihan lain, Anda dapat menyewa mobil pribadi dari Samarinda atau Balikpapan.\n\n==Lihat==\n* Desa nelayan di Tanjung Limau.\n* {{See\n| name=Taman Nasional Kutai | alt= | url= | email=\n| address= | lat=0.366667 | long=117.266667 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Taman Nasional Kutai | image=Kutai Orangutan 2008.jpg | wikidata=Q1377613\n| content=Hutan hujan tropis dataran rendah berukuran {{Km2|2000}}\n}}\n* {{see\n| name=Bontang Mangrove Park | alt= | url= | email=\n| address=Jl. Cut Nyak Dien, Bontang Baru, Kec. Bontang Utara | lat=0.145824 | long=117.498254 | directions=\n| phone=+628125391268 | tollfree=\n| hours=8.00-17.00 | price=\n| wikipedia=Taman Mangrove Bontang | image=Tracking di Bontang Mangrove Park TN Kutai.jpg | wikidata=Q140770548\n| lastedit=2026-09-13\n| content=Anda bisa menikmati keindahan hutan mangrove melalui jalur wisata berupa jalan setapak kayu ulin sepanjang 2,5 km.\n}}\n* {{see\n| name=Taman Adipura Kota Bontang | alt= | url= | email=\n| address=Jl. Piere Tandean, Bontang Kuala, Kec. Bontang Utara | lat=0.134199 | long=117.503772 | directions=\n| phone= | tollfree=\n| hours=7.00-22.00 | price=\n| lastedit=2026-09-13\n| content=\n}}\n\n==Lakukan==\n\n==Beli==\nAnda bisa membeli ikan segar dari pasar ikan karena Bontang terkenal dengan hasil perikanannya. Tanjung Limau merupakan salah satu pusat pasar ikan disini.\n\n==Makan==\n\n# Gami Bawis di Bontang Kuala\n# Baronang Bakar\n# Ikan Passero\n# Kepiting Saus Merah\n#\n\n== Oleh-oleh ==\n\n# Terasi\n# Amplang Ikan\n# Keripik Bawis\n# Pempek Bontang\n\n==Minum==\n\n==Tidur==\n\n==Terhubung==\n\n== Tetap sehat ==\n\n== Tujuan berikutnya==\n* [[Samarinda]] – ibu kota provinsi, di selatan\n* [[Derawan]] – pulau lepas pantai di utara, dengan atraksi menyelam dan bahari\n\n{{IsPartOf|Kalimantan Timur}}\n{{Outlinecity}}\n\n{{Geo|0.13333333333333|117.5}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bontang banner.jpg|caption=}}\n'''Bontang''' adalah sebuah kota di [[Kalimantan Timur]], di [[Indonesia]] bagian pulau [[Kalimantan]]. Kota ini terletak sekitar 120 kilometer dari Kota Samarinda, berbatasan langsung dengan Kabupaten Kutai Timur di bagian utara dan barat, Kabupaten Kutai Kartanegara di selatan dan Selat Makassar di timur.\n\n==Pahami==\nBontang pada awalnya adalah pemukiman di bawah Kesultanan Kutai yang berpusat di Tenggarong. Menurut legenda, pemukiman ini dirintis oleh seorang kerabat Sultan Kutai bernama Aji Pao.\n\nPada tahun 1920, Desa Bontang ditetapkan sebagai kota kecamatan yang dengan sebutan ''Onder District Van Bontang'' yang dipimpin oleh seorang asisten wedana.\n\nBontang sendiri terkenal sebagai kota industri. Di kota ini terdapat dua perusahaan besar yaitu PT Badak Natural Gas Liquefaction dan PT Pupuk Kaltim. Kedua perusahaan tersebut membangun sarana dan prasarana penting bagi pertumbuhan ekonomi kota ini.\n\nKota ini resmi menjadi kotamadya otonom pada tahun 1999.\n\n==Menuju ke sini==\nAnda bisa naik bus dari [[Samarinda]] atau menyewa mobil. Biaya untuk tiket bus adalah US$2, serta US$35 untuk sewa mobil.\n\nAnda juga bisa melakukan penerbangan dari Bandara Temindung di Samarinda ke Bandara Badak NGL di Bontang.\n\n==Berkeliling==\n{{mapframe}}\nTransportasi umum di Kota Bontang meliputi angkutan darat lokal. Pilihan lain, Anda dapat menyewa mobil pribadi dari Samarinda atau Balikpapan.\n\n==Lihat==\n* Desa nelayan di Tanjung Limau.\n* {{See\n| name=Taman Nasional Kutai | alt= | url= | email=\n| address= | lat=0.366667 | long=117.266667 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Taman Nasional Kutai | image=Kutai Orangutan 2008.jpg | wikidata=Q1377613\n| content=Hutan hujan tropis dataran rendah berukuran {{Km2|2000}}\n}}\n* {{see\n| name=Bontang Mangrove Park | alt= | url= | email=\n| address=Jl. Cut Nyak Dien, Bontang Baru, Kec. Bontang Utara | lat=0.145824 | long=117.498254 | directions=\n| phone=+628125391268 | tollfree=\n| hours=8.00-17.00 | price=\n| wikipedia=Taman Mangrove Bontang | image=Tracking di Bontang Mangrove Park TN Kutai.jpg | wikidata=Q140770548\n| lastedit=2026-09-13\n| content=Anda bisa menikmati keindahan hutan mangrove melalui jalur wisata berupa jalan setapak kayu ulin sepanjang 2,5 km.\n}}\n* {{see\n| name=Taman Adipura Kota Bontang | alt= | url= | email=\n| address=Jl. Piere Tandean, Bontang Kuala, Kec. Bontang Utara | lat=0.134199 | long=117.503772 | directions=\n| phone= | tollfree=\n| hours=7.00-22.00 | price=\n| lastedit=2026-09-13\n| content=\n}}\n\n==Lakukan==\n\n==Beli==\nAnda bisa membeli ikan segar dari pasar ikan karena Bontang terkenal dengan hasil perikanannya. Tanjung Limau merupakan salah satu pusat pasar ikan disini.\n\n==Makan==\n\n# Gami Bawis di Bontang Kuala\n# Baronang Bakar\n# Ikan Passero\n# Kepiting Saus Merah\n#\n\n== Oleh-oleh ==\n\n# Terasi\n# Amplang Ikan\n# Keripik Bawis\n# Pempek Bontang\n\n==Minum==\n\n==Tidur==\n\n==Terhubung==\n\n== Tetap sehat ==\n\n== Tujuan berikutnya==\n* [[Samarinda]] – ibu kota provinsi, di selatan\n* [[Derawan]] – pulau lepas pantai di utara, dengan atraksi menyelam dan bahari\n\n{{IsPartOf|Kalimantan Timur}}\n{{Outlinecity}}\n\n{{Geo|0.13333333333333|117.5}}"
+}

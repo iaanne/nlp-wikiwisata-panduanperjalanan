@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ashikaga",
+  "fetched_at": "2026-11-22T07:47:41.142353+00:00",
+  "title": "Ashikaga",
+  "page_id": 1015,
+  "revision_id": "34561",
+  "revision_timestamp": "2026-07-30T06:45:35Z",
+  "sha256": "09fc31bf9ace496ec383e361bcfb5dfab4607859dd0dd98454f47cd7114917b4",
+  "license": "CC BY-SA 4.0",
+  "city": "Ashikaga",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1015,
+          "ns": 0,
+          "title": "Ashikaga",
+          "revisions": [
+            {
+              "revid": 34561,
+              "parentid": 34560,
+              "timestamp": "2026-07-30T06:45:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "[[Berkas:Ashikaga Gakko admin bldg.jpg|thumb|300px|Bangunan administrasi kuno Ashikaga Gakko, universitas Jepang tertua]]\n\n'''Ashikaga''' (足利) [https://web.archive.org/web/20041205170719/http://www.city.ashikaga.tochigi.jp/english/index.html] adalah sebuah kota di [[Prefektur Tochigi]], [[Jepang]], yang berbatasan dengan [[Gunma]].\n\n== Pahami ==\nKawasan ini merupakan kawasan dari\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "[[Berkas:Ashikaga Gakko admin bldg.jpg|thumb|300px|Bangunan administrasi kuno Ashikaga Gakko, universitas Jepang tertua]]\n\n'''Ashikaga''' (足利) [https://web.archive.org/web/20041205170719/http://www.city.ashikaga.tochigi.jp/english/index.html] adalah sebuah kota di [[Prefektur Tochigi]], [[Jepang]], yang berbatasan dengan [[Gunma]].\n\n== Pahami ==\nKawasan ini merupakan kawasan dari\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

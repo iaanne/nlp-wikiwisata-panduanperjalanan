@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Austria",
+  "fetched_at": "2026-11-22T07:48:45.798910+00:00",
+  "title": "Austria",
+  "page_id": 1031,
+  "revision_id": "34605",
+  "revision_timestamp": "2026-07-30T07:10:21Z",
+  "sha256": "77da04c186502757b413800bb6944eea3b20d0783fe3ef216131c58f297ea28b",
+  "license": "CC BY-SA 4.0",
+  "city": "Austria",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1031,
+          "ns": 0,
+          "title": "Austria",
+          "revisions": [
+            {
+              "revid": 34605,
+              "parentid": 34604,
+              "timestamp": "2026-07-30T07:10:21Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Austria-banner1.jpg}}\n'''[http://www.austria.info/ Austria]''' (bahasa Jerman: ''&Ouml;sterreich'') adalah negara terkurung daratan berbahasa Jerman di kawasan [[Eropa Tengah]]. Austria berbatasan dengan [[Swiss]] dan [[Liechtenstein]] di barat, [[Jerman]] dan [[Republik Ceko]] di utara, [[Slowakia]] dan [[Hungaria]] di timur dan [[Slovenia]] dan [[Italia]] di utara. Austria, bersama dengan Swiss, adalah pusat olahraga musim dingin di Eropa. Meski begitu, di musim panas negara ini juga terkenal karena banyak kota-kota bersejarah dan melihat pemandangan Alpen yang luar biasa.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Geo|48|14|zoom=7}}\n{{IsPartOf|Eropa Tengah}}\n{{Stub}}\n\n{{Related|Winter sports in Austria}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Austria-banner1.jpg}}\n'''[http://www.austria.info/ Austria]''' (bahasa Jerman: ''&Ouml;sterreich'') adalah negara terkurung daratan berbahasa Jerman di kawasan [[Eropa Tengah]]. Austria berbatasan dengan [[Swiss]] dan [[Liechtenstein]] di barat, [[Jerman]] dan [[Republik Ceko]] di utara, [[Slowakia]] dan [[Hungaria]] di timur dan [[Slovenia]] dan [[Italia]] di utara. Austria, bersama dengan Swiss, adalah pusat olahraga musim dingin di Eropa. Meski begitu, di musim panas negara ini juga terkenal karena banyak kota-kota bersejarah dan melihat pemandangan Alpen yang luar biasa.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Geo|48|14|zoom=7}}\n{{IsPartOf|Eropa Tengah}}\n{{Stub}}\n\n{{Related|Winter sports in Austria}}"
+}

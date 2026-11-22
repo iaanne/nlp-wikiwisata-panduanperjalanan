@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bitung",
+  "fetched_at": "2026-11-22T08:02:44.968981+00:00",
+  "title": "Bitung",
+  "page_id": 3831,
+  "revision_id": "32809",
+  "revision_timestamp": "2026-01-31T03:37:34Z",
+  "sha256": "48fcd0d676eec7fba035799a524d4cdc4cd011366aac57cb15b93e95744f1bee",
+  "license": "CC BY-SA 4.0",
+  "city": "Bitung",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3831,
+          "ns": 0,
+          "title": "Bitung",
+          "revisions": [
+            {
+              "revid": 32809,
+              "parentid": 32807,
+              "timestamp": "2026-01-31T03:37:34Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bitung banner.jpg|caption=Deep water port of Bitung}}\n'''Bitung''' adalah kota dan pelabuhan dalam utama yang terletak di [[Sulawesi Utara]]. Berlokasi di bagian timur provinsi sulawesi utara sehingga memberikan akses yang mudah ke gunung api, taman nasional dan tempat menyelam.\n\n== Menuju ke sini ==\n\n==== Dengan pesawat ====\nPelabuhan terdekat adalah Bandar udara Internasional Sam Ratulangi, berlokasi 35km di sebelah barat dari [[Manado]]. Untuk sampai ke bitung dari bandara dapat diakses menggunakan taksi atau menyewa mobil.\n\n==Berkeliling==\n{{mapframe|1.4456345513482631|125.18522377067994|zoom=11}}\n\n== Lihat ==\n* {{see\n| name=Taman Nasional Tangkoko | alt= | url= | email=\n| address=Batuputih Atas, Ranowulu, Bitung City, North Sulawesi | lat=1.559485 | long=125.163723 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Gunung Tongkoko | alt= | url= | email=\n| address=Pinangunian, Aertembaga, Kota Bitung, Sulawesi Utara | lat=1.496589 | long=125.171024 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Kebun Binatang Tandurusa | alt=Aertembaga Dua, Aertembaga, Bitung City, North Sulawesi | url= | email=\n| address= | lat=1.454897 | long=125.211893 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n==Lakukan==\n* {{do\n| name=Pantai Batuangus | alt= | url= | email=\n| address=Kasawari, Aertembaga | lat=1.5107 | long=125.2452 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-21\n| content=Pantai ini memiliki air yang jernih dan cocok untuk berselulup. Pantai ini juga populer sebagai tempat kemah atau piknik.\n}}\n\n== Makan ==\n* {{eat\n| name=King Fish Bitung | alt= | url= | email=\n| address=Pakadoodan, Maesa, Bitung City, North Sulawesi | lat=1.444615 | long=125.172359 | directions=\n| phone= | tollfree=\n| hours=9am-12am | price=Rp. 50.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Minum ==\n* {{drink\n| name=Garage LV2 Bar | alt=Jl. Tomohon - Tanahwangko No.KM No 4, Madidir Unet, Kec. Madidir, Kota Bitung, Sulawesi Utara 95521 | url= | email=\n| address= | lat=1.441235 | long=125.153343 | directions=\n| phone=081295848821 | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n== Tidur ==\n* {{sleep\n| name=Favehotel Bitung | alt= | url= | email=\n| address=Jl. Sam Ratulangi No.5, Bitung Bar. Dua, Kec. Maesa, Kota Bitung, Sulawesi Utara 95522 | lat=1.444585 | long=125.181179 | directions=\n| phone=04382232233 | tollfree=\n| checkin= | checkout= | price=Rp. 360.000\n| wikidata=Q111854768\n| lastedit=2025-11-23\n| content=\n}}\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Minahasa}}\n{{Outlinecity}}\n{{Geo|1.46666667|125.166667}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bitung banner.jpg|caption=Deep water port of Bitung}}\n'''Bitung''' adalah kota dan pelabuhan dalam utama yang terletak di [[Sulawesi Utara]]. Berlokasi di bagian timur provinsi sulawesi utara sehingga memberikan akses yang mudah ke gunung api, taman nasional dan tempat menyelam.\n\n== Menuju ke sini ==\n\n==== Dengan pesawat ====\nPelabuhan terdekat adalah Bandar udara Internasional Sam Ratulangi, berlokasi 35km di sebelah barat dari [[Manado]]. Untuk sampai ke bitung dari bandara dapat diakses menggunakan taksi atau menyewa mobil.\n\n==Berkeliling==\n{{mapframe|1.4456345513482631|125.18522377067994|zoom=11}}\n\n== Lihat ==\n* {{see\n| name=Taman Nasional Tangkoko | alt= | url= | email=\n| address=Batuputih Atas, Ranowulu, Bitung City, North Sulawesi | lat=1.559485 | long=125.163723 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Gunung Tongkoko | alt= | url= | email=\n| address=Pinangunian, Aertembaga, Kota Bitung, Sulawesi Utara | lat=1.496589 | long=125.171024 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Kebun Binatang Tandurusa | alt=Aertembaga Dua, Aertembaga, Bitung City, North Sulawesi | url= | email=\n| address= | lat=1.454897 | long=125.211893 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n==Lakukan==\n* {{do\n| name=Pantai Batuangus | alt= | url= | email=\n| address=Kasawari, Aertembaga | lat=1.5107 | long=125.2452 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-21\n| content=Pantai ini memiliki air yang jernih dan cocok untuk berselulup. Pantai ini juga populer sebagai tempat kemah atau piknik.\n}}\n\n== Makan ==\n* {{eat\n| name=King Fish Bitung | alt= | url= | email=\n| address=Pakadoodan, Maesa, Bitung City, North Sulawesi | lat=1.444615 | long=125.172359 | directions=\n| phone= | tollfree=\n| hours=9am-12am | price=Rp. 50.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Minum ==\n* {{drink\n| name=Garage LV2 Bar | alt=Jl. Tomohon - Tanahwangko No.KM No 4, Madidir Unet, Kec. Madidir, Kota Bitung, Sulawesi Utara 95521 | url= | email=\n| address= | lat=1.441235 | long=125.153343 | directions=\n| phone=081295848821 | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n== Tidur ==\n* {{sleep\n| name=Favehotel Bitung | alt= | url= | email=\n| address=Jl. Sam Ratulangi No.5, Bitung Bar. Dua, Kec. Maesa, Kota Bitung, Sulawesi Utara 95522 | lat=1.444585 | long=125.181179 | directions=\n| phone=04382232233 | tollfree=\n| checkin= | checkout= | price=Rp. 360.000\n| wikidata=Q111854768\n| lastedit=2025-11-23\n| content=\n}}\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Minahasa}}\n{{Outlinecity}}\n{{Geo|1.46666667|125.166667}}"
+}

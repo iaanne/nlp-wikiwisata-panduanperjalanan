@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bintan+Resorts",
+  "fetched_at": "2026-11-22T08:02:40.598024+00:00",
+  "title": "Bintan Resorts",
+  "page_id": 1150,
+  "revision_id": "33306",
+  "revision_timestamp": "2026-02-19T15:55:07Z",
+  "sha256": "7da2df436cd21164a4f8024b53e392f975f9de60a41e18624e315563f057cb65",
+  "license": "CC BY-SA 4.0",
+  "city": "Bintan Resorts",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1150,
+          "ns": 0,
+          "title": "Bintan Resorts",
+          "revisions": [
+            {
+              "revid": 33306,
+              "parentid": 33305,
+              "timestamp": "2026-02-19T15:55:07Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bintan Resorts banner.JPG|caption=}}\n'''Bintan Resorts''' adalah nama untuk sebuah daerah resor di wilayah utara pulau [[Bintan]], [[Indonesia]].\n==Menuju ke sini==\nBintan Resorts memiliki terminal feri sendiri, hanya melayani Terminal Feri Tanah Merah di Singapura.\n\nBintan Resorts dipisahkan dari Bintan lainnya oleh pagar kawat berduri, dan akses darat ke seluruh wilayah melalui pos pemeriksaan keamanan tunggal (Pos 1).\nSebagian besar resor menawarkan layanan bus antar-jemput gratis ke dan dari terminal feri.\n\n==Berkeliling==\nMengelilingi Bintan Resorts dapat menggunakan kendaraan darat yang disewa pengunjung. Mengelilingi Bintan Resorts sangatlah menarik karena menawarkan keindahan alam, beragam aktivitas, fasilitas, dan kekayaan budaya. Dengan menyewa kendaraan untuk berkeliling, ini memberikan fleksibelitas wisatawan untuk menjelajah dengan lebih leluasa.\n\n==Lakukan==\n* '''Jetski''' - memberikan sensasi kecepatan di air yang memacu adrenalin.\n* '''Snorkling dan Diving''' - menikmati pemandangan bawah laut Bintan nan indah.\n* '''Golf''' - lapangan golf Ria Bintan merupakan salah satu lapangan glof terbaik yang ada di Asia, dengan lapangan kelas dunia.\n\n==Makan dan minum==\nBanyak tempat menarik dengan kelas mewah untuk makanan dan minuman di Bintan Resorts, berikut uraiannya:\n* Warung Pak Lagoi\n* Strawbella Pool Bar\n* The Patio Restaurant & Bar\n* Tidal Bar Lagoi Bay\n* Otak Otak Stalls\n* Bude Nino Ayam Presto\n* Kampoeng Kelong Seafood Restaurant\n* Akau Potong Lembu\n* Pizza Casa Italia\n* Pujasera Township & Food Centre\n* Lamak Basamo\n\n==Tidur==\n\n* Angsana\n* Banyan tree\n* Bintan Lagoon Resort \n* Canopi\n* Cassia \n* Club Med \n* Grand Lagoi Hotel\n* Holiday Villa Pantai Indah\n* Lagoi Bay Villas\n* Nirwana Gardens\n* The Sanchaya\n\n==Tetap Aman==\nTingkat kejahatan kekerasan yang serius di Bintan Resorts secara teknis adalah nol, namun kejahatan ringan masih agak umum terjadi. Polisi Pariwisata dan Angkatan Laut Indonesia memiliki kantor di Kota Sebung. Air keran aman untuk diminum, sebab bersumber dari waduk besar yang diolah oleh instalasi pengolahan air berstandar Organisasi Kesalahan Dunia.\n\n{{Stub}}\n{{IsPartOf|Bintan}}\n{{Geo|1.1635|104.3378|zoom=14}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bintan Resorts banner.JPG|caption=}}\n'''Bintan Resorts''' adalah nama untuk sebuah daerah resor di wilayah utara pulau [[Bintan]], [[Indonesia]].\n==Menuju ke sini==\nBintan Resorts memiliki terminal feri sendiri, hanya melayani Terminal Feri Tanah Merah di Singapura.\n\nBintan Resorts dipisahkan dari Bintan lainnya oleh pagar kawat berduri, dan akses darat ke seluruh wilayah melalui pos pemeriksaan keamanan tunggal (Pos 1).\nSebagian besar resor menawarkan layanan bus antar-jemput gratis ke dan dari terminal feri.\n\n==Berkeliling==\nMengelilingi Bintan Resorts dapat menggunakan kendaraan darat yang disewa pengunjung. Mengelilingi Bintan Resorts sangatlah menarik karena menawarkan keindahan alam, beragam aktivitas, fasilitas, dan kekayaan budaya. Dengan menyewa kendaraan untuk berkeliling, ini memberikan fleksibelitas wisatawan untuk menjelajah dengan lebih leluasa.\n\n==Lakukan==\n* '''Jetski''' - memberikan sensasi kecepatan di air yang memacu adrenalin.\n* '''Snorkling dan Diving''' - menikmati pemandangan bawah laut Bintan nan indah.\n* '''Golf''' - lapangan golf Ria Bintan merupakan salah satu lapangan glof terbaik yang ada di Asia, dengan lapangan kelas dunia.\n\n==Makan dan minum==\nBanyak tempat menarik dengan kelas mewah untuk makanan dan minuman di Bintan Resorts, berikut uraiannya:\n* Warung Pak Lagoi\n* Strawbella Pool Bar\n* The Patio Restaurant & Bar\n* Tidal Bar Lagoi Bay\n* Otak Otak Stalls\n* Bude Nino Ayam Presto\n* Kampoeng Kelong Seafood Restaurant\n* Akau Potong Lembu\n* Pizza Casa Italia\n* Pujasera Township & Food Centre\n* Lamak Basamo\n\n==Tidur==\n\n* Angsana\n* Banyan tree\n* Bintan Lagoon Resort \n* Canopi\n* Cassia \n* Club Med \n* Grand Lagoi Hotel\n* Holiday Villa Pantai Indah\n* Lagoi Bay Villas\n* Nirwana Gardens\n* The Sanchaya\n\n==Tetap Aman==\nTingkat kejahatan kekerasan yang serius di Bintan Resorts secara teknis adalah nol, namun kejahatan ringan masih agak umum terjadi. Polisi Pariwisata dan Angkatan Laut Indonesia memiliki kantor di Kota Sebung. Air keran aman untuk diminum, sebab bersumber dari waduk besar yang diolah oleh instalasi pengolahan air berstandar Organisasi Kesalahan Dunia.\n\n{{Stub}}\n{{IsPartOf|Bintan}}\n{{Geo|1.1635|104.3378|zoom=14}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alabama",
+  "fetched_at": "2026-11-22T07:40:41.869543+00:00",
+  "title": "Alabama",
+  "page_id": 951,
+  "revision_id": "34322",
+  "revision_timestamp": "2026-07-28T07:00:40Z",
+  "sha256": "dd6bbef912672774e0063477491e15abb01e981c039ed75589130dee4d8d260e",
+  "license": "CC BY-SA 4.0",
+  "city": "Alabama",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 951,
+          "ns": 0,
+          "title": "Alabama",
+          "revisions": [
+            {
+              "revid": 34322,
+              "parentid": 34321,
+              "timestamp": "2026-07-28T07:00:40Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|BigSpringPanoramic-banner.png|caption=Big Spring Park, Huntsville}}\n'''[https://alabama.travel/ Alabama]''' adalah negara bagian di [[South (Amerika Serikat)|Amerika Serikat Bagian Selatan]]. Alabama terkenal dengan sejarah hak-hak sipil dan keindahan pemandangannya, serta memiliki banyak hal bagi mereka yang menikmati alam bebas.\n\n==Pahami==\n\n==Wilayah==\n{{Regionlist\n| regionmap=Alabama WV regions map EN.png\n| regionmaptext=Wilayah Negara Bagian Alabama\n| regionmapsize=350px\n\n| region1name=[[Mountains (Alabama)|Mountains]]\n| region1color=#e0f3f8\n| region1description=wilayah paling utara di kaki Pegunungan Appalachian ([[Huntsville (Alabama)|Huntsville]], [[Decatur (Alabama)|Decatur]], [[Tuscumbia]])\n\n| region2name=[[Metropolitan Alabama]]\n| region2color=#ffffbf\n| region2description=wilayah tengah yang paling urban di negara bagian ini ([[Birmingham (Alabama)|Birmingham]], [[Tuscaloosa]])\n\n| region3name=[[River Heritage]]\n| region3color=#fee090\n| region3description=wilayah tengah-selatan, kecuali Pantai Teluk ([[Montgomery]], [[Auburn (Alabama)|Auburn]], [[Dothan]], [[Enterprise (Alabama)|Enterprise]])\n\n| region4name=[[Pantai Teluk (Alabama)|Pantai Teluk]]\n| region4color=#fc8d59\n| region4description=wilayah barat daya di Teluk Meksiko ([[Mobile]])\n}}\n\n==Kota==\n* {{Marker|type=city|name=[[Montgomery]]|wikidata=Q29364}} — ibu kota negara bagian ini dan ibu kota pertama Konfederasi\n<!-- capital top, the rest in alphabetic order -->\n* {{Marker|type=city|name=[[Auburn (Alabama)|Auburn]]|wikidata=Q79728}} — tempat Universitas Auburn\n* {{Marker|type=city|name=[[Birmingham (Alabama)|Birmingham]]|wikidata=Q79867}} — kota terbesar di Alabama\n* {{Marker|type=city|name=[[Decatur (Alabama)|Decatur]]|wikidata=Q79750}}\n* {{Marker|type=city|name=[[Dothan]]|wikidata=Q79519}}\n* {{Marker|type=city|name=[[Huntsville (Alabama)|Huntsville]]|wikidata=Q79860}} — tempat Pusat Penerbangan Luar Angkasa Marshall berada\n* {{Marker|type=city|name=[[Mobile]]|wikidata=Q79875}} — Satu-satunya pelabuhan utama Alabama dan kota terbesar di dekat Teluk\n* {{Marker|type=city|name=[[Tuscaloosa]]|wikidata=Q79580}} — tempat Universitas Alabama berada\n* {{Marker|type=city|name=[[Tuscumbia]]|wikidata=Q79606}} — rumah Helen Keller\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n\n{{Geo|32.7|-86.7|zoom=8}}\n\n{{IsPartOf|South (Amerika Serikat)}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|BigSpringPanoramic-banner.png|caption=Big Spring Park, Huntsville}}\n'''[https://alabama.travel/ Alabama]''' adalah negara bagian di [[South (Amerika Serikat)|Amerika Serikat Bagian Selatan]]. Alabama terkenal dengan sejarah hak-hak sipil dan keindahan pemandangannya, serta memiliki banyak hal bagi mereka yang menikmati alam bebas.\n\n==Pahami==\n\n==Wilayah==\n{{Regionlist\n| regionmap=Alabama WV regions map EN.png\n| regionmaptext=Wilayah Negara Bagian Alabama\n| regionmapsize=350px\n\n| region1name=[[Mountains (Alabama)|Mountains]]\n| region1color=#e0f3f8\n| region1description=wilayah paling utara di kaki Pegunungan Appalachian ([[Huntsville (Alabama)|Huntsville]], [[Decatur (Alabama)|Decatur]], [[Tuscumbia]])\n\n| region2name=[[Metropolitan Alabama]]\n| region2color=#ffffbf\n| region2description=wilayah tengah yang paling urban di negara bagian ini ([[Birmingham (Alabama)|Birmingham]], [[Tuscaloosa]])\n\n| region3name=[[River Heritage]]\n| region3color=#fee090\n| region3description=wilayah tengah-selatan, kecuali Pantai Teluk ([[Montgomery]], [[Auburn (Alabama)|Auburn]], [[Dothan]], [[Enterprise (Alabama)|Enterprise]])\n\n| region4name=[[Pantai Teluk (Alabama)|Pantai Teluk]]\n| region4color=#fc8d59\n| region4description=wilayah barat daya di Teluk Meksiko ([[Mobile]])\n}}\n\n==Kota==\n* {{Marker|type=city|name=[[Montgomery]]|wikidata=Q29364}} — ibu kota negara bagian ini dan ibu kota pertama Konfederasi\n<!-- capital top, the rest in alphabetic order -->\n* {{Marker|type=city|name=[[Auburn (Alabama)|Auburn]]|wikidata=Q79728}} — tempat Universitas Auburn\n* {{Marker|type=city|name=[[Birmingham (Alabama)|Birmingham]]|wikidata=Q79867}} — kota terbesar di Alabama\n* {{Marker|type=city|name=[[Decatur (Alabama)|Decatur]]|wikidata=Q79750}}\n* {{Marker|type=city|name=[[Dothan]]|wikidata=Q79519}}\n* {{Marker|type=city|name=[[Huntsville (Alabama)|Huntsville]]|wikidata=Q79860}} — tempat Pusat Penerbangan Luar Angkasa Marshall berada\n* {{Marker|type=city|name=[[Mobile]]|wikidata=Q79875}} — Satu-satunya pelabuhan utama Alabama dan kota terbesar di dekat Teluk\n* {{Marker|type=city|name=[[Tuscaloosa]]|wikidata=Q79580}} — tempat Universitas Alabama berada\n* {{Marker|type=city|name=[[Tuscumbia]]|wikidata=Q79606}} — rumah Helen Keller\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n\n{{Geo|32.7|-86.7|zoom=8}}\n\n{{IsPartOf|South (Amerika Serikat)}}"
+}

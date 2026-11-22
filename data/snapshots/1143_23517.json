@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Biak",
+  "fetched_at": "2026-11-22T08:01:42.361029+00:00",
+  "title": "Biak",
+  "page_id": 1143,
+  "revision_id": "23517",
+  "revision_timestamp": "2024-12-04T08:40:26Z",
+  "sha256": "3438da4ecedfe528c748f6104d82ea4f7e5db5f0cebdc5ec1a583998bd4f517c",
+  "license": "CC BY-SA 4.0",
+  "city": "Biak",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1143,
+          "ns": 0,
+          "title": "Biak",
+          "revisions": [
+            {
+              "revid": 23517,
+              "parentid": 6743,
+              "timestamp": "2024-12-04T08:40:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Asia|pgname=Biak}}\n'''Biak''' adalah kota utama di pulau biak, pesisir barat laut [[Papua]], [[Indonesia]].\n==Menuju ke sini==\n\n=== Dengan pesawat ===\n* {{Go\n| name=Bandar Udara Internasional Frans Kaisiepo | alt={{IATA|BIK}} | url=http://franskaiseipo-airport.com/ {{Dead link|December 2020}} | email=\n| address= | lat=-1.19 | long=136.1075 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Bandar Udara Internasional Frans Kaisiepo | wikidata=Q2134812\n| content=Melayani oleh penerbangan reguler dari [[Makassar]] dan [[Jayapura]], serta penerbangan dari [[Surabaya]]. Penerbangan dioperasikan oleh maskapai Garuda Indonesia, Lion Air, dan Sriwijaya Air. Untuk menuju Biak dari [[Jakarta]], diperlukan transit di kota atau pulau lain.\n}}\n\n=== Dengan feri ===\nAnda bisa menggunakan kapal penumpang PT Pelni dari Surabaya atau Makassar. (KM Nggapulu)\n==Berkeliling==\n{{Mapframe}}\nAnda dapat berkeliling dengan \"Taksi\" (mobil) atau \"Ojek\" (Sepeda Motor).\n\n==Lihat==\nAda banyak pantai indah di Pulau Biak. Anda dapat mengunjungi pantai Parai, pantai Yendidori, pantai Adoki, pantai Wardo.\n\nAda monumen Perang Dunia Kedua di Biak, lalu museum dengan gua. Gua itu bekas tempat persembunyian tentara Jepang.\n\nDalam perjalanan ke Bosnik Anda dapat menemukan taman burung. Taman burung ini memiliki cendrawasih, kasuari, dan mambruk (merpati bermahkota viktoria).\n\n==Lakukan==\n\n==Beli ==\nToko suvenir dan seni yang bagus adalah Triant Art Shop, Jl ThamBondoi.\n\n==Makan==\nBarapen adalah makanan yang dimasak dengan menggunakan batu dan sangat lezat.\n\n==Tidur==\nAda beberapa hotel yang cukup bagus di kota Biak.\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Papua}}\n{{Outlinecity}}\n{{Geo|-1|136}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Asia|pgname=Biak}}\n'''Biak''' adalah kota utama di pulau biak, pesisir barat laut [[Papua]], [[Indonesia]].\n==Menuju ke sini==\n\n=== Dengan pesawat ===\n* {{Go\n| name=Bandar Udara Internasional Frans Kaisiepo | alt={{IATA|BIK}} | url=http://franskaiseipo-airport.com/ {{Dead link|December 2020}} | email=\n| address= | lat=-1.19 | long=136.1075 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Bandar Udara Internasional Frans Kaisiepo | wikidata=Q2134812\n| content=Melayani oleh penerbangan reguler dari [[Makassar]] dan [[Jayapura]], serta penerbangan dari [[Surabaya]]. Penerbangan dioperasikan oleh maskapai Garuda Indonesia, Lion Air, dan Sriwijaya Air. Untuk menuju Biak dari [[Jakarta]], diperlukan transit di kota atau pulau lain.\n}}\n\n=== Dengan feri ===\nAnda bisa menggunakan kapal penumpang PT Pelni dari Surabaya atau Makassar. (KM Nggapulu)\n==Berkeliling==\n{{Mapframe}}\nAnda dapat berkeliling dengan \"Taksi\" (mobil) atau \"Ojek\" (Sepeda Motor).\n\n==Lihat==\nAda banyak pantai indah di Pulau Biak. Anda dapat mengunjungi pantai Parai, pantai Yendidori, pantai Adoki, pantai Wardo.\n\nAda monumen Perang Dunia Kedua di Biak, lalu museum dengan gua. Gua itu bekas tempat persembunyian tentara Jepang.\n\nDalam perjalanan ke Bosnik Anda dapat menemukan taman burung. Taman burung ini memiliki cendrawasih, kasuari, dan mambruk (merpati bermahkota viktoria).\n\n==Lakukan==\n\n==Beli ==\nToko suvenir dan seni yang bagus adalah Triant Art Shop, Jl ThamBondoi.\n\n==Makan==\nBarapen adalah makanan yang dimasak dengan menggunakan batu dan sangat lezat.\n\n==Tidur==\nAda beberapa hotel yang cukup bagus di kota Biak.\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Papua}}\n{{Outlinecity}}\n{{Geo|-1|136}}"
+}

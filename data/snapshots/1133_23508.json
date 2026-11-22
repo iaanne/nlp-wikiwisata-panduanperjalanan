@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Berjalan+di+Pegunungan+Selatan",
+  "fetched_at": "2026-11-22T08:00:42.677105+00:00",
+  "title": "Berjalan di Pegunungan Selatan",
+  "page_id": 1133,
+  "revision_id": "23508",
+  "revision_timestamp": "2024-12-04T08:40:05Z",
+  "sha256": "41bfba7aafbd3d51453589e421f212292958c2d2e7685759aa15862b5dfd2c0d",
+  "license": "CC BY-SA 4.0",
+  "city": "Berjalan di Pegunungan Selatan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1133,
+          "ns": 0,
+          "title": "Berjalan di Pegunungan Selatan",
+          "revisions": [
+            {
+              "revid": 23508,
+              "parentid": 6618,
+              "timestamp": "2024-12-04T08:40:05Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Southern Ridges Walk banner Henderson Waves.jpg|caption=Henderson Waves|ftt=yes}}\n[[Berkas:High-rise housing seen from the Elevated Walkway of the Forest Walk, Southern Ridges, Singapore - 20090121.jpg|thumb|250px|Taman Berjalan: dimana hutan dan perkotaan bertemu]]\n\n'''Pegunungan Selatan''' adalah tempat berjalan sebesar sembilan kilometer di sepanjang bukit-bukit di sebelah selatan [[Singapura]].\n\n{{IsPartOf|Rencana perjalanan Asia}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Southern Ridges Walk banner Henderson Waves.jpg|caption=Henderson Waves|ftt=yes}}\n[[Berkas:High-rise housing seen from the Elevated Walkway of the Forest Walk, Southern Ridges, Singapore - 20090121.jpg|thumb|250px|Taman Berjalan: dimana hutan dan perkotaan bertemu]]\n\n'''Pegunungan Selatan''' adalah tempat berjalan sebesar sembilan kilometer di sepanjang bukit-bukit di sebelah selatan [[Singapura]].\n\n{{IsPartOf|Rencana perjalanan Asia}}"
+}

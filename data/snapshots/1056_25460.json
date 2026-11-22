@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bandar+Udara+Internasional+Kualanamu",
+  "fetched_at": "2026-11-22T07:52:40.448538+00:00",
+  "title": "Bandar Udara Internasional Kualanamu",
+  "page_id": 1056,
+  "revision_id": "25460",
+  "revision_timestamp": "2024-12-19T07:41:18Z",
+  "sha256": "a39145b65dad8ece45cf72340edb94dc1b36e11754c0d6e68a660ed9b2b9b938",
+  "license": "CC BY-SA 4.0",
+  "city": "Bandar Udara Internasional Kualanamu",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1056,
+          "ns": 0,
+          "title": "Bandar Udara Internasional Kualanamu",
+          "revisions": [
+            {
+              "revid": 25460,
+              "parentid": 5419,
+              "timestamp": "2024-12-19T07:41:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Kualanamu International Airport banner.jpg}}\n'''Bandar Udara Internasional Kualanamu''' ({{IATA|KNO}}) adalah sebuah bandara international di [[Deli Serdang]], [[Sumatera Utara]].\n\n{{IsPartOf|Sumatera Utara}}\n\n{{Geo|3.631038|98.867558|zoom=13}}\n{{Outlineairport}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Kualanamu International Airport banner.jpg}}\n'''Bandar Udara Internasional Kualanamu''' ({{IATA|KNO}}) adalah sebuah bandara international di [[Deli Serdang]], [[Sumatera Utara]].\n\n{{IsPartOf|Sumatera Utara}}\n\n{{Geo|3.631038|98.867558|zoom=13}}\n{{Outlineairport}}"
+}

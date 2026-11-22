@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batam+Centre",
+  "fetched_at": "2026-11-22T07:55:45.159348+00:00",
+  "title": "Batam Centre",
+  "page_id": 1094,
+  "revision_id": "34982",
+  "revision_timestamp": "2026-08-03T14:05:04Z",
+  "sha256": "99237b32222391a4aa413fcecb2d6f69bb264f6742361196d8957cf216cd001c",
+  "license": "CC BY-SA 4.0",
+  "city": "Batam Centre",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1094,
+          "ns": 0,
+          "title": "Batam Centre",
+          "revisions": [
+            {
+              "revid": 34982,
+              "parentid": 34981,
+              "timestamp": "2026-08-03T14:05:04Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Batam Centre banner.JPG|caption=}}\n'''Batam Center''' adalah sebuah kota di [[Batam]] yang dikembangkan oleh pemerintah untuk menjadi pusat bisnis dan komersial.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n==Lihat==\n*'''Masjid Raya'''\nMasjid ini memiliki arsitektur 'piramid' cantik.\nTerletak di Kantor PEMDA & Mega Mall.\n*'''Kantor Otorita Batam'''\n*'''Kantor PEMDA'''\n*'''Mega Mall - Batam'''\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n\n* {{Sleep\n| name=Harmoni One Hotel | alt= | url=https://www.harmonigroup.biz/harmoni-one | email=\n| address=Jalan Engku Putri, Batam Center Kepulauan Batam 29400, Indonesia | lat=1.1320 | long=104.0481 | directions=\n| phone=+62 778 464-111 | tollfree= | fax=\n| checkin= | checkout= | price=Tarif terbaik di situs web resmi mulai dari S$78| content=\n}}\n* {{Listing | type=sleep\n| name=Harris Hotel Batam Center | alt= | url=https://www.harrishotels.com/en-US/Batam-Center | email=sales-harris-batamcenter@tauzia.com\n| address=Jl. Engku Putri | lat=1.1305 | long=104.0540 | directions=\n| phone=+62 778 749 8888 | tollfree= | fax=+62 778 749 9999\n| checkin= | checkout= | price=Dari Rp550.000\n| wikipedia= | wikidata=\n| lastedit=2020-05-23\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Nagoya (Indonesia)|Nagoya]]\n* [[Singapura]]\n{{IsPartOf|Batam}}\n{{Outlinecity}}\n{{Geo|1.1243|104.0548|zoom=14}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Batam Centre banner.JPG|caption=}}\n'''Batam Center''' adalah sebuah kota di [[Batam]] yang dikembangkan oleh pemerintah untuk menjadi pusat bisnis dan komersial.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n==Lihat==\n*'''Masjid Raya'''\nMasjid ini memiliki arsitektur 'piramid' cantik.\nTerletak di Kantor PEMDA & Mega Mall.\n*'''Kantor Otorita Batam'''\n*'''Kantor PEMDA'''\n*'''Mega Mall - Batam'''\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n\n* {{Sleep\n| name=Harmoni One Hotel | alt= | url=https://www.harmonigroup.biz/harmoni-one | email=\n| address=Jalan Engku Putri, Batam Center Kepulauan Batam 29400, Indonesia | lat=1.1320 | long=104.0481 | directions=\n| phone=+62 778 464-111 | tollfree= | fax=\n| checkin= | checkout= | price=Tarif terbaik di situs web resmi mulai dari S$78| content=\n}}\n* {{Listing | type=sleep\n| name=Harris Hotel Batam Center | alt= | url=https://www.harrishotels.com/en-US/Batam-Center | email=sales-harris-batamcenter@tauzia.com\n| address=Jl. Engku Putri | lat=1.1305 | long=104.0540 | directions=\n| phone=+62 778 749 8888 | tollfree= | fax=+62 778 749 9999\n| checkin= | checkout= | price=Dari Rp550.000\n| wikipedia= | wikidata=\n| lastedit=2020-05-23\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Nagoya (Indonesia)|Nagoya]]\n* [[Singapura]]\n{{IsPartOf|Batam}}\n{{Outlinecity}}\n{{Geo|1.1243|104.0548|zoom=14}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bamiyan",
+  "fetched_at": "2026-11-22T07:51:43.906804+00:00",
+  "title": "Bamiyan",
+  "page_id": 1052,
+  "revision_id": "34724",
+  "revision_timestamp": "2026-07-30T08:19:58Z",
+  "sha256": "f51fc20bc96e31047032470ac8eb2deaa38b3e66de7ff0dd87c4d82bbd3474b3",
+  "license": "CC BY-SA 4.0",
+  "city": "Bamiyan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1052,
+          "ns": 0,
+          "title": "Bamiyan",
+          "revisions": [
+            {
+              "revid": 34724,
+              "parentid": 34723,
+              "timestamp": "2026-07-30T08:19:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "[[Berkas:Bamiyan Valley2.jpg|thumb|400px|Bamiyan saat matahari terbit]]\n\n'''Bamiyan''' adalah kota utama di Provinsi Bamiyan.\n\n{{IsPartOf|Afghanistan Timur}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{Geo|34.82|67.82}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "[[Berkas:Bamiyan Valley2.jpg|thumb|400px|Bamiyan saat matahari terbit]]\n\n'''Bamiyan''' adalah kota utama di Provinsi Bamiyan.\n\n{{IsPartOf|Afghanistan Timur}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{Geo|34.82|67.82}}"
+}

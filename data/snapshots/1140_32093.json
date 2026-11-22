@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bern",
+  "fetched_at": "2026-11-22T08:00:46.653524+00:00",
+  "title": "Bern",
+  "page_id": 1140,
+  "revision_id": "32093",
+  "revision_timestamp": "2026-01-09T15:35:51Z",
+  "sha256": "347c480735b60b0ac7b68327abcc56f39fe173b630d37f4648f1c49a8e0ae238",
+  "license": "CC BY-SA 4.0",
+  "city": "Bern",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1140,
+          "ns": 0,
+          "title": "Bern",
+          "revisions": [
+            {
+              "revid": 32093,
+              "parentid": 23514,
+              "timestamp": "2026-01-09T15:35:51Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Bern Wikivoyage banner.png|unesco=yes}}\n\n[[Berkas:Bern old town clock.jpg|thumb|300px|right|Teknologi tinggi di abad-13. Menara jam 'Zytglogge' ada di pusat Kota Tua Bern.]]\n'''[https://web.archive.org/web/20050212042812/http://www2.berne.ch/ Bern]''' adalah ibukota [[Swiss]]. Kota ini berukuran sedang dengan penduduk sekitar 130.000 orang di kota dan 350.000 jika digabung dengan kawasan sekitarnya. Kota tua Bern juga masuk dalam daftar [[Situs Warisan Dunia UNESCO]]. Bern adalah salah satu kota yang turut menyelenggarakan Kejuaraan Sepakbola Eropa 2008.\n\n== Fahami ==\n\n== Tidur ==\n\n==Makan==\n==Minum==\n==Terhubung==\nSejak September 2021, kota ini memiliki 5G dari semua operator seluler di Swiss.\n==Tetap aman==\n\nBern adalah tempat yang sangat aman dengan hampir tidak ada kejahatan kekerasan. Namun, karena ini merupakan ibu kota Swiss, terkadang ada  demonstrasi politik setiap beberapa pekan tentang berbagai subjek, yang kadang-kadang juga ada bentrok dengan polisi.\n\nStasiun kereta api pusat menjadi tempat nongkrong pemabuk dan gelandangan di malam hari yang mengganggu pemandangan, tetapi secara umum tidak berbahaya.\n\nAda sedikit peningkatan kekerasan dari kawula muda. Cobalah untuk menghindari kelompok remaja mabuk yang terlihat mencurigakan dan Anda akan baik-baik saja.\n\nSementara petugas polisi di Bern dengan senang hati akan membantu Anda jika Anda dalam kesulitan atau membutuhkan informasi, mereka juga sering melakukan razia kepada orang yang \"mencurigakan\" untuk memeriksa surat-surat mereka. Prosedur ini menjengkelkan, tetapi legal karena Anda mungkin akan kesulitan membuktikan bahwa Anda tidak bertindak mencurigakan. Bawalah fotokopi paspor Anda dan tiket perjalanan Anda, tetap tenang dan sopan dan Anda tidak akan mengalami masalah.\n\n==Naungan==\n===Kedutaan besar===\n* {{Flag|Finland}} {{Listing\n| name=Finlandia | url=http://www.finlandia.ch| email=info.bern@formin.fi\n| address=Weltpoststrasse 4, 3015 Bern | lat= | long= | directions=\n| phone=+41 31 350 41 00 | tollfree= | fax=+41 31 350 41 07\n| hours=Sen-Jum 09:00–12:00 | price=\n| content=\n}}\n*{{Flag|Netherlands}} {{Listing|name=Belanda|alt=|url=https://www.nederlandwereldwijd.nl/landen/zwitserland/over-ons/ambassade-in-bern|email=ben@minbuza.nl|address=Seftigenstrasse 7|lat=|long=|directions=|phone=+41 31 350 87 00|tollfree=|fax=|hours=Sen-Jum 08:30-12.30/13:30-17:00|price=|wikipedia=|wikidata=|image=|lastedit=2018-11-20|content=}}\n* {{Flag|Romania}} {{Listing\n| name=Rumania | alt= | url=http://berna.mae.ro/en | email=berna@mae.ro\n| address=Kirchenfeldstrasse 78 | lat= | long= | directions=\n| phone=+41 31 351 05 46 | tollfree=\n| hours= | price=\n| lastedit=2021-12-03\n| content=Juga mencakup fungsi sebagai kedutaan Rumania bagi [[Liechtenstein]].\n}}\n*{{Flag|Taiwan}} {{Listing|name=Taiwan|alt=|url=https://www.roc-taiwan.org/ch/index.html|email=taiwaninbern@mofa.gov.tw|address=Kirchenfeldstrasse 14, 3005 Bern|lat=|long=|directions=|phone=+41 31 382 2927|tollfree=|fax=+41 31 382 1523|hours=Sen-Jum 08:30-12:30, 13:30-17:30|price=|wikidata=|lastedit=2020-09-24|content=}}\n\n==Tujuan berikutnya==\n\n{{Stub}}\n{{IsPartOf|Wilayah Berne}}\n\n{{Geo|46.94821|7.45165|zoom=15}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Bern Wikivoyage banner.png|unesco=yes}}\n\n[[Berkas:Bern old town clock.jpg|thumb|300px|right|Teknologi tinggi di abad-13. Menara jam 'Zytglogge' ada di pusat Kota Tua Bern.]]\n'''[https://web.archive.org/web/20050212042812/http://www2.berne.ch/ Bern]''' adalah ibukota [[Swiss]]. Kota ini berukuran sedang dengan penduduk sekitar 130.000 orang di kota dan 350.000 jika digabung dengan kawasan sekitarnya. Kota tua Bern juga masuk dalam daftar [[Situs Warisan Dunia UNESCO]]. Bern adalah salah satu kota yang turut menyelenggarakan Kejuaraan Sepakbola Eropa 2008.\n\n== Fahami ==\n\n== Tidur ==\n\n==Makan==\n==Minum==\n==Terhubung==\nSejak September 2021, kota ini memiliki 5G dari semua operator seluler di Swiss.\n==Tetap aman==\n\nBern adalah tempat yang sangat aman dengan hampir tidak ada kejahatan kekerasan. Namun, karena ini merupakan ibu kota Swiss, terkadang ada  demonstrasi politik setiap beberapa pekan tentang berbagai subjek, yang kadang-kadang juga ada bentrok dengan polisi.\n\nStasiun kereta api pusat menjadi tempat nongkrong pemabuk dan gelandangan di malam hari yang mengganggu pemandangan, tetapi secara umum tidak berbahaya.\n\nAda sedikit peningkatan kekerasan dari kawula muda. Cobalah untuk menghindari kelompok remaja mabuk yang terlihat mencurigakan dan Anda akan baik-baik saja.\n\nSementara petugas polisi di Bern dengan senang hati akan membantu Anda jika Anda dalam kesulitan atau membutuhkan informasi, mereka juga sering melakukan razia kepada orang yang \"mencurigakan\" untuk memeriksa surat-surat mereka. Prosedur ini menjengkelkan, tetapi legal karena Anda mungkin akan kesulitan membuktikan bahwa Anda tidak bertindak mencurigakan. Bawalah fotokopi paspor Anda dan tiket perjalanan Anda, tetap tenang dan sopan dan Anda tidak akan mengalami masalah.\n\n==Naungan==\n===Kedutaan besar===\n* {{Flag|Finland}} {{Listing\n| name=Finlandia | url=http://www.finlandia.ch| email=info.bern@formin.fi\n| address=Weltpoststrasse 4, 3015 Bern | lat= | long= | directions=\n| phone=+41 31 350 41 00 | tollfree= | fax=+41 31 350 41 07\n| hours=Sen-Jum 09:00–12:00 | price=\n| content=\n}}\n*{{Flag|Netherlands}} {{Listing|name=Belanda|alt=|url=https://www.nederlandwereldwijd.nl/landen/zwitserland/over-ons/ambassade-in-bern|email=ben@minbuza.nl|address=Seftigenstrasse 7|lat=|long=|directions=|phone=+41 31 350 87 00|tollfree=|fax=|hours=Sen-Jum 08:30-12.30/13:30-17:00|price=|wikipedia=|wikidata=|image=|lastedit=2018-11-20|content=}}\n* {{Flag|Romania}} {{Listing\n| name=Rumania | alt= | url=http://berna.mae.ro/en | email=berna@mae.ro\n| address=Kirchenfeldstrasse 78 | lat= | long= | directions=\n| phone=+41 31 351 05 46 | tollfree=\n| hours= | price=\n| lastedit=2021-12-03\n| content=Juga mencakup fungsi sebagai kedutaan Rumania bagi [[Liechtenstein]].\n}}\n*{{Flag|Taiwan}} {{Listing|name=Taiwan|alt=|url=https://www.roc-taiwan.org/ch/index.html|email=taiwaninbern@mofa.gov.tw|address=Kirchenfeldstrasse 14, 3005 Bern|lat=|long=|directions=|phone=+41 31 382 2927|tollfree=|fax=+41 31 382 1523|hours=Sen-Jum 08:30-12:30, 13:30-17:30|price=|wikidata=|lastedit=2020-09-24|content=}}\n\n==Tujuan berikutnya==\n\n{{Stub}}\n{{IsPartOf|Wilayah Berne}}\n\n{{Geo|46.94821|7.45165|zoom=15}}"
+}

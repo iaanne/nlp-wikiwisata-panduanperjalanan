@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afghanistan+Barat+Laut",
+  "fetched_at": "2026-11-22T07:38:40.224286+00:00",
+  "title": "Afghanistan Barat Laut",
+  "page_id": 4383,
+  "revision_id": "37253",
+  "revision_timestamp": "2026-09-09T15:51:59Z",
+  "sha256": "259274931a9353092bbb6911f46b546db0643deaec0ec61ed9f4d11861e9b2ed",
+  "license": "CC BY-SA 4.0",
+  "city": "Afghanistan Barat Laut",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4383,
+          "ns": 0,
+          "title": "Afghanistan Barat Laut",
+          "revisions": [
+            {
+              "revid": 37253,
+              "parentid": 37252,
+              "timestamp": "2026-09-09T15:51:59Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Bagian ini mencakup wilayah '''barat laut''' Afghanistan . Aliansi Utara bertahan di sini ketika Taliban menguasai sebagian besar wilayah Afghanistan lainnya. Kelompok etnis utama adalah Uzbek dan Tajik .\n\nWilayah bersejarah Bactria meliputi wilayah yang mencakup sebagian Afghanistan utara &#x2014; Balkh adalah ibu kotanya &#x2014; ditambah wilayah yang sekarang berada di Uzbekistan atau Tajikistan."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Bagian ini mencakup wilayah '''barat laut''' Afghanistan . Aliansi Utara bertahan di sini ketika Taliban menguasai sebagian besar wilayah Afghanistan lainnya. Kelompok etnis utama adalah Uzbek dan Tajik .\n\nWilayah bersejarah Bactria meliputi wilayah yang mencakup sebagian Afghanistan utara &#x2014; Balkh adalah ibu kotanya &#x2014; ditambah wilayah yang sekarang berada di Uzbekistan atau Tajikistan."
+}

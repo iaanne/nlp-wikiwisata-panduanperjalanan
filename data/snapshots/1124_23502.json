@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beni",
+  "fetched_at": "2026-11-22T07:59:42.292822+00:00",
+  "title": "Beni",
+  "page_id": 1124,
+  "revision_id": "23502",
+  "revision_timestamp": "2024-12-04T08:39:50Z",
+  "sha256": "007a831a7214b256cff69a08c6b73171cb68140803ec07fd52bfea7dbeeb62b7",
+  "license": "CC BY-SA 4.0",
+  "city": "Beni",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1124,
+          "ns": 0,
+          "title": "Beni",
+          "revisions": [
+            {
+              "revid": 23502,
+              "parentid": 6514,
+              "timestamp": "2024-12-04T08:39:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang bernama '''Beni''':\n\n===[[Bolivia]]===\n\n* [[Beni (Bolivia)]] - sebuah distrik\n\n===[[Republik Demokratik Kongo]]===\n\n* [[Beni (Kivu-Nord)]] - sebuah kota di [[Kivu-Nord]]\n\n===[[Mesir]]===\n\n* [[Beni Hasan]] - sebuah desa kecil dan lokasi arkeologi penting di [[Mesir Tengah]]\n\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang bernama '''Beni''':\n\n===[[Bolivia]]===\n\n* [[Beni (Bolivia)]] - sebuah distrik\n\n===[[Republik Demokratik Kongo]]===\n\n* [[Beni (Kivu-Nord)]] - sebuah kota di [[Kivu-Nord]]\n\n===[[Mesir]]===\n\n* [[Beni Hasan]] - sebuah desa kecil dan lokasi arkeologi penting di [[Mesir Tengah]]\n\n\n{{Disamb}}"
+}

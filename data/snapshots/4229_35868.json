@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alotau",
+  "fetched_at": "2026-11-22T07:41:44.983381+00:00",
+  "title": "Alotau",
+  "page_id": 4229,
+  "revision_id": "35868",
+  "revision_timestamp": "2026-08-14T15:25:37Z",
+  "sha256": "a5222c5fc423c6d1bf1a4a9cf7e4aed120134b66056303a1b7b6360af74ce8c4",
+  "license": "CC BY-SA 4.0",
+  "city": "Alotau",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4229,
+          "ns": 0,
+          "title": "Alotau",
+          "revisions": [
+            {
+              "revid": 35868,
+              "parentid": 35867,
+              "timestamp": "2026-08-14T15:25:37Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Alotau adalah ibu kota provinsi Milne Bay , Papua Nugini.\n\n== Pahami ==\nJauh dari kekerasan di ibu kota PNG, Port Moresby, tidak mengherankan jika kota kecil yang tenang di sebelah timur PNG ini menolak pembangunan jalan raya dari ibu kota negara. Sebagai tempat yang santai dan nyaman di tepi Teluk Milne, Alotau juga merupakan pintu gerbang menuju beberapa pulau paling menakjubkan dan belum tercemar di dunia.\n\n== Menuju kesini ==\n\n== Berkelilin ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Alotau adalah ibu kota provinsi Milne Bay , Papua Nugini.\n\n== Pahami ==\nJauh dari kekerasan di ibu kota PNG, Port Moresby, tidak mengherankan jika kota kecil yang tenang di sebelah timur PNG ini menolak pembangunan jalan raya dari ibu kota negara. Sebagai tempat yang santai dan nyaman di tepi Teluk Milne, Alotau juga merupakan pintu gerbang menuju beberapa pulau paling menakjubkan dan belum tercemar di dunia.\n\n== Menuju kesini ==\n\n== Berkelilin ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

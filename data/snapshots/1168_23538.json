@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Borneo",
+  "fetched_at": "2026-11-22T08:04:45.067860+00:00",
+  "title": "Borneo",
+  "page_id": 1168,
+  "revision_id": "23538",
+  "revision_timestamp": "2024-12-04T08:41:14Z",
+  "sha256": "888a0db980d2534aa0ac5d6c1dccc5ebae7fc28f2fafcf1fffd809b1861c7ee7",
+  "license": "CC BY-SA 4.0",
+  "city": "Borneo",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1168,
+          "ns": 0,
+          "title": "Borneo",
+          "revisions": [
+            {
+              "revid": 23538,
+              "parentid": 6934,
+              "timestamp": "2024-12-04T08:41:14Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Borneo banner.jpg}}\n'''Borneo''' adalah pulau non-benua terbesar ketiga di dunia (setelah [[Greenland]] dan [[Nugini]]). Pulau ini terletak di [[Asia Tenggara]] dan dilewati garis khatulistiwa. Pulau ini jarang penduduk dan terkenal dengan hutan hujan purba yang dipenuhi dengan satwa liar, termasuk beberapa primata dan berbagai spesies langka dan terancam punah. Pulau ini juga memiliki gua dan sungai yang luas.\n\nPulau ini dibagi menjadi tiga bagian, dikelola oleh negara-negara yang berbeda:\n\n{{Regionlist\n| regionmap=Borneo map.png\n| regionmapsize=280px\n\n| region1name=[[Brunei]]\n| region1color=#d56d76\n| region1description=negara monarki kecil yang kaya minyak, yang terdiri dari dua bagian kecil dari sekitar pantai barat laut Borneo \n\n| region2name=Malaysia Timur\n| region2color=#71b37b\n| region2items=[[Sabah]] dan [[Sarawak]]\n| region2description=daerah negara [[Malaysia]], menempati sepertiga bagian utara pulau Borneo \n\n| region3name=[[Kalimantan]]\n| region3color=#b5d29f\n| region3items=Kalimantan [[Kalimantan Tengah|Tengah]], [[Kalimantan Timur|Timur]], [[Kalimantan Selatan|Selatan]] dan [[Kalimantan Barat|Barat]]\n| region3description=bagian negara [[Indonesia]] yang menempati wilayah tengah dan selatan pulau Borneo\n}}\n\nBeberapa pulau yang merupakan bagian dari Filipina &mdash; [[Palawan]] dan [[Kepulauan Sulu]] &mdash; secara geografis dekat dengan Sabah, dan memiliki beberapa kesamaan dengan Borneo dalam hal flora, fauna, sejarah dan budaya.\n\n==Menuju ke sini==\n\nBandara utama di pulau ini berdasarkan lalu lintas penumpangnya adalah [[Balikpapan]] ({{IATA|BPN}}) di Indonesia serta [[Kota Kinabalu]] ({{IATA|BKI}}) dan [[Kuching]] ({{IATA|KCH}}) di Malaysia.\n\n\n\n\n\n{{IsPartOf|Asia Tenggara}}\n{{Extraregion}}\n{{Geo|1|114|zoom=6}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Borneo banner.jpg}}\n'''Borneo''' adalah pulau non-benua terbesar ketiga di dunia (setelah [[Greenland]] dan [[Nugini]]). Pulau ini terletak di [[Asia Tenggara]] dan dilewati garis khatulistiwa. Pulau ini jarang penduduk dan terkenal dengan hutan hujan purba yang dipenuhi dengan satwa liar, termasuk beberapa primata dan berbagai spesies langka dan terancam punah. Pulau ini juga memiliki gua dan sungai yang luas.\n\nPulau ini dibagi menjadi tiga bagian, dikelola oleh negara-negara yang berbeda:\n\n{{Regionlist\n| regionmap=Borneo map.png\n| regionmapsize=280px\n\n| region1name=[[Brunei]]\n| region1color=#d56d76\n| region1description=negara monarki kecil yang kaya minyak, yang terdiri dari dua bagian kecil dari sekitar pantai barat laut Borneo \n\n| region2name=Malaysia Timur\n| region2color=#71b37b\n| region2items=[[Sabah]] dan [[Sarawak]]\n| region2description=daerah negara [[Malaysia]], menempati sepertiga bagian utara pulau Borneo \n\n| region3name=[[Kalimantan]]\n| region3color=#b5d29f\n| region3items=Kalimantan [[Kalimantan Tengah|Tengah]], [[Kalimantan Timur|Timur]], [[Kalimantan Selatan|Selatan]] dan [[Kalimantan Barat|Barat]]\n| region3description=bagian negara [[Indonesia]] yang menempati wilayah tengah dan selatan pulau Borneo\n}}\n\nBeberapa pulau yang merupakan bagian dari Filipina &mdash; [[Palawan]] dan [[Kepulauan Sulu]] &mdash; secara geografis dekat dengan Sabah, dan memiliki beberapa kesamaan dengan Borneo dalam hal flora, fauna, sejarah dan budaya.\n\n==Menuju ke sini==\n\nBandara utama di pulau ini berdasarkan lalu lintas penumpangnya adalah [[Balikpapan]] ({{IATA|BPN}}) di Indonesia serta [[Kota Kinabalu]] ({{IATA|BKI}}) dan [[Kuching]] ({{IATA|KCH}}) di Malaysia.\n\n\n\n\n\n{{IsPartOf|Asia Tenggara}}\n{{Extraregion}}\n{{Geo|1|114|zoom=6}}"
+}

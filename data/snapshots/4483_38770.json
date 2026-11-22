@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ankara",
+  "fetched_at": "2026-11-22T07:44:43.174457+00:00",
+  "title": "Ankara",
+  "page_id": 4483,
+  "revision_id": "38770",
+  "revision_timestamp": "2026-10-24T09:57:10Z",
+  "sha256": "66cb567f1b8a27c4c1a420d7fbea85626efefde2feafbd7ec68e1b73237b69fd",
+  "license": "CC BY-SA 4.0",
+  "city": "Ankara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4483,
+          "ns": 0,
+          "title": "Ankara",
+          "revisions": [
+            {
+              "revid": 38770,
+              "parentid": 38768,
+              "timestamp": "2026-10-24T09:57:10Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Ankara WV banner.jpg|dotm=yes|unesco=yes}}\n''Ankara'' merupakan ibu kota sekaligus kota terbesar kedua di [[Turki]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n=== Dengan mobil ===\n\n=== Dengan angkutan umum ===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n[[Kategori:Kota di Turki]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Ankara WV banner.jpg|dotm=yes|unesco=yes}}\n''Ankara'' merupakan ibu kota sekaligus kota terbesar kedua di [[Turki]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n=== Dengan mobil ===\n\n=== Dengan angkutan umum ===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n[[Kategori:Kota di Turki]]"
+}

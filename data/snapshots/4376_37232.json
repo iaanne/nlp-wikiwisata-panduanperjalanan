@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batujaya",
+  "fetched_at": "2026-11-22T07:56:44.937663+00:00",
+  "title": "Batujaya",
+  "page_id": 4376,
+  "revision_id": "37232",
+  "revision_timestamp": "2026-09-09T15:30:46Z",
+  "sha256": "35273044322bb3f8a936f130456dddeed46c8f998c66e6211af99818d6b55da7",
+  "license": "CC BY-SA 4.0",
+  "city": "Batujaya",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4376,
+          "ns": 0,
+          "title": "Batujaya",
+          "revisions": [
+            {
+              "revid": 37232,
+              "parentid": 0,
+              "timestamp": "2026-09-09T15:30:46Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Batujaya''' adalah sebuah desa dan distrik di wilayah Pantai Utara Jawa Barat , Indonesia. Distrik ini terkenal dengan situs arkeologi candi Batujaya."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Batujaya''' adalah sebuah desa dan distrik di wilayah Pantai Utara Jawa Barat , Indonesia. Distrik ini terkenal dengan situs arkeologi candi Batujaya."
+}

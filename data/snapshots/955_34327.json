@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Albertville+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:40:46.087302+00:00",
+  "title": "Albertville (Alabama)",
+  "page_id": 955,
+  "revision_id": "34327",
+  "revision_timestamp": "2026-07-28T07:08:57Z",
+  "sha256": "b85d4f98c076140d1aa69696f5dcd33b8b730ff52456342afa54e035c508c653",
+  "license": "CC BY-SA 4.0",
+  "city": "Albertville (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 955,
+          "ns": 0,
+          "title": "Albertville (Alabama)",
+          "revisions": [
+            {
+              "revid": 34327,
+              "parentid": 4201,
+              "timestamp": "2026-07-28T07:08:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nKota ini dilewati U.S. Highway 431, Alabama Highway 75, serts Alabama State Route 205.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Alabaster (Alabama)|Alabaster]]\n* [[Alexander City (Alabama)|Alexander City]]\n* [[Aliceville (Alabama)|Aliceville]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nKota ini dilewati U.S. Highway 431, Alabama Highway 75, serts Alabama State Route 205.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Alabaster (Alabama)|Alabaster]]\n* [[Alexander City (Alabama)|Alexander City]]\n* [[Aliceville (Alabama)|Aliceville]]"
+}

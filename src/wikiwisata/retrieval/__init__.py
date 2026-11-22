@@ -1,3 +1,6 @@
-from wikiwisata.retrieval.base import Passage, Retriever
+"""Retrieval interfaces and implementations."""
 
-__all__ = ["Passage", "Retriever"]
+from .base import RetrieverProtocol
+from .retriever import Passage, Retriever
+
+__all__ = ["Passage", "Retriever", "RetrieverProtocol"]

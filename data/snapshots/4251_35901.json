@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Anlong+Veng",
+  "fetched_at": "2026-11-22T07:44:43.866916+00:00",
+  "title": "Anlong Veng",
+  "page_id": 4251,
+  "revision_id": "35901",
+  "revision_timestamp": "2026-08-14T16:18:37Z",
+  "sha256": "dc7f99c0fe1da6591dd6bb556d08d98b69f5c71911378cc8aa07f063acdbf353",
+  "license": "CC BY-SA 4.0",
+  "city": "Anlong Veng",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4251,
+          "ns": 0,
+          "title": "Anlong Veng",
+          "revisions": [
+            {
+              "revid": 35901,
+              "parentid": 0,
+              "timestamp": "2026-08-14T16:18:37Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "adalah sebuah distrik dan kota kecil di Provinsi Oddar Meanchey, barat laut Kamboja . Satu-satunya hal yang membuatnya terkenal adalah hubungannya dengan masa-masa akhir Khmer Merah. Pol Pot, Ta Mok, Son Sen, dan Khieu Samphan, para pemimpin organisasi tersebut, semuanya memiliki rumah di sini. Distrik ini juga menyimpan makam Pol Pot dan Ta Mok, serta sisa-sisa bangunan tempat Pol Pot dihukum karena kejahatan terhadap rakyat Kamboja. Apa yang mungkin menjadi rencana perjalanan yang terlalu suram ditebus oleh pemandangan pegunungan yang menakjubkan. Terdapat perbatasan dengan Provinsi Si Saket , Thailand , 13 km di utara kota Anlong Veng.&nbsp;"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "adalah sebuah distrik dan kota kecil di Provinsi Oddar Meanchey, barat laut Kamboja . Satu-satunya hal yang membuatnya terkenal adalah hubungannya dengan masa-masa akhir Khmer Merah. Pol Pot, Ta Mok, Son Sen, dan Khieu Samphan, para pemimpin organisasi tersebut, semuanya memiliki rumah di sini. Distrik ini juga menyimpan makam Pol Pot dan Ta Mok, serta sisa-sisa bangunan tempat Pol Pot dihukum karena kejahatan terhadap rakyat Kamboja. Apa yang mungkin menjadi rencana perjalanan yang terlalu suram ditebus oleh pemandangan pegunungan yang menakjubkan. Terdapat perbatasan dengan Provinsi Si Saket , Thailand , 13 km di utara kota Anlong Veng.&nbsp;"
+}

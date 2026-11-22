@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Andorra",
+  "fetched_at": "2026-11-22T07:43:45.674072+00:00",
+  "title": "Andorra",
+  "page_id": 985,
+  "revision_id": "34434",
+  "revision_timestamp": "2026-07-29T13:36:10Z",
+  "sha256": "e556e28ef6e56a1a64d79aa642762990de29dae43d17d24d83977d3290c18ac8",
+  "license": "CC BY-SA 4.0",
+  "city": "Andorra",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 985,
+          "ns": 0,
+          "title": "Andorra",
+          "revisions": [
+            {
+              "revid": 34434,
+              "parentid": 34433,
+              "timestamp": "2026-07-29T13:36:10Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Andorra banner.jpg}}\n{{Quickbar\n| image=Landscape of Andorra.jpg\n| caption=\n| location=LocationAndorra.png\n| flag=Flag of Andorra.svg\n| capital=[[Andorra La Vella]]\n| government=Demokrasi Parlementer\n| currency=euro (EUR)\n| area=468 sq km\n| population=71,201 (perk. Juli 2006)\n| language=[[Catalan]] (resmi), [[Perancis|Bahasa Perancis]], [[Spanyol|Castilian]], [[Portugal|Bahasa Portugal]]\n| religion=Katolik Roma (dominan dan resmi)\n| electricity=220/50Hz (European plug)\n| tld=.ad\n| timezone=UTC +1\n| calling code=+376\n}}\n'''[http://visitandorra.com/en/ Andorra]''' (pop. 73,100, size 464&nbsp;km<sup>2</sup>), adalah negara pegunungan di pegunungan [[Pyrenees]] di [[Eropa]], dan di [[Iberia|Semenanjung Iberia]], di perbatasan antara [[Perancis]] dan [[Spanyol]], di Eropa Barat.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Andorra banner.jpg}}\n{{Quickbar\n| image=Landscape of Andorra.jpg\n| caption=\n| location=LocationAndorra.png\n| flag=Flag of Andorra.svg\n| capital=[[Andorra La Vella]]\n| government=Demokrasi Parlementer\n| currency=euro (EUR)\n| area=468 sq km\n| population=71,201 (perk. Juli 2006)\n| language=[[Catalan]] (resmi), [[Perancis|Bahasa Perancis]], [[Spanyol|Castilian]], [[Portugal|Bahasa Portugal]]\n| religion=Katolik Roma (dominan dan resmi)\n| electricity=220/50Hz (European plug)\n| tld=.ad\n| timezone=UTC +1\n| calling code=+376\n}}\n'''[http://visitandorra.com/en/ Andorra]''' (pop. 73,100, size 464&nbsp;km<sup>2</sup>), adalah negara pegunungan di pegunungan [[Pyrenees]] di [[Eropa]], dan di [[Iberia|Semenanjung Iberia]], di perbatasan antara [[Perancis]] dan [[Spanyol]], di Eropa Barat.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+}

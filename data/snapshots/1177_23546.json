@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Brazzaville",
+  "fetched_at": "2026-11-22T08:05:44.708090+00:00",
+  "title": "Brazzaville",
+  "page_id": 1177,
+  "revision_id": "23546",
+  "revision_timestamp": "2024-12-04T08:41:34Z",
+  "sha256": "957953f26b3b1e247299ae0e458cb25e781c81f221af1b9b10e1286d66e86e1e",
+  "license": "CC BY-SA 4.0",
+  "city": "Brazzaville",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1177,
+          "ns": 0,
+          "title": "Brazzaville",
+          "revisions": [
+            {
+              "revid": 23546,
+              "parentid": 7028,
+              "timestamp": "2024-12-04T08:41:34Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Brazzaville banner.jpg}}\n'''[https://web.archive.org/web/20220925075444/https://www.brazzaville.cg/en/river Brazzaville]''' adalah ibukota dari negara [[Republik Kongo]].\n\n{{Stub}}\n{{IsPartOf|Pool}}\n{{Geo|-4.25|15.266667}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Brazzaville banner.jpg}}\n'''[https://web.archive.org/web/20220925075444/https://www.brazzaville.cg/en/river Brazzaville]''' adalah ibukota dari negara [[Republik Kongo]].\n\n{{Stub}}\n{{IsPartOf|Pool}}\n{{Geo|-4.25|15.266667}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bali+%28disambiguasi%29",
+  "fetched_at": "2026-11-22T07:50:43.744827+00:00",
+  "title": "Bali (disambiguasi)",
+  "page_id": 3734,
+  "revision_id": "29943",
+  "revision_timestamp": "2025-11-10T03:58:12Z",
+  "sha256": "ec1c4c8abb1c7804e275ab4bc2cef6c97bf9d476ebab6d4517786e71be2d09e1",
+  "license": "CC BY-SA 4.0",
+  "city": "Bali (disambiguasi)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3734,
+          "ns": 0,
+          "title": "Bali (disambiguasi)",
+          "revisions": [
+            {
+              "revid": 29943,
+              "parentid": 29942,
+              "timestamp": "2025-11-10T03:58:12Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Disambiguation banner.png|pgname=Bali}}\n\nAda lebih dari satu tempat yang bernama '''Bali''':\n\n=== [[Yunani]] ===\n\n* [[Bali (Kreta)]] - kota kecil di pulau [[Kreta]]\n\n=== [[Indonesia]] ===\n\n* [[Bali]] - pulau terkenal di sebelah timur [[Jawa]] dan sebelah barat [[Lombok]]\n\n=== [[Taiwan]] ===\n\n* [[Distrik Bali]] - di [[County Taipei]], [[Taiwan]].\n\n\n{{disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Disambiguation banner.png|pgname=Bali}}\n\nAda lebih dari satu tempat yang bernama '''Bali''':\n\n=== [[Yunani]] ===\n\n* [[Bali (Kreta)]] - kota kecil di pulau [[Kreta]]\n\n=== [[Indonesia]] ===\n\n* [[Bali]] - pulau terkenal di sebelah timur [[Jawa]] dan sebelah barat [[Lombok]]\n\n=== [[Taiwan]] ===\n\n* [[Distrik Bali]] - di [[County Taipei]], [[Taiwan]].\n\n\n{{disamb}}"
+}

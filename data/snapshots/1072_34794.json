@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangar",
+  "fetched_at": "2026-11-22T07:52:43.195569+00:00",
+  "title": "Bangar",
+  "page_id": 1072,
+  "revision_id": "34794",
+  "revision_timestamp": "2026-07-31T07:01:52Z",
+  "sha256": "b199690f29e0544ba8e00e3a3c99360356faed1b36bbe1d0222ecf34a56f4d63",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangar",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1072,
+          "ns": 0,
+          "title": "Bangar",
+          "revisions": [
+            {
+              "revid": 34794,
+              "parentid": 34793,
+              "timestamp": "2026-07-31T07:01:52Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bangar banner shopping mall.png|caption=Area perbelanjaan pejalan kaki di Bangar}}\n'''Bangar''' adalah pusat administrasi Distrik Temburong di Brunei. Kota kecil yang tenang ini relatif terisolasi karena Temburong dipisahkan dari bagian utama negara ini (di mana ibu kota [[Bandar Seri Begawan]] berada) oleh distrik [[Limbang]] di [[Sarawak]]. Pusat kota ini berada di tepi hilir Sungai Temburong. Pasar, masjid, dan pusat komunitas berada di tepi barat dan pusat pemerintahan, toko kelontong, dan rumah sakit berada di tepi timur.\n\nTemburong belum terlalu berkembang dan masih memiliki banyak hutan hujan yang masih asli. Taman Nasional Ulu Temburong dan Cagar Alam Batu Apoi sangat cocok untuk menjelajahi hutan.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{IsPartOf|Brunei}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bangar banner shopping mall.png|caption=Area perbelanjaan pejalan kaki di Bangar}}\n'''Bangar''' adalah pusat administrasi Distrik Temburong di Brunei. Kota kecil yang tenang ini relatif terisolasi karena Temburong dipisahkan dari bagian utama negara ini (di mana ibu kota [[Bandar Seri Begawan]] berada) oleh distrik [[Limbang]] di [[Sarawak]]. Pusat kota ini berada di tepi hilir Sungai Temburong. Pasar, masjid, dan pusat komunitas berada di tepi barat dan pusat pemerintahan, toko kelontong, dan rumah sakit berada di tepi timur.\n\nTemburong belum terlalu berkembang dan masih memiliki banyak hutan hujan yang masih asli. Taman Nasional Ulu Temburong dan Cagar Alam Batu Apoi sangat cocok untuk menjelajahi hutan.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{IsPartOf|Brunei}}\n{{Stub}}"
+}

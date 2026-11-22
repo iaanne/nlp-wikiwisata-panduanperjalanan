@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Baker",
+  "fetched_at": "2026-11-22T07:50:40.776595+00:00",
+  "title": "Baker",
+  "page_id": 1040,
+  "revision_id": "23437",
+  "revision_timestamp": "2024-12-04T08:37:19Z",
+  "sha256": "205ea29a90a61376c3ced808c110ec1f77d2265c889c91665efd61bb3060292c",
+  "license": "CC BY-SA 4.0",
+  "city": "Baker",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1040,
+          "ns": 0,
+          "title": "Baker",
+          "revisions": [
+            {
+              "revid": 23437,
+              "parentid": 5163,
+              "timestamp": "2024-12-04T08:37:19Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang bernama '''Baker''':\n\n=== [[Amerika Serikat]] ===\n\n* [[Baker (California)]] - komunitas di [[County San Bernardino]], [[California]]\n* [[Baker (Louisiana)]] - sebuah kota di Paroki Baton Rouge Timur, [[Louisiana]]\n* [[Baker (Missouri)]] - sebuah desa yang terletak di County Stoddard, [[Missouri]]\n* [[Baker (Montana)]] - sebuah kota di Fallon County, [[Montana]]\n* [[Baker (Nevada)]] - sebuah komunitas di County White Pine, [[Nevada]]\n* [[Baker (Virginia Barat)]] - sebuah kota di [[Virginia Barat]].\n* [[Baker City]] - sebuah kota di [[County Baker (Oregon)|County Baker]] di wilayah [[Oregon Timur]]\n\n==Lihat juga==\n\n* [[County Baker]] (disambiguasi)\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang bernama '''Baker''':\n\n=== [[Amerika Serikat]] ===\n\n* [[Baker (California)]] - komunitas di [[County San Bernardino]], [[California]]\n* [[Baker (Louisiana)]] - sebuah kota di Paroki Baton Rouge Timur, [[Louisiana]]\n* [[Baker (Missouri)]] - sebuah desa yang terletak di County Stoddard, [[Missouri]]\n* [[Baker (Montana)]] - sebuah kota di Fallon County, [[Montana]]\n* [[Baker (Nevada)]] - sebuah komunitas di County White Pine, [[Nevada]]\n* [[Baker (Virginia Barat)]] - sebuah kota di [[Virginia Barat]].\n* [[Baker City]] - sebuah kota di [[County Baker (Oregon)|County Baker]] di wilayah [[Oregon Timur]]\n\n==Lihat juga==\n\n* [[County Baker]] (disambiguasi)\n\n{{Disamb}}"
+}

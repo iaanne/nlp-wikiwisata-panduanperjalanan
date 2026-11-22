@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Barcelona",
+  "fetched_at": "2026-11-22T07:55:40.879055+00:00",
+  "title": "Barcelona",
+  "page_id": 1092,
+  "revision_id": "34929",
+  "revision_timestamp": "2026-08-03T13:24:24Z",
+  "sha256": "b9512ef4b3cd1ba3b456e15a4550767b5f6332f3b708a6582847e9b0e6b85d8d",
+  "license": "CC BY-SA 4.0",
+  "city": "Barcelona",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1092,
+          "ns": 0,
+          "title": "Barcelona",
+          "revisions": [
+            {
+              "revid": 34929,
+              "parentid": 34928,
+              "timestamp": "2026-08-03T13:24:24Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Dona_i_Ocell_fragment.jpg|caption=Dona i Ocell|unesco=yes|origin=0.15,0|unesco_cc=yes}}\n{{printDistricts}}\n[[Berkas:Casa Milà - Barcelona, Spain - Jan 2007.jpg|thumb|350px|La Pedrera (Casa Mila)]]\n'''Barcelona''' adalah ibukota dan kota terbesar negara bagian [[Catalunya]]. Kota ini juga merupakan kota terbesar kedua di [[Spanyol]], dengan jumlah penduduk hampir 2 juta orang. \n\nDi tahun 1992, Barcelona menjadi terkenal karena menjadi penyelenggara Olimpiade. Sejak itu, industri turisme pun meningkat drastis di kota ini.\n\n==Distrik==\n\n{{Mapframe|41.3917|2.1416|zoom=12|height=600|width=500|show=mask,go}}\n{{Mapshape|type=geoshape|wikidata=Q941385|fill=#bdbd7b|title=[[Barcelona/Ciutat Vella|Ciutat Vella]]}}\n{{Mapshape|type=geoshape|wikidata=Q64124|fill=#8888dc|title=[[Barcelona/Eixample|Eixample]]}}\n{{Mapshape|type=geoshape|wikidata=Q852697|fill=#75bb75|title=[[Barcelona/Gràcia|Gràcia]]}}\n{{Mapshape|type=geoshape|wikidata=Q753075|fill=#aa6baa|title=[[Barcelona/Sants-Montjuïc|Sants-Montjuïc]]}}\n{{Mapshape|type=geoshape|wikidata=Q250935|fill=#67b7b7|title=[[Barcelona/Sant Martí|Sant Martí]]}}\n{{Mapshape|type=geoshape|wikidata=Q959944, Q1765582, Q1771488, Q1641049, Q1650230 |fill=#c9815e|title=[[Barcelona/Inland Suburbs|Inland Suburbs]]}} <!-- Les Corts, Sarrià-Sant Gervasi, Horta-Guinardó, Nou Barris, Sant Andreu -->\n\n{{Mapshapes|Q237189|stroke-opacity=0.6}} <!-- metro -->\n\n{{Regionlist\n| region1name=[[Barcelona/Ciutat Vella|Ciutat Vella]]\n| region1color=#bdbd7b\n| region1description=\n\n| region2name=[[Barcelona/Eixample|Eixample]]\n| region2color=#8888dc\n| region2description=\n\n| region3name=[[Barcelona/Gràcia|Gràcia]]\n| region3color=#75bb75\n| region3description=\n\n| region4name=[[Barcelona/Sants-Montjuïc|Sants-Montjuïc]]\n| region4color=#aa6baa\n| region4description= \n\n| region5name=[[Barcelona/Sant Martí|Sant Martí]]\n| region5color=#67b7b7\n| region5description=\n\n| region6name=[[Barcelona/Inland Suburbs|Inland Suburbs]]\n| region6color=#c9815e\n| region6description=\n}}\n\n== Pahami ==\nBarcelona (<small>Katalan:</small> [bərsəˈɫonə], <small>bahasa Spanyol:</small> [barθeˈlona]) adalah kota terbesar kedua di Spanyol dan merupakan ibu kota daerah otonom Cataluña. Jumlah penduduknya di wilayah pusat kota adalah 1,6 juta jiwa. Bersama dengan wilayah di sekitar sisi kota, penduduknya berjumlah 4,5 juta jiwa. Penduduk di wilayah metropolitan (kota dan kota-kota satelit) adalah sekitar 5 juta jiwa. Luas wilayahnya adalah 100,4km² dan kepadatannya adalah 15.764/km² (2001).\n\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\nAnda dapat mengunjungi kota ini dengan menaiki pesawat terbang dengan mendarat di bandar udara joseph tarradellas dab bandara udara ini menerima penerbangan dengan maskapai sebagai berikut:\n\n* Singapore Airlines  \n* Ryan Air\n* American Airlines\n* Atlantic Airways\n* Emirates\n* Qatar Airways\n* Ryanair\n* Turkish Airlines\n* Scandinavian Airlines\n\n=== Dengan kereta api ===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{related|Feri di Mediterania}}\n{{Stub}}\n{{IsPartOf|Barcelona (provinsi)}}\n{{Geo|41.3879|2.1699|zoom=12}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Dona_i_Ocell_fragment.jpg|caption=Dona i Ocell|unesco=yes|origin=0.15,0|unesco_cc=yes}}\n{{printDistricts}}\n[[Berkas:Casa Milà - Barcelona, Spain - Jan 2007.jpg|thumb|350px|La Pedrera (Casa Mila)]]\n'''Barcelona''' adalah ibukota dan kota terbesar negara bagian [[Catalunya]]. Kota ini juga merupakan kota terbesar kedua di [[Spanyol]], dengan jumlah penduduk hampir 2 juta orang. \n\nDi tahun 1992, Barcelona menjadi terkenal karena menjadi penyelenggara Olimpiade. Sejak itu, industri turisme pun meningkat drastis di kota ini.\n\n==Distrik==\n\n{{Mapframe|41.3917|2.1416|zoom=12|height=600|width=500|show=mask,go}}\n{{Mapshape|type=geoshape|wikidata=Q941385|fill=#bdbd7b|title=[[Barcelona/Ciutat Vella|Ciutat Vella]]}}\n{{Mapshape|type=geoshape|wikidata=Q64124|fill=#8888dc|title=[[Barcelona/Eixample|Eixample]]}}\n{{Mapshape|type=geoshape|wikidata=Q852697|fill=#75bb75|title=[[Barcelona/Gràcia|Gràcia]]}}\n{{Mapshape|type=geoshape|wikidata=Q753075|fill=#aa6baa|title=[[Barcelona/Sants-Montjuïc|Sants-Montjuïc]]}}\n{{Mapshape|type=geoshape|wikidata=Q250935|fill=#67b7b7|title=[[Barcelona/Sant Martí|Sant Martí]]}}\n{{Mapshape|type=geoshape|wikidata=Q959944, Q1765582, Q1771488, Q1641049, Q1650230 |fill=#c9815e|title=[[Barcelona/Inland Suburbs|Inland Suburbs]]}} <!-- Les Corts, Sarrià-Sant Gervasi, Horta-Guinardó, Nou Barris, Sant Andreu -->\n\n{{Mapshapes|Q237189|stroke-opacity=0.6}} <!-- metro -->\n\n{{Regionlist\n| region1name=[[Barcelona/Ciutat Vella|Ciutat Vella]]\n| region1color=#bdbd7b\n| region1description=\n\n| region2name=[[Barcelona/Eixample|Eixample]]\n| region2color=#8888dc\n| region2description=\n\n| region3name=[[Barcelona/Gràcia|Gràcia]]\n| region3color=#75bb75\n| region3description=\n\n| region4name=[[Barcelona/Sants-Montjuïc|Sants-Montjuïc]]\n| region4color=#aa6baa\n| region4description= \n\n| region5name=[[Barcelona/Sant Martí|Sant Martí]]\n| region5color=#67b7b7\n| region5description=\n\n| region6name=[[Barcelona/Inland Suburbs|Inland Suburbs]]\n| region6color=#c9815e\n| region6description=\n}}\n\n== Pahami ==\nBarcelona (<small>Katalan:</small> [bərsəˈɫonə], <small>bahasa Spanyol:</small> [barθeˈlona]) adalah kota terbesar kedua di Spanyol dan merupakan ibu kota daerah otonom Cataluña. Jumlah penduduknya di wilayah pusat kota adalah 1,6 juta jiwa. Bersama dengan wilayah di sekitar sisi kota, penduduknya berjumlah 4,5 juta jiwa. Penduduk di wilayah metropolitan (kota dan kota-kota satelit) adalah sekitar 5 juta jiwa. Luas wilayahnya adalah 100,4km² dan kepadatannya adalah 15.764/km² (2001).\n\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\nAnda dapat mengunjungi kota ini dengan menaiki pesawat terbang dengan mendarat di bandar udara joseph tarradellas dab bandara udara ini menerima penerbangan dengan maskapai sebagai berikut:\n\n* Singapore Airlines  \n* Ryan Air\n* American Airlines\n* Atlantic Airways\n* Emirates\n* Qatar Airways\n* Ryanair\n* Turkish Airlines\n* Scandinavian Airlines\n\n=== Dengan kereta api ===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{related|Feri di Mediterania}}\n{{Stub}}\n{{IsPartOf|Barcelona (provinsi)}}\n{{Geo|41.3879|2.1699|zoom=12}}"
+}

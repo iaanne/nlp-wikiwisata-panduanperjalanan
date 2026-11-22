@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aktivitas+luar+ruangan",
+  "fetched_at": "2026-11-22T07:40:40.756582+00:00",
+  "title": "Aktivitas luar ruangan",
+  "page_id": 949,
+  "revision_id": "23363",
+  "revision_timestamp": "2024-12-04T08:34:28Z",
+  "sha256": "149928994baf11368bd9289a1d2ae5f0f669bae3c4a4443644e9559ae9a4ede2",
+  "license": "CC BY-SA 4.0",
+  "city": "Aktivitas luar ruangan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 949,
+          "ns": 0,
+          "title": "Aktivitas luar ruangan",
+          "revisions": [
+            {
+              "revid": 23363,
+              "parentid": 4164,
+              "timestamp": "2024-12-04T08:34:28Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|OutdoorLife-banner-01.jpg}}\n'''Aktivitas luar ruangan''' meliputi kegiatan dan kebutuhan sehari-hari di luar kawasan terbangun. Lihat [[agrowisata]] untuk aktivitas luar ruangan di tempat perkebunan/pertanian.\n\n==Siapkan==\n* [[Bagasi]]\n* [[Peralatan]]\n* [[Berkemas untuk mendaki sepekan]]\n* [[Kesehatan fisik]]\n\n==Musim==\n* [[Musim dingin di Kanada dan Amerika Serikat]]\n* [[Musim dingin di negara-negara Nordik]]\n\n==Berkeliling==\n<!-- urutkan berdasarkan kebutuhan peralatan -->\n* [[Mendaki]] (termasuk tautan ke pemandu regional)\n** [[Wisata beransel di hutan belantara]]\n** [[Orientasi]]\n** [[Ski lintas negara]]\n* [[Berkuda]]\n* [[Bersepeda]], [[Tur bersepeda]], [[Bersepeda gunung]]\n* [[Mendaki gunung]]\n* [[Kayak laut]], [[Berkano]], [[Olahraga arung]]\n\n==Lihat==\n{{Seealso|Atraksi alam}}\nDaya tarik utama pada alam bebas seringkali adalah pemandangannya, tetapi ada juga kegiatan seperti [[pengamatan burung]] dan [[pengamatan paus]].\n\n[[Flora dan fauna Afrika]] secara tradisional dapat dilihat di [[safari]].\n\n==Lakukan==\n* [[Memancing]]\n* [[Mencari Makan]]\n* [[Berburu]]\n\n==Makan==\n* [[Makanan saat berkemah]]\n* [[Memasak di luar ruangan]]\n\n==Tidur==\n* [[Berkemah]]\n* [[Perkemahan liar]]\n* [[Wisata beransel di hutan belantara]]\n\n==Tetap aman==\n{{Seealso|Tetap aman}}\n* [[Mabuk ketinggian]]\n* [[Keamanan wilayah gersang]]\n* [[Cuaca dingin]]\n* [[Binatang berbahaya]]\n* [[Cuaca panas]]\n* [[Kebersihan dan perawatan tubuh]]\n* [[Hama]]\n* [[Cuaca buruk]]\n* [[Kebakaran liar]]\n\n==Hormati==\n* [[Etika hewan]]\n* [[Berkemah tanpa meninggalkan jejak]]\n* [[Hak untuk mengakses di negara-negara Nordik]]\n\n==Lihat juga==\n* [[Tujuan yang mustahil]]\n\n{{Outlinetopic}}\n{{PartOfTopic|Aktivitas}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|OutdoorLife-banner-01.jpg}}\n'''Aktivitas luar ruangan''' meliputi kegiatan dan kebutuhan sehari-hari di luar kawasan terbangun. Lihat [[agrowisata]] untuk aktivitas luar ruangan di tempat perkebunan/pertanian.\n\n==Siapkan==\n* [[Bagasi]]\n* [[Peralatan]]\n* [[Berkemas untuk mendaki sepekan]]\n* [[Kesehatan fisik]]\n\n==Musim==\n* [[Musim dingin di Kanada dan Amerika Serikat]]\n* [[Musim dingin di negara-negara Nordik]]\n\n==Berkeliling==\n<!-- urutkan berdasarkan kebutuhan peralatan -->\n* [[Mendaki]] (termasuk tautan ke pemandu regional)\n** [[Wisata beransel di hutan belantara]]\n** [[Orientasi]]\n** [[Ski lintas negara]]\n* [[Berkuda]]\n* [[Bersepeda]], [[Tur bersepeda]], [[Bersepeda gunung]]\n* [[Mendaki gunung]]\n* [[Kayak laut]], [[Berkano]], [[Olahraga arung]]\n\n==Lihat==\n{{Seealso|Atraksi alam}}\nDaya tarik utama pada alam bebas seringkali adalah pemandangannya, tetapi ada juga kegiatan seperti [[pengamatan burung]] dan [[pengamatan paus]].\n\n[[Flora dan fauna Afrika]] secara tradisional dapat dilihat di [[safari]].\n\n==Lakukan==\n* [[Memancing]]\n* [[Mencari Makan]]\n* [[Berburu]]\n\n==Makan==\n* [[Makanan saat berkemah]]\n* [[Memasak di luar ruangan]]\n\n==Tidur==\n* [[Berkemah]]\n* [[Perkemahan liar]]\n* [[Wisata beransel di hutan belantara]]\n\n==Tetap aman==\n{{Seealso|Tetap aman}}\n* [[Mabuk ketinggian]]\n* [[Keamanan wilayah gersang]]\n* [[Cuaca dingin]]\n* [[Binatang berbahaya]]\n* [[Cuaca panas]]\n* [[Kebersihan dan perawatan tubuh]]\n* [[Hama]]\n* [[Cuaca buruk]]\n* [[Kebakaran liar]]\n\n==Hormati==\n* [[Etika hewan]]\n* [[Berkemah tanpa meninggalkan jejak]]\n* [[Hak untuk mengakses di negara-negara Nordik]]\n\n==Lihat juga==\n* [[Tujuan yang mustahil]]\n\n{{Outlinetopic}}\n{{PartOfTopic|Aktivitas}}"
+}

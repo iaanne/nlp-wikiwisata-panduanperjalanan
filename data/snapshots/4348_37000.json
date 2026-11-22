@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aalst",
+  "fetched_at": "2026-11-22T07:35:31.601093+00:00",
+  "title": "Aalst",
+  "page_id": 4348,
+  "revision_id": "37000",
+  "revision_timestamp": "2026-09-06T08:59:57Z",
+  "sha256": "385602273aa2ca7753300bf6b6ae35cb223949c15a4c11a14e2eec626f82e395",
+  "license": "CC BY-SA 4.0",
+  "city": "Aalst",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4348,
+          "ns": 0,
+          "title": "Aalst",
+          "revisions": [
+            {
+              "revid": 37000,
+              "parentid": 36991,
+              "timestamp": "2026-09-06T08:59:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Aalst''' adalah sebuah kota di provinsi Flandes Timur, Flemish Bergia.\n\n== Pahami ==\nMasyarakat Aalst didominasi oleh suku Flemings, yaitu kelompok mayoritas kelompok etnis yang mendiami wilayah utara Belgia (Flanders).\n\nBahasa ibu masyarakat lokal adalah bahasa Belanda, khususnya dengan dialek lokal Flemish. \n\nSebagian besar penduduknya bekerja di sektor jasa, ritel, perbankan, dan administrasi publik di pusat kota.\n\n== Menuju ke sini ==\n* {{go\n| name=Aalst | alt=Alost | url=https://www.aalst.be | email=\n| address= | lat=50.9383 | long=4.0392 | directions=\n| phone= | tollfree=\n| hours= | price=¥\n| wikipedia=Aalst,_Belgia | image=Aalst belfry.jpg\n| lastedit=2026-09-06\n| content=Kota di Flanders Timur yang terletak di sepanjang Sungai Dender. Terkenal dengan Karnaval Aalst serta menara Belfry\n}}\n\n== Berkeliling ==\nBerkeliling kota dapat menggunakan transportasi publik berupa bus lokal yang bernama De Lijn. Terminal bus utama terletak tepat di depan stasiun kereta api. Tiket dapat dibeli secara digital via aplikasi atau menggunakan kartu. \n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Terhubung =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Aalst''' adalah sebuah kota di provinsi Flandes Timur, Flemish Bergia.\n\n== Pahami ==\nMasyarakat Aalst didominasi oleh suku Flemings, yaitu kelompok mayoritas kelompok etnis yang mendiami wilayah utara Belgia (Flanders).\n\nBahasa ibu masyarakat lokal adalah bahasa Belanda, khususnya dengan dialek lokal Flemish. \n\nSebagian besar penduduknya bekerja di sektor jasa, ritel, perbankan, dan administrasi publik di pusat kota.\n\n== Menuju ke sini ==\n* {{go\n| name=Aalst | alt=Alost | url=https://www.aalst.be | email=\n| address= | lat=50.9383 | long=4.0392 | directions=\n| phone= | tollfree=\n| hours= | price=¥\n| wikipedia=Aalst,_Belgia | image=Aalst belfry.jpg\n| lastedit=2026-09-06\n| content=Kota di Flanders Timur yang terletak di sepanjang Sungai Dender. Terkenal dengan Karnaval Aalst serta menara Belfry\n}}\n\n== Berkeliling ==\nBerkeliling kota dapat menggunakan transportasi publik berupa bus lokal yang bernama De Lijn. Terminal bus utama terletak tepat di depan stasiun kereta api. Tiket dapat dibeli secara digital via aplikasi atau menggunakan kartu. \n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Terhubung =="
+}

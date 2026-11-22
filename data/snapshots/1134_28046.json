@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Berkereta+api",
+  "fetched_at": "2026-11-22T08:00:43.876971+00:00",
+  "title": "Berkereta api",
+  "page_id": 1134,
+  "revision_id": "28046",
+  "revision_timestamp": "2025-06-24T09:52:21Z",
+  "sha256": "cecef1eb41e345c5dd7f5ab7c293585fd615a72e179f109efd58bae0efad3497",
+  "license": "CC BY-SA 4.0",
+  "city": "Berkereta api",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1134,
+          "ns": 0,
+          "title": "Berkereta api",
+          "revisions": [
+            {
+              "revid": 28046,
+              "parentid": 27500,
+              "timestamp": "2025-06-24T09:52:21Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|FS E 444 084 Cervo Andora banner.jpg|caption=Kereta Eurocity di Pantai Liguria}}\n\n'''Berkereta api''' dapat Anda lakukan mulai dari berwisata sejarah sampai naik [[kereta kecepatan tinggi|kereta api berkecepatan tinggi]] mulai dari sebatas jalan-jalan, makan di dalam kereta, mudik, atau merasakan sensasi cepatnya kereta api.\n\n== Pahami ==\n{{Seealso|Tips berkereta api}}\n[[Berkas:A_speeding_HST_-_geograph.org.uk_-_330474.jpg|thumb|400x400px|British InterCity 125, salah satu lokomotif tercepat di Inggris.]]\nPerkeretaapian lahir pada abad ke-19 sebagai kendaraan darat cepat pertama yang tersedia secara luas, jauh sebelum munculnya [[Mengemudi|mobil]], dan telah menjadi tolok ukur kemajuan sejumlah negara dan kota. [[Kanada]] dipersatukan dengan kereta api hingga [[Jalan Raya Trans-Kanada]] selesai dibangun pada 1961; sedangkan di Rusia, [[kereta api Trans-Siberia]] menjadi satu-satunya jalur darat hingga Jalan Raya Trans-Siberia dibuka pada awal abad ke-21.\n\nKualitas dan ketersediaan perkeretaapian bervariasi di berbagai negara. Bila [[Jerman]] dan [[Jepang]] memiliki jaringan kereta api yang sangat bagus baik antar kota maupun perkotaan, layanan kereta api penumpang di Amerika Serikat – yang pernah menjadi pemimpin dunia dalam transportasi kereta api – sudah tertinggal dengan moda roda karet, dan ada negara sama sekali tidak memiliki kereta api. Banyak ditemukan di [[negara berkembang]], yang perkeretaapiannya dibangun atas prakarsa negara penjajah dan terbengkalai karena pergolakan politik dan/atau konflik yang sering terjadi.\n\nPengguna jasa dapat menemukan jadwal dan informasi yang hanya tersedia dalam bahasa setempat, informasi yang diterjemahkan dengan buruk atau persyaratan tiket yang sukar dipahami. Jaringan [[transportasi umum]] biasanya terdiri dari kereta api lokal, bersama dengan sistem kereta api perkotaan, seperti trem dan angkutan cepat, serta [[bus]].\n\n== Kategori ==\n{{Quote|Oh, aku suka kereta!||author=Sheldon Cooper, <i>The Big Bang Theory</i>}}[[Berkas:20110507_05_Milwaukee_Road_Skytop_Lounge_Interior.jpg|thumb|Kereta mewah Amerika]]\n* [[Kereta wisata]]\n** [[Warisan sejarah perkeretaapian]]\n** [[Kereta api uap]]\n* [[Transportasi umum]]: Daftar komprehensif seluruh layanan transportasi umum\n** [[Berpetualang dengan kereta api perkotaan]] - keliling dunia dengan kereta api perkotaan\n* [[Kereta tidur]] \n* [[Kereta berkecepatan tinggi]] – Paling modern dan bisa kebut-kebutan sampai lebih dari 250 km/jam.\n* [[Berkereta api ala railfans]] – teruntuk penikmat dan penggila moda KA\n\n== Amerika Utara ==\n* [[Berkereta api di Amerika Serikat]]\n* [[Berkereta api di Kanada]]\n\n== Afrika ==\n\n* [[Berkereta api di Afrika]]\n\n== Asia ==\n* [[Berkereta api di India]]\n* [[Berkereta api di Indonesia]]\n* [[Berkereta api di Jepang]]\n* [[Naik kereta api cepat Korea Selatan]]\n* [[Kereta Api Trans-Siberia]]\n\n== Eropa ==\n* [[Pas perjalanan kereta api Eropa]]\n* [[Berkereta api di Belanda]]\n* [[Berkereta api di Britania Raya]]\n* [[Berkereta api di Italia]]\n* [[Berkereta api di Jerman]]\n* [[Berkereta api di Perancis]]\n* [[Berkereta api di Swedia]]\n* [[Berkereta api di Swiss]]\n\n== Oseania ==\n* [[Berkereta api di Australia]]\n* [[Berkereta api di Selandia Baru]]\n\n{{PartOfTopic|Transportasi}}\n{{Outlinetopic}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|FS E 444 084 Cervo Andora banner.jpg|caption=Kereta Eurocity di Pantai Liguria}}\n\n'''Berkereta api''' dapat Anda lakukan mulai dari berwisata sejarah sampai naik [[kereta kecepatan tinggi|kereta api berkecepatan tinggi]] mulai dari sebatas jalan-jalan, makan di dalam kereta, mudik, atau merasakan sensasi cepatnya kereta api.\n\n== Pahami ==\n{{Seealso|Tips berkereta api}}\n[[Berkas:A_speeding_HST_-_geograph.org.uk_-_330474.jpg|thumb|400x400px|British InterCity 125, salah satu lokomotif tercepat di Inggris.]]\nPerkeretaapian lahir pada abad ke-19 sebagai kendaraan darat cepat pertama yang tersedia secara luas, jauh sebelum munculnya [[Mengemudi|mobil]], dan telah menjadi tolok ukur kemajuan sejumlah negara dan kota. [[Kanada]] dipersatukan dengan kereta api hingga [[Jalan Raya Trans-Kanada]] selesai dibangun pada 1961; sedangkan di Rusia, [[kereta api Trans-Siberia]] menjadi satu-satunya jalur darat hingga Jalan Raya Trans-Siberia dibuka pada awal abad ke-21.\n\nKualitas dan ketersediaan perkeretaapian bervariasi di berbagai negara. Bila [[Jerman]] dan [[Jepang]] memiliki jaringan kereta api yang sangat bagus baik antar kota maupun perkotaan, layanan kereta api penumpang di Amerika Serikat – yang pernah menjadi pemimpin dunia dalam transportasi kereta api – sudah tertinggal dengan moda roda karet, dan ada negara sama sekali tidak memiliki kereta api. Banyak ditemukan di [[negara berkembang]], yang perkeretaapiannya dibangun atas prakarsa negara penjajah dan terbengkalai karena pergolakan politik dan/atau konflik yang sering terjadi.\n\nPengguna jasa dapat menemukan jadwal dan informasi yang hanya tersedia dalam bahasa setempat, informasi yang diterjemahkan dengan buruk atau persyaratan tiket yang sukar dipahami. Jaringan [[transportasi umum]] biasanya terdiri dari kereta api lokal, bersama dengan sistem kereta api perkotaan, seperti trem dan angkutan cepat, serta [[bus]].\n\n== Kategori ==\n{{Quote|Oh, aku suka kereta!||author=Sheldon Cooper, <i>The Big Bang Theory</i>}}[[Berkas:20110507_05_Milwaukee_Road_Skytop_Lounge_Interior.jpg|thumb|Kereta mewah Amerika]]\n* [[Kereta wisata]]\n** [[Warisan sejarah perkeretaapian]]\n** [[Kereta api uap]]\n* [[Transportasi umum]]: Daftar komprehensif seluruh layanan transportasi umum\n** [[Berpetualang dengan kereta api perkotaan]] - keliling dunia dengan kereta api perkotaan\n* [[Kereta tidur]] \n* [[Kereta berkecepatan tinggi]] – Paling modern dan bisa kebut-kebutan sampai lebih dari 250 km/jam.\n* [[Berkereta api ala railfans]] – teruntuk penikmat dan penggila moda KA\n\n== Amerika Utara ==\n* [[Berkereta api di Amerika Serikat]]\n* [[Berkereta api di Kanada]]\n\n== Afrika ==\n\n* [[Berkereta api di Afrika]]\n\n== Asia ==\n* [[Berkereta api di India]]\n* [[Berkereta api di Indonesia]]\n* [[Berkereta api di Jepang]]\n* [[Naik kereta api cepat Korea Selatan]]\n* [[Kereta Api Trans-Siberia]]\n\n== Eropa ==\n* [[Pas perjalanan kereta api Eropa]]\n* [[Berkereta api di Belanda]]\n* [[Berkereta api di Britania Raya]]\n* [[Berkereta api di Italia]]\n* [[Berkereta api di Jerman]]\n* [[Berkereta api di Perancis]]\n* [[Berkereta api di Swedia]]\n* [[Berkereta api di Swiss]]\n\n== Oseania ==\n* [[Berkereta api di Australia]]\n* [[Berkereta api di Selandia Baru]]\n\n{{PartOfTopic|Transportasi}}\n{{Outlinetopic}}"
+}

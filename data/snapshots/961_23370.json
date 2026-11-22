@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alfred",
+  "fetched_at": "2026-11-22T07:41:41.781259+00:00",
+  "title": "Alfred",
+  "page_id": 961,
+  "revision_id": "23370",
+  "revision_timestamp": "2024-12-04T08:34:45Z",
+  "sha256": "766cc1914c2d039c3fe95a7fbd292c88fba7264e0cec70a66fc1166f45d717ab",
+  "license": "CC BY-SA 4.0",
+  "city": "Alfred",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 961,
+          "ns": 0,
+          "title": "Alfred",
+          "revisions": [
+            {
+              "revid": 23370,
+              "parentid": 4241,
+              "timestamp": "2024-12-04T08:34:45Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang bernama '''Alfred''':\n\n===[[Amerika Serikat]]===\n* [[Alfred (Maine)]] - Sebuah kota di [[Maine]].\n* [[Alfred (New York)]] - Sebuah kota di [[New York (negara bagian)|New York]]\n* [[Alfred (Dakota Utara)]] - Sebuah kota di [[Dakota Utara]]\n* [[Alfred (Michigan)]] - Sebuah kota di [[Michigan]].\n* [[Alfred (Ohio)]] - Sebuah kota di [[Ohio]].\n* [[Alfred (Texas)]] - Sebuah kota di [[Texas]].\n* [[Alfred Mills (Maine)]] - Sebuah kota di [[Maine]].\n* [[Stasiun Alfred (New York)]] - Sebuah kota di [[New York (negara bagian)|New York]]\n\n===[[Kanada]]===\n* [[Alfred (Ontario)]] - Sebuah kota di [[Ontario]].\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang bernama '''Alfred''':\n\n===[[Amerika Serikat]]===\n* [[Alfred (Maine)]] - Sebuah kota di [[Maine]].\n* [[Alfred (New York)]] - Sebuah kota di [[New York (negara bagian)|New York]]\n* [[Alfred (Dakota Utara)]] - Sebuah kota di [[Dakota Utara]]\n* [[Alfred (Michigan)]] - Sebuah kota di [[Michigan]].\n* [[Alfred (Ohio)]] - Sebuah kota di [[Ohio]].\n* [[Alfred (Texas)]] - Sebuah kota di [[Texas]].\n* [[Alfred Mills (Maine)]] - Sebuah kota di [[Maine]].\n* [[Stasiun Alfred (New York)]] - Sebuah kota di [[New York (negara bagian)|New York]]\n\n===[[Kanada]]===\n* [[Alfred (Ontario)]] - Sebuah kota di [[Ontario]].\n\n{{Disamb}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Armenia",
+  "fetched_at": "2026-11-22T07:46:43.683002+00:00",
+  "title": "Armenia",
+  "page_id": 1009,
+  "revision_id": "34523",
+  "revision_timestamp": "2026-07-29T14:52:14Z",
+  "sha256": "d6fb63da443ba2da1d1a2016162b940ee0877d07129692c2931234332b723b85",
+  "license": "CC BY-SA 4.0",
+  "city": "Armenia",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1009,
+          "ns": 0,
+          "title": "Armenia",
+          "revisions": [
+            {
+              "revid": 34523,
+              "parentid": 29544,
+              "timestamp": "2026-07-29T14:52:14Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Noravank banner.jpg|caption=Biara Armenia Noravank di wilayah pegunungan Vayots Dzor.}}\n{{Other uses}}\n\n'''Armenia''' adalah negara yang terkurung daratan di wilayah [[Kaukasus]].\n\n==Pahami==\n\n==Menuju ke sini==\n\n===Visa===\n\n===Bea cukai===\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n===Biaya===\n\n===Penukaran uang===\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Tetap aman==\n\n==Tetap sehat==\n\n==Hormati==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\nPerbatasan darat dapat dilintasi menuju ke [[Georgia (negara)|Georgia]] (utara) dan [[Iran]] (selatan).\n\n\n{{Related|Jejak Warisan Armenia}}\n{{Outlinecountry}}\n\n{{Geo|40.1833|44.5167|zoom=8}}\n{{IsPartOf|Kaukasus}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Noravank banner.jpg|caption=Biara Armenia Noravank di wilayah pegunungan Vayots Dzor.}}\n{{Other uses}}\n\n'''Armenia''' adalah negara yang terkurung daratan di wilayah [[Kaukasus]].\n\n==Pahami==\n\n==Menuju ke sini==\n\n===Visa===\n\n===Bea cukai===\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n===Biaya===\n\n===Penukaran uang===\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Tetap aman==\n\n==Tetap sehat==\n\n==Hormati==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\nPerbatasan darat dapat dilintasi menuju ke [[Georgia (negara)|Georgia]] (utara) dan [[Iran]] (selatan).\n\n\n{{Related|Jejak Warisan Armenia}}\n{{Outlinecountry}}\n\n{{Geo|40.1833|44.5167|zoom=8}}\n{{IsPartOf|Kaukasus}}"
+}

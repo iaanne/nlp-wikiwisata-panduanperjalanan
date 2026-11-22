@@ -9,6 +9,7 @@ dependencies = [
   "bitsandbytes",
   "datasets",
   "jsonschema",
+  "numpy>=1.26",
   "pandas",
   "peft",
   "pyyaml",

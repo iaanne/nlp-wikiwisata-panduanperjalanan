@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ansen",
+  "fetched_at": "2026-11-22T07:44:45.035544+00:00",
+  "title": "Ansen",
+  "page_id": 991,
+  "revision_id": "34449",
+  "revision_timestamp": "2026-07-29T13:44:38Z",
+  "sha256": "5f9ec039a0d8c862d3a491e6a804355d6d4e6ac72b9127775a170001fd631e6c",
+  "license": "CC BY-SA 4.0",
+  "city": "Ansen",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 991,
+          "ns": 0,
+          "title": "Ansen",
+          "revisions": [
+            {
+              "revid": 34449,
+              "parentid": 23398,
+              "timestamp": "2026-07-29T13:44:38Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Ansen''' adalah sebuah desa di wilayah [[Drenthe]] di [[Belanda]].\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n* {{Do\n| name=Nije-Brink | alt= | url=\n| address=Ruinerdijk 21 | lat=52.7792 | long=6.3277 | directions=\n| phone=+31 6 37167232 | tollfree= | fax=\n| hours= | price=\n| content=Trem kuda yang menawarkan perjalanan pulang pergi atau perjalanan seharian melintasi pedesaan yang indah di sekitar Taman Nasional Dwingelderveld. Lakukan juga piknik, wisata anggur, dan aktivitas lainnya.\n}}\n\n==Beli==\n\n==Makan==\n* {{Eat\n| name=De 2de Kamer | alt= | url=\n| address=Kerkdijk 2 | lat=52.7794 | long=6.3247 | directions=\n| phone=+31 522 471 280 | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Drenthe}}\n{{Outlinecity}}\n{{Geo|52.7837|6.2885}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Ansen''' adalah sebuah desa di wilayah [[Drenthe]] di [[Belanda]].\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n* {{Do\n| name=Nije-Brink | alt= | url=\n| address=Ruinerdijk 21 | lat=52.7792 | long=6.3277 | directions=\n| phone=+31 6 37167232 | tollfree= | fax=\n| hours= | price=\n| content=Trem kuda yang menawarkan perjalanan pulang pergi atau perjalanan seharian melintasi pedesaan yang indah di sekitar Taman Nasional Dwingelderveld. Lakukan juga piknik, wisata anggur, dan aktivitas lainnya.\n}}\n\n==Beli==\n\n==Makan==\n* {{Eat\n| name=De 2de Kamer | alt= | url=\n| address=Kerkdijk 2 | lat=52.7794 | long=6.3247 | directions=\n| phone=+31 522 471 280 | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Drenthe}}\n{{Outlinecity}}\n{{Geo|52.7837|6.2885}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bosnia+dan+Herzegovina",
+  "fetched_at": "2026-11-22T08:05:40.998894+00:00",
+  "title": "Bosnia dan Herzegovina",
+  "page_id": 1171,
+  "revision_id": "27450",
+  "revision_timestamp": "2025-04-04T07:58:35Z",
+  "sha256": "44c058ca48b6bde37ffdd7dfcd32ea2e1f1cd048cca5ea7be84a1fd110c0aadf",
+  "license": "CC BY-SA 4.0",
+  "city": "Bosnia dan Herzegovina",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1171,
+          "ns": 0,
+          "title": "Bosnia dan Herzegovina",
+          "revisions": [
+            {
+              "revid": 27450,
+              "parentid": 23541,
+              "timestamp": "2025-04-04T07:58:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Quickbar\n|image=Planina Čemernica.jpg\n|caption=\n|location=LocationBosniaAndHerzegovina.png\n|flag=Flag of Bosnia and Herzegovina.svg\n|capital=[[Sarajevo]]\n|government=Republik Demokratik Federal\n|currency=Convertible Mark (BAM)\n|area=51,129 sq km\n|population=4,552,198 (Juli 2007)\n|language= [[Bosnia]], [[Serbia]], [[Kroasia]]\n|religion=Muslim 40%, Kristen Ortodoks 31%, Katolik Roma 15%, lainnya (sebagian besar tidak beragama) 14% [1990]\n|electricity=220V/50Hz (Plug eropa)\n|tld=.ba\n|callingcode=+387\n|timezone=UTC+1\n}}\n[https://web.archive.org/web/20150310212040/http://www.bhtourism.ba/eng/ '''Bosnia dan Herzegovina'''] (''Bosna i Hercegovina'', Босна и Херцеговина, umumnya disingkat ''BiH'') adalah sebuah negara Eropa yang terletak di [[Balkan|Semenanjung Balkan]]. Sebelumnya negara ini adalah bagian dari [[Yugoslavia]] dan mencapai Kemerdekaan pada tahun 1992. Negara ini berbatasan dengan [[Kroasia]] di Utara, Barat dan Barat daya, [[Serbia]] di Timur dan [[Montenegro]] di Tenggara. Sebagian besar wilayah bergunung, negara ini juga memiliki sedikit akses ke Garis pantai laut Adriatik di Selatan.\n== Tujuan berikutnya ==\nPerbatasan darat dapat dilintasi untuk menuju ke [[Kroasia]], [[Montenegro]] dan [[Serbia]].\n{{Geo|44|18|zoom=8}}\n{{Stub}}\n{{IsPartOf|Balkan}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Quickbar\n|image=Planina Čemernica.jpg\n|caption=\n|location=LocationBosniaAndHerzegovina.png\n|flag=Flag of Bosnia and Herzegovina.svg\n|capital=[[Sarajevo]]\n|government=Republik Demokratik Federal\n|currency=Convertible Mark (BAM)\n|area=51,129 sq km\n|population=4,552,198 (Juli 2007)\n|language= [[Bosnia]], [[Serbia]], [[Kroasia]]\n|religion=Muslim 40%, Kristen Ortodoks 31%, Katolik Roma 15%, lainnya (sebagian besar tidak beragama) 14% [1990]\n|electricity=220V/50Hz (Plug eropa)\n|tld=.ba\n|callingcode=+387\n|timezone=UTC+1\n}}\n[https://web.archive.org/web/20150310212040/http://www.bhtourism.ba/eng/ '''Bosnia dan Herzegovina'''] (''Bosna i Hercegovina'', Босна и Херцеговина, umumnya disingkat ''BiH'') adalah sebuah negara Eropa yang terletak di [[Balkan|Semenanjung Balkan]]. Sebelumnya negara ini adalah bagian dari [[Yugoslavia]] dan mencapai Kemerdekaan pada tahun 1992. Negara ini berbatasan dengan [[Kroasia]] di Utara, Barat dan Barat daya, [[Serbia]] di Timur dan [[Montenegro]] di Tenggara. Sebagian besar wilayah bergunung, negara ini juga memiliki sedikit akses ke Garis pantai laut Adriatik di Selatan.\n== Tujuan berikutnya ==\nPerbatasan darat dapat dilintasi untuk menuju ke [[Kroasia]], [[Montenegro]] dan [[Serbia]].\n{{Geo|44|18|zoom=8}}\n{{Stub}}\n{{IsPartOf|Balkan}}"
+}

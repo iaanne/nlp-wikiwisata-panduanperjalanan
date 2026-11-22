@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Barito+Utara",
+  "fetched_at": "2026-11-22T07:55:42.662689+00:00",
+  "title": "Barito Utara",
+  "page_id": 4031,
+  "revision_id": "34955",
+  "revision_timestamp": "2026-08-03T13:55:18Z",
+  "sha256": "d2113c2d0ee107f449c2d557a6043be934c540b44cc78e2dfd3f4627431cc904",
+  "license": "CC BY-SA 4.0",
+  "city": "Barito Utara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4031,
+          "ns": 0,
+          "title": "Barito Utara",
+          "revisions": [
+            {
+              "revid": 34955,
+              "parentid": 34954,
+              "timestamp": "2026-08-03T13:55:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "\n'''Barito Utara''' adalah sebuah kabupaten di [[Kalimantan Tengah]], [[Indonesia]]. Ibu kotanya adalah Kota Muara Teweh.\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\nKota ini di dilayani oleh '''Bandar Udara Haji Muhammad Sidik'''.\n\n=== Dengan angkutan umum ===\nTerminal Wayang : Kelurahan Jingah Kecamatan Teweh Baru\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\n*Piknik di '''Air Terjun Jantur Doyam'''.\n*Piknik di '''DAM Trinsing'''\n*Berkemah di '''Bumi Perkemahan Panglima Batur'''\n\n== Beli ==\n* {{buy\n| name=Pasar Tradisional IPU | alt= | url=https://kalimantanlive.com/2025/01/18/asal-usul-pasar-ipu-muara-teweh-simak-sejarahnya-lengkap/ | email=\n| address=2VQX+3H8, Jl. Mangkusari, Lanjas, Kec. Teweh Tengah, Kabupaten Barito Utara, Kalimantan Tengah 73814 | lat=-0.962144 | long=114.898983 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pasar Tradisional IPU | image=Pasar Tradisional IPU\n| lastedit=2026-08-03\n| content=Pasar Tradisional IPU adalah pasar tradisional yang menjual berbagai pusat sembako serta kebutuhan sehari-hari.\n}}\n\n== Makan ==\n* '''Tumpi Jawao''' di Desa Lemo\n\n== Minum ==\n\n== Tidur ==\n* '''Hayak Tamara Syariah Hotel''', Jl. Ahmad Yani No.7B, Melayu, Kecamatan Teweh Tengah (0811-136-371)\n* '''JnB Hotel Muara Teweh''', Jl. Pramuka No.3, Lanjas, Kecamatan Teweh Tengah (0811-5257-373)\n* '''Hotel Senyiur Syariah''', Jl. Jend. Sudirman, Melayu, Kecamatan Teweh Tengah (0812-2359-3377)\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n==Tujuan berikutnya==\n* [[Murung Raya]] - kota sungai\n* [[Palangka Raya]] - ibu kota Kalimantan Tengah\n{{Geo|-2.2000|113.8333}}\n{{IsPartOf|Kalimantan Tengah}}\n{{Outlinecity}}\n\n[[Kategori:Wikibalalah II]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "\n'''Barito Utara''' adalah sebuah kabupaten di [[Kalimantan Tengah]], [[Indonesia]]. Ibu kotanya adalah Kota Muara Teweh.\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\nKota ini di dilayani oleh '''Bandar Udara Haji Muhammad Sidik'''.\n\n=== Dengan angkutan umum ===\nTerminal Wayang : Kelurahan Jingah Kecamatan Teweh Baru\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\n*Piknik di '''Air Terjun Jantur Doyam'''.\n*Piknik di '''DAM Trinsing'''\n*Berkemah di '''Bumi Perkemahan Panglima Batur'''\n\n== Beli ==\n* {{buy\n| name=Pasar Tradisional IPU | alt= | url=https://kalimantanlive.com/2025/01/18/asal-usul-pasar-ipu-muara-teweh-simak-sejarahnya-lengkap/ | email=\n| address=2VQX+3H8, Jl. Mangkusari, Lanjas, Kec. Teweh Tengah, Kabupaten Barito Utara, Kalimantan Tengah 73814 | lat=-0.962144 | long=114.898983 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pasar Tradisional IPU | image=Pasar Tradisional IPU\n| lastedit=2026-08-03\n| content=Pasar Tradisional IPU adalah pasar tradisional yang menjual berbagai pusat sembako serta kebutuhan sehari-hari.\n}}\n\n== Makan ==\n* '''Tumpi Jawao''' di Desa Lemo\n\n== Minum ==\n\n== Tidur ==\n* '''Hayak Tamara Syariah Hotel''', Jl. Ahmad Yani No.7B, Melayu, Kecamatan Teweh Tengah (0811-136-371)\n* '''JnB Hotel Muara Teweh''', Jl. Pramuka No.3, Lanjas, Kecamatan Teweh Tengah (0811-5257-373)\n* '''Hotel Senyiur Syariah''', Jl. Jend. Sudirman, Melayu, Kecamatan Teweh Tengah (0812-2359-3377)\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n==Tujuan berikutnya==\n* [[Murung Raya]] - kota sungai\n* [[Palangka Raya]] - ibu kota Kalimantan Tengah\n{{Geo|-2.2000|113.8333}}\n{{IsPartOf|Kalimantan Tengah}}\n{{Outlinecity}}\n\n[[Kategori:Wikibalalah II]]"
+}

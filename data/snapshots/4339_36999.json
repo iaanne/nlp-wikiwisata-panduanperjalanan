@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aarhus",
+  "fetched_at": "2026-11-22T07:35:32.780547+00:00",
+  "title": "Aarhus",
+  "page_id": 4339,
+  "revision_id": "36999",
+  "revision_timestamp": "2026-09-06T08:52:22Z",
+  "sha256": "9922f1aa1abd3e5a3bc8b96c69eacaa95bf4318451801679e2b85686e204ba30",
+  "license": "CC BY-SA 4.0",
+  "city": "Aarhus",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4339,
+          "ns": 0,
+          "title": "Aarhus",
+          "revisions": [
+            {
+              "revid": 36999,
+              "parentid": 36977,
+              "timestamp": "2026-09-06T08:52:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[[Aarhus]]''' merupakan kota pelabuhan utama dan pusat [[keuskupan]] wilayahnya di [[Denmark|Denmark.]] \n\n== Pahami ==\n'''Aarhus''' adalah kota terbesar kedua di '''Denmark''', dan merupakan ibu kota ''amt'' (provinsi) Aarhus. Kotamadya Århus mempunyai 296.170 penduduk (2007), di mana 228.217 (2007) di antaranya tinggal di bagian kota. Salah satu atraksi wisata di Århus adalah Kota Tua, yang sebenarnya bukan merupakan bagian yang tua dari kota tersebut, tetapi merupakan sekumpulan bangunan dari sejarah Denmark yang dikumpulkan dari seluruh negeri. Pusat pemerintahan di kota ini berada di Balai Kota Aarhus.\n\n== Menuju ke sini ==\n=== Dengan Pesawat ===\n* {{go\n| name=Billund Airport | alt= | url=https://www.bll.dk/en | email=\n| address=Passagerterminalen 10, 7190 Billund, Denmark | lat=55.746263 | long=9.148073 | directions=\n| phone=+45 76 50 50 50 | tollfree=\n| hours=24 Jam | price=\n| wikipedia=Bandar Udara Billund | image=BILLUND INTL.AIRPORT - panoramio.jpg | wikidata=Q598121\n| lastedit=2026-09-06\n| content=Transportasi udara dilayani oleh Aarhus Airport yang berada di Djursland (sekitar 40 km arah timur laut) serta Billund Airport yang berjarak sekitar 95 km ke arah barat daya. Terdapat pula layanan pesawat amfibi (seaplane) yang melayani rute harian langsung dari pelabuhan Aarhus ke pelabuhan Kopenhagen.\n}}\n\n=== Dengan Kereta Api ===\n* {{go\n| name=Aarhus Central Station | alt= | url=https://www.visitaarhus.com/aarhus-region/plan-your-trip/aarhus-central-station-gdk603981 | email=\n| address=Banegårdspladsen 1, 8000 Aarhus, Denmark | lat= | long= | directions=\n| phone= | tollfree=\n| hours=24 Jam | price=\n| image=Stasiun Pusat Aarhus pada malam hari tahun 2018.jpg | wikidata=Q2601548\n| lastedit=2026-09-06\n| content=Menjadi stasiun kereta api utama yang melayani rute domestik di seluruh Denmark melalui operator DSB, serta menyediakan rute internasional langsung menuju Flensburg dan Hamburg di Jerman.\n}}\n\n== Berkeliling ==\nPusat kota Aarhus relatif padat dan ramah bagi pejalan kaki maupun pesepeda. Sistem angkutan umum kota dikelola secara terpadu melalui operator Midttrafik, sehingga tiket bus dan trem ringan saling terintegrasi.\n\n=== Dengan Sepeda ===\n* {{go\n| name=Aarhus Cyklebane | alt= | url=https://www.aarhuscyklebane.dk/ | email=\n| address=Jyllands Allé 79, 8000 Aarhus, Denmark | lat=56.134800 | long=10.190203 | directions=\n| phone=+4530621248 | tollfree=\n| hours=24 Jam | price=\n| image=Aarhus Cykelbane.jpg | wikidata=Q12300321\n| lastedit=2026-09-06\n| content=stadion balap sepeda luar ruangan (velodrome) bersejarah yang terletak di Marselisborgkvarteret, Aarhus, Denmark.\n}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[[Aarhus]]''' merupakan kota pelabuhan utama dan pusat [[keuskupan]] wilayahnya di [[Denmark|Denmark.]] \n\n== Pahami ==\n'''Aarhus''' adalah kota terbesar kedua di '''Denmark''', dan merupakan ibu kota ''amt'' (provinsi) Aarhus. Kotamadya Århus mempunyai 296.170 penduduk (2007), di mana 228.217 (2007) di antaranya tinggal di bagian kota. Salah satu atraksi wisata di Århus adalah Kota Tua, yang sebenarnya bukan merupakan bagian yang tua dari kota tersebut, tetapi merupakan sekumpulan bangunan dari sejarah Denmark yang dikumpulkan dari seluruh negeri. Pusat pemerintahan di kota ini berada di Balai Kota Aarhus.\n\n== Menuju ke sini ==\n=== Dengan Pesawat ===\n* {{go\n| name=Billund Airport | alt= | url=https://www.bll.dk/en | email=\n| address=Passagerterminalen 10, 7190 Billund, Denmark | lat=55.746263 | long=9.148073 | directions=\n| phone=+45 76 50 50 50 | tollfree=\n| hours=24 Jam | price=\n| wikipedia=Bandar Udara Billund | image=BILLUND INTL.AIRPORT - panoramio.jpg | wikidata=Q598121\n| lastedit=2026-09-06\n| content=Transportasi udara dilayani oleh Aarhus Airport yang berada di Djursland (sekitar 40 km arah timur laut) serta Billund Airport yang berjarak sekitar 95 km ke arah barat daya. Terdapat pula layanan pesawat amfibi (seaplane) yang melayani rute harian langsung dari pelabuhan Aarhus ke pelabuhan Kopenhagen.\n}}\n\n=== Dengan Kereta Api ===\n* {{go\n| name=Aarhus Central Station | alt= | url=https://www.visitaarhus.com/aarhus-region/plan-your-trip/aarhus-central-station-gdk603981 | email=\n| address=Banegårdspladsen 1, 8000 Aarhus, Denmark | lat= | long= | directions=\n| phone= | tollfree=\n| hours=24 Jam | price=\n| image=Stasiun Pusat Aarhus pada malam hari tahun 2018.jpg | wikidata=Q2601548\n| lastedit=2026-09-06\n| content=Menjadi stasiun kereta api utama yang melayani rute domestik di seluruh Denmark melalui operator DSB, serta menyediakan rute internasional langsung menuju Flensburg dan Hamburg di Jerman.\n}}\n\n== Berkeliling ==\nPusat kota Aarhus relatif padat dan ramah bagi pejalan kaki maupun pesepeda. Sistem angkutan umum kota dikelola secara terpadu melalui operator Midttrafik, sehingga tiket bus dan trem ringan saling terintegrasi.\n\n=== Dengan Sepeda ===\n* {{go\n| name=Aarhus Cyklebane | alt= | url=https://www.aarhuscyklebane.dk/ | email=\n| address=Jyllands Allé 79, 8000 Aarhus, Denmark | lat=56.134800 | long=10.190203 | directions=\n| phone=+4530621248 | tollfree=\n| hours=24 Jam | price=\n| image=Aarhus Cykelbane.jpg | wikidata=Q12300321\n| lastedit=2026-09-06\n| content=stadion balap sepeda luar ruangan (velodrome) bersejarah yang terletak di Marselisborgkvarteret, Aarhus, Denmark.\n}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Battambang",
+  "fetched_at": "2026-11-22T07:56:41.376666+00:00",
+  "title": "Battambang",
+  "page_id": 4232,
+  "revision_id": "35860",
+  "revision_timestamp": "2026-08-14T15:20:38Z",
+  "sha256": "79789ba84e0599dabbf1ad7ae1605eef1792034068eadb2a8cf4cb5b0262b720",
+  "license": "CC BY-SA 4.0",
+  "city": "Battambang",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4232,
+          "ns": 0,
+          "title": "Battambang",
+          "revisions": [
+            {
+              "revid": 35860,
+              "parentid": 0,
+              "timestamp": "2026-08-14T15:20:38Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "(Khmer: ក្រុងបាត់ដំបង), dengan sekitar 119.000 penduduk (2019), adalah kota terpadat kedua di Kamboja , dan tujuan wisata populer karena kuil-kuil kuno di dekatnya, sirkus, dan kereta api bambu. Kota ini merupakan ibu kota Provinsi Battambang (populasi 987.000 jiwa pada tahun 2019)"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "(Khmer: ក្រុងបាត់ដំបង), dengan sekitar 119.000 penduduk (2019), adalah kota terpadat kedua di Kamboja , dan tujuan wisata populer karena kuil-kuil kuno di dekatnya, sirkus, dan kereta api bambu. Kota ini merupakan ibu kota Provinsi Battambang (populasi 987.000 jiwa pada tahun 2019)"
+}

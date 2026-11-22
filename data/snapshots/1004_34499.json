@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Area+Metropolitan+Semarang",
+  "fetched_at": "2026-11-22T07:46:40.558913+00:00",
+  "title": "Area Metropolitan Semarang",
+  "page_id": 1004,
+  "revision_id": "34499",
+  "revision_timestamp": "2026-07-29T14:32:31Z",
+  "sha256": "1a3f5833be87f104869171a5cba0c3cda8721c677582f5e170fe4e23f08141a3",
+  "license": "CC BY-SA 4.0",
+  "city": "Area Metropolitan Semarang",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1004,
+          "ns": 0,
+          "title": "Area Metropolitan Semarang",
+          "revisions": [
+            {
+              "revid": 34499,
+              "parentid": 34498,
+              "timestamp": "2026-07-29T14:32:31Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Semarang Metropolitan Area banner.jpg}}\n\n'''Area Metropolitan Semarang''' ([[Buku frase Belanda|Belanda]]: ''Residentie Semarang'') adalah sebuah wilayah di [[Jawa Tengah]] di [[Indonesia]]. Yang dikenal secara lokal sebagai '''Kedungsepur''' (singkatan dari Kendal-Demak-Ungaran-Salatiga-Semarang-Purwodadi).\n==Kota-kota==\n{{mapframe}}\n{{mapshape|wikidata=Q11025,Q10687,Q10613,Q10614,Q10618}}\n===Kota besar===\n* {{Marker|type=city|name=[[Semarang]]|wikidata=Q11025}} — ibu kota provinsi Jawa Tengah, ada sebuah pelabuhan kuno warisan kolonial yang masih terpelihara\n* {{Marker|type=city|name=[[Salatiga]]|wikidata=Q11021}} — kota di kaki [[Taman Nasional Gunung Merbabu|Gunung Merbabu]]\n\n===Kota kecil===\n* {{Marker|type=city|name=[[Demak]]|wikidata=Q3874044}} — dulunya pusat Kesultanan Demak\n* {{Marker|type=city|name=[[Kendal (Indonesia)|Kendal]]|wikidata=Q10618}} — sebuah kabupaten dengan berbagai tempat wisata alam dataran rendah dan dataran tinggi\n* {{Marker|type=city|name=[[Purwodadi]]|wikidata=Q2456021}}  — ibu kota Kabupaten [[Grobogan]]\n* {{Marker|type=city|name=[[Ungaran]]|wikidata=Q3183016}} — ibu kota Kabupaten Semarang\n\n==Destinasi lainnya==\n* {{Marker|name=[[Ambarawa]]|wikidata=Q2747287}} — sebuah kota bersejarah dengan sisa-sisa lokomotif uap tua\n* {{marker|name=[[Gunung Ungaran]]|wikidata=Q2746639}}\n* {{marker|name=[[Taman Nasional Gunung Merbabu|Gunung Merbabu]]|wikidata=Q598893}}\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Jepara-Rembang]]\n* [[Surakarta]]\n* [[Pekalongan]]\n\n{{IsPartOf|Jawa Tengah}}\n{{outlineregion}}\n{{geo||}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Semarang Metropolitan Area banner.jpg}}\n\n'''Area Metropolitan Semarang''' ([[Buku frase Belanda|Belanda]]: ''Residentie Semarang'') adalah sebuah wilayah di [[Jawa Tengah]] di [[Indonesia]]. Yang dikenal secara lokal sebagai '''Kedungsepur''' (singkatan dari Kendal-Demak-Ungaran-Salatiga-Semarang-Purwodadi).\n==Kota-kota==\n{{mapframe}}\n{{mapshape|wikidata=Q11025,Q10687,Q10613,Q10614,Q10618}}\n===Kota besar===\n* {{Marker|type=city|name=[[Semarang]]|wikidata=Q11025}} — ibu kota provinsi Jawa Tengah, ada sebuah pelabuhan kuno warisan kolonial yang masih terpelihara\n* {{Marker|type=city|name=[[Salatiga]]|wikidata=Q11021}} — kota di kaki [[Taman Nasional Gunung Merbabu|Gunung Merbabu]]\n\n===Kota kecil===\n* {{Marker|type=city|name=[[Demak]]|wikidata=Q3874044}} — dulunya pusat Kesultanan Demak\n* {{Marker|type=city|name=[[Kendal (Indonesia)|Kendal]]|wikidata=Q10618}} — sebuah kabupaten dengan berbagai tempat wisata alam dataran rendah dan dataran tinggi\n* {{Marker|type=city|name=[[Purwodadi]]|wikidata=Q2456021}}  — ibu kota Kabupaten [[Grobogan]]\n* {{Marker|type=city|name=[[Ungaran]]|wikidata=Q3183016}} — ibu kota Kabupaten Semarang\n\n==Destinasi lainnya==\n* {{Marker|name=[[Ambarawa]]|wikidata=Q2747287}} — sebuah kota bersejarah dengan sisa-sisa lokomotif uap tua\n* {{marker|name=[[Gunung Ungaran]]|wikidata=Q2746639}}\n* {{marker|name=[[Taman Nasional Gunung Merbabu|Gunung Merbabu]]|wikidata=Q598893}}\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Jepara-Rembang]]\n* [[Surakarta]]\n* [[Pekalongan]]\n\n{{IsPartOf|Jawa Tengah}}\n{{outlineregion}}\n{{geo||}}"
+}

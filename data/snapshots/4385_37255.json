@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afghanistan+Selatan",
+  "fetched_at": "2026-11-22T07:38:40.894540+00:00",
+  "title": "Afghanistan Selatan",
+  "page_id": 4385,
+  "revision_id": "37255",
+  "revision_timestamp": "2026-09-09T15:53:22Z",
+  "sha256": "1c641b1f20f040fb19a50677d711b8fff445ae3774424c09127826e2fb3ad4a3",
+  "license": "CC BY-SA 4.0",
+  "city": "Afghanistan Selatan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4385,
+          "ns": 0,
+          "title": "Afghanistan Selatan",
+          "revisions": [
+            {
+              "revid": 37255,
+              "parentid": 0,
+              "timestamp": "2026-09-09T15:53:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Bagian ini mencakup wilayah selatan Afghanistan . Wilayah ini meliputi Provinsi Farah, Helmand, Kandahar, Nimruz, Uruzgan, dan Zabul."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Bagian ini mencakup wilayah selatan Afghanistan . Wilayah ini meliputi Provinsi Farah, Helmand, Kandahar, Nimruz, Uruzgan, dan Zabul."
+}

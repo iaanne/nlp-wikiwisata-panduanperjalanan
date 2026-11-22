@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batu+Pahat",
+  "fetched_at": "2026-11-22T07:56:44.369279+00:00",
+  "title": "Batu Pahat",
+  "page_id": 4212,
+  "revision_id": "35317",
+  "revision_timestamp": "2026-08-07T16:22:10Z",
+  "sha256": "9b2d346fc3c24d72156a9ad85d4f5ba1e2a19243537f8c6ca6dfa512cbb6db5b",
+  "license": "CC BY-SA 4.0",
+  "city": "Batu Pahat",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4212,
+          "ns": 0,
+          "title": "Batu Pahat",
+          "revisions": [
+            {
+              "revid": 35317,
+              "parentid": 35316,
+              "timestamp": "2026-08-07T16:22:10Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Batu Pahat''' adalah sebuah kota di Malaysia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Batu Pahat''' adalah sebuah kota di Malaysia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

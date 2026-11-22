@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Benteng+Moraya",
+  "fetched_at": "2026-11-22T07:59:43.445788+00:00",
+  "title": "Benteng Moraya",
+  "page_id": 4469,
+  "revision_id": "38620",
+  "revision_timestamp": "2026-10-17T23:10:10Z",
+  "sha256": "83d1be64f697b02dc90f9ac44dc37bb5136fcfd08637cf1b7495f40bb9b6e134",
+  "license": "CC BY-SA 4.0",
+  "city": "Benteng Moraya",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4469,
+          "ns": 0,
+          "title": "Benteng Moraya",
+          "revisions": [
+            {
+              "revid": 38620,
+              "parentid": 38587,
+              "timestamp": "2026-10-17T23:10:10Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{hapus|tak layak}}\n\n{{vfd}}\n\n[[Berkas:Ukuran Benteng Moraya.jpg|jmpl]]\n'''Benteng Moraya''' adalah salah satu objek pariwisata yang terletak di Wilayah Kabupaten Minahasa lebih tepatnya pada '''Kota Tondano''', Kelurahan Roong, Kecamatan Tondano barat. Objek wisata ini dibangun oleh pemerintah sebagai sebuah monumen untuk menjadi Objek Pariwisata yang bertujuan sebagai salah satu aspek untuk menopang kenaikan pendapatan daerah lewat pajak dan nilai investasi di Tondano.\n\n== Sejarah ==\nSejarah dari Benteng ini sebenarnya masih menyimpan banyak sekali misteri seperti peperangan antar suku, maupun antar sekutu dalam usaha memperjuangkan wilayah. Benteng Moraya ini awalnya merupakan tempat berlindung atau bertahan dari serangan musuh, dimana dalam bahasa Tondano yaitu \"Dimana mana terdapat genangan darah\". Pemberian nama ini dimaksudkan untuk memberikan sebuah gambaran besar mengenai bagaimana kondisi peperangan pada saat itu."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{hapus|tak layak}}\n\n{{vfd}}\n\n[[Berkas:Ukuran Benteng Moraya.jpg|jmpl]]\n'''Benteng Moraya''' adalah salah satu objek pariwisata yang terletak di Wilayah Kabupaten Minahasa lebih tepatnya pada '''Kota Tondano''', Kelurahan Roong, Kecamatan Tondano barat. Objek wisata ini dibangun oleh pemerintah sebagai sebuah monumen untuk menjadi Objek Pariwisata yang bertujuan sebagai salah satu aspek untuk menopang kenaikan pendapatan daerah lewat pajak dan nilai investasi di Tondano.\n\n== Sejarah ==\nSejarah dari Benteng ini sebenarnya masih menyimpan banyak sekali misteri seperti peperangan antar suku, maupun antar sekutu dalam usaha memperjuangkan wilayah. Benteng Moraya ini awalnya merupakan tempat berlindung atau bertahan dari serangan musuh, dimana dalam bahasa Tondano yaitu \"Dimana mana terdapat genangan darah\". Pemberian nama ini dimaksudkan untuk memberikan sebuah gambaran besar mengenai bagaimana kondisi peperangan pada saat itu."
+}

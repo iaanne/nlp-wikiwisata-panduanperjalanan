@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangkok",
+  "fetched_at": "2026-11-22T07:53:41.021337+00:00",
+  "title": "Bangkok",
+  "page_id": 1079,
+  "revision_id": "35948",
+  "revision_timestamp": "2026-08-16T17:13:59Z",
+  "sha256": "65f556229ed083786d509fefcdd669d8a57a6b452416ec3e78f6055bf82990a8",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangkok",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1079,
+          "ns": 0,
+          "title": "Bangkok",
+          "revisions": [
+            {
+              "revid": 35948,
+              "parentid": 34851,
+              "timestamp": "2026-08-16T17:13:59Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Templo Wat Arun, Bangkok, Tailandia, 2013-08-22, DD 30-crop.jpg|dotm=yes|origin=0,0}}\n{{PrintDistricts}}\n'''[https://www.tourismthailand.org/About-Thailand/Destination/Bangkok Bangkok]''' ([[Buku percakapan Thai|Thai]]: กรุงเทพฯ ''Krung Thep'') adalah ibu kota [[Thailand]] dan, dengan populasi lebih dari sebelas juta jiwa, sejauh ini adalah kota terbesarnya. Bangunan bertingkat tinggi, kemacetan lalu lintas yang padat, suhu udara yang tinggi dan kehidupan malam yang nakal tidak dengan segera memberikan sambutan yang hangat kepada anda - tapi jangan biarkan kesan pertama Anda ini menjadi menyesatkan. Ini adalah salah satu kota yang paling kosmopolitan di Asia dengan kuil megah dan istana, kanal yang otentik, pasar sibuk dan kehidupan malam yang semarak yang memiliki sesuatu untuk semua orang.\n\nSelama bertahun-tahun, kota ini hanya sebuah pos perdagangan kecil di tepi Sungai Chao Phraya, sampai Raja Rama I, raja pertama dari dinasti Chakri ini, mengubahnya menjadi ibukota Siam pada tahun 1782, setelah pembakaran Ayutthaya oleh penjajah Burma. Sejak itu, Bangkok telah berubah menjadi rumah bagi harta nasional dan berfungsi sebagai pusat spiritual, budaya, politik, komersial, pendidikan dan diplomatik nasional Thailand.\n\n== Pahami ==\nBangkok adalah ibu kota Thailand dan merupakan pusat pemerintahan, ekonomi, bisnis, pendidikan, serta pariwisata negara tersebut. Kota ini berada di kawasan tengah Thailand dan dilalui Sungai Chao Phraya. Bangkok terkenal dengan perpaduan budaya tradisional dan kehidupan kota modern, serta memiliki tempat terkenal seperti Grand Palace, Wat Arun, Wat Pho, dan Chatuchak Market. Kota ini juga dikenal dengan kuliner khas Thailand seperti tom yum, pad thai, mango sticky rice, dan green curry, serta menjadi salah satu tujuan wisata utama di Asia Tenggara.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n•pad thai\n\n•Tom yung goong\n\n•guay teow rhua\n\n•Som tam\n\n==Minum==\n•choco yen\n\n•Thai thea\n\n•Thai coconut shake\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Phuket]]\n* [[Chiang Mai]]\n\n\n{{Stub}}\n{{IsPartOf|Cekungan Chao Phraya}}\n{{Geo|13.752222|100.493889|zoom=12}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Templo Wat Arun, Bangkok, Tailandia, 2013-08-22, DD 30-crop.jpg|dotm=yes|origin=0,0}}\n{{PrintDistricts}}\n'''[https://www.tourismthailand.org/About-Thailand/Destination/Bangkok Bangkok]''' ([[Buku percakapan Thai|Thai]]: กรุงเทพฯ ''Krung Thep'') adalah ibu kota [[Thailand]] dan, dengan populasi lebih dari sebelas juta jiwa, sejauh ini adalah kota terbesarnya. Bangunan bertingkat tinggi, kemacetan lalu lintas yang padat, suhu udara yang tinggi dan kehidupan malam yang nakal tidak dengan segera memberikan sambutan yang hangat kepada anda - tapi jangan biarkan kesan pertama Anda ini menjadi menyesatkan. Ini adalah salah satu kota yang paling kosmopolitan di Asia dengan kuil megah dan istana, kanal yang otentik, pasar sibuk dan kehidupan malam yang semarak yang memiliki sesuatu untuk semua orang.\n\nSelama bertahun-tahun, kota ini hanya sebuah pos perdagangan kecil di tepi Sungai Chao Phraya, sampai Raja Rama I, raja pertama dari dinasti Chakri ini, mengubahnya menjadi ibukota Siam pada tahun 1782, setelah pembakaran Ayutthaya oleh penjajah Burma. Sejak itu, Bangkok telah berubah menjadi rumah bagi harta nasional dan berfungsi sebagai pusat spiritual, budaya, politik, komersial, pendidikan dan diplomatik nasional Thailand.\n\n== Pahami ==\nBangkok adalah ibu kota Thailand dan merupakan pusat pemerintahan, ekonomi, bisnis, pendidikan, serta pariwisata negara tersebut. Kota ini berada di kawasan tengah Thailand dan dilalui Sungai Chao Phraya. Bangkok terkenal dengan perpaduan budaya tradisional dan kehidupan kota modern, serta memiliki tempat terkenal seperti Grand Palace, Wat Arun, Wat Pho, dan Chatuchak Market. Kota ini juga dikenal dengan kuliner khas Thailand seperti tom yum, pad thai, mango sticky rice, dan green curry, serta menjadi salah satu tujuan wisata utama di Asia Tenggara.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n•pad thai\n\n•Tom yung goong\n\n•guay teow rhua\n\n•Som tam\n\n==Minum==\n•choco yen\n\n•Thai thea\n\n•Thai coconut shake\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Phuket]]\n* [[Chiang Mai]]\n\n\n{{Stub}}\n{{IsPartOf|Cekungan Chao Phraya}}\n{{Geo|13.752222|100.493889|zoom=12}}"
+}

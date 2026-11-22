@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Al+Khor",
+  "fetched_at": "2026-11-22T07:40:41.314305+00:00",
+  "title": "Al Khor",
+  "page_id": 950,
+  "revision_id": "34316",
+  "revision_timestamp": "2026-07-28T06:56:55Z",
+  "sha256": "80530e42b95b54e35c93007b2e661db552d5d5ac56d12e20c46378be03aaf6b6",
+  "license": "CC BY-SA 4.0",
+  "city": "Al Khor",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 950,
+          "ns": 0,
+          "title": "Al Khor",
+          "revisions": [
+            {
+              "revid": 34316,
+              "parentid": 34315,
+              "timestamp": "2026-07-28T06:56:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Al-Khor''' (dieja secara alternatif: Al Khawr) adalah sebuah kota di [[Qatar]]. Kota ini jauh lebih tua dari [[Doha]], tetapi jauh lebih kecil (populasinya kira-kira 31.000). Dulunya merupakan pusat industri perdagangan mutiara yang kini sudah tidak ada lagi, sehingga kini kota ini mengalami renovasi.\n\n== Pahami ==\n\n==Menuju ke sini==\nAl-Khor berjarak sekitar 50 kilometer di sebelah utara Doha, jadi dapat dicapai baik melalui Jalan Utara ke Al-Ruweis, atau melalui Jalan Pantai yang melewati jalur balap yang menjadi tuan rumah balapan Moto GP Doha.\n\n==Berkeliling==\n\n==Lihat==\nDekat Corniche ada museum (tidak selalu terbuka) dan pelabuhan yang berisi banyak kapal nelayan.\n\nAtraksi utama lainnya dari Al-Khor adalah banyaknya menara pengawas, yang akan Anda lihat di dekat Corniche dan juga di jalan masuk jika Anda mengambil Jalan Utara. Suasananya santai bila dibandingkan dengan lalu lintas Doha.\n\n==Lakukan==\nAl-Khor adalah kota yang menyenangkan dan tenang meskipun '''Corniche'''-nya tidak sebanding dengan keindahan Doha. Banyak tempat yang cukup bagus untuk bersantai dan berjemur, atau bermain voli pantai atau kriket jika Anda ingin menjadi sedikit lebih aktif. Ada banyak tempat teduh untuk duduk di dekat pasir, tetapi Anda tidak bisa berenang di teluk di sini karena airnya terlalu dangkal, seperti kebanyakan daerah lainnya di Qatar.\n\n==Beli==\nMall Al Khor, mal pertama dan satu-satunya yang dibuka di Al Khor memiliki lebih dari 100 unit ritel yang meliputi fesyen, F&B, supermarket, emas & perhiasan, elektronik, mainan, kedai kopi, dan lain-lain.\n\n==Makan==\nAda beberapa tempat makan di Al-Khor. Kafetaria di dekat pelabuhan menawarkan burger yang enak dan minuman ringan dengan QR3 yang sangat murah.\n.\n==Minum==\nTerdapat banyak restoran dan kedai kopi. Ada banyak kafetaria yang terkenal dengan Teh Karak dan berbagai tiruannya.\n\n==Tidur==\n* {{Sleep|name=Al Sultan Beach Resort|alt=|address=|directions=|phone=|url=|hours=|price=|lat=|long=|content=Ini adalah hotel bintang 5 yang indah dekat pantai yang menawarkan shisha yang enak. Kamarnya juga apik.}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n==Hormati==\nPakaian yang sedikit konservatif/tertutup disarankan di Al Khor.\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Qatar}}\n{{Outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Al-Khor''' (dieja secara alternatif: Al Khawr) adalah sebuah kota di [[Qatar]]. Kota ini jauh lebih tua dari [[Doha]], tetapi jauh lebih kecil (populasinya kira-kira 31.000). Dulunya merupakan pusat industri perdagangan mutiara yang kini sudah tidak ada lagi, sehingga kini kota ini mengalami renovasi.\n\n== Pahami ==\n\n==Menuju ke sini==\nAl-Khor berjarak sekitar 50 kilometer di sebelah utara Doha, jadi dapat dicapai baik melalui Jalan Utara ke Al-Ruweis, atau melalui Jalan Pantai yang melewati jalur balap yang menjadi tuan rumah balapan Moto GP Doha.\n\n==Berkeliling==\n\n==Lihat==\nDekat Corniche ada museum (tidak selalu terbuka) dan pelabuhan yang berisi banyak kapal nelayan.\n\nAtraksi utama lainnya dari Al-Khor adalah banyaknya menara pengawas, yang akan Anda lihat di dekat Corniche dan juga di jalan masuk jika Anda mengambil Jalan Utara. Suasananya santai bila dibandingkan dengan lalu lintas Doha.\n\n==Lakukan==\nAl-Khor adalah kota yang menyenangkan dan tenang meskipun '''Corniche'''-nya tidak sebanding dengan keindahan Doha. Banyak tempat yang cukup bagus untuk bersantai dan berjemur, atau bermain voli pantai atau kriket jika Anda ingin menjadi sedikit lebih aktif. Ada banyak tempat teduh untuk duduk di dekat pasir, tetapi Anda tidak bisa berenang di teluk di sini karena airnya terlalu dangkal, seperti kebanyakan daerah lainnya di Qatar.\n\n==Beli==\nMall Al Khor, mal pertama dan satu-satunya yang dibuka di Al Khor memiliki lebih dari 100 unit ritel yang meliputi fesyen, F&B, supermarket, emas & perhiasan, elektronik, mainan, kedai kopi, dan lain-lain.\n\n==Makan==\nAda beberapa tempat makan di Al-Khor. Kafetaria di dekat pelabuhan menawarkan burger yang enak dan minuman ringan dengan QR3 yang sangat murah.\n.\n==Minum==\nTerdapat banyak restoran dan kedai kopi. Ada banyak kafetaria yang terkenal dengan Teh Karak dan berbagai tiruannya.\n\n==Tidur==\n* {{Sleep|name=Al Sultan Beach Resort|alt=|address=|directions=|phone=|url=|hours=|price=|lat=|long=|content=Ini adalah hotel bintang 5 yang indah dekat pantai yang menawarkan shisha yang enak. Kamarnya juga apik.}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n==Hormati==\nPakaian yang sedikit konservatif/tertutup disarankan di Al Khor.\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Qatar}}\n{{Outlinecity}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Albania+Tenggara",
+  "fetched_at": "2026-11-22T07:40:45.421398+00:00",
+  "title": "Albania Tenggara",
+  "page_id": 954,
+  "revision_id": "34326",
+  "revision_timestamp": "2026-07-28T07:07:36Z",
+  "sha256": "ad15a3215cc027ff45656be92ca143c1781e6b0403f00fff27df13020a8653c9",
+  "license": "CC BY-SA 4.0",
+  "city": "Albania Tenggara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 954,
+          "ns": 0,
+          "title": "Albania Tenggara",
+          "revisions": [
+            {
+              "revid": 34326,
+              "parentid": 34325,
+              "timestamp": "2026-07-28T07:07:36Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Souteastern Albania banner.png}}\n'''Albania Tenggara''' adalah wilayah di [[Albania]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Kota ==\n* [[Berat]] — Dianggap sebagai salah satu kota tertua di Albania, itu adalah anggota baru dari daftar warisan dunia UNESCO. Berat telah lama dikenal sebagai \"kota 1001 jendela\" karena arsitektur Ottoman/Albanianya yang unik. Ini memiliki kastil yang terpelihara dengan baik dengan penduduk yang masih tinggal di dalam dinding pelindungnya. Di dekatnya terletak Osum Canyon yang terkenal di dunia.\n* [[Gjirokastër]] — kota UNESCO lainnya, terletak di selatan dikenal dengan arsitektur periode Ottoman yang unik. Ada sebuah kastil besar di atas bukit di tengah kota yang berfungsi sebagai penjara selama beberapa generasi. Sebuah Museum Militer dan Galeri Seni sekarang terletak di dalam. Gjirokastër juga merupakan tempat kelahiran mantan Pemimpin komunis, Enver Hoxha, serta penulis Albania yang paling terkenal secara internasional, Ismail Kadare, rumah mereka sekarang berfungsi sebagai museum.\n* [[Korçë]] — Terletak di tenggara Albania, beberapa mil dari perbatasan Yunani, kota ini adalah ibu kota budaya Albania. Penuh dengan kehidupan selama musim panas ketika Anda dapat menemukan pasangan dan keluarga berjalan-jalan di taman utama kota, Parku Rinia. Anda dapat mendaki ke puncak gunung Moravia yang indah dan melihat kota dan lanskap sekitarnya. Jangan lewatkan Pabrik Bir Korca (terkenal di seluruh Albania) yang mensponsori Festival Bir selama seminggu setiap bulan Agustus!\n* [[Librazhd]] — sebuah kota kecil yang terletak di timur Albania, bertengger di atas sungai Shkumbin.\n* [[Përmet]] — Dijuluki \"Kota Mawar,\" Përmet terletak di Lembah Sungai Vjosa, sekitar 30 kilometer dari perbatasan Yunani. Kota ini dikenal dengan lingkungan yang bersih dan tradisi pembuatan anggur dan raki. Permet Lama layak untuk dilihat.\n* [[Pogradec]] — Dibayangi oleh tetangganya yang mewah di sisi danau Makedonia, kota Pogradec telah mengalami kebangkitan.\n* [[Tepelene]]\n[[Berkas:Kurvelesh.jpg|thumb|200px|Sebuah gambar diambil dari udara sebuah kastil di Kurvelesh di Distrik Tepelene]]\n\n== Destinasi lainnya ==\n* [[Taman Nasional Shebenik-Jabllanice]]\n* [[Danau Prespa]]\n* [[Taman Nasional Tomorr]]\n* [[Air Terjun Sotira]]\n* [[Taman Nasioanal Fir of Hotova]]\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n\n{{Geo|40.7800|20.2200|zoom=8}}\n\n{{IsPartOf|Albania}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Souteastern Albania banner.png}}\n'''Albania Tenggara''' adalah wilayah di [[Albania]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Kota ==\n* [[Berat]] — Dianggap sebagai salah satu kota tertua di Albania, itu adalah anggota baru dari daftar warisan dunia UNESCO. Berat telah lama dikenal sebagai \"kota 1001 jendela\" karena arsitektur Ottoman/Albanianya yang unik. Ini memiliki kastil yang terpelihara dengan baik dengan penduduk yang masih tinggal di dalam dinding pelindungnya. Di dekatnya terletak Osum Canyon yang terkenal di dunia.\n* [[Gjirokastër]] — kota UNESCO lainnya, terletak di selatan dikenal dengan arsitektur periode Ottoman yang unik. Ada sebuah kastil besar di atas bukit di tengah kota yang berfungsi sebagai penjara selama beberapa generasi. Sebuah Museum Militer dan Galeri Seni sekarang terletak di dalam. Gjirokastër juga merupakan tempat kelahiran mantan Pemimpin komunis, Enver Hoxha, serta penulis Albania yang paling terkenal secara internasional, Ismail Kadare, rumah mereka sekarang berfungsi sebagai museum.\n* [[Korçë]] — Terletak di tenggara Albania, beberapa mil dari perbatasan Yunani, kota ini adalah ibu kota budaya Albania. Penuh dengan kehidupan selama musim panas ketika Anda dapat menemukan pasangan dan keluarga berjalan-jalan di taman utama kota, Parku Rinia. Anda dapat mendaki ke puncak gunung Moravia yang indah dan melihat kota dan lanskap sekitarnya. Jangan lewatkan Pabrik Bir Korca (terkenal di seluruh Albania) yang mensponsori Festival Bir selama seminggu setiap bulan Agustus!\n* [[Librazhd]] — sebuah kota kecil yang terletak di timur Albania, bertengger di atas sungai Shkumbin.\n* [[Përmet]] — Dijuluki \"Kota Mawar,\" Përmet terletak di Lembah Sungai Vjosa, sekitar 30 kilometer dari perbatasan Yunani. Kota ini dikenal dengan lingkungan yang bersih dan tradisi pembuatan anggur dan raki. Permet Lama layak untuk dilihat.\n* [[Pogradec]] — Dibayangi oleh tetangganya yang mewah di sisi danau Makedonia, kota Pogradec telah mengalami kebangkitan.\n* [[Tepelene]]\n[[Berkas:Kurvelesh.jpg|thumb|200px|Sebuah gambar diambil dari udara sebuah kastil di Kurvelesh di Distrik Tepelene]]\n\n== Destinasi lainnya ==\n* [[Taman Nasional Shebenik-Jabllanice]]\n* [[Danau Prespa]]\n* [[Taman Nasional Tomorr]]\n* [[Air Terjun Sotira]]\n* [[Taman Nasioanal Fir of Hotova]]\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n\n{{Geo|40.7800|20.2200|zoom=8}}\n\n{{IsPartOf|Albania}}"
+}

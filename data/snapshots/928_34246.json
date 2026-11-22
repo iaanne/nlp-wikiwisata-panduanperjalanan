@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Addis+Ababa",
+  "fetched_at": "2026-11-22T07:37:42.473495+00:00",
+  "title": "Addis Ababa",
+  "page_id": 928,
+  "revision_id": "34246",
+  "revision_timestamp": "2026-07-27T06:17:19Z",
+  "sha256": "75701de91e8b89faf31ad71c7cfa60f4856046f0178577172fda3fc0fdd9a84d",
+  "license": "CC BY-SA 4.0",
+  "city": "Addis Ababa",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 928,
+          "ns": 0,
+          "title": "Addis Ababa",
+          "revisions": [
+            {
+              "revid": 34246,
+              "parentid": 23345,
+              "timestamp": "2026-07-27T06:17:19Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Addis Ababa''' adalah ibukota dan kota terbesar dari negara [[Etiopia]]. Kota ini memiliki jumlah penduduk sebanyak 3.4 juta (2007).\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\n\n===Dengan bus===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n==Tetap sehat==\n'''Perhatikan apa yang Anda minum''' atau Anda bisa jatuh '''sakit'''. Ingatlah untuk hanya minum air dalam kemasan yang ada banyak merek untuk dipilih; '''selalu''' periksa segel plastik pada semua botol sebelum membayar di vendor mana pun. Jangan makan sayuran seperti salad yang mungkin telah dicuci dengan air. Cobalah makan buah dan sayuran yang Anda kupas/olah sendiri seperti jeruk, mangga, dll.\n\n'''Polusi'''. Addis Ababa sangat tercemar karena kendaraan diesel dan debu yang tidak diperhatikan dengan baik. Jika Anda memiliki alergi terhadap hal ini, ada baiknya mengenakan masker debu seperti yang populer di banyak negara Asia.\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n{{IsPartOf|Etiopia Tengah}}\n{{Stub}}\n{{Geo|9.01039|38.76140|zoom=15}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Addis Ababa''' adalah ibukota dan kota terbesar dari negara [[Etiopia]]. Kota ini memiliki jumlah penduduk sebanyak 3.4 juta (2007).\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\n\n===Dengan bus===\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n==Tetap sehat==\n'''Perhatikan apa yang Anda minum''' atau Anda bisa jatuh '''sakit'''. Ingatlah untuk hanya minum air dalam kemasan yang ada banyak merek untuk dipilih; '''selalu''' periksa segel plastik pada semua botol sebelum membayar di vendor mana pun. Jangan makan sayuran seperti salad yang mungkin telah dicuci dengan air. Cobalah makan buah dan sayuran yang Anda kupas/olah sendiri seperti jeruk, mangga, dll.\n\n'''Polusi'''. Addis Ababa sangat tercemar karena kendaraan diesel dan debu yang tidak diperhatikan dengan baik. Jika Anda memiliki alergi terhadap hal ini, ada baiknya mengenakan masker debu seperti yang populer di banyak negara Asia.\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n{{IsPartOf|Etiopia Tengah}}\n{{Stub}}\n{{Geo|9.01039|38.76140|zoom=15}}"
+}

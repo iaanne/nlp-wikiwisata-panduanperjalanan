@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Barabai",
+  "fetched_at": "2026-11-22T07:55:40.305006+00:00",
+  "title": "Barabai",
+  "page_id": 4261,
+  "revision_id": "36679",
+  "revision_timestamp": "2026-08-31T04:13:44Z",
+  "sha256": "1efac9c85785094bd7a6693a2882f6a4626dd5bf7dad131619d41b285db9a2a9",
+  "license": "CC BY-SA 4.0",
+  "city": "Barabai",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4261,
+          "ns": 0,
+          "title": "Barabai",
+          "revisions": [
+            {
+              "revid": 36679,
+              "parentid": 36239,
+              "timestamp": "2026-08-31T04:13:44Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n'''Barabai''' adalah sebuah kota di Kalimantan Selatan . Barabai merupakan ibu kota Kabupaten Hulu Sungai Tengah . Kota ini terletak di kaki Pegunungan Meratus yang membentang dalam busur utara-selatan di pulau Kalimantan\n\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Beli==\n\n==Tetap sehat==\n\n==Tetap aman==\n\n==Hormati=="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n'''Barabai''' adalah sebuah kota di Kalimantan Selatan . Barabai merupakan ibu kota Kabupaten Hulu Sungai Tengah . Kota ini terletak di kaki Pegunungan Meratus yang membentang dalam busur utara-selatan di pulau Kalimantan\n\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Beli==\n\n==Tetap sehat==\n\n==Tetap aman==\n\n==Hormati=="
+}

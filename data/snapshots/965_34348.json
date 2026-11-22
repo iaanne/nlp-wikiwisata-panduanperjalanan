@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aliceville+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:41:42.968117+00:00",
+  "title": "Aliceville (Alabama)",
+  "page_id": 965,
+  "revision_id": "34348",
+  "revision_timestamp": "2026-07-28T07:44:40Z",
+  "sha256": "d97be110bb04266e510ab3610852c352b1269b989769e42cb87eb68738af6866",
+  "license": "CC BY-SA 4.0",
+  "city": "Aliceville (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 965,
+          "ns": 0,
+          "title": "Aliceville (Alabama)",
+          "revisions": [
+            {
+              "revid": 34348,
+              "parentid": 23373,
+              "timestamp": "2026-07-28T07:44:40Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Aliceville''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n* Aliceville Museum\n\n== Lakukan ==\n== Beli ==\n== Makan ==\n* Angie’s Place\n* Subway\n* Jack's\n* Los Dos Amigos\n\n== Minum ==\n== Tidur ==\n* Voyager Inn\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Alexander City (Alabama)|Alexander City]]\n* [[Allgood (Alabama)|Allgood]]\n* [[Altoona (Alabama)|Altoona]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Aliceville''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n* Aliceville Museum\n\n== Lakukan ==\n== Beli ==\n== Makan ==\n* Angie’s Place\n* Subway\n* Jack's\n* Los Dos Amigos\n\n== Minum ==\n== Tidur ==\n* Voyager Inn\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Alexander City (Alabama)|Alexander City]]\n* [[Allgood (Alabama)|Allgood]]\n* [[Altoona (Alabama)|Altoona]]"
+}

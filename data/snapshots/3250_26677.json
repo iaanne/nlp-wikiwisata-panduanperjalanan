@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bongao",
+  "fetched_at": "2026-11-22T08:04:42.773594+00:00",
+  "title": "Bongao",
+  "page_id": 3250,
+  "revision_id": "26677",
+  "revision_timestamp": "2025-01-25T10:10:09Z",
+  "sha256": "579a62fe880a4376d2c0ad54b29048e9014975d5c56d54f6628b5a3a62fa2615",
+  "license": "CC BY-SA 4.0",
+  "city": "Bongao",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3250,
+          "ns": 0,
+          "title": "Bongao",
+          "revisions": [
+            {
+              "revid": 26677,
+              "parentid": 26676,
+              "timestamp": "2025-01-25T10:10:09Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg}}\n\n'''Bongao''' adalah ibu kota provinsi Tawi-Tawi di [[Kepulauan Sulu]], bagian dari daerah otonom [[Bangsamoro]].\n\n==Pahami==\n\n==Menuju ke sini==\n* {{go\n| name=Bandar Udara Sanga-Sanga | alt={{IATA|TWT}}, juga dikenal sebagai Bandara Tawi-Tawi | url= | email=\n| address= | lat=5.046944 | long=119.742778 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q1321647\n| lastedit=2019-08-26\n| content=Cebu Pacific, Cebgo dan Platinum Skies dari [[ZAM|Zamboanga]].\n}}\n\n==Berkeliling==\n\n==Lihat==\n* {{see\n| name=Gua Batu Bolobok | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2019-08-26\n| content=Situs arkeologi\n}}\n\n==Lakukan==\n* {{do\n| name=Gunung Bongao | alt=Bud Bongao | url= | email=\n| address= | lat=5.01865 | long=119.74774 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q42120391\n| lastedit=2019-08-26\n| content=Mendaki\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n\n{{IsPartOf|Bangsamoro}}\n{{outlinecity}}\n{{geo|5.046|119.798|zoom=13}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg}}\n\n'''Bongao''' adalah ibu kota provinsi Tawi-Tawi di [[Kepulauan Sulu]], bagian dari daerah otonom [[Bangsamoro]].\n\n==Pahami==\n\n==Menuju ke sini==\n* {{go\n| name=Bandar Udara Sanga-Sanga | alt={{IATA|TWT}}, juga dikenal sebagai Bandara Tawi-Tawi | url= | email=\n| address= | lat=5.046944 | long=119.742778 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q1321647\n| lastedit=2019-08-26\n| content=Cebu Pacific, Cebgo dan Platinum Skies dari [[ZAM|Zamboanga]].\n}}\n\n==Berkeliling==\n\n==Lihat==\n* {{see\n| name=Gua Batu Bolobok | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2019-08-26\n| content=Situs arkeologi\n}}\n\n==Lakukan==\n* {{do\n| name=Gunung Bongao | alt=Bud Bongao | url= | email=\n| address= | lat=5.01865 | long=119.74774 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q42120391\n| lastedit=2019-08-26\n| content=Mendaki\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n\n{{IsPartOf|Bangsamoro}}\n{{outlinecity}}\n{{geo|5.046|119.798|zoom=13}}"
+}

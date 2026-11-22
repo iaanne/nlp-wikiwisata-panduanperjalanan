@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Anderson",
+  "fetched_at": "2026-11-22T07:43:45.097991+00:00",
+  "title": "Anderson",
+  "page_id": 984,
+  "revision_id": "4524",
+  "revision_timestamp": "2024-12-03T22:54:27Z",
+  "sha256": "2408c84cfba3a0da6ff47ea3b77ca43abe2ef9e73bbe4802c55326fbbc975632",
+  "license": "CC BY-SA 4.0",
+  "city": "Anderson",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 984,
+          "ns": 0,
+          "title": "Anderson",
+          "revisions": [
+            {
+              "revid": 4524,
+              "parentid": 4523,
+              "timestamp": "2024-12-03T22:54:27Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda beberapa tempat yang disebut '''Anderson''', diantaranya:\n\n# [[Anderson (Missouri)]], sebuah kota di [[Missouri]]\n# [[Anderson (Indiana)]], sebuah kota di [[Indiana]]\n# [[Anderson (California)]], sebuah kota di [[California]]\n# [[Anderson (Carolina Selatan)]], sebuah kota dan kabupaten di [[Carolina Selatan]]\n# [[Anderson (Alabama)]], sebuah kota di [[Alabama]]\n{{Disamb}}\n\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda beberapa tempat yang disebut '''Anderson''', diantaranya:\n\n# [[Anderson (Missouri)]], sebuah kota di [[Missouri]]\n# [[Anderson (Indiana)]], sebuah kota di [[Indiana]]\n# [[Anderson (California)]], sebuah kota di [[California]]\n# [[Anderson (Carolina Selatan)]], sebuah kota dan kabupaten di [[Carolina Selatan]]\n# [[Anderson (Alabama)]], sebuah kota di [[Alabama]]\n{{Disamb}}\n\n"
+}

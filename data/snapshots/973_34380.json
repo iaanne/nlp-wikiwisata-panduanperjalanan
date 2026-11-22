@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amerika",
+  "fetched_at": "2026-11-22T07:42:44.697341+00:00",
+  "title": "Amerika",
+  "page_id": 973,
+  "revision_id": "34380",
+  "revision_timestamp": "2026-07-28T08:05:13Z",
+  "sha256": "b08c016a5c46c4c2d9dfd3580d1d477a6a0f20d6c3a1a23a4584869769dc8d1d",
+  "license": "CC BY-SA 4.0",
+  "city": "Amerika",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 973,
+          "ns": 0,
+          "title": "Amerika",
+          "revisions": [
+            {
+              "revid": 34380,
+              "parentid": 34379,
+              "timestamp": "2026-07-28T08:05:13Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Peru banner 2.jpg|index=yes}}\n'''Amerika''' adalah daratan yang terdiri dari dua benua, [[Amerika Utara]] dan [[Amerika Selatan]].\n\n[[Kanal Panama]] membelah daratan ini menjadi dua benua. Negara [[Panama]] sering dianggap sebagai bagian dari kedua benua sekaligus.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Extraregion}}\n\n{{IsPartOf|Destinas lainnya}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Peru banner 2.jpg|index=yes}}\n'''Amerika''' adalah daratan yang terdiri dari dua benua, [[Amerika Utara]] dan [[Amerika Selatan]].\n\n[[Kanal Panama]] membelah daratan ini menjadi dua benua. Negara [[Panama]] sering dianggap sebagai bagian dari kedua benua sekaligus.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Extraregion}}\n\n{{IsPartOf|Destinas lainnya}}"
+}

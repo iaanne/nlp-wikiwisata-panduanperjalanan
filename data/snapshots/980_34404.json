@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amsterdam",
+  "fetched_at": "2026-11-22T07:43:42.754527+00:00",
+  "title": "Amsterdam",
+  "page_id": 980,
+  "revision_id": "34404",
+  "revision_timestamp": "2026-07-29T07:29:25Z",
+  "sha256": "c1ffc05407c7149cde9a09fdc47eaa19064357edd6288a66c071d06579a76ea0",
+  "license": "CC BY-SA 4.0",
+  "city": "Amsterdam",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 980,
+          "ns": 0,
+          "title": "Amsterdam",
+          "revisions": [
+            {
+              "revid": 34404,
+              "parentid": 34403,
+              "timestamp": "2026-07-29T07:29:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Amsterdam Canal Banner.jpg|origin=0,0}}\n{{Otheruses}}\n{{PrintDistricts}}\n[[Berkas:KeizersgrachtReguliersgrachtAmsterdam.jpg|thumb|400px|Amsterdam di malam hari]]\n[http://www.iamsterdam.com/ '''Amsterdam'''] adalah ibukota negara [[Belanda]]. Dengan penduduk lebih dari satu juta orang, Amsterdam adalah kota terbesar dan merupakan pusat finansial dan budaya Belanda. Amsterdam juga mempunyai sebutan ''Venice of the North'' (''Venice di Utara'') karena kanal-kanalnya yang indah membelah kota, arsitektur kota yang sangat terpelihara dan jembatannya yang lebih dari 1.500 buah. \n==Pahami==\nAmsterdam bukanlah pusat pemerintahan Belanda, sebab ibukota pemerintahan berada di [[Den Haag]]. \n== Menuju ke sini ==\n=== Dengan pesawat ===\n{{Go\n| name=Bandar Udara Internasional Schiphol | alt={{IATA|AMS}} | url=http://www.schiphol.com | email=\n| address= | lat=52.3081 | long=4.764169 | directions=15km barat daya kota.\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Bandar Udara Internasional Schiphol | image=Ams-above-2007.jpg | wikidata=Q9694\n| content=Bandara ini termasuk lima bandara tersibuk di Eropa, melayani lebih dari 63 juta penumpang pada tahun 2016. [http://www.klm.com/ KLM] adalah maskapai penerbangan terbesar yang beroperasi di Schiphol dan menawarkan penerbangan ke banyak kota besar di seluruh dunia. [http://www.britishairways.com British Airways] menawarkan 15 penerbangan per hari ke 3 Bandara London; Heathrow, Gatwick dan Kota London. [http://www.transavia.com/ Transavia], [http://www.vueling.com/ Vueling], [https://www.tuifly.com TUIfly], [http://www.easyjet.com Easyjet], dan maskapai berbiaya rendah lainnya melayani Schiphol, menawarkan layanan ke banyak kota di [[Eropa]].}}\n\n==Lihat==\nBeberapa tempat yang wajib dikunjungi antara lain Rijksmuseum, Museum Van Gogh, Anne Frank House, Pasar Bunga, Pasar Albert Cuyp, dan Vondelpark.\n\n== Berkeliling ==\nDi Amsterdam, Anda dapat berkeliling ke beberapa tempat menarik, seperti:\n\n# '''Museumplein''' - Menampung Rijksmuseum, Van Gogh Museum, dan Stedelijk Museum.\n# '''Jordaan''' - Distrik yang penuh dengan kafe, toko, dan kanal yang indah.\n# '''Kanal Amsterdam''' - Menikmati tur perahu di kanal yang terkenal.\n# '''Anne Frank House''' - Mengunjungi rumah tempat Anne Frank bersembunyi.\n# '''Vondelpark''' - Taman besar yang sempurna untuk bersantai dan bersepeda.\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* Appeltaart (Kue)\n* Poffertjes (Panekuk mini)\n* Bitterballen (Bakso bergaya Belanda)\n==Minum==\n\n# Jenever\n# Koffie\n# Friesland Tea\n# Speciaalbier\n# Chocomeal\n\n==Tidur==\n\n# Hilton Amsterdam : berjarak 2,8 km dari pusat\n# Amsterdam Marriott Hotel : berjarak 1,5 km dari pusat\n# Hyatt Regency Amsterdam : berjarak 1,8 km dari pusat\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Lakukan ==\n\n# Bersepeda\n# Mengunjungi Museum\n# Mengunjungi pasar bunga\n# Tur kanal\n# Festival dan acara lokal\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Amstelland}}\n{{Geo|52.366667|4.9|zoom=12}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Amsterdam Canal Banner.jpg|origin=0,0}}\n{{Otheruses}}\n{{PrintDistricts}}\n[[Berkas:KeizersgrachtReguliersgrachtAmsterdam.jpg|thumb|400px|Amsterdam di malam hari]]\n[http://www.iamsterdam.com/ '''Amsterdam'''] adalah ibukota negara [[Belanda]]. Dengan penduduk lebih dari satu juta orang, Amsterdam adalah kota terbesar dan merupakan pusat finansial dan budaya Belanda. Amsterdam juga mempunyai sebutan ''Venice of the North'' (''Venice di Utara'') karena kanal-kanalnya yang indah membelah kota, arsitektur kota yang sangat terpelihara dan jembatannya yang lebih dari 1.500 buah. \n==Pahami==\nAmsterdam bukanlah pusat pemerintahan Belanda, sebab ibukota pemerintahan berada di [[Den Haag]]. \n== Menuju ke sini ==\n=== Dengan pesawat ===\n{{Go\n| name=Bandar Udara Internasional Schiphol | alt={{IATA|AMS}} | url=http://www.schiphol.com | email=\n| address= | lat=52.3081 | long=4.764169 | directions=15km barat daya kota.\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Bandar Udara Internasional Schiphol | image=Ams-above-2007.jpg | wikidata=Q9694\n| content=Bandara ini termasuk lima bandara tersibuk di Eropa, melayani lebih dari 63 juta penumpang pada tahun 2016. [http://www.klm.com/ KLM] adalah maskapai penerbangan terbesar yang beroperasi di Schiphol dan menawarkan penerbangan ke banyak kota besar di seluruh dunia. [http://www.britishairways.com British Airways] menawarkan 15 penerbangan per hari ke 3 Bandara London; Heathrow, Gatwick dan Kota London. [http://www.transavia.com/ Transavia], [http://www.vueling.com/ Vueling], [https://www.tuifly.com TUIfly], [http://www.easyjet.com Easyjet], dan maskapai berbiaya rendah lainnya melayani Schiphol, menawarkan layanan ke banyak kota di [[Eropa]].}}\n\n==Lihat==\nBeberapa tempat yang wajib dikunjungi antara lain Rijksmuseum, Museum Van Gogh, Anne Frank House, Pasar Bunga, Pasar Albert Cuyp, dan Vondelpark.\n\n== Berkeliling ==\nDi Amsterdam, Anda dapat berkeliling ke beberapa tempat menarik, seperti:\n\n# '''Museumplein''' - Menampung Rijksmuseum, Van Gogh Museum, dan Stedelijk Museum.\n# '''Jordaan''' - Distrik yang penuh dengan kafe, toko, dan kanal yang indah.\n# '''Kanal Amsterdam''' - Menikmati tur perahu di kanal yang terkenal.\n# '''Anne Frank House''' - Mengunjungi rumah tempat Anne Frank bersembunyi.\n# '''Vondelpark''' - Taman besar yang sempurna untuk bersantai dan bersepeda.\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* Appeltaart (Kue)\n* Poffertjes (Panekuk mini)\n* Bitterballen (Bakso bergaya Belanda)\n==Minum==\n\n# Jenever\n# Koffie\n# Friesland Tea\n# Speciaalbier\n# Chocomeal\n\n==Tidur==\n\n# Hilton Amsterdam : berjarak 2,8 km dari pusat\n# Amsterdam Marriott Hotel : berjarak 1,5 km dari pusat\n# Hyatt Regency Amsterdam : berjarak 1,8 km dari pusat\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Lakukan ==\n\n# Bersepeda\n# Mengunjungi Museum\n# Mengunjungi pasar bunga\n# Tur kanal\n# Festival dan acara lokal\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Amstelland}}\n{{Geo|52.366667|4.9|zoom=12}}"
+}

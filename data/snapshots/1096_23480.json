@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batavia",
+  "fetched_at": "2026-11-22T07:56:40.212727+00:00",
+  "title": "Batavia",
+  "page_id": 1096,
+  "revision_id": "23480",
+  "revision_timestamp": "2024-12-04T08:38:55Z",
+  "sha256": "de680b323b3e35a30c3dc7c3149113db0e23147a466e37db3e7fcf63ea0cf711",
+  "license": "CC BY-SA 4.0",
+  "city": "Batavia",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1096,
+          "ns": 0,
+          "title": "Batavia",
+          "revisions": [
+            {
+              "revid": 23480,
+              "parentid": 6098,
+              "timestamp": "2024-12-04T08:38:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat bernama '''Batavia''':\n\n===[[Amerika Serikat]]===\n\n* [[Batavia (New York)]] — sebuah kota di [[Niagara Frontier]].\n* [[Batavia (Ohio)]]\n\n===[[Indonesia]]===\n\n* [[Jakarta]] — ibu kota Indonesia, pernah bernama \"Batavia\" saat menjadi ibu kota Hindia Belanda.\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat bernama '''Batavia''':\n\n===[[Amerika Serikat]]===\n\n* [[Batavia (New York)]] — sebuah kota di [[Niagara Frontier]].\n* [[Batavia (Ohio)]]\n\n===[[Indonesia]]===\n\n* [[Jakarta]] — ibu kota Indonesia, pernah bernama \"Batavia\" saat menjadi ibu kota Hindia Belanda.\n{{Disamb}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Berdorf",
+  "fetched_at": "2026-11-22T08:00:42.005984+00:00",
+  "title": "Berdorf",
+  "page_id": 1132,
+  "revision_id": "32092",
+  "revision_timestamp": "2026-01-09T15:34:16Z",
+  "sha256": "58577b4aa521e0856a05a4d901784fd7e52bcf0d3bd15719a9a6bfa90eac094a",
+  "license": "CC BY-SA 4.0",
+  "city": "Berdorf",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1132,
+          "ns": 0,
+          "title": "Berdorf",
+          "revisions": [
+            {
+              "revid": 32092,
+              "parentid": 6611,
+              "timestamp": "2026-01-09T15:34:16Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Berdorf Wikivoyage Banner.jpg}}\n'''Berdorf''' adalah sebuah kota kecil di [[Luksemburg]].\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n==Tujuan berikutnya==\n{{Stub}}\n\n{{IsPartOf|Mullerthal}}\n{{outlinecity}}\n{{geo|49.820833| 6.348611}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Berdorf Wikivoyage Banner.jpg}}\n'''Berdorf''' adalah sebuah kota kecil di [[Luksemburg]].\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n==Tujuan berikutnya==\n{{Stub}}\n\n{{IsPartOf|Mullerthal}}\n{{outlinecity}}\n{{geo|49.820833| 6.348611}}"
+}

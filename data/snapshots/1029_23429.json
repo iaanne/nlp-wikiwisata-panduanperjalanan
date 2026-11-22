@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Australasia",
+  "fetched_at": "2026-11-22T07:48:44.536234+00:00",
+  "title": "Australasia",
+  "page_id": 1029,
+  "revision_id": "23429",
+  "revision_timestamp": "2024-12-04T08:36:58Z",
+  "sha256": "9be8ff9a33ea53ba1d023ce4774fde16dde9be34cd33df699873c9b6579de8ef",
+  "license": "CC BY-SA 4.0",
+  "city": "Australasia",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1029,
+          "ns": 0,
+          "title": "Australasia",
+          "revisions": [
+            {
+              "revid": 23429,
+              "parentid": 4977,
+              "timestamp": "2024-12-04T08:36:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Eastern Suburbs of Sydney Wikivoyage banner.jpg}}\n'''Australasia''' adalah pengelompokan bangsa dan pulau yang terdiri dari :\n[[Berkas:Ecozone Australasia.svg|thumb|300px|Peta Australasia]]\n* [[Australia]]\n* [[Melanesia]]\n* [[Papua]] atau Irian Jaya, Indonesia\n* [[Papua Nugini]]\n* [[Selandia Baru]]\n* Beberapa pulau timur [[Indonesia]] seperti Sulawesi atau Nusa Tenggara\n\n{{IsPartOf|Oseania}}\n{{Extraregion}}\n{{Geo|-30.0000|140.0000}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Eastern Suburbs of Sydney Wikivoyage banner.jpg}}\n'''Australasia''' adalah pengelompokan bangsa dan pulau yang terdiri dari :\n[[Berkas:Ecozone Australasia.svg|thumb|300px|Peta Australasia]]\n* [[Australia]]\n* [[Melanesia]]\n* [[Papua]] atau Irian Jaya, Indonesia\n* [[Papua Nugini]]\n* [[Selandia Baru]]\n* Beberapa pulau timur [[Indonesia]] seperti Sulawesi atau Nusa Tenggara\n\n{{IsPartOf|Oseania}}\n{{Extraregion}}\n{{Geo|-30.0000|140.0000}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Andalusia",
+  "fetched_at": "2026-11-22T07:43:43.957150+00:00",
+  "title": "Andalusia",
+  "page_id": 982,
+  "revision_id": "34419",
+  "revision_timestamp": "2026-07-29T13:26:50Z",
+  "sha256": "8fe439fa284348f973f9b4d5aa4c680b453f3faa3b110bbcbab700c01c1d6d62",
+  "license": "CC BY-SA 4.0",
+  "city": "Andalusia",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 982,
+          "ns": 0,
+          "title": "Andalusia",
+          "revisions": [
+            {
+              "revid": 34419,
+              "parentid": 34418,
+              "timestamp": "2026-07-29T13:26:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner | Andalusia banner Capileira.jpg|caption=A panoramic view of Capileira, Andalusia}}\n\n[[Berkas:GranadaAlhambraLions2.jpg|thumb|right|250px]]\n'''[http://www.andalucia.org/en/ Andalusia]''' (Spanyol: ''Andalucía'') adalah sebuah wilayah di selatan [[Spanyol]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n==Provinsi==\n\n[[Berkas:Andalucía por provincias.png|thumb|right|300px|Provinsi-provinsi di Andalusia, Spanyol]]\n\nAndalusia dibagi dalam delapan provinsi, masing-masing memiliki nama yang sama dengan nama ibukota provinsinya.\n\n* [[Almería (provinsi)|Almería]]\n* [[Cádiz (provinsi)|Cádiz]]\n* [[Kordoba (provinsi di Spanyol)|Córdoba]]\n* [[Granada (provinsi)|Granada]]\n* [[Huelva (provinsi)|Huelva]]\n* [[Jaén (provinsi di Spanyol)|Jaén]]\n* [[Málaga (provinsi)|Málaga]] - termasuk [[Costa del Sol]]\n* [[Sevilla (provinsi)|Sevilla]]\n\n==Kota==\n\n<!-- before changing this list, please use the Talk page. add new towns to the corresponding province pages-->\n\n* [[Sevilla]]\n* [[Almería]]\n* [[Cádiz]]\n* [[Kordoba, Spanyol|Kordoba]]\n* [[Granada]]\n* [[Huelva]]\n* [[Jaén (kota di Spanyol)|Jaén]]\n* [[Málaga]]\n* [[Marbella]]\n\n{{Geo|37.46|-4.16|zoom=8}}\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Spanyol}}\n\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner | Andalusia banner Capileira.jpg|caption=A panoramic view of Capileira, Andalusia}}\n\n[[Berkas:GranadaAlhambraLions2.jpg|thumb|right|250px]]\n'''[http://www.andalucia.org/en/ Andalusia]''' (Spanyol: ''Andalucía'') adalah sebuah wilayah di selatan [[Spanyol]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n==Provinsi==\n\n[[Berkas:Andalucía por provincias.png|thumb|right|300px|Provinsi-provinsi di Andalusia, Spanyol]]\n\nAndalusia dibagi dalam delapan provinsi, masing-masing memiliki nama yang sama dengan nama ibukota provinsinya.\n\n* [[Almería (provinsi)|Almería]]\n* [[Cádiz (provinsi)|Cádiz]]\n* [[Kordoba (provinsi di Spanyol)|Córdoba]]\n* [[Granada (provinsi)|Granada]]\n* [[Huelva (provinsi)|Huelva]]\n* [[Jaén (provinsi di Spanyol)|Jaén]]\n* [[Málaga (provinsi)|Málaga]] - termasuk [[Costa del Sol]]\n* [[Sevilla (provinsi)|Sevilla]]\n\n==Kota==\n\n<!-- before changing this list, please use the Talk page. add new towns to the corresponding province pages-->\n\n* [[Sevilla]]\n* [[Almería]]\n* [[Cádiz]]\n* [[Kordoba, Spanyol|Kordoba]]\n* [[Granada]]\n* [[Huelva]]\n* [[Jaén (kota di Spanyol)|Jaén]]\n* [[Málaga]]\n* [[Marbella]]\n\n{{Geo|37.46|-4.16|zoom=8}}\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Spanyol}}\n\n{{Outlineregion}}"
+}

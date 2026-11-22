@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beersheba",
+  "fetched_at": "2026-11-22T07:57:44.904517+00:00",
+  "title": "Beersheba",
+  "page_id": 1109,
+  "revision_id": "35245",
+  "revision_timestamp": "2026-08-06T04:18:36Z",
+  "sha256": "144230844e6096597849861be30ce10857c604279ac74b5d4122d7dc0f65e297",
+  "license": "CC BY-SA 4.0",
+  "city": "Beersheba",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1109,
+          "ns": 0,
+          "title": "Beersheba",
+          "revisions": [
+            {
+              "revid": 35245,
+              "parentid": 23489,
+              "timestamp": "2026-08-06T04:18:36Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Be'er Sheva''' (juga disebut '''Beersheba''', ''Ibrani'' באר שבע) adalah sebuah kota gurun dengan sekitar 200,000 penduduk di bagian selatan [[Israel]]. Kota ini adalah kota terbesar keenam di negara tersebut.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Be'er Sheva''' (juga disebut '''Beersheba''', ''Ibrani'' באר שבע) adalah sebuah kota gurun dengan sekitar 200,000 penduduk di bagian selatan [[Israel]]. Kota ini adalah kota terbesar keenam di negara tersebut.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{Stub}}"
+}

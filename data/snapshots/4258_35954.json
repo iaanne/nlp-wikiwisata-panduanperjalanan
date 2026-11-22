@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Basra",
+  "fetched_at": "2026-11-22T07:55:44.015884+00:00",
+  "title": "Basra",
+  "page_id": 4258,
+  "revision_id": "35954",
+  "revision_timestamp": "2026-08-19T04:05:50Z",
+  "sha256": "1a8ac6809c669d25b9b9ce626c8c9ddaa4aef2cb682fa84949d63c0f9225541a",
+  "license": "CC BY-SA 4.0",
+  "city": "Basra",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4258,
+          "ns": 0,
+          "title": "Basra",
+          "revisions": [
+            {
+              "revid": 35954,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:05:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Basra''' (bahasa Arab: البصرة ''Al Baṣrah'' ) adalah kota pelabuhan di Irak Selatan , dekat perbatasan dengan Kuwait dan Iran . Kota ini merupakan kota terbesar ketiga di Irak dengan populasi 2.150.000 jiwa (2017).\n\n== Pahami ==\nTerletak di sepanjang sungai '''Shatt al-Arab''' , yang terbentuk dari pertemuan sungai Efrat dan Tigris, banyak kanal dan anak sungai di kota ini pernah melahirkan julukan ''Venesia dari Timur'' . Ladang-ladang di sepanjang sungai sangat subur dengan pertanian sebagai sumber pendapatan utama bagi wilayah tersebut, wilayah ini dikenal memiliki hutan kurma terbesar di dunia. Basra adalah kota mayoritas Islam Syiah, dengan minoritas kecil Kristen, Asyur, dan Mandaean pra-Islam. Selain orang Arab, ada juga komunitas orang Afro-Irak, yang dikenal sebagai Zanj. Zanj adalah kelompok etnis Muslim Afrika, campuran orang-orang Afrika yang dibawa dari pantai wilayah Kenya modern sebagai budak selama periode Abad Pertengahan.\n\nDidirikan pada awal era Islam pada tahun 636, Basra menjadi pusat perdagangan dan budaya yang berkembang pesat sejak sekitar tahun 1200 M dan tetap demikian hingga saat ini. Ibn Battuta mengunjunginya pada tahun 1320-an dan tidak terlalu terkesan. Basra berada di bawah perlindungan kekaisaran Portugis dari tahun 1523 hingga direbut oleh Ottoman pada tahun 1668; kota ini tetap menjadi bagian dari Kekaisaran Ottoman hingga akhir Perang Dunia Pertama.\n\nBasra adalah kota besar terdekat dengan garis depan Perang Iran-Irak selama tahun 1980-an, dengan sebagian kota hancur akibat tembakan artileri. Beberapa tahun kemudian, pemberontakan terhadap kediktatoran Saddam Hussein dihancurkan secara brutal. Meskipun kota ini sebagian besar telah pulih secara fisik dari peristiwa-peristiwa tersebut, sebagian besar warisan budayanya telah hilang. Basra juga berada di garis depan perubahan iklim dengan suhu musim panas yang mendekati ekstrem yang tak tertahankan. Penggurusan dan salinisasi sungai menyebabkan masalah besar. Ditambah dengan puluhan tahun pengabaian dan keresahan sosial, Basra umumnya tidak dapat diakses oleh wisatawan. Sebagian besar orang asing yang berada di kota ini berada di sini karena fasilitas minyak dan gas alam di dekatnya. Namun, masih ada sedikit sisa kejayaan masa lalu yang dapat dijelajahi oleh para pelancong pemberani."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Basra''' (bahasa Arab: البصرة ''Al Baṣrah'' ) adalah kota pelabuhan di Irak Selatan , dekat perbatasan dengan Kuwait dan Iran . Kota ini merupakan kota terbesar ketiga di Irak dengan populasi 2.150.000 jiwa (2017).\n\n== Pahami ==\nTerletak di sepanjang sungai '''Shatt al-Arab''' , yang terbentuk dari pertemuan sungai Efrat dan Tigris, banyak kanal dan anak sungai di kota ini pernah melahirkan julukan ''Venesia dari Timur'' . Ladang-ladang di sepanjang sungai sangat subur dengan pertanian sebagai sumber pendapatan utama bagi wilayah tersebut, wilayah ini dikenal memiliki hutan kurma terbesar di dunia. Basra adalah kota mayoritas Islam Syiah, dengan minoritas kecil Kristen, Asyur, dan Mandaean pra-Islam. Selain orang Arab, ada juga komunitas orang Afro-Irak, yang dikenal sebagai Zanj. Zanj adalah kelompok etnis Muslim Afrika, campuran orang-orang Afrika yang dibawa dari pantai wilayah Kenya modern sebagai budak selama periode Abad Pertengahan.\n\nDidirikan pada awal era Islam pada tahun 636, Basra menjadi pusat perdagangan dan budaya yang berkembang pesat sejak sekitar tahun 1200 M dan tetap demikian hingga saat ini. Ibn Battuta mengunjunginya pada tahun 1320-an dan tidak terlalu terkesan. Basra berada di bawah perlindungan kekaisaran Portugis dari tahun 1523 hingga direbut oleh Ottoman pada tahun 1668; kota ini tetap menjadi bagian dari Kekaisaran Ottoman hingga akhir Perang Dunia Pertama.\n\nBasra adalah kota besar terdekat dengan garis depan Perang Iran-Irak selama tahun 1980-an, dengan sebagian kota hancur akibat tembakan artileri. Beberapa tahun kemudian, pemberontakan terhadap kediktatoran Saddam Hussein dihancurkan secara brutal. Meskipun kota ini sebagian besar telah pulih secara fisik dari peristiwa-peristiwa tersebut, sebagian besar warisan budayanya telah hilang. Basra juga berada di garis depan perubahan iklim dengan suhu musim panas yang mendekati ekstrem yang tak tertahankan. Penggurusan dan salinisasi sungai menyebabkan masalah besar. Ditambah dengan puluhan tahun pengabaian dan keresahan sosial, Basra umumnya tidak dapat diakses oleh wisatawan. Sebagian besar orang asing yang berada di kota ini berada di sini karena fasilitas minyak dan gas alam di dekatnya. Namun, masih ada sedikit sisa kejayaan masa lalu yang dapat dijelajahi oleh para pelancong pemberani."
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aalborg",
+  "fetched_at": "2026-11-22T07:35:30.332447+00:00",
+  "title": "Aalborg",
+  "page_id": 4341,
+  "revision_id": "36993",
+  "revision_timestamp": "2026-09-06T08:49:22Z",
+  "sha256": "cb723bf5092904d0fe2e6f8d4b13163f4b1a7a148042ae8568e333149cdeeed0",
+  "license": "CC BY-SA 4.0",
+  "city": "Aalborg",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4341,
+          "ns": 0,
+          "title": "Aalborg",
+          "revisions": [
+            {
+              "revid": 36993,
+              "parentid": 36970,
+              "timestamp": "2026-09-06T08:49:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Aalborg''' adalah sebuah kota yang berada di Jutlandia, [[Denmark]]. Aalborg merupakan kota tua dengan berbagai bangunan tua dan peninggalan bersejarah yang terjaga dengan baik.\n\n== Pahami ==\nAalborg merupakan kota terbesar nomor 4 di Denmark dengan total penduduk sekitar 121.549 (per tahun 2004). Kota ini menjadi kotamadya ketiga di Denmark setelah [[Kopenhagen]].\n\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\n\n* {{go\n| name=Bandar Udara Aalborg | alt=Aalborg Lufthavn | url=http://www.aal.dk/ | email=info@aal.dk\n| address=Ny Lufthavnsvej | lat=57.095843 | long=9.855280 | directions=\n| phone=+4598171144 | tollfree=\n| hours= | price=\n| image=Aalborg Lufthavn indgang.JPG\n| lastedit=2026-09-06\n| content=Bandar Udara terbesar ketiga di Denmark. Beroperasi 24 jam.\n}}\n\n=== Dengan kereta api ===\n\n* {{go\n| name=Stasiun Aalborg | alt= | url= | email=\n| address=Banegårdspladsen 1 | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q2204904\n| content=\n}}\n\n== Berkeliling ==\nUntuk berkeliling di pusat kota, pengunjung dapat berjalan kaki. Untuk perjalanan lebih jauh, terdapat sistem bus yang dapat digunakan untuk berkeliling ke kota dengan tarif 22 krona untuk 1,5 jam perjalanan. Salah satu cara lain adalah dengan menggunakan sistem sepeda kota. Untuk menggunakan sistem ini, pengunjung perlu membayar deposit sebesar 20 krona.\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Aalborg''' adalah sebuah kota yang berada di Jutlandia, [[Denmark]]. Aalborg merupakan kota tua dengan berbagai bangunan tua dan peninggalan bersejarah yang terjaga dengan baik.\n\n== Pahami ==\nAalborg merupakan kota terbesar nomor 4 di Denmark dengan total penduduk sekitar 121.549 (per tahun 2004). Kota ini menjadi kotamadya ketiga di Denmark setelah [[Kopenhagen]].\n\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\n\n* {{go\n| name=Bandar Udara Aalborg | alt=Aalborg Lufthavn | url=http://www.aal.dk/ | email=info@aal.dk\n| address=Ny Lufthavnsvej | lat=57.095843 | long=9.855280 | directions=\n| phone=+4598171144 | tollfree=\n| hours= | price=\n| image=Aalborg Lufthavn indgang.JPG\n| lastedit=2026-09-06\n| content=Bandar Udara terbesar ketiga di Denmark. Beroperasi 24 jam.\n}}\n\n=== Dengan kereta api ===\n\n* {{go\n| name=Stasiun Aalborg | alt= | url= | email=\n| address=Banegårdspladsen 1 | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q2204904\n| content=\n}}\n\n== Berkeliling ==\nUntuk berkeliling di pusat kota, pengunjung dapat berjalan kaki. Untuk perjalanan lebih jauh, terdapat sistem bus yang dapat digunakan untuk berkeliling ke kota dengan tarif 22 krona untuk 1,5 jam perjalanan. Salah satu cara lain adalah dengan menggunakan sistem sepeda kota. Untuk menggunakan sistem ini, pengunjung perlu membayar deposit sebesar 20 krona.\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur =="
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amed",
+  "fetched_at": "2026-11-22T07:42:44.139911+00:00",
+  "title": "Amed",
+  "page_id": 972,
+  "revision_id": "34371",
+  "revision_timestamp": "2026-07-28T08:01:08Z",
+  "sha256": "6b4a11b20acc3dedb3a864444cd4b609a8eae4d93e4591c5e1248d3dc60fe941",
+  "license": "CC BY-SA 4.0",
+  "city": "Amed",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 972,
+          "ns": 0,
+          "title": "Amed",
+          "revisions": [
+            {
+              "revid": 34371,
+              "parentid": 34370,
+              "timestamp": "2026-07-28T08:01:08Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "[[Berkas:Amed Beach during sunset.JPG|thumb|Pantai Amed dengan matahari bersembunyi di belakang Gunung Agung]]\n\n{{pagebanner|Amed banner sunset.jpg}}\n'''Amed''' adalah desa nelayan di pinggiran pantai di [[Bali Timur]]. Terdiri dari tuju desa diantaranya Amed, jemeluk, Bunutan, Lipah, Selang, Banyuning dan Aas. Amed sering dipakai sebagai tempat berkumpul bagi para wisatawan yang hendak melakukan penyelaman di situs kapal karam USAT liberti di [[tulamben]]. Selain itu ada beberapa lokasi penyelaman yang berada dekat dengan pesisir pantai.\n\n{{mapframe|-8.3086|115.6376|zoom=11}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n[[Image:Bali-Amed-Map.png|500px|thumb|right|Map of the Amed Area]]\n=== Dengan Mobil ===\nAmed terletak di timur laut pulau bali, berjarak kurang lebih 3 jam perjalanan dari [[Bandar Udara I gusti Ngurah Rai]].  Dari singaraja amed dapat diakses dengan berkendara ke arah timur di Jl Raya Air Sanih.\n\n=== Taksi ===\nAmed juga dapat dicapai menggunakan taksi bandara dengan biaya Rp. 400.000\n\n=== Travel ===\nCara paling mudah dan umum yang dipakai oleh wisatawan asing untuk ke Amed adalah dengan menggunakan sopir travel pribadi. \n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Pantai Jemeluk | alt= | url= | email=\n| address=Amed St, Bunutan, Abang, Karangasem Regency, Bali 80852 | lat=-8.338091 | long=115.660377 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Situs Karam Kapal Jepang | alt= | url= | email=\n| address=Jl. Karangasem - Seraya, Bunutan, Kec. Abang, Kabupaten Karangasem, Bali 80852 | lat=-8.364571 | long=115.701110 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* {{eat\n| name=Sunset Point Amed Bali | alt= | url=https://www.sunsetpointamedbali.com/ | email=\n| address=Amed St, Bunutan, Abang, Karangasem Regency, Bali 80852 | lat=-8.337911 | long=115.662703 | directions=\n| phone=081138703990 | tollfree=\n| hours=10am-9pm | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{eat\n| name=Warung Amed Sea View | alt= | url= | email=\n| address=Jemeluk Beach, Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852 | lat=-8.336826 | long=115.658612 | directions=\n| phone=081337357411 | tollfree=\n| hours=9.00am-9.00pm | price=Rp 30.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Minum ==\n\n== Tidur ==\n* {{sleep\n| name=Amed Oasis | alt= | url=http://amedoasis.com/ | email=info@amedoasis.com\n| address=Jl. I Ketut Natih, Tukadse, Amed, Kabupaten Karangasem, Bali 80852 | lat=-8.335911 | long=115.651414 | directions=\n| phone=03634301035 | tollfree=\n| checkin=13.00 | checkout=12.00 | price=Rp. 800.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Lovina]]\n* [[Padang Bai]]\n{{IsPartOf|Bali Timur}}\n{{Stub}}\n{{Geo|-8.33461|115.64089|zoom=15}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "[[Berkas:Amed Beach during sunset.JPG|thumb|Pantai Amed dengan matahari bersembunyi di belakang Gunung Agung]]\n\n{{pagebanner|Amed banner sunset.jpg}}\n'''Amed''' adalah desa nelayan di pinggiran pantai di [[Bali Timur]]. Terdiri dari tuju desa diantaranya Amed, jemeluk, Bunutan, Lipah, Selang, Banyuning dan Aas. Amed sering dipakai sebagai tempat berkumpul bagi para wisatawan yang hendak melakukan penyelaman di situs kapal karam USAT liberti di [[tulamben]]. Selain itu ada beberapa lokasi penyelaman yang berada dekat dengan pesisir pantai.\n\n{{mapframe|-8.3086|115.6376|zoom=11}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n[[Image:Bali-Amed-Map.png|500px|thumb|right|Map of the Amed Area]]\n=== Dengan Mobil ===\nAmed terletak di timur laut pulau bali, berjarak kurang lebih 3 jam perjalanan dari [[Bandar Udara I gusti Ngurah Rai]].  Dari singaraja amed dapat diakses dengan berkendara ke arah timur di Jl Raya Air Sanih.\n\n=== Taksi ===\nAmed juga dapat dicapai menggunakan taksi bandara dengan biaya Rp. 400.000\n\n=== Travel ===\nCara paling mudah dan umum yang dipakai oleh wisatawan asing untuk ke Amed adalah dengan menggunakan sopir travel pribadi. \n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Pantai Jemeluk | alt= | url= | email=\n| address=Amed St, Bunutan, Abang, Karangasem Regency, Bali 80852 | lat=-8.338091 | long=115.660377 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{see\n| name=Situs Karam Kapal Jepang | alt= | url= | email=\n| address=Jl. Karangasem - Seraya, Bunutan, Kec. Abang, Kabupaten Karangasem, Bali 80852 | lat=-8.364571 | long=115.701110 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2025-11-23\n| content=\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* {{eat\n| name=Sunset Point Amed Bali | alt= | url=https://www.sunsetpointamedbali.com/ | email=\n| address=Amed St, Bunutan, Abang, Karangasem Regency, Bali 80852 | lat=-8.337911 | long=115.662703 | directions=\n| phone=081138703990 | tollfree=\n| hours=10am-9pm | price=\n| lastedit=2025-11-23\n| content=\n}}\n* {{eat\n| name=Warung Amed Sea View | alt= | url= | email=\n| address=Jemeluk Beach, Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852 | lat=-8.336826 | long=115.658612 | directions=\n| phone=081337357411 | tollfree=\n| hours=9.00am-9.00pm | price=Rp 30.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Minum ==\n\n== Tidur ==\n* {{sleep\n| name=Amed Oasis | alt= | url=http://amedoasis.com/ | email=info@amedoasis.com\n| address=Jl. I Ketut Natih, Tukadse, Amed, Kabupaten Karangasem, Bali 80852 | lat=-8.335911 | long=115.651414 | directions=\n| phone=03634301035 | tollfree=\n| checkin=13.00 | checkout=12.00 | price=Rp. 800.000\n| lastedit=2025-11-23\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Lovina]]\n* [[Padang Bai]]\n{{IsPartOf|Bali Timur}}\n{{Stub}}\n{{Geo|-8.33461|115.64089|zoom=15}}"
+}

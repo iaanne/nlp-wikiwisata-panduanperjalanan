@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bisayak",
+  "fetched_at": "2026-11-22T08:02:43.111042+00:00",
+  "title": "Bisayak",
+  "page_id": 1152,
+  "revision_id": "23525",
+  "revision_timestamp": "2024-12-04T08:40:44Z",
+  "sha256": "c83d3c6c2c5e33a6112dd1f98dd1f9cce074c71f71d0ec4164206aeda183f101",
+  "license": "CC BY-SA 4.0",
+  "city": "Bisayak",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1152,
+          "ns": 0,
+          "title": "Bisayak",
+          "revisions": [
+            {
+              "revid": 23525,
+              "parentid": 6805,
+              "timestamp": "2024-12-04T08:40:44Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner Visayas Boracay white beach.jpg|caption=White Beach on Boracay}}\n\n'''Bisayak''' adalah pengelompokan pulau besar dan budaya di bagian tengah [[Filipina]]. Hampir setiap bagian wilayah ini memiliki beberapa pantai indah di sepanjang pesisirnya, beberapa area penyelaman yang bagus termasuk banyak terumbu karang yang dipenuhi kehidupan, dan beberapa bangunan bersejarah yang menarik, sebagian besar dari masa kolonial Spanyol, di kota-kota dan beberapa kota kecil. Sebagian besar pulau-pulau besar memiliki pegunungan di dekat pusatnya, sebagian besar berasal dari gunung berapi meskipun hanya sedikit yang aktif sekarang.\n\nPulau resor paling terkenal di negara itu, [[Boracay]], berada di sudut barat laut wilayah tersebut. Tujuan menyelam antara lain [[Malapascua]] di Provinsi Cebu, [[Pulau Panglao]] di Provinsi Bohol, [[Pulau Apo]] di Negros Oriental, [[Pulau Danjugan]] di Negros Occidental, dan masih banyak lagi. Daya tarik wisata lainnya termasuk [[Metro Cebu]] yang merupakan pusat perkotaan utama di wilayah tersebut, Chocolate Hills of Carmen, [[Bohol]], dan wisata mengamati paus di Selat Tañon dekat [[Bais]], Negros Oriental."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner Visayas Boracay white beach.jpg|caption=White Beach on Boracay}}\n\n'''Bisayak''' adalah pengelompokan pulau besar dan budaya di bagian tengah [[Filipina]]. Hampir setiap bagian wilayah ini memiliki beberapa pantai indah di sepanjang pesisirnya, beberapa area penyelaman yang bagus termasuk banyak terumbu karang yang dipenuhi kehidupan, dan beberapa bangunan bersejarah yang menarik, sebagian besar dari masa kolonial Spanyol, di kota-kota dan beberapa kota kecil. Sebagian besar pulau-pulau besar memiliki pegunungan di dekat pusatnya, sebagian besar berasal dari gunung berapi meskipun hanya sedikit yang aktif sekarang.\n\nPulau resor paling terkenal di negara itu, [[Boracay]], berada di sudut barat laut wilayah tersebut. Tujuan menyelam antara lain [[Malapascua]] di Provinsi Cebu, [[Pulau Panglao]] di Provinsi Bohol, [[Pulau Apo]] di Negros Oriental, [[Pulau Danjugan]] di Negros Occidental, dan masih banyak lagi. Daya tarik wisata lainnya termasuk [[Metro Cebu]] yang merupakan pusat perkotaan utama di wilayah tersebut, Chocolate Hills of Carmen, [[Bohol]], dan wisata mengamati paus di Selat Tañon dekat [[Bais]], Negros Oriental."
+}

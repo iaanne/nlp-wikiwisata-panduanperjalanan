@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Benin",
+  "fetched_at": "2026-11-22T07:59:42.873401+00:00",
+  "title": "Benin",
+  "page_id": 1125,
+  "revision_id": "32091",
+  "revision_timestamp": "2026-01-09T15:32:19Z",
+  "sha256": "7297c7c4e61b0286b43656fe63c2a7d0cf497a9d7255c3d4b240daba6092b3c4",
+  "license": "CC BY-SA 4.0",
+  "city": "Benin",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1125,
+          "ns": 0,
+          "title": "Benin",
+          "revisions": [
+            {
+              "revid": 32091,
+              "parentid": 23503,
+              "timestamp": "2026-01-09T15:32:19Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Benin Wikivoyage banner.jpg|caption=Kuil voodoo temple dekat situs UNESCO Door of No Return, Ouidah}}\n\n{{Quickbar\n| image=Benin village.jpg\n| location=Benin in its region.svg\n| flag=Flag of Benin.svg\n| capital=[[Porto-Novo]] ibukota resmi; [[Wy/idCotonou|Cotonou]] adalah pusat pemerintahan\n| government=Republik dibawah peraturan demokratik multipartai\n| currency=West African CFA franc (XOF), interchangeable at par with the Central African CFA franc (XAF)\n| area=''total:'' 112,620 km<sup>2</sup><br />''water:'' 2,000 km<sup>2</sup><br />''land:'' 110,620 km<sup>2</sup>\n| population=7,862,944 (July 2006 est.)\n| language=[[Perancis]] (resmi), Fon, Yoruba, bahasa-bahasa suku lainnya\n| religion= Kepercayaan asli (Animisme & Voodoo) 50%, Kristen 30%, Muslim 20%\n| electricity=220\n| callingcode=229\n| tld=\n| timezone=GMT+1\n}}\n'''[https://web.archive.org/web/20140209194014/http://www.benintourisme.com/ Benin]''' adalah negara di [[Afrika Barat]]. Negara ini berbatasan dengan [[Togo]] di barat, [[Nigeria]] di timur dan [[Burkina Faso]] dan [[Niger]] di utara.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n==Makan==\n==Minum==\n\n== Lakukan ==\n\n== Tujuan berikutnya ==\n{{Geo|8.8|2.2|zoom=7}}\n{{IsPartOf|Afrika Barat}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Benin Wikivoyage banner.jpg|caption=Kuil voodoo temple dekat situs UNESCO Door of No Return, Ouidah}}\n\n{{Quickbar\n| image=Benin village.jpg\n| location=Benin in its region.svg\n| flag=Flag of Benin.svg\n| capital=[[Porto-Novo]] ibukota resmi; [[Wy/idCotonou|Cotonou]] adalah pusat pemerintahan\n| government=Republik dibawah peraturan demokratik multipartai\n| currency=West African CFA franc (XOF), interchangeable at par with the Central African CFA franc (XAF)\n| area=''total:'' 112,620 km<sup>2</sup><br />''water:'' 2,000 km<sup>2</sup><br />''land:'' 110,620 km<sup>2</sup>\n| population=7,862,944 (July 2006 est.)\n| language=[[Perancis]] (resmi), Fon, Yoruba, bahasa-bahasa suku lainnya\n| religion= Kepercayaan asli (Animisme & Voodoo) 50%, Kristen 30%, Muslim 20%\n| electricity=220\n| callingcode=229\n| tld=\n| timezone=GMT+1\n}}\n'''[https://web.archive.org/web/20140209194014/http://www.benintourisme.com/ Benin]''' adalah negara di [[Afrika Barat]]. Negara ini berbatasan dengan [[Togo]] di barat, [[Nigeria]] di timur dan [[Burkina Faso]] dan [[Niger]] di utara.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n==Makan==\n==Minum==\n\n== Lakukan ==\n\n== Tujuan berikutnya ==\n{{Geo|8.8|2.2|zoom=7}}\n{{IsPartOf|Afrika Barat}}\n{{Stub}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afghanistan+Barat",
+  "fetched_at": "2026-11-22T07:37:46.254788+00:00",
+  "title": "Afghanistan Barat",
+  "page_id": 931,
+  "revision_id": "34252",
+  "revision_timestamp": "2026-07-27T06:28:22Z",
+  "sha256": "1a8232cb3e252dc5afb2bafe10e9e1fb5e8045cbdec45f74ded92ed653758e5e",
+  "license": "CC BY-SA 4.0",
+  "city": "Afghanistan Barat",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 931,
+          "ns": 0,
+          "title": "Afghanistan Barat",
+          "revisions": [
+            {
+              "revid": 34252,
+              "parentid": 34251,
+              "timestamp": "2026-07-27T06:28:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner West Afghanistan Graves in Chist.jpg}}\nArtikel ini mencakup bagian barat [[Afghanistan]]. Wilayah ini dihuni oleh orang Farsiwan dan Turkmenistan. Daerah ini memiliki hubungan budaya dengan [[Turkmenistan]], tetapi juga dipengaruhi oleh Provinsi Khorasan [[Iran]], yang dulunya merupakan nama kuno untuk seluruh wilayah bangsa Afghanistan. Daerah ini terdiri dari provinsi Badghis, Faryab, Ghor dan Herat.\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[Herat]]|wikidata=Q45313}} &ndash; sebuah kota bersejarah dan berpenduduk di dekat perbatasan Iran\n* {{Marker|type=city|name=[[Maimana]]|wikidata=Q309345}} &ndash; ibukota provinsi Faryab, tetapi sebaiknya dikunjungi nanti saat masa lebih tenang\n\n==Destinasi lainnya==\n* {{Marker|name=[[Jam]]|wikidata=Q192981}} &ndash; perjalanan sampingan yang potensial jika melalui darat dari Herat ke Kabul, tempat ini berisi '''Situs Jam'' yang sangat besar dan terlihat acak.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n* '''Situs Jam''' - sebuah menara besar dan anehnya terletak di desa kecil [[Jam]].\n\n===Perjalanan===\n* '''Rute Pusat''' - ini adalah perjalanan 4-6 hari yang sangat berat antara [[Herat]] dan [[Kabul]] menggunakan Toyota HiAce. Rute ini melewati beberapa pemandangan indah di pegunungan beriklim ekstrim dan memberi Anda kesempatan untuk berhenti di [[Jam]] untuk melihat '''Situs Jam''', salah satu situs paling terpencil di negara ini tetapi beberapa mengatakan layak untuk dikunjungi.\n* '''Rute Utara ke Mazar''' - perjalanan 2 hingga 3 hari ini dianggap berbahaya dan tidak disarankan.\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Iran]] - Herat adalah kota besar terdekat dengan perbatasan dan tempat untuk memulai perjalanan ke Persia.\n\n{{Geo|32.5|61.8|zoom=5}}\n{{IsPartOf|Afghanistan}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner West Afghanistan Graves in Chist.jpg}}\nArtikel ini mencakup bagian barat [[Afghanistan]]. Wilayah ini dihuni oleh orang Farsiwan dan Turkmenistan. Daerah ini memiliki hubungan budaya dengan [[Turkmenistan]], tetapi juga dipengaruhi oleh Provinsi Khorasan [[Iran]], yang dulunya merupakan nama kuno untuk seluruh wilayah bangsa Afghanistan. Daerah ini terdiri dari provinsi Badghis, Faryab, Ghor dan Herat.\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[Herat]]|wikidata=Q45313}} &ndash; sebuah kota bersejarah dan berpenduduk di dekat perbatasan Iran\n* {{Marker|type=city|name=[[Maimana]]|wikidata=Q309345}} &ndash; ibukota provinsi Faryab, tetapi sebaiknya dikunjungi nanti saat masa lebih tenang\n\n==Destinasi lainnya==\n* {{Marker|name=[[Jam]]|wikidata=Q192981}} &ndash; perjalanan sampingan yang potensial jika melalui darat dari Herat ke Kabul, tempat ini berisi '''Situs Jam'' yang sangat besar dan terlihat acak.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n* '''Situs Jam''' - sebuah menara besar dan anehnya terletak di desa kecil [[Jam]].\n\n===Perjalanan===\n* '''Rute Pusat''' - ini adalah perjalanan 4-6 hari yang sangat berat antara [[Herat]] dan [[Kabul]] menggunakan Toyota HiAce. Rute ini melewati beberapa pemandangan indah di pegunungan beriklim ekstrim dan memberi Anda kesempatan untuk berhenti di [[Jam]] untuk melihat '''Situs Jam''', salah satu situs paling terpencil di negara ini tetapi beberapa mengatakan layak untuk dikunjungi.\n* '''Rute Utara ke Mazar''' - perjalanan 2 hingga 3 hari ini dianggap berbahaya dan tidak disarankan.\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Iran]] - Herat adalah kota besar terdekat dengan perbatasan dan tempat untuk memulai perjalanan ke Persia.\n\n{{Geo|32.5|61.8|zoom=5}}\n{{IsPartOf|Afghanistan}}\n{{Outlineregion}}"
+}

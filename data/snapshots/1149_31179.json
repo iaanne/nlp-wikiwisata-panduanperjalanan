@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bintan",
+  "fetched_at": "2026-11-22T08:02:40.003663+00:00",
+  "title": "Bintan",
+  "page_id": 1149,
+  "revision_id": "31179",
+  "revision_timestamp": "2025-12-12T10:53:45Z",
+  "sha256": "afd82337da798f92dcbc14d5ed5d3a8863f1694baa7ad4594b897b77a3fafc37",
+  "license": "CC BY-SA 4.0",
+  "city": "Bintan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1149,
+          "ns": 0,
+          "title": "Bintan",
+          "revisions": [
+            {
+              "revid": 31179,
+              "parentid": 31167,
+              "timestamp": "2025-12-12T10:53:45Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bintan''' adalah salah satu pulau yang berada di [[Kepulauan Riau|Provinsi Kepulauan Riau]].\n==Destinasi lainnya==\n\n* {{Marker|name=[[Bintan Resorts]]|lat=1.1635|long=104.3378|wikidata=Q4914523}}\n\n==Lihat==\n* {{see\n| name=Makam Raja Ahmad | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Situs bersejarah yang menjadi tempat peristirahatan terakhir Sultan Ahmad, tokoh penting dalam sejarah kerajaan lokal.\n}}\n* {{see\n| name=Masjid Besar An Nur | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Masjid ini dikenal dengan desain modern yang menggabungkan elemen tradisional Melayu dan arsitektur Islami kontemporer, dengan kubah besar, menara tinggi, dan ornamen indah.\n}}\n* {{see\n| name=Pantai Trikora | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Pantai ini terkenal dengan pasir putih dan batu besarnya yang indah.\n}}\n\n==Tujuan berikutnya==\n\n* [[Batam]] - Seperti Bintan, hanya saja resornya lebih sedikit dan lebih banyak pabrik serta lebih banyak kehidupan malam\n* [[Singapura]] - kurang dari satu jam dengan feri ke utara\n\n{{IsPartOf|Kepulauan Riau}}\n{{Stub}}\n{{Geo|1.|104.5|zoom=11}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bintan''' adalah salah satu pulau yang berada di [[Kepulauan Riau|Provinsi Kepulauan Riau]].\n==Destinasi lainnya==\n\n* {{Marker|name=[[Bintan Resorts]]|lat=1.1635|long=104.3378|wikidata=Q4914523}}\n\n==Lihat==\n* {{see\n| name=Makam Raja Ahmad | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Situs bersejarah yang menjadi tempat peristirahatan terakhir Sultan Ahmad, tokoh penting dalam sejarah kerajaan lokal.\n}}\n* {{see\n| name=Masjid Besar An Nur | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Masjid ini dikenal dengan desain modern yang menggabungkan elemen tradisional Melayu dan arsitektur Islami kontemporer, dengan kubah besar, menara tinggi, dan ornamen indah.\n}}\n* {{see\n| name=Pantai Trikora | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-12\n| content=Pantai ini terkenal dengan pasir putih dan batu besarnya yang indah.\n}}\n\n==Tujuan berikutnya==\n\n* [[Batam]] - Seperti Bintan, hanya saja resornya lebih sedikit dan lebih banyak pabrik serta lebih banyak kehidupan malam\n* [[Singapura]] - kurang dari satu jam dengan feri ke utara\n\n{{IsPartOf|Kepulauan Riau}}\n{{Stub}}\n{{Geo|1.|104.5|zoom=11}}"
+}

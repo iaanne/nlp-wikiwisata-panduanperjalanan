@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ambajogai",
+  "fetched_at": "2026-11-22T07:42:42.011237+00:00",
+  "title": "Ambajogai",
+  "page_id": 970,
+  "revision_id": "34351",
+  "revision_timestamp": "2026-07-28T07:48:34Z",
+  "sha256": "2c2cd2acb158d8f7d4dc6fcd06a410f7a949d1288d817777d14fc884bdceb7fd",
+  "license": "CC BY-SA 4.0",
+  "city": "Ambajogai",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 970,
+          "ns": 0,
+          "title": "Ambajogai",
+          "revisions": [
+            {
+              "revid": 34351,
+              "parentid": 23378,
+              "timestamp": "2026-07-28T07:48:34Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''Ambajogai''' adalah sebuah kota di [[Beed (distrik)|distrik Beed]] di wilayah [[Marathwada]], negara bagian [[Maharashtra]] di India.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n* {{See\n| name=Kuil Jogai | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2022-10-07\n| content=\n}}\n* {{See\n| name=Kuil Kholeshwar | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| image=Kholeshwar-ambajogai-maharashtra-002.jpg\n| lastedit=2022-10-07\n| content=\n}}\n* {{See\n| name=Kuil Barakhambi | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| image=Barakhambi-Ambajogai-Maharashtra.jpg\n| lastedit=2022-10-07\n| content=\n}}\n\n==Lakukan==\nBerkeliling\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Marathwada}}\n{{Outlinecity}}\n{{Geo|18.73|76.38|zoom=13}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''Ambajogai''' adalah sebuah kota di [[Beed (distrik)|distrik Beed]] di wilayah [[Marathwada]], negara bagian [[Maharashtra]] di India.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n* {{See\n| name=Kuil Jogai | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2022-10-07\n| content=\n}}\n* {{See\n| name=Kuil Kholeshwar | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| image=Kholeshwar-ambajogai-maharashtra-002.jpg\n| lastedit=2022-10-07\n| content=\n}}\n* {{See\n| name=Kuil Barakhambi | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| image=Barakhambi-Ambajogai-Maharashtra.jpg\n| lastedit=2022-10-07\n| content=\n}}\n\n==Lakukan==\nBerkeliling\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Marathwada}}\n{{Outlinecity}}\n{{Geo|18.73|76.38|zoom=13}}"
+}

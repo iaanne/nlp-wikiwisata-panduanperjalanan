@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Atapuerca",
+  "fetched_at": "2026-11-22T07:48:40.786878+00:00",
+  "title": "Atapuerca",
+  "page_id": 3506,
+  "revision_id": "34580",
+  "revision_timestamp": "2026-07-30T06:56:07Z",
+  "sha256": "8505387a9111873c32821da7e51bc487cfbf4d9aa09fa875a049e20a14303c94",
+  "license": "CC BY-SA 4.0",
+  "city": "Atapuerca",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3506,
+          "ns": 0,
+          "title": "Atapuerca",
+          "revisions": [
+            {
+              "revid": 34580,
+              "parentid": 34579,
+              "timestamp": "2026-07-30T06:56:07Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg|Atapuerca banner Sierra de Atapuerca.jpg|caption=Sierra de Atapuerca}}\n'''Atapuerca''' merupakan sebuah desa di [[Castile and León]], [[Spanyol]]. Desa ini memiliki sekitar 120 penduduk dan berada di tengah [[Jalur Perancis]] di [[Camino de Santiago]].\n\n==Pahami==\nAtapuerca berada di ketinggian {{m|953}}. Populasinya mencapai 172 jiwa pada tahun 2018.\n\n===Informasi turis===\n* Centro Turístico-Cultural \"Batalla de Atapuerca\". \n\n==Menuju ke sini==\nBandara utama di sekitarnya adalah [[Bilbao]], [[Madrid]], dan [[Santander]].\n\nDesa ini tidak memiliki akses kereta api.\n\n==Berkeliling==\n{{mapframe|42.3762261| -3.5075063}}\nAtapuerca dapat dengan mudah dijelajahi dengan berjalan kaki.\n\n==Lihat==\n* {{see\n| name=Situs arkeologi Atapuerca | alt= | url= | email=\n| address= | lat=42.350092 | long=-3.519466 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q923894\n| lastedit=2025-06-01\n| content=\n}}\n* {{see\n| name= Pusat Arkeologi Eksperimental | alt= Centre for Experimental Archaeology (CAREX) | url=https://www.atapuerca.org/es/ficha/z23beec3e-ded1-280c-85d6175a538cc98a/visita-al-centro-de-arqueologia-experimental-carex | email=\n| address= | lat=42.37879 | long=-3.49798 | directions=\n| phone= | tollfree=\n| hours=Sel-Sab 9:00 – 13:30, 15:30 – 18:30 | price=€5\n| lastedit=2025-06-01\n| content=\n}}\n* {{see\n| name=Gran Dolina | alt= | url= | email=\n| address= | lat=42.3525 | long=-3.518333 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q5884310\n| lastedit=2025-06-02\n| content=Sebuah gua besar yang pertama kali digali pada tahun 1981.\n}}\n\n==Lakukan==\n* {{do\n| name=Pegunungan Atapuerca | alt= | url=http://www.atapuerca.org/ | email=\n| address= | lat=42.3525 | long=-3.518333 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q48782131\n| lastedit=2025-06-02\n| content=Memiliki ketinggian sekitar {{m|1080}} di atas permukaan laut, dengan endapan fosil yang kaya dan sisa-sisa peralatan batu.\n}}\n* {{do\n| name=Cross de Atapuerca | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q5188454\n| lastedit=2025-06-02\n| content=Kompetisi lari lintas alam dengan jarak sekitar {{km|9}}.\n}}\n\n==Beli==\nAda minimarket bernama ''Alimentación Atapuerca''.\n\n==Makan==\nAda beberapa restoran dan bar yang menyediakan makanan. Beberapa akomodasi mungkin juga menyediakan makanan siap saji.\n\n==Minum==\nDi seluruh desa terdapat banyak pancuran air minum. Ada juga beberapa bar.\n\n==Tidur==\nJika Anda bukan peziarah dan ingin tidur di asrama, tanyakan terlebih dahulu kepada pihak akomodasi apakah asrama tersebut hanya dapat digunakan oleh peziarah.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Burgos (kota)|Burgos]]\n* [[Logroño]]\n\n{{IsPartOf|Castile dan León}}\n{{outlinecity}}\n{{geo|42.3762261|-3.5075063}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg|Atapuerca banner Sierra de Atapuerca.jpg|caption=Sierra de Atapuerca}}\n'''Atapuerca''' merupakan sebuah desa di [[Castile and León]], [[Spanyol]]. Desa ini memiliki sekitar 120 penduduk dan berada di tengah [[Jalur Perancis]] di [[Camino de Santiago]].\n\n==Pahami==\nAtapuerca berada di ketinggian {{m|953}}. Populasinya mencapai 172 jiwa pada tahun 2018.\n\n===Informasi turis===\n* Centro Turístico-Cultural \"Batalla de Atapuerca\". \n\n==Menuju ke sini==\nBandara utama di sekitarnya adalah [[Bilbao]], [[Madrid]], dan [[Santander]].\n\nDesa ini tidak memiliki akses kereta api.\n\n==Berkeliling==\n{{mapframe|42.3762261| -3.5075063}}\nAtapuerca dapat dengan mudah dijelajahi dengan berjalan kaki.\n\n==Lihat==\n* {{see\n| name=Situs arkeologi Atapuerca | alt= | url= | email=\n| address= | lat=42.350092 | long=-3.519466 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q923894\n| lastedit=2025-06-01\n| content=\n}}\n* {{see\n| name= Pusat Arkeologi Eksperimental | alt= Centre for Experimental Archaeology (CAREX) | url=https://www.atapuerca.org/es/ficha/z23beec3e-ded1-280c-85d6175a538cc98a/visita-al-centro-de-arqueologia-experimental-carex | email=\n| address= | lat=42.37879 | long=-3.49798 | directions=\n| phone= | tollfree=\n| hours=Sel-Sab 9:00 – 13:30, 15:30 – 18:30 | price=€5\n| lastedit=2025-06-01\n| content=\n}}\n* {{see\n| name=Gran Dolina | alt= | url= | email=\n| address= | lat=42.3525 | long=-3.518333 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q5884310\n| lastedit=2025-06-02\n| content=Sebuah gua besar yang pertama kali digali pada tahun 1981.\n}}\n\n==Lakukan==\n* {{do\n| name=Pegunungan Atapuerca | alt= | url=http://www.atapuerca.org/ | email=\n| address= | lat=42.3525 | long=-3.518333 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q48782131\n| lastedit=2025-06-02\n| content=Memiliki ketinggian sekitar {{m|1080}} di atas permukaan laut, dengan endapan fosil yang kaya dan sisa-sisa peralatan batu.\n}}\n* {{do\n| name=Cross de Atapuerca | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q5188454\n| lastedit=2025-06-02\n| content=Kompetisi lari lintas alam dengan jarak sekitar {{km|9}}.\n}}\n\n==Beli==\nAda minimarket bernama ''Alimentación Atapuerca''.\n\n==Makan==\nAda beberapa restoran dan bar yang menyediakan makanan. Beberapa akomodasi mungkin juga menyediakan makanan siap saji.\n\n==Minum==\nDi seluruh desa terdapat banyak pancuran air minum. Ada juga beberapa bar.\n\n==Tidur==\nJika Anda bukan peziarah dan ingin tidur di asrama, tanyakan terlebih dahulu kepada pihak akomodasi apakah asrama tersebut hanya dapat digunakan oleh peziarah.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Burgos (kota)|Burgos]]\n* [[Logroño]]\n\n{{IsPartOf|Castile dan León}}\n{{outlinecity}}\n{{geo|42.3762261|-3.5075063}}"
+}

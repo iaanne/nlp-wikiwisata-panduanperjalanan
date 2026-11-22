@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Anjing",
+  "fetched_at": "2026-11-22T07:44:42.023875+00:00",
+  "title": "Anjing",
+  "page_id": 988,
+  "revision_id": "35922",
+  "revision_timestamp": "2026-08-15T06:33:07Z",
+  "sha256": "6f1c5ef83b47e60464558cdb72a390f3d472a4c1b3171a5de83513e65789c2d3",
+  "license": "CC BY-SA 4.0",
+  "city": "Anjing",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 988,
+          "ns": 0,
+          "title": "Anjing",
+          "revisions": [
+            {
+              "revid": 35922,
+              "parentid": 34019,
+              "timestamp": "2026-08-15T06:33:07Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nInformasi terkait tentang anjing:\n\nAnjing adalah salah satu hewan peliharaan yang kerap digemari banyak orang, anjing termaksud juga ke dalam golongan mamalia yang mudah dijinakkan dan kerap memiliki sifat setia serta cerdas dan mudah dikendalikan/dilatih.\n* [[Bepergian dengan hewan peliharaan]]\n* [[Menjaga hewan peliharaan]]\n* [[Anjing agresif]]\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nInformasi terkait tentang anjing:\n\nAnjing adalah salah satu hewan peliharaan yang kerap digemari banyak orang, anjing termaksud juga ke dalam golongan mamalia yang mudah dijinakkan dan kerap memiliki sifat setia serta cerdas dan mudah dikendalikan/dilatih.\n* [[Bepergian dengan hewan peliharaan]]\n* [[Menjaga hewan peliharaan]]\n* [[Anjing agresif]]\n\n{{Disamb}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afghanistan+Timur",
+  "fetched_at": "2026-11-22T07:38:41.564467+00:00",
+  "title": "Afghanistan Timur",
+  "page_id": 932,
+  "revision_id": "37517",
+  "revision_timestamp": "2026-09-18T19:58:38Z",
+  "sha256": "5e431c584130c78fe965de0474be18bbf64330d545a02fa7194c94f85de64210",
+  "license": "CC BY-SA 4.0",
+  "city": "Afghanistan Timur",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 932,
+          "ns": 0,
+          "title": "Afghanistan Timur",
+          "revisions": [
+            {
+              "revid": 37517,
+              "parentid": 34254,
+              "timestamp": "2026-09-18T19:58:38Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner East Afghanistan Barge Matal village.jpg}}\n{{Warningbox|Provinsi-provinsi Timur [[Afghanistan]] adalah daerah yang '''sangat''' berbahaya dan bergejolak, khususnya daerah suku Pashtun di sepanjang perbatasan [[Pakistan]]i. Sebagian besar pemerintah asing sangat menyarankan agar tidak melakukan perjalanan ke wilayah ini. Jika Anda terpaksa harus pergi, silakan lihat [[keamanan zona perang]].\n|ie=https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/afghanistan/\n|canada=https://travel.gc.ca/destinations/afghanistan\n|de=https://www.auswaertiges-amt.de/de/afghanistansicherheit/204692\n|nz=https://www.safetravel.govt.nz/afghanistan\n|uk=https://www.gov.uk/foreign-travel-advice/afghanistan\n|us=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/afghanistan-advisory.html\n|lastedit=2020-08-20\n}}\n\n[[Berkas:Korengal Valley-2009.jpg|thumb|250px|Lembah Korengal di Provinsi Kunar, [[Afghanistan]].]]\n\nBagian ini membahas bagian timur [[Afghanistan]]. Wilayah ini dihuni oleh Pashtun nasionalis yang memiliki hubungan budaya dengan [[Pakistan]], dan dipengaruhi oleh [[Khyber Pakhtunkhwa]]; nama bersejarah untuk daerah ini adalah ''Provinsi Afghanistan''.\n\n==Kota==\n{{Mapframe}}\n\n* {{Marker|type=city |lat=34.530 |long=69.153 |zoom=11 |name=[[Kabul]] |image=|wikidata=Q5838 }} &mdash; ibu kota negara ini\n* {{Marker|type=city |lat=34.934 |long=69.233 |zoom=13 |name=[[Bagram]]|image=|wikidata=Q814388}} &mdash; situs bekas pangkalan militer besar Soviet dan Amerika Serikat di tengah perjalanan ke [[Celah Salang]] dan [[Afghanistan Timur Laut]].\n* {{Marker|type=city |lat=34.8255 |long=67.8379 |zoom=14 |name=[[Bamiyan]] |image=|wikidata=Q214495 }} &mdash; situs Buddha yang dihancurkan oleh Taliban.\n* {{Marker|type=city |lat=33.544 |long=68.416 |zoom=11 |name=[[Ghazni]] |image=|wikidata=Q173731 }} &mdash;\n* {{Marker|type=city |lat=34.431 |long=70.460 |zoom=11 |name=[[Jalalabad]] |image=|wikidata=Q183303 }} &mdash; sebuah kota yang cukup non-deskriptif selain perhentian antara [[Kabul]] dan [[Celah Khyber]].\n\n==Destinasi lainnya==\n[[Berkas:Khogyani district.jpg|thumb|250px|Distrik Khogyani di Provinsi Nangarhar]]\n\n*{{Marker|type=listing|name=[[Taman Nasional Band-e Amir]]|wikidata=Q613251}} &mdash; 5 danau pirus yang menakjubkan di tempat terpencil\n*{{Marker|type=listing|name=[[Celah Khyber]]|wikidata=Q191333}} &mdash; celah legendaris dan satu-satunya tempat bagi orang asing untuk menyeberang secara legal ke [[Pakistan]].\n*{{Marker|type=listing|name=[[Mes Aynak]]|wikidata=Q721468}} &mdash; Deposit tembaga terbesar di Afghanistan. Ada juga sisa-sisa pemukiman kuno dengan lebih dari 400 patung Buddha, stupa, dan kompleks biara seluas 40 ha\n\n==Pahami==\n[[Berkas:Newly constructed gates and monuments in Ghazni - 130422-A-TB205-027.jpg|thumb|250px|[[Ghazni]] residents walk past newly constructed gates and monuments in Ghazni province.]]\n\n==Menuju ke sini==\nBandara Bamyan ({{IATA|BIN}}).\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Geo|34.43|68.83|zoom=7}}\n{{IsPartOf|Afghanistan}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner East Afghanistan Barge Matal village.jpg}}\n{{Warningbox|Provinsi-provinsi Timur [[Afghanistan]] adalah daerah yang '''sangat''' berbahaya dan bergejolak, khususnya daerah suku Pashtun di sepanjang perbatasan [[Pakistan]]i. Sebagian besar pemerintah asing sangat menyarankan agar tidak melakukan perjalanan ke wilayah ini. Jika Anda terpaksa harus pergi, silakan lihat [[keamanan zona perang]].\n|ie=https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/afghanistan/\n|canada=https://travel.gc.ca/destinations/afghanistan\n|de=https://www.auswaertiges-amt.de/de/afghanistansicherheit/204692\n|nz=https://www.safetravel.govt.nz/afghanistan\n|uk=https://www.gov.uk/foreign-travel-advice/afghanistan\n|us=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/afghanistan-advisory.html\n|lastedit=2020-08-20\n}}\n\n[[Berkas:Korengal Valley-2009.jpg|thumb|250px|Lembah Korengal di Provinsi Kunar, [[Afghanistan]].]]\n\nBagian ini membahas bagian timur [[Afghanistan]]. Wilayah ini dihuni oleh Pashtun nasionalis yang memiliki hubungan budaya dengan [[Pakistan]], dan dipengaruhi oleh [[Khyber Pakhtunkhwa]]; nama bersejarah untuk daerah ini adalah ''Provinsi Afghanistan''.\n\n==Kota==\n{{Mapframe}}\n\n* {{Marker|type=city |lat=34.530 |long=69.153 |zoom=11 |name=[[Kabul]] |image=|wikidata=Q5838 }} &mdash; ibu kota negara ini\n* {{Marker|type=city |lat=34.934 |long=69.233 |zoom=13 |name=[[Bagram]]|image=|wikidata=Q814388}} &mdash; situs bekas pangkalan militer besar Soviet dan Amerika Serikat di tengah perjalanan ke [[Celah Salang]] dan [[Afghanistan Timur Laut]].\n* {{Marker|type=city |lat=34.8255 |long=67.8379 |zoom=14 |name=[[Bamiyan]] |image=|wikidata=Q214495 }} &mdash; situs Buddha yang dihancurkan oleh Taliban.\n* {{Marker|type=city |lat=33.544 |long=68.416 |zoom=11 |name=[[Ghazni]] |image=|wikidata=Q173731 }} &mdash;\n* {{Marker|type=city |lat=34.431 |long=70.460 |zoom=11 |name=[[Jalalabad]] |image=|wikidata=Q183303 }} &mdash; sebuah kota yang cukup non-deskriptif selain perhentian antara [[Kabul]] dan [[Celah Khyber]].\n\n==Destinasi lainnya==\n[[Berkas:Khogyani district.jpg|thumb|250px|Distrik Khogyani di Provinsi Nangarhar]]\n\n*{{Marker|type=listing|name=[[Taman Nasional Band-e Amir]]|wikidata=Q613251}} &mdash; 5 danau pirus yang menakjubkan di tempat terpencil\n*{{Marker|type=listing|name=[[Celah Khyber]]|wikidata=Q191333}} &mdash; celah legendaris dan satu-satunya tempat bagi orang asing untuk menyeberang secara legal ke [[Pakistan]].\n*{{Marker|type=listing|name=[[Mes Aynak]]|wikidata=Q721468}} &mdash; Deposit tembaga terbesar di Afghanistan. Ada juga sisa-sisa pemukiman kuno dengan lebih dari 400 patung Buddha, stupa, dan kompleks biara seluas 40 ha\n\n==Pahami==\n[[Berkas:Newly constructed gates and monuments in Ghazni - 130422-A-TB205-027.jpg|thumb|250px|[[Ghazni]] residents walk past newly constructed gates and monuments in Ghazni province.]]\n\n==Menuju ke sini==\nBandara Bamyan ({{IATA|BIN}}).\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Geo|34.43|68.83|zoom=7}}\n{{IsPartOf|Afghanistan}}\n{{Outlineregion}}"
+}

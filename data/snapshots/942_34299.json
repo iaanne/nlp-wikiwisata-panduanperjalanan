@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ahiara",
+  "fetched_at": "2026-11-22T07:39:42.085381+00:00",
+  "title": "Ahiara",
+  "page_id": 942,
+  "revision_id": "34299",
+  "revision_timestamp": "2026-07-28T06:44:18Z",
+  "sha256": "fd4a6df669c0e0b214db4a63c12d9eb4d5e2d8c16461bf1b6698751a2d4e79e4",
+  "license": "CC BY-SA 4.0",
+  "city": "Ahiara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 942,
+          "ns": 0,
+          "title": "Ahiara",
+          "revisions": [
+            {
+              "revid": 34299,
+              "parentid": 23358,
+              "timestamp": "2026-07-28T06:44:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Ahiara''' ada di [[Nigeria Tenggara]].\n\n==Pahami==\nAhiara adalah sebuah kota di Mbaise, negara bagian Imo. Kota ini didirikan oleh seorang pria dengan nama sama.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n* {{Eat\n| name=Madam Julie Restaurant | alt= | url= | email=\n| address=Mbaise Rd | lat=5.533730 | long=7.282918 | directions=\n| phone=+2347035315849 | tollfree=\n| hours=10:00-20:00 | price=\n| lastedit=2022-01-28\n| content=Makanan lezat lokal. Lingkungan tenang dan terawat dengan baik.\n}}\n\n==Minum==\n\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{IsPartOf|Nigeria Tenggara}}\n{{Outlinecity}}\n{{Geo|5.527833|7.273306|zoom=13}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Ahiara''' ada di [[Nigeria Tenggara]].\n\n==Pahami==\nAhiara adalah sebuah kota di Mbaise, negara bagian Imo. Kota ini didirikan oleh seorang pria dengan nama sama.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n* {{Eat\n| name=Madam Julie Restaurant | alt= | url= | email=\n| address=Mbaise Rd | lat=5.533730 | long=7.282918 | directions=\n| phone=+2347035315849 | tollfree=\n| hours=10:00-20:00 | price=\n| lastedit=2022-01-28\n| content=Makanan lezat lokal. Lingkungan tenang dan terawat dengan baik.\n}}\n\n==Minum==\n\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{IsPartOf|Nigeria Tenggara}}\n{{Outlinecity}}\n{{Geo|5.527833|7.273306|zoom=13}}"
+}

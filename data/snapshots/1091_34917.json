@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Baoji",
+  "fetched_at": "2026-11-22T07:54:46.366928+00:00",
+  "title": "Baoji",
+  "page_id": 1091,
+  "revision_id": "34917",
+  "revision_timestamp": "2026-08-03T13:19:29Z",
+  "sha256": "92e9d1d8327ad9fc71abce1327efe5fe06d88745ba3b2cdbee58a8a95a65d066",
+  "license": "CC BY-SA 4.0",
+  "city": "Baoji",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1091,
+          "ns": 0,
+          "title": "Baoji",
+          "revisions": [
+            {
+              "revid": 34917,
+              "parentid": 34916,
+              "timestamp": "2026-08-03T13:19:29Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Taibai Mts.,Baoji banner.jpg}}\n'''Baoji''' (宝鸡; ''Bǎojī'') adalah sebuah kota di [[Shaanxi]].\n\n== Pahami ==\n\n==Menuju ke sini==\n\n=== Dengan kereta ===\nDari [[Xi'an]]: 50 menit dengan kereta berkecepatan tinggi seharga ¥50 yang menghubungkan dua stasiun khusus di jalur berkecepatan tinggi. 2 jam dengan kereta cepat ¥30, lalu 3 jam dengan kereta reguler ¥22 yang menghubungkan dua stasiun utama. Tiket biasanya tersedia pada hari itu juga meski Anda mungkin mendapatkan kursi yang kurang enak.\n\n==Berkeliling==\n\n==Lihat==\n*{{See\n| name=Museum Perunggu Baoji | alt= | url=http://www.bjqtm.com/ | email=\n| address=Jalan Gongyuan Selatan | lat=34.34758 | long=107.19388 | directions=bus #10 dari stasiun kereta | phone= | tollfree=\n| hours= | price=\n| wikidata=Q48162947\n| content=\n}}\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n*{{Sleep\n| name=Hotel Internasional Jialong | alt= | url= | email=\n| address=Jalan Jingyi 294 | lat= | long= | directions=di sebelah stasiun kereta\n| phone=+86 917 - 2708888 | tollfree= | fax= \n| checkin= | checkout= | price=Doubles &yen;198, breakfast not included\n| content=Sepadan dengan harganya, kamarnya besar dan nyaman. Handuk, sikat gigi, sampo dan sabun juga disediakan.\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n* [[Taman Nasional Tiantaishan]]\n\n{{Routebox\n| image1=Longhai Railway icon.png\n| imagesize1=100\n| directionl1=B\n| majorl1=[[Lanzhou]]\n| minorl1=[[Tianshui]]\n| directionr1=T\n| majorr1=[[Xi'an]]\n| minorr1=[[Xianyang]]\n}}\n{{IsPartOf|Shaanxi}}\n{{Outlinecity}}\n{{Geo|34.36094|107.17507}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Taibai Mts.,Baoji banner.jpg}}\n'''Baoji''' (宝鸡; ''Bǎojī'') adalah sebuah kota di [[Shaanxi]].\n\n== Pahami ==\n\n==Menuju ke sini==\n\n=== Dengan kereta ===\nDari [[Xi'an]]: 50 menit dengan kereta berkecepatan tinggi seharga ¥50 yang menghubungkan dua stasiun khusus di jalur berkecepatan tinggi. 2 jam dengan kereta cepat ¥30, lalu 3 jam dengan kereta reguler ¥22 yang menghubungkan dua stasiun utama. Tiket biasanya tersedia pada hari itu juga meski Anda mungkin mendapatkan kursi yang kurang enak.\n\n==Berkeliling==\n\n==Lihat==\n*{{See\n| name=Museum Perunggu Baoji | alt= | url=http://www.bjqtm.com/ | email=\n| address=Jalan Gongyuan Selatan | lat=34.34758 | long=107.19388 | directions=bus #10 dari stasiun kereta | phone= | tollfree=\n| hours= | price=\n| wikidata=Q48162947\n| content=\n}}\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n*{{Sleep\n| name=Hotel Internasional Jialong | alt= | url= | email=\n| address=Jalan Jingyi 294 | lat= | long= | directions=di sebelah stasiun kereta\n| phone=+86 917 - 2708888 | tollfree= | fax= \n| checkin= | checkout= | price=Doubles &yen;198, breakfast not included\n| content=Sepadan dengan harganya, kamarnya besar dan nyaman. Handuk, sikat gigi, sampo dan sabun juga disediakan.\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n* [[Taman Nasional Tiantaishan]]\n\n{{Routebox\n| image1=Longhai Railway icon.png\n| imagesize1=100\n| directionl1=B\n| majorl1=[[Lanzhou]]\n| minorl1=[[Tianshui]]\n| directionr1=T\n| majorr1=[[Xi'an]]\n| minorr1=[[Xianyang]]\n}}\n{{IsPartOf|Shaanxi}}\n{{Outlinecity}}\n{{Geo|34.36094|107.17507}}"
+}

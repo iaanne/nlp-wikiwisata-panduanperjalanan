@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Asia+Tengah",
+  "fetched_at": "2026-11-22T07:47:43.729213+00:00",
+  "title": "Asia Tengah",
+  "page_id": 1019,
+  "revision_id": "36041",
+  "revision_timestamp": "2026-08-21T03:29:57Z",
+  "sha256": "17437d8fdb47f663f631dd1600457adc357332f1e14d0f6e2510948bb8df4023",
+  "license": "CC BY-SA 4.0",
+  "city": "Asia Tengah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1019,
+          "ns": 0,
+          "title": "Asia Tengah",
+          "revisions": [
+            {
+              "revid": 36041,
+              "parentid": 36040,
+              "timestamp": "2026-08-21T03:29:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Asia Tengah''' terdiri dari wilayah Asia yang berada di sebelah timur dari Laut Kaspia. Wilayah ini tidak memiliki batas yang tepat, tetapi biasanya dianggap mencakup republik-republik Soviet, serta [[Afghanistan]]; juga dikenal sebagai \"the -stans\".\n\nAsia Tengah secara umum adalah daerah yang kasar, daerah gersang, secara historis didambakan untuk posisi antara [[Eropa]] dan [[Asia Timur]] dengan Jalur Sutra yang legendaris, sebagian besar untuk sumber daya, meskipun cadangan minyak bumi, gas alam dan mineral telah menjadi lebih penting di zaman modern. Mereka adalah rumah bagi umumnya kaum nomaden eurasia, yang terutama Muslim, secara historis '''Suku bangsa nomaden Eurasia''', sebagian besar masyarakat berbahasa Turki (pengecualian adalah Tajikistan dan Afghanistan). Semua kecuali Afghanistan, (yang kadang-kadang dikategorikan secara terpisah untuk ini dan alasan lain) adalah bekas republik Soviet yang sejauh ini menjadi bersifat teokrasi, sejak pemerintahan Era Teokrasi Taliban. Asia Tengah\n{{IsPartOf|Asia}}\n{{Outlineregion}}\n{{Geo|45|63.9|zoom=5}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Asia Tengah''' terdiri dari wilayah Asia yang berada di sebelah timur dari Laut Kaspia. Wilayah ini tidak memiliki batas yang tepat, tetapi biasanya dianggap mencakup republik-republik Soviet, serta [[Afghanistan]]; juga dikenal sebagai \"the -stans\".\n\nAsia Tengah secara umum adalah daerah yang kasar, daerah gersang, secara historis didambakan untuk posisi antara [[Eropa]] dan [[Asia Timur]] dengan Jalur Sutra yang legendaris, sebagian besar untuk sumber daya, meskipun cadangan minyak bumi, gas alam dan mineral telah menjadi lebih penting di zaman modern. Mereka adalah rumah bagi umumnya kaum nomaden eurasia, yang terutama Muslim, secara historis '''Suku bangsa nomaden Eurasia''', sebagian besar masyarakat berbahasa Turki (pengecualian adalah Tajikistan dan Afghanistan). Semua kecuali Afghanistan, (yang kadang-kadang dikategorikan secara terpisah untuk ini dan alasan lain) adalah bekas republik Soviet yang sejauh ini menjadi bersifat teokrasi, sejak pemerintahan Era Teokrasi Taliban. Asia Tengah\n{{IsPartOf|Asia}}\n{{Outlineregion}}\n{{Geo|45|63.9|zoom=5}}"
+}

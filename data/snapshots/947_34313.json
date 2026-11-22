@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Akita",
+  "fetched_at": "2026-11-22T07:39:44.995391+00:00",
+  "title": "Akita",
+  "page_id": 947,
+  "revision_id": "34313",
+  "revision_timestamp": "2026-07-28T06:53:38Z",
+  "sha256": "a8f9bb36f700dfa9b25442f6fdb16f718bb2e3078a048a7d5ee4010ae972de1a",
+  "license": "CC BY-SA 4.0",
+  "city": "Akita",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 947,
+          "ns": 0,
+          "title": "Akita",
+          "revisions": [
+            {
+              "revid": 34313,
+              "parentid": 34312,
+              "timestamp": "2026-07-28T06:53:38Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Akita banner.jpg}}\n[[Berkas:Selion full view.jpg|right|250px|thumb|Menara Pelabuhan Akita]]\n\n'''Akita''' (秋田) adalah ibukota [[Akita (prefektur)|prefektur Akita]] di utara wilayah [[Tohoku]], pulau [[Honshu]], [[Jepang]].\n\n==Pahami==\nAkita adalah kota terbesar di prefektur tersebut\n\n==Menuju ke sini==\n\n===Dengan pesawat===\nAkita memiliki sebuah bandar udara, dengan penerbangan domestik yang berasal dari beberapa tempat seperti [[Tokyo]], [[Nagoya]], [[Osaka]] dan [[Sapporo]].\n\n== Berkeliling ==\n\n==Lihat==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n==Tidur==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n{{Routebox\n| image1=Akita Shinkansen icon.png\n| imagesize1=100\n| directionl1=U\n| majorl1=AKHIR\n| minorll=\n| directionr1=S\n| majorr1=[[Morioka]]\n| minorr1=Omagari → [[Semboku|Kakunodate]]\n\n| image2=JR Ou icon.png\n| imagesize2=100\n| directionl2=U\n| majorl2=[[Aomori]]\n| minorl2=[[Noshiro]]\n| directionr2=S\n| majorr2=[[Yamagata]]\n| minorr2=Omagari → [[Yokote]]\n\n| image3=JR Uetsu icon.png\n| imagesize3=100\n| directionl3=U\n| majorl3=AKHIR\n| minorl3=\n| directionr3=S\n| majorr3=[[Niigata]]\n| minorr3=[[Yurihonjo]]\n}}\n\n{{Stub}}\n\n{{IsPartOf|Akita (prefektur)}}\n{{Geo|39.71709083|140.10581083}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Akita banner.jpg}}\n[[Berkas:Selion full view.jpg|right|250px|thumb|Menara Pelabuhan Akita]]\n\n'''Akita''' (秋田) adalah ibukota [[Akita (prefektur)|prefektur Akita]] di utara wilayah [[Tohoku]], pulau [[Honshu]], [[Jepang]].\n\n==Pahami==\nAkita adalah kota terbesar di prefektur tersebut\n\n==Menuju ke sini==\n\n===Dengan pesawat===\nAkita memiliki sebuah bandar udara, dengan penerbangan domestik yang berasal dari beberapa tempat seperti [[Tokyo]], [[Nagoya]], [[Osaka]] dan [[Sapporo]].\n\n== Berkeliling ==\n\n==Lihat==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n==Tidur==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n{{Routebox\n| image1=Akita Shinkansen icon.png\n| imagesize1=100\n| directionl1=U\n| majorl1=AKHIR\n| minorll=\n| directionr1=S\n| majorr1=[[Morioka]]\n| minorr1=Omagari → [[Semboku|Kakunodate]]\n\n| image2=JR Ou icon.png\n| imagesize2=100\n| directionl2=U\n| majorl2=[[Aomori]]\n| minorl2=[[Noshiro]]\n| directionr2=S\n| majorr2=[[Yamagata]]\n| minorr2=Omagari → [[Yokote]]\n\n| image3=JR Uetsu icon.png\n| imagesize3=100\n| directionl3=U\n| majorl3=AKHIR\n| minorl3=\n| directionr3=S\n| majorr3=[[Niigata]]\n| minorr3=[[Yurihonjo]]\n}}\n\n{{Stub}}\n\n{{IsPartOf|Akita (prefektur)}}\n{{Geo|39.71709083|140.10581083}}"
+}

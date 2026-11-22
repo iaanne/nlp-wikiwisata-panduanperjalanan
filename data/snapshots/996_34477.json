@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Apure",
+  "fetched_at": "2026-11-22T07:45:42.362428+00:00",
+  "title": "Apure",
+  "page_id": 996,
+  "revision_id": "34477",
+  "revision_timestamp": "2026-07-29T13:56:00Z",
+  "sha256": "244f0ce302945321825895d82d0f0faf3eb342ffde63f2b9e99b012ec4270898",
+  "license": "CC BY-SA 4.0",
+  "city": "Apure",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 996,
+          "ns": 0,
+          "title": "Apure",
+          "revisions": [
+            {
+              "revid": 34477,
+              "parentid": 34476,
+              "timestamp": "2026-07-29T13:56:00Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Apure WV Banner.jpg|caption=Achaguas}}\n'''Apure''' merupakan negara bagian berada di wilayah [[Los Llanos (Venezuela)|Los Llanos]] di [[Venezuela]].\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[San Fernando de Apure]]|wikidata=Q990764}}\n* {{Marker|type=city|name=[[Achaguas]]|wikidata=Q742128}} - sebuah kota kecil di pusat negara bagian ini\n* {{Marker|type=city|name=[[Guasdualito]]|wikidata=Q1552906}} - sebuah kota yang dekat dengan perbatasan [[Kolombia]]\n* {{Marker|type=city|name=[[Biruaca]]|wikidata=Q865928}}\n* {{Marker|type=city|name=[[Bruzual]]|wikidata=Q10859337}}\n* {{Marker|type=city|name=[[San Juan de Payara]]|wikidata=Q1007275}}\n* {{Marker|type=city|name=[[Elorza]]|wikidata=Q3051658}}\n\n==Destinasi lainnya==\n* {{Marker|type=city|name=[[Taman Nasional El Tamá]]|wikidata=Q4845608}} - Taman Nasional yang luas ini melintasi ke Kolombia, meskipun ada beberapa fasilitas untuk wisata.\n\n==Pahami==\nApure adalah negara bagian dataran terbesar di Los Llanos dan ibu kota negara bagian San Fernando. Lahan penggembalaan yang datar terbentang sejauh mata memandang.\n\n==Menuju ke sini==\nDari jalan raya [[Caracas]], menuju ke selatan melalui [[Cúa]], melewati [[San Juan de Los Morros]] hingga Anda mencapai San Fernando.\n\n==Berkeliling==\n\n==Lihat==\nSatwa liar sabana yang mengesankan.\n\n==Lakukan==\nMenginap di salah satu ''hatos'' dan pergi bersafari.\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n* Hato El Cedral\n* Hato Araguaquén.\n* Hato el Frío -peternakan dan stasiun biologi.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{Outlineregion}}\n{{IsPartOf|Los Llanos (Venezuela)}}\n\n\n\n{{Geo|7.9|-67.46667|zoom=8}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Apure WV Banner.jpg|caption=Achaguas}}\n'''Apure''' merupakan negara bagian berada di wilayah [[Los Llanos (Venezuela)|Los Llanos]] di [[Venezuela]].\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[San Fernando de Apure]]|wikidata=Q990764}}\n* {{Marker|type=city|name=[[Achaguas]]|wikidata=Q742128}} - sebuah kota kecil di pusat negara bagian ini\n* {{Marker|type=city|name=[[Guasdualito]]|wikidata=Q1552906}} - sebuah kota yang dekat dengan perbatasan [[Kolombia]]\n* {{Marker|type=city|name=[[Biruaca]]|wikidata=Q865928}}\n* {{Marker|type=city|name=[[Bruzual]]|wikidata=Q10859337}}\n* {{Marker|type=city|name=[[San Juan de Payara]]|wikidata=Q1007275}}\n* {{Marker|type=city|name=[[Elorza]]|wikidata=Q3051658}}\n\n==Destinasi lainnya==\n* {{Marker|type=city|name=[[Taman Nasional El Tamá]]|wikidata=Q4845608}} - Taman Nasional yang luas ini melintasi ke Kolombia, meskipun ada beberapa fasilitas untuk wisata.\n\n==Pahami==\nApure adalah negara bagian dataran terbesar di Los Llanos dan ibu kota negara bagian San Fernando. Lahan penggembalaan yang datar terbentang sejauh mata memandang.\n\n==Menuju ke sini==\nDari jalan raya [[Caracas]], menuju ke selatan melalui [[Cúa]], melewati [[San Juan de Los Morros]] hingga Anda mencapai San Fernando.\n\n==Berkeliling==\n\n==Lihat==\nSatwa liar sabana yang mengesankan.\n\n==Lakukan==\nMenginap di salah satu ''hatos'' dan pergi bersafari.\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n* Hato El Cedral\n* Hato Araguaquén.\n* Hato el Frío -peternakan dan stasiun biologi.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{Outlineregion}}\n{{IsPartOf|Los Llanos (Venezuela)}}\n\n\n\n{{Geo|7.9|-67.46667|zoom=8}}"
+}

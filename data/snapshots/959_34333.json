@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alexander+City+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:41:41.241996+00:00",
+  "title": "Alexander City (Alabama)",
+  "page_id": 959,
+  "revision_id": "34333",
+  "revision_timestamp": "2026-07-28T07:16:01Z",
+  "sha256": "cff4deb41d2a7ab2f53edfea1cc964ce8f97e94107a010515b9631c79b15b649",
+  "license": "CC BY-SA 4.0",
+  "city": "Alexander City (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 959,
+          "ns": 0,
+          "title": "Alexander City (Alabama)",
+          "revisions": [
+            {
+              "revid": 34333,
+              "parentid": 23369,
+              "timestamp": "2026-07-28T07:16:01Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Alexander City''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\nT.C. Russell Field Airport (KALX), di luar US Highway 280 yang berdekatan dengan Airport Industrial Park, dimiliki dan dikelola oleh City of Alexander City. KALX tidak menyediakan layanan penumpang terjadwal. Bandara besar terdekat adalah Birmingham dan Montgomery.\n\n=== Kereta ===\nAlexander City tidak memiliki stasiun kereta api. \n\nLayanan penumpang kereta api terdekat disediakan di Anniston, yang dilayani setiap hari oleh Amtrak's The Crescent ke Washington DC, Baltimore, Philadelphia, dan New York.\n\n=== Jalan darat ===\nAlexander City terletak di Rute 280 AS.\n\n=== Bus ===\nAlexander City tidak memiliki layanan bus antarkota terjadwal. Ada layanan yang disediakan oleh Arise Transportation yang menjadwalkan perjalanan satu kali dengan pemberitahuan 24 jam sebelumnya.\n\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Albertville (Alabama)|Albertville]]\n* [[Aliceville (Alabama)|Aliceville]]\n* [[Allgood (Alabama)|Allgood]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Alexander City''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\nT.C. Russell Field Airport (KALX), di luar US Highway 280 yang berdekatan dengan Airport Industrial Park, dimiliki dan dikelola oleh City of Alexander City. KALX tidak menyediakan layanan penumpang terjadwal. Bandara besar terdekat adalah Birmingham dan Montgomery.\n\n=== Kereta ===\nAlexander City tidak memiliki stasiun kereta api. \n\nLayanan penumpang kereta api terdekat disediakan di Anniston, yang dilayani setiap hari oleh Amtrak's The Crescent ke Washington DC, Baltimore, Philadelphia, dan New York.\n\n=== Jalan darat ===\nAlexander City terletak di Rute 280 AS.\n\n=== Bus ===\nAlexander City tidak memiliki layanan bus antarkota terjadwal. Ada layanan yang disediakan oleh Arise Transportation yang menjadwalkan perjalanan satu kali dengan pemberitahuan 24 jam sebelumnya.\n\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Albertville (Alabama)|Albertville]]\n* [[Aliceville (Alabama)|Aliceville]]\n* [[Allgood (Alabama)|Allgood]]"
+}

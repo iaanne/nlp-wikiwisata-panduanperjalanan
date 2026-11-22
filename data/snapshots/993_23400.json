@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Antrim",
+  "fetched_at": "2026-11-22T07:45:40.398737+00:00",
+  "title": "Antrim",
+  "page_id": 993,
+  "revision_id": "23400",
+  "revision_timestamp": "2024-12-04T08:35:54Z",
+  "sha256": "b156b47504bed8e224d6602ad9de338fe0763b0f61c97ad1e8a44945d676c3d2",
+  "license": "CC BY-SA 4.0",
+  "city": "Antrim",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 993,
+          "ns": 0,
+          "title": "Antrim",
+          "revisions": [
+            {
+              "revid": 23400,
+              "parentid": 4636,
+              "timestamp": "2024-12-04T08:35:54Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Antrim'''.\n\n===[[Britania Raya]]===\n* [[Antrim (kota)]] - sebuah kota di [[County Antrim]], [[Irlandia Utara]]\n* [[County Antrim]] - sebuah county di [[Irlandia Utara]]\n\n===[[Amerika Serikat]]===\n* [[Antrim (New Hampshire)]] - sebuah kota di [[County Hillsborough (New Hampshire)]], [[New Hampshire]]\n* [[Antrim County (Michigan)]] - sebuah county di negara bagian [[Michigan]]\n----\n\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Antrim'''.\n\n===[[Britania Raya]]===\n* [[Antrim (kota)]] - sebuah kota di [[County Antrim]], [[Irlandia Utara]]\n* [[County Antrim]] - sebuah county di [[Irlandia Utara]]\n\n===[[Amerika Serikat]]===\n* [[Antrim (New Hampshire)]] - sebuah kota di [[County Hillsborough (New Hampshire)]], [[New Hampshire]]\n* [[Antrim County (Michigan)]] - sebuah county di negara bagian [[Michigan]]\n----\n\n\n{{Disamb}}"
+}

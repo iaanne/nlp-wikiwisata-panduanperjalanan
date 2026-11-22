@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Banlung",
+  "fetched_at": "2026-11-22T07:53:45.729509+00:00",
+  "title": "Banlung",
+  "page_id": 4233,
+  "revision_id": "35869",
+  "revision_timestamp": "2026-08-14T15:27:22Z",
+  "sha256": "1641c8bea8abd96eb2411ba3837408bae4aba0fa92d14f0d957cf7d6e8690497",
+  "license": "CC BY-SA 4.0",
+  "city": "Banlung",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4233,
+          "ns": 0,
+          "title": "Banlung",
+          "revisions": [
+            {
+              "revid": 35869,
+              "parentid": 0,
+              "timestamp": "2026-08-14T15:27:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "(បានលុង), meskipun merupakan kota kecil, adalah ibu kota Provinsi '''Ratanakiri''' di Kamboja Timur .\n\nBagian negara ini sebagian besar berupa hutan lebat, yang kemudian beralih ke pertanian perkebunan (karet, kacang mete, dan kelapa sawit) dan merupakan rumah bagi 12 kelompok etnis minoritas, sehingga provinsi ini memiliki nuansa \"pinggiran peradaban\". Namun, kota ini terus berkembang, jalan-jalan baru sedang dibangun, dan beberapa hal berubah dengan cukup cepat."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "(បានលុង), meskipun merupakan kota kecil, adalah ibu kota Provinsi '''Ratanakiri''' di Kamboja Timur .\n\nBagian negara ini sebagian besar berupa hutan lebat, yang kemudian beralih ke pertanian perkebunan (karet, kacang mete, dan kelapa sawit) dan merupakan rumah bagi 12 kelompok etnis minoritas, sehingga provinsi ini memiliki nuansa \"pinggiran peradaban\". Namun, kota ini terus berkembang, jalan-jalan baru sedang dibangun, dan beberapa hal berubah dengan cukup cepat."
+}

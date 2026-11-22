@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bisayak+Tengah",
+  "fetched_at": "2026-11-22T08:02:43.665364+00:00",
+  "title": "Bisayak Tengah",
+  "page_id": 1153,
+  "revision_id": "23526",
+  "revision_timestamp": "2024-12-04T08:40:46Z",
+  "sha256": "9d4a3c6a86393c68aaedf579692de57c9b6aa845551c05b9b6a7ad7e74ae791b",
+  "license": "CC BY-SA 4.0",
+  "city": "Bisayak Tengah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1153,
+          "ns": 0,
+          "title": "Bisayak Tengah",
+          "revisions": [
+            {
+              "revid": 23526,
+              "parentid": 6811,
+              "timestamp": "2024-12-04T08:40:46Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner Central Visayas Siquijor silhouette.jpg}}\n'''Bisayak Tengah''' (Wilayah VII) adalah salah satu wilayah administratif [[Filipina]], dan bagian dari kelompok pulau [[Bisayak]]. Bisayak adalah sepertiga Filipina tengah, jadi wilayah ini kira-kira berada di tengah negara.\n\nWilayah ini memiliki beberapa pantai yang indah, banyak tempat menyelam, serta di [[Kota Cebu]] terdapat markah tanah bersejarah yang berasal dari tahun 1521. Pulau [[Bohol]] memiliki Bukit Cokelat yang menawan dan tarsius kecil dan populer di kalangan wisatawan liburan, terutama orang Korea dan Jepang.\n\n{{Geo|10.0000|123.5000|zoom=7}}\n{{IsPartOf|Bisayak}}\n{{Extraregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner Central Visayas Siquijor silhouette.jpg}}\n'''Bisayak Tengah''' (Wilayah VII) adalah salah satu wilayah administratif [[Filipina]], dan bagian dari kelompok pulau [[Bisayak]]. Bisayak adalah sepertiga Filipina tengah, jadi wilayah ini kira-kira berada di tengah negara.\n\nWilayah ini memiliki beberapa pantai yang indah, banyak tempat menyelam, serta di [[Kota Cebu]] terdapat markah tanah bersejarah yang berasal dari tahun 1521. Pulau [[Bohol]] memiliki Bukit Cokelat yang menawan dan tarsius kecil dan populer di kalangan wisatawan liburan, terutama orang Korea dan Jepang.\n\n{{Geo|10.0000|123.5000|zoom=7}}\n{{IsPartOf|Bisayak}}\n{{Extraregion}}"
+}

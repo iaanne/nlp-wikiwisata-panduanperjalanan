@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beaufort+%28Sabah%29",
+  "fetched_at": "2026-11-22T07:57:43.637939+00:00",
+  "title": "Beaufort (Sabah)",
+  "page_id": 1106,
+  "revision_id": "35242",
+  "revision_timestamp": "2026-08-06T04:13:54Z",
+  "sha256": "612a1b9cbd82e9c68f6c584aca70676286337f1341dfa845159785e2e32191df",
+  "license": "CC BY-SA 4.0",
+  "city": "Beaufort (Sabah)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1106,
+          "ns": 0,
+          "title": "Beaufort (Sabah)",
+          "revisions": [
+            {
+              "revid": 35242,
+              "parentid": 30095,
+              "timestamp": "2026-08-06T04:13:54Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "[[Berkas:Beaufort Sabah OldShophouses-03.jpg|thumb]]\n'''Beaufort''' adalah kota kecil di barat daya [[Sabah]], [[Malaysia]].\n\n== Pahami ==\n\n==Menuju ke sini==\nBeaufort berjarak 92 km dari selatan [[Kota Kinabalu]]\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "[[Berkas:Beaufort Sabah OldShophouses-03.jpg|thumb]]\n'''Beaufort''' adalah kota kecil di barat daya [[Sabah]], [[Malaysia]].\n\n== Pahami ==\n\n==Menuju ke sini==\nBeaufort berjarak 92 km dari selatan [[Kota Kinabalu]]\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n\n{{Stub}}"
+}

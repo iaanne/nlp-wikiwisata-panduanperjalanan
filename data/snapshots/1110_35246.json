@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Begusarai",
+  "fetched_at": "2026-11-22T07:57:45.460004+00:00",
+  "title": "Begusarai",
+  "page_id": 1110,
+  "revision_id": "35246",
+  "revision_timestamp": "2026-08-06T04:20:35Z",
+  "sha256": "fed532b0a11b42cf9f8e5a7e953910a2db41766db6f2f4f2b827aca9e38a281c",
+  "license": "CC BY-SA 4.0",
+  "city": "Begusarai",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1110,
+          "ns": 0,
+          "title": "Begusarai",
+          "revisions": [
+            {
+              "revid": 35246,
+              "parentid": 23490,
+              "timestamp": "2026-08-06T04:20:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n'''Begusarai''' adalah kota berpenduduk 250.000 orang (2011) di [[Mithila]], wilayah [[Bihar]].\n\n==Pahami==\nPertanian adalah andalan perekonomian kota ini. Hasil bumi utama disini adalah minyak sayur, adas manis/tisi, tembakau, goni, kentang, cabai merah, tomat dan biji lobak. Begusarai telah menjadi kontributor utama dalam memproduksi lengkeng, mangga, jambu biji dan pisang. Budidaya daun kemangi dan mutiara juga menarik minat para petani lokal.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n* Suaka Burung Danau Kanwar. Berisi burung migran langka dan terancam punah dan ada Danau Oxbow yang besar.\n* Kuil Jai Mangla (di Danau Kanwar)\n* Kuil Naulakha\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Mithila}}\n{{Outlinecity}}\n{{Geo|25.42|86.13}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n'''Begusarai''' adalah kota berpenduduk 250.000 orang (2011) di [[Mithila]], wilayah [[Bihar]].\n\n==Pahami==\nPertanian adalah andalan perekonomian kota ini. Hasil bumi utama disini adalah minyak sayur, adas manis/tisi, tembakau, goni, kentang, cabai merah, tomat dan biji lobak. Begusarai telah menjadi kontributor utama dalam memproduksi lengkeng, mangga, jambu biji dan pisang. Budidaya daun kemangi dan mutiara juga menarik minat para petani lokal.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n* Suaka Burung Danau Kanwar. Berisi burung migran langka dan terancam punah dan ada Danau Oxbow yang besar.\n* Kuil Jai Mangla (di Danau Kanwar)\n* Kuil Naulakha\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Mithila}}\n{{Outlinecity}}\n{{Geo|25.42|86.13}}"
+}

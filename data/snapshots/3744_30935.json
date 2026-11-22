@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bak+Pasir",
+  "fetched_at": "2026-11-22T07:50:40.236991+00:00",
+  "title": "Bak Pasir",
+  "page_id": 3744,
+  "revision_id": "30935",
+  "revision_timestamp": "2025-12-04T12:28:52Z",
+  "sha256": "230dfefe3e049cec1aa0c1ea95638321186c36b563afe098081f8b70974144fd",
+  "license": "CC BY-SA 4.0",
+  "city": "Bak Pasir",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3744,
+          "ns": 0,
+          "title": "Bak Pasir",
+          "revisions": [
+            {
+              "revid": 30935,
+              "parentid": 30193,
+              "timestamp": "2025-12-04T12:28:52Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Judul = Kearifan Lokal Mandailing\n\n= Kearifan Lokal Budaya Mandailing — Aturan dan Etika Lokal =\n\n== Larangan ==\n\n* '''Perempuan dilarang keluar rumah setelah pukul 20.00 jika memakai celana panjang.'''   Jika harus keluar, wajib menambahkan '''kain/sarung''' sebagai penutup pinggang hingga bawah.\n* Tidak diperbolehkan '''berpakaian ketat, minim, atau tidak sopan''' saat berada di lingkungan kampung adat.\n* '''Tidak boleh berbicara keras atau ribut''' pada malam hari di area perkampungan.\n* '''Tidak boleh masuk ke rumah warga dengan alas kaki.'''\n* '''Tidak boleh memfoto area atau kegiatan adat''' tanpa izin tokoh atau pemilik rumah.\n* '''Tidak boleh membuang sampah di sungai''' atau tempat yang dianggap sakral.\n* '''Tidak boleh duduk di tangga rumah orang''' tanpa diundang.\n\n== Hal yang Boleh Dilakukan ==\n\n* Menggunakan '''pakaian sopan dan tertutup''', terutama saat berjalan di kampung adat.\n* Mengucapkan '''salam''' atau menyapa warga saat memasuki perkampungan.\n* Meminta izin sebelum memotret, masuk rumah, atau mengunjungi lokasi adat.\n* Melapor ke '''kepala desa atau tokoh adat''' jika datang sebagai rombongan.\n* Mengikuti aturan lokal terkait penggunaan jalan, pancuran air, atau tempat ibadah.\n* Menjaga '''ketenangan dan kesopanan''' sebagai bentuk penghormatan pada masyarakat setempat."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Judul = Kearifan Lokal Mandailing\n\n= Kearifan Lokal Budaya Mandailing — Aturan dan Etika Lokal =\n\n== Larangan ==\n\n* '''Perempuan dilarang keluar rumah setelah pukul 20.00 jika memakai celana panjang.'''   Jika harus keluar, wajib menambahkan '''kain/sarung''' sebagai penutup pinggang hingga bawah.\n* Tidak diperbolehkan '''berpakaian ketat, minim, atau tidak sopan''' saat berada di lingkungan kampung adat.\n* '''Tidak boleh berbicara keras atau ribut''' pada malam hari di area perkampungan.\n* '''Tidak boleh masuk ke rumah warga dengan alas kaki.'''\n* '''Tidak boleh memfoto area atau kegiatan adat''' tanpa izin tokoh atau pemilik rumah.\n* '''Tidak boleh membuang sampah di sungai''' atau tempat yang dianggap sakral.\n* '''Tidak boleh duduk di tangga rumah orang''' tanpa diundang.\n\n== Hal yang Boleh Dilakukan ==\n\n* Menggunakan '''pakaian sopan dan tertutup''', terutama saat berjalan di kampung adat.\n* Mengucapkan '''salam''' atau menyapa warga saat memasuki perkampungan.\n* Meminta izin sebelum memotret, masuk rumah, atau mengunjungi lokasi adat.\n* Melapor ke '''kepala desa atau tokoh adat''' jika datang sebagai rombongan.\n* Mengikuti aturan lokal terkait penggunaan jalan, pancuran air, atau tempat ibadah.\n* Menjaga '''ketenangan dan kesopanan''' sebagai bentuk penghormatan pada masyarakat setempat."
+}

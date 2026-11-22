@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Anyer",
+  "fetched_at": "2026-11-22T07:45:41.106888+00:00",
+  "title": "Anyer",
+  "page_id": 994,
+  "revision_id": "38769",
+  "revision_timestamp": "2026-10-24T09:57:03Z",
+  "sha256": "f8c5efa13f7b92e87b72c3336ff4889b205b552270da46c5943168be1222f22a",
+  "license": "CC BY-SA 4.0",
+  "city": "Anyer",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 994,
+          "ns": 0,
+          "title": "Anyer",
+          "revisions": [
+            {
+              "revid": 38769,
+              "parentid": 37310,
+              "timestamp": "2026-10-24T09:57:03Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Banner Anyer.jpg|caption=}}\n'''Anyer''' adalah kota resor pantai di provinsi [[Banten]], [[Jawa Barat]], [[Indonesia]]. Ini adalah kawasan pantai paling terkenal di pantai barat Jawa karena relatif mudah dijangkau dari ibu kota [[Jakarta]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n=== Dengan angkutan umum ===\nAnda dapat mengunjungi Pantai Anyer menggunakan transportasi umum seperti Angkutan Kota (Angkot). Adapun pilihan angkot yang dapat digunakan sebagai tujuan ialah:\n\n* Jika anda ingin melanjutkan destinasi dari '''Stasiun Cilegon''', anda dapat menggunakan Angkot trayek antara lain:\n\n# '''Trayek A01''' rute Cilegon – Anyer dengan angkot berwarna silver.\n# '''Trayek A02''' rute Cilegon – Mancak – Anyer yang juga berwarna silver.\n\n* Sedangkan, destinasi yang bisa anda lanjutkan dari '''Stasiun Krenceng''', anda dapat menggunakan Angkot '''Trayek A01''' rute Cilegon – Anyer.\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\nDaerah Anyer pada dasarnya adalah sebuah pantai. Sangat cantik saat matahari terbenam. Anda juga dapat menyewa perahu untuk pergi ke gunung berapi [[Krakatau]].\n{{Geo|-6.0667|105.8833}}\n{{IsPartOf|Banten}}\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Serang}}\n\n* [[Merak]] — kepulauan dan pelabuhan terkenal dari ujung barat pulau Jawa.\n* [[Cilegon]] — kota Industri yang dikenal dengan julukan \"Kota Baja\".\n* [[Taman Nasional Ujung Kulon]]\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Banner Anyer.jpg|caption=}}\n'''Anyer''' adalah kota resor pantai di provinsi [[Banten]], [[Jawa Barat]], [[Indonesia]]. Ini adalah kawasan pantai paling terkenal di pantai barat Jawa karena relatif mudah dijangkau dari ibu kota [[Jakarta]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n=== Dengan angkutan umum ===\nAnda dapat mengunjungi Pantai Anyer menggunakan transportasi umum seperti Angkutan Kota (Angkot). Adapun pilihan angkot yang dapat digunakan sebagai tujuan ialah:\n\n* Jika anda ingin melanjutkan destinasi dari '''Stasiun Cilegon''', anda dapat menggunakan Angkot trayek antara lain:\n\n# '''Trayek A01''' rute Cilegon – Anyer dengan angkot berwarna silver.\n# '''Trayek A02''' rute Cilegon – Mancak – Anyer yang juga berwarna silver.\n\n* Sedangkan, destinasi yang bisa anda lanjutkan dari '''Stasiun Krenceng''', anda dapat menggunakan Angkot '''Trayek A01''' rute Cilegon – Anyer.\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\nDaerah Anyer pada dasarnya adalah sebuah pantai. Sangat cantik saat matahari terbenam. Anda juga dapat menyewa perahu untuk pergi ke gunung berapi [[Krakatau]].\n{{Geo|-6.0667|105.8833}}\n{{IsPartOf|Banten}}\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Serang}}\n\n* [[Merak]] — kepulauan dan pelabuhan terkenal dari ujung barat pulau Jawa.\n* [[Cilegon]] — kota Industri yang dikenal dengan julukan \"Kota Baja\".\n* [[Taman Nasional Ujung Kulon]]\n{{Stub}}"
+}

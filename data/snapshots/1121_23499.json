@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beneluks",
+  "fetched_at": "2026-11-22T07:59:39.921529+00:00",
+  "title": "Beneluks",
+  "page_id": 1121,
+  "revision_id": "23499",
+  "revision_timestamp": "2024-12-04T08:39:44Z",
+  "sha256": "15e09f8a3e15835cbdacb243974509048dec0ba627e0ae49f50142557b32a880",
+  "license": "CC BY-SA 4.0",
+  "city": "Beneluks",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1121,
+          "ns": 0,
+          "title": "Beneluks",
+          "revisions": [
+            {
+              "revid": 23499,
+              "parentid": 6464,
+              "timestamp": "2024-12-04T08:39:44Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Marken, the Netherlands banner.jpg}}\n'''Beneluks''' adalah serikat ekonomi yang terdiri dari tiga monarki yang saling bersebelahan: [[Belgia|'''Be'''lgium]], [[Belanda|'''Ne'''therlands]], dan [[Luksemburg|'''Luks'''emburg]]. Nama tersebut dibentuk dari awal nama masing-masing negara. Ini merupakan pendahulu dari Uni Eropa.\n\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n==Tujuan berikutnya==\n{{Stub}}\n{{IsPartOf|Eropa}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Marken, the Netherlands banner.jpg}}\n'''Beneluks''' adalah serikat ekonomi yang terdiri dari tiga monarki yang saling bersebelahan: [[Belgia|'''Be'''lgium]], [[Belanda|'''Ne'''therlands]], dan [[Luksemburg|'''Luks'''emburg]]. Nama tersebut dibentuk dari awal nama masing-masing negara. Ini merupakan pendahulu dari Uni Eropa.\n\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n==Tujuan berikutnya==\n{{Stub}}\n{{IsPartOf|Eropa}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aragon",
+  "fetched_at": "2026-11-22T07:45:44.181577+00:00",
+  "title": "Aragon",
+  "page_id": 999,
+  "revision_id": "34488",
+  "revision_timestamp": "2026-07-29T14:06:53Z",
+  "sha256": "5578ba535dee58f48563bbf2ed5bae013b44ab63df03f11010ca57ff25950f2c",
+  "license": "CC BY-SA 4.0",
+  "city": "Aragon",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 999,
+          "ns": 0,
+          "title": "Aragon",
+          "revisions": [
+            {
+              "revid": 34488,
+              "parentid": 34487,
+              "timestamp": "2026-07-29T14:06:53Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Aragon''' (Spanyol: ''Aragón'', Aragon: ''Aragón'', Catalan: ''Aragó'') adalah sebuah wilayah di utara [[Spanyol]].\n\n[[Berkas:AragonProvinces_Outline_Spain.png|thumb|right|300px|Peta Aragon (dengan provinsi-provinsi)]]\n\n==Kota== \n* [[Ainsa]] \n* [[Alquezar]] \n* [[Barbastro]]\n* [[Calatayud]]\n* [[Campo]]\n* [[Echo]]\n* [[Hecho]]\n* [[Huesca]]\n* [[Jaca]]\n* [[Monegros]]\n* [[Murillo de Gallego]]\n* [[Teruel]]\n* [[Torla]]\n* [[Villanueva de Sigena]] \n* [[Zaragoza]] (juga dikenal sebagai Saragossa)\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Aragon''' (Spanyol: ''Aragón'', Aragon: ''Aragón'', Catalan: ''Aragó'') adalah sebuah wilayah di utara [[Spanyol]].\n\n[[Berkas:AragonProvinces_Outline_Spain.png|thumb|right|300px|Peta Aragon (dengan provinsi-provinsi)]]\n\n==Kota== \n* [[Ainsa]] \n* [[Alquezar]] \n* [[Barbastro]]\n* [[Calatayud]]\n* [[Campo]]\n* [[Echo]]\n* [[Hecho]]\n* [[Huesca]]\n* [[Jaca]]\n* [[Monegros]]\n* [[Murillo de Gallego]]\n* [[Teruel]]\n* [[Torla]]\n* [[Villanueva de Sigena]] \n* [[Zaragoza]] (juga dikenal sebagai Saragossa)\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

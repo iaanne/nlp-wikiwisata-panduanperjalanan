@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Arang",
+  "fetched_at": "2026-11-22T07:45:44.762057+00:00",
+  "title": "Arang",
+  "page_id": 1000,
+  "revision_id": "34489",
+  "revision_timestamp": "2026-07-29T14:07:51Z",
+  "sha256": "a4dd181250ce2018e814b40e4ed8b7188770cfba31a51f11de11f3172eb11b7e",
+  "license": "CC BY-SA 4.0",
+  "city": "Arang",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1000,
+          "ns": 0,
+          "title": "Arang",
+          "revisions": [
+            {
+              "revid": 34489,
+              "parentid": 23406,
+              "timestamp": "2026-07-29T14:07:51Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Arang''', yang dikenal sebagai \"Kota kuil\" Chhattisgarh, berada di dekat batas timur [[Raipur]] di [[Chhattisgarh]]. Kota ini terkenal dengan banyaknya kuil Jain dan Hindu yang berasal dari abad ke-11 dan ke-12.\n\n==Pahami==\nKegiatan perekonomian di kota ini sebagian besar berkaitan dengan industri kecil penggilingan padi dan palawija, serta berbagai jenis hasil hutan. Wisata religi merupakan yang terbaik.\n\n==Menuju ke sini==\nJaraknya 36 kilometer (22 mil) dari Raipur di Jalan Raya Nasional 53 (N.H.53), sebuah jalan tol empat jalur menuju Durg yang melewati Arang.\n\nBandara terdekat adalah Bandara Raipur dekat Mana Camp, yang berjarak 23,8 kilometer (14,8 mil) dari Arang.\n\n==Berkeliling==\n\n==Lihat==\n[[Berkas:9th century Bhand Deul Jain brick temple, Arang Chhattisgarh.jpg|thumb|Kuil bata Bhand Dewal Jain.]]\n* {{See\n| name=Kuil Bagh Deval | alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Dibangun sebagai kuil Jain pada abad ke-11.\n}}\n* {{See\n| name=Kuil Bhand Dewal| alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Sebuah kuil Jain yang dibangun pada akhir abad ke-11 di daerah Mahakosala Arang dengan gaya arsitektur Bhumija.\n}}\n* {{See\n| name=Kuil Mahamaya | alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Kuil Mahamaya memiliki tiga gambar Tirthankaras yang berukuran sangat besar. Ada juga patung batu tunggal besar dengan ilustrasi 24 Tirthankara yang terukir di atasnya.\n}}\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n== Tujuan berikutnya==\n\n{{IsPartOf|Chhattisgarh}}\n{{Outlinecity}}\n{{Geo|21.200|81.970}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Arang''', yang dikenal sebagai \"Kota kuil\" Chhattisgarh, berada di dekat batas timur [[Raipur]] di [[Chhattisgarh]]. Kota ini terkenal dengan banyaknya kuil Jain dan Hindu yang berasal dari abad ke-11 dan ke-12.\n\n==Pahami==\nKegiatan perekonomian di kota ini sebagian besar berkaitan dengan industri kecil penggilingan padi dan palawija, serta berbagai jenis hasil hutan. Wisata religi merupakan yang terbaik.\n\n==Menuju ke sini==\nJaraknya 36 kilometer (22 mil) dari Raipur di Jalan Raya Nasional 53 (N.H.53), sebuah jalan tol empat jalur menuju Durg yang melewati Arang.\n\nBandara terdekat adalah Bandara Raipur dekat Mana Camp, yang berjarak 23,8 kilometer (14,8 mil) dari Arang.\n\n==Berkeliling==\n\n==Lihat==\n[[Berkas:9th century Bhand Deul Jain brick temple, Arang Chhattisgarh.jpg|thumb|Kuil bata Bhand Dewal Jain.]]\n* {{See\n| name=Kuil Bagh Deval | alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Dibangun sebagai kuil Jain pada abad ke-11.\n}}\n* {{See\n| name=Kuil Bhand Dewal| alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Sebuah kuil Jain yang dibangun pada akhir abad ke-11 di daerah Mahakosala Arang dengan gaya arsitektur Bhumija.\n}}\n* {{See\n| name=Kuil Mahamaya | alt= | url= | email=\n| address= | lat=21.19429 | long=81.96461 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Kuil Mahamaya memiliki tiga gambar Tirthankaras yang berukuran sangat besar. Ada juga patung batu tunggal besar dengan ilustrasi 24 Tirthankara yang terukir di atasnya.\n}}\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n== Tujuan berikutnya==\n\n{{IsPartOf|Chhattisgarh}}\n{{Outlinecity}}\n{{Geo|21.200|81.970}}"
+}

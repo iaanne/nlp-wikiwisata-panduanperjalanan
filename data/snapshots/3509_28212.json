@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Belize+Utara",
+  "fetched_at": "2026-11-22T07:58:46.395717+00:00",
+  "title": "Belize Utara",
+  "page_id": 3509,
+  "revision_id": "28212",
+  "revision_timestamp": "2025-07-03T02:54:26Z",
+  "sha256": "ef94d6b2a05920b3d37dd5fe277df67233369f702b087ced6b7eafe72e2f31c7",
+  "license": "CC BY-SA 4.0",
+  "city": "Belize Utara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3509,
+          "ns": 0,
+          "title": "Belize Utara",
+          "revisions": [
+            {
+              "revid": 28212,
+              "parentid": 0,
+              "timestamp": "2025-07-03T02:54:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Lamanai banner (Jaguar Temple).jpg}}\n'''[http://www.northernbelize.com/ Belize Utara]''' adalah wilayah yang terdiri dari distrik administratif Belize, Orange Walk dan Corozal.\n\n==Kota==\n{{mapframe}}\n*{{marker|type=city|name=[[Corozal Town]]|wikidata=Q882907}} - ibu kota disrtik dengan nama yang sama\n*{{marker|type=city|name=[[Orange Walk Town]]|wikidata=Q882964}} - ibu kota disrtik dengan nama yang sama\n*{{marker|type=city|name=[[August Pine Ridge]]|wikidata=}}\n*{{marker|type=city|name=[[Cerros]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Chan Chich]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Copper Bank]]|wikidata=}}\n*{{marker|type=city|name=[[Cuello]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Lamanai]]|wikidata=Q968562}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[La Milpa]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Progresso]]|wikidata=}}\n*{{marker|type=city|name=[[San Estevan]]|wikidata=}}\n*{{marker|type=city|name=[[San Pablo (Belize)|San Pablo]]|wikidata=}}\n*{{marker|type=city|name=[[Santa Elena (Belize)|Santa Elena]]|wikidata=}}\n*{{marker|type=city|name=[[Santa Rita]]|wikidata=}} - reruntuhan peradaban Maya\n\n==Destinasi lainnya==\n*{{marker|name=Rio Bravo|wikipedia=Rio Bravo Conservation and Management Area|lat=17.68914585267677|long=-88.80719254170285}} - suaka Margasatwa\n*{{marker|name=Shipstern Nature Reserve|lat=18.31773039626383|long=-88.18325022593194|wikidata=Q14220300}} - suaka Margasatwa\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tetap aman==\n\n==Tujuan berikutnya==\n\n{{outlineregion}}\n{{IsPartOf|Belize}}\n{{geo|17.82|-88.67|zoom=9}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Lamanai banner (Jaguar Temple).jpg}}\n'''[http://www.northernbelize.com/ Belize Utara]''' adalah wilayah yang terdiri dari distrik administratif Belize, Orange Walk dan Corozal.\n\n==Kota==\n{{mapframe}}\n*{{marker|type=city|name=[[Corozal Town]]|wikidata=Q882907}} - ibu kota disrtik dengan nama yang sama\n*{{marker|type=city|name=[[Orange Walk Town]]|wikidata=Q882964}} - ibu kota disrtik dengan nama yang sama\n*{{marker|type=city|name=[[August Pine Ridge]]|wikidata=}}\n*{{marker|type=city|name=[[Cerros]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Chan Chich]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Copper Bank]]|wikidata=}}\n*{{marker|type=city|name=[[Cuello]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Lamanai]]|wikidata=Q968562}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[La Milpa]]|wikidata=}} - reruntuhan peradaban Maya\n*{{marker|type=city|name=[[Progresso]]|wikidata=}}\n*{{marker|type=city|name=[[San Estevan]]|wikidata=}}\n*{{marker|type=city|name=[[San Pablo (Belize)|San Pablo]]|wikidata=}}\n*{{marker|type=city|name=[[Santa Elena (Belize)|Santa Elena]]|wikidata=}}\n*{{marker|type=city|name=[[Santa Rita]]|wikidata=}} - reruntuhan peradaban Maya\n\n==Destinasi lainnya==\n*{{marker|name=Rio Bravo|wikipedia=Rio Bravo Conservation and Management Area|lat=17.68914585267677|long=-88.80719254170285}} - suaka Margasatwa\n*{{marker|name=Shipstern Nature Reserve|lat=18.31773039626383|long=-88.18325022593194|wikidata=Q14220300}} - suaka Margasatwa\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tetap aman==\n\n==Tujuan berikutnya==\n\n{{outlineregion}}\n{{IsPartOf|Belize}}\n{{geo|17.82|-88.67|zoom=9}}"
+}

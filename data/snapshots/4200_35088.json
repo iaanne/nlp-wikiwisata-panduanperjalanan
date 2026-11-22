@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bornholm",
+  "fetched_at": "2026-11-22T08:04:45.638081+00:00",
+  "title": "Bornholm",
+  "page_id": 4200,
+  "revision_id": "35088",
+  "revision_timestamp": "2026-08-05T04:13:38Z",
+  "sha256": "a0ca8f5bc2b28feb7ac4b434b58728e5776331203e1f9f807d8547d5f1808554",
+  "license": "CC BY-SA 4.0",
+  "city": "Bornholm",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4200,
+          "ns": 0,
+          "title": "Bornholm",
+          "revisions": [
+            {
+              "revid": 35088,
+              "parentid": 35087,
+              "timestamp": "2026-08-05T04:13:38Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bornholm''' merupakan pulau di wilayah Denmark yang terletak di lepas pantai swedia di Laut Baltik.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bornholm''' merupakan pulau di wilayah Denmark yang terletak di lepas pantai swedia di Laut Baltik.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

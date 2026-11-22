@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangsal",
+  "fetched_at": "2026-11-22T07:53:42.846519+00:00",
+  "title": "Bangsal",
+  "page_id": 1081,
+  "revision_id": "34868",
+  "revision_timestamp": "2026-08-03T07:49:48Z",
+  "sha256": "21febc1eb2c4ca215c54912065e7685677235016d84d3edf9f75089da2567ddc",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangsal",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1081,
+          "ns": 0,
+          "title": "Bangsal",
+          "revisions": [
+            {
+              "revid": 34868,
+              "parentid": 34867,
+              "timestamp": "2026-08-03T07:49:48Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Banner Bangsal.jpg|caption=}}\n'''Bangsal''' adalah pelabuhan kecil yang terletak di timur laut [[Lombok]]. Pelabuhan ini berlokasi kira-kira 1 kilometer dari kota [[Pemenang]]. Pelabuhan ini biasanya digunakan sebagai titik transfer untuk ke dan dari [[Kepulauan Gili]].\n\n== Pahami ==\n\n== Menuju ke sana ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Geo|-8.39526|116.09903|zoom=16}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Banner Bangsal.jpg|caption=}}\n'''Bangsal''' adalah pelabuhan kecil yang terletak di timur laut [[Lombok]]. Pelabuhan ini berlokasi kira-kira 1 kilometer dari kota [[Pemenang]]. Pelabuhan ini biasanya digunakan sebagai titik transfer untuk ke dan dari [[Kepulauan Gili]].\n\n== Pahami ==\n\n== Menuju ke sana ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Geo|-8.39526|116.09903|zoom=16}}\n{{Stub}}"
+}

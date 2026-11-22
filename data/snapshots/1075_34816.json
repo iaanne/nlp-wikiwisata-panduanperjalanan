@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangka+%28Sumatera%29",
+  "fetched_at": "2026-11-22T07:52:45.574085+00:00",
+  "title": "Bangka (Sumatera)",
+  "page_id": 1075,
+  "revision_id": "34816",
+  "revision_timestamp": "2026-08-03T07:01:14Z",
+  "sha256": "e1113765f61f2764b974fcd61859f1271b956df1a403cffaf884d45d552ba4cc",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangka (Sumatera)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1075,
+          "ns": 0,
+          "title": "Bangka (Sumatera)",
+          "revisions": [
+            {
+              "revid": 34816,
+              "parentid": 34815,
+              "timestamp": "2026-08-03T07:01:14Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|pgname=Bangka}}\n{{Confused|[[Bangka (Sulawesi)]]}}\n'''Bangka ''' adalah salah satu dari dua pulau utama di provinsi [[Bangka-Belitung]] di [[Indonesia]]. Pulau ini telah berkembang sebagai pusat perekonomian.\n==Kota==\n{{Mapframe}}\n{{Mapshape}}\n* {{Marker|type=city|name=[[Pangkal Pinang]]|wikidata=Q8179}} &mdash; ibukota Provinsi Bangka-Belitung\n* {{Marker|type=city|name=[[Mentok]]|wikidata=Q1948643}} &mdash; ibukota Kabupaten Bangka Barat\n* {{Marker|type=city|name=[[Koba]]|wikidata=Q4197752}} &mdash; ibukota Kabupaten Bangka Tengah\n* {{Marker|type=city|name=[[Sungai Liat]]|wikidata=Q5261380}} &mdash; ibukota Kabupaten Bangka\n* {{Marker|type=city|name=[[Toboali]]|wikidata=Q4198216}} &mdash; ibukota Kabupaten Bangka Selatan\n\n==Destinasi lainnya==\n\n==Pahami==\n===Iklim===\nRata-rata musim hujan terjadi pada bulan Oktober hingga April.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n==Beli==\nLada putih, bahan yang umum digunakan dalam [[Hidangan Tionghoa]], [[Hidangan Thailand|Thailand]], dan [[Hidangan Portugis|Portugis]].\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\nWilayah Bangka Barat merupakan daerah yang beresiko [[malaria]].\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya==\n* [[Sumatera Selatan]] — provinsi terdekat di daratan Sumatera.\n{{IsPartOf|Bangka-Belitung}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|pgname=Bangka}}\n{{Confused|[[Bangka (Sulawesi)]]}}\n'''Bangka ''' adalah salah satu dari dua pulau utama di provinsi [[Bangka-Belitung]] di [[Indonesia]]. Pulau ini telah berkembang sebagai pusat perekonomian.\n==Kota==\n{{Mapframe}}\n{{Mapshape}}\n* {{Marker|type=city|name=[[Pangkal Pinang]]|wikidata=Q8179}} &mdash; ibukota Provinsi Bangka-Belitung\n* {{Marker|type=city|name=[[Mentok]]|wikidata=Q1948643}} &mdash; ibukota Kabupaten Bangka Barat\n* {{Marker|type=city|name=[[Koba]]|wikidata=Q4197752}} &mdash; ibukota Kabupaten Bangka Tengah\n* {{Marker|type=city|name=[[Sungai Liat]]|wikidata=Q5261380}} &mdash; ibukota Kabupaten Bangka\n* {{Marker|type=city|name=[[Toboali]]|wikidata=Q4198216}} &mdash; ibukota Kabupaten Bangka Selatan\n\n==Destinasi lainnya==\n\n==Pahami==\n===Iklim===\nRata-rata musim hujan terjadi pada bulan Oktober hingga April.\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n==Beli==\nLada putih, bahan yang umum digunakan dalam [[Hidangan Tionghoa]], [[Hidangan Thailand|Thailand]], dan [[Hidangan Portugis|Portugis]].\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\nWilayah Bangka Barat merupakan daerah yang beresiko [[malaria]].\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya==\n* [[Sumatera Selatan]] — provinsi terdekat di daratan Sumatera.\n{{IsPartOf|Bangka-Belitung}}\n{{Outlineregion}}"
+}

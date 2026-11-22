@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bowdon",
+  "fetched_at": "2026-11-22T08:05:42.792289+00:00",
+  "title": "Bowdon",
+  "page_id": 1173,
+  "revision_id": "23543",
+  "revision_timestamp": "2024-12-04T08:41:26Z",
+  "sha256": "e5f33cfc4000d3f4c9903438f04854812983ca0264587d99f38c01040a39fcb5",
+  "license": "CC BY-SA 4.0",
+  "city": "Bowdon",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1173,
+          "ns": 0,
+          "title": "Bowdon",
+          "revisions": [
+            {
+              "revid": 23543,
+              "parentid": 6992,
+              "timestamp": "2024-12-04T08:41:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''[http://www.bowdonnd.com Bowdon]''' adalah kota kecil di area [[Lakes and Gardens]], [[Dakota Utara]]. Kota ini memiliki populasi sekitar 139 orang.\n\n==Pahami ==\n\n== Menuju ke sini ==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n\n== Dengan mobil ==\nDari I-94, ambil jalan raya AS 52 barat laut sekitar 65 mil, lalu barat 4 mil di jalan raya negara bagian 200 ke Bowdon.\n\n==Berkeliling==\n\n==Lihat==\n*  {{See\n| name=Bowdon Museum & Library | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone=+1 701 962-3736 | tollfree= | fax=\n| hours= | price=\n| content=Pameran yang menunjukkan sejarah Bowdon. Buka pada Hari Memorial hingga Hari Buruh, Rabu hingga Minggu, dari pukul 13:00 hingga 17:00 atau dengan perjanjian.\n}}\n\n==Lakukan==\n* {{Do\n| name=Patrie's Raspberries | alt= | url=https://agritourismworld.com/directory/660 | email=pick@patriesraspberries.com\n| address= | lat= | long= | directions=1 mil selatan persimpangan jalan raya 200 dan 52 dan 1/2 mil barat Bowdon\n| phone=+1 701 962-3355 | tollfree=\n| hours= Buka Senin sampai Sabtu sepanjang hari dan Minggu sore. | price=Biaya masuk gratis.\n| content=petik rasberi merah dari pertengahan Juli hingga musim dingin. }}\n\n==Beli==\n* {{Buy\n| name=C&C Little Iron Toys | alt= | url= | email=\n| address=4064 Main St | lat= | long= | directions=\n| phone=+1 701 962-3369 | tollfree= | fax=\n| hours= | price=\n| content=Mainan dan model besi cor yang detil.\n}}\n* {{Buy\n| name=Fike Miniature Horses | alt= | url=https://www.facebook.com/pages/category/Farm/Fike-Miniature-Horses-235636809806317/ | email=\n| address=3929 4th St. NE | lat= | long= | directions=\n| phone=+1 701 962-3713 | tollfree= | fax=+1 701 962-3714\n| hours= | price=\n| content=\n}}\n==Makan==\n* {{Eat\n| name=Bowdon Cafe | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n*  {{Sleep\n| name=Bowdon RV Campground | alt= | url= | email=\n| address=315 East Enville St | lat= | long= | directions=\n| phone=+1 701 962-3749 | tollfree= | fax=\n| checkin= | checkout= | price=\n| content=Ada colokan listrik, air dan saluran pembuangan.\n}}\n\n==Tujuan berikutnya==\n\n{{Outlinecity}}\n\n{{Geo|47.470278|-99.708611}}\n\n{{IsPartOf|Lakes and Gardens}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''[http://www.bowdonnd.com Bowdon]''' adalah kota kecil di area [[Lakes and Gardens]], [[Dakota Utara]]. Kota ini memiliki populasi sekitar 139 orang.\n\n==Pahami ==\n\n== Menuju ke sini ==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n\n== Dengan mobil ==\nDari I-94, ambil jalan raya AS 52 barat laut sekitar 65 mil, lalu barat 4 mil di jalan raya negara bagian 200 ke Bowdon.\n\n==Berkeliling==\n\n==Lihat==\n*  {{See\n| name=Bowdon Museum & Library | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone=+1 701 962-3736 | tollfree= | fax=\n| hours= | price=\n| content=Pameran yang menunjukkan sejarah Bowdon. Buka pada Hari Memorial hingga Hari Buruh, Rabu hingga Minggu, dari pukul 13:00 hingga 17:00 atau dengan perjanjian.\n}}\n\n==Lakukan==\n* {{Do\n| name=Patrie's Raspberries | alt= | url=https://agritourismworld.com/directory/660 | email=pick@patriesraspberries.com\n| address= | lat= | long= | directions=1 mil selatan persimpangan jalan raya 200 dan 52 dan 1/2 mil barat Bowdon\n| phone=+1 701 962-3355 | tollfree=\n| hours= Buka Senin sampai Sabtu sepanjang hari dan Minggu sore. | price=Biaya masuk gratis.\n| content=petik rasberi merah dari pertengahan Juli hingga musim dingin. }}\n\n==Beli==\n* {{Buy\n| name=C&C Little Iron Toys | alt= | url= | email=\n| address=4064 Main St | lat= | long= | directions=\n| phone=+1 701 962-3369 | tollfree= | fax=\n| hours= | price=\n| content=Mainan dan model besi cor yang detil.\n}}\n* {{Buy\n| name=Fike Miniature Horses | alt= | url=https://www.facebook.com/pages/category/Farm/Fike-Miniature-Horses-235636809806317/ | email=\n| address=3929 4th St. NE | lat= | long= | directions=\n| phone=+1 701 962-3713 | tollfree= | fax=+1 701 962-3714\n| hours= | price=\n| content=\n}}\n==Makan==\n* {{Eat\n| name=Bowdon Cafe | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n*  {{Sleep\n| name=Bowdon RV Campground | alt= | url= | email=\n| address=315 East Enville St | lat= | long= | directions=\n| phone=+1 701 962-3749 | tollfree= | fax=\n| checkin= | checkout= | price=\n| content=Ada colokan listrik, air dan saluran pembuangan.\n}}\n\n==Tujuan berikutnya==\n\n{{Outlinecity}}\n\n{{Geo|47.470278|-99.708611}}\n\n{{IsPartOf|Lakes and Gardens}}"
+}

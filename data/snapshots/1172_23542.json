@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Botswana",
+  "fetched_at": "2026-11-22T08:05:41.559164+00:00",
+  "title": "Botswana",
+  "page_id": 1172,
+  "revision_id": "23542",
+  "revision_timestamp": "2024-12-04T08:41:24Z",
+  "sha256": "9b5332f81c91b6c215266562fb441a5e29a2a5f7a1c8b8bebd83931700701e4b",
+  "license": "CC BY-SA 4.0",
+  "city": "Botswana",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1172,
+          "ns": 0,
+          "title": "Botswana",
+          "revisions": [
+            {
+              "revid": 23542,
+              "parentid": 6983,
+              "timestamp": "2024-12-04T08:41:24Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Quickbar\n| image=Okavango Delta, Botswana (2805769159).jpg\n| caption=Onkovango Delta in Botswana.\n| location=Botswana in its region.svg\n| flag=Flag of Botswana.svg\n| capital=[[Gaborone]]\n| government=Republik Parlementer\n| 0,370 km<sup>2</\n| population=1,639,833 (perk. Juli 2006)\n| language=Inggris (resmi), Setswana (resmi dan nasional)\n| religion=Kristen 70%, lainnya termasuk kepercayaan asli 30%\n| electricity=0 kWh\n| callingcode=+267\n| tld=.bw\n| timezone=UTC+02\n| emergencies=dial '''999'''\n}}\n'''[https://web.archive.org/web/20080705143931/http://www.botswana-tourism.gov.bw/ Botswana]''' adalah negara terkurung daratan yang berada di [[Afrika bagian Selatan|Afrika Selatan]] yang berbatasan dengan [[Namibia]], [[Afrika Selatan]], [[Zimbabwe]] dan [[Zambia]]. Bekas dari protektorat [[Inggris|Britania Raya]], Bechuanaland, Botswana mengadopsi nama barunya pada saat kemerdekaan pada tahun 1989\n\n{{Stub}}\n{{IsPartOf|Afrika bagian Selatan}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Quickbar\n| image=Okavango Delta, Botswana (2805769159).jpg\n| caption=Onkovango Delta in Botswana.\n| location=Botswana in its region.svg\n| flag=Flag of Botswana.svg\n| capital=[[Gaborone]]\n| government=Republik Parlementer\n| 0,370 km<sup>2</\n| population=1,639,833 (perk. Juli 2006)\n| language=Inggris (resmi), Setswana (resmi dan nasional)\n| religion=Kristen 70%, lainnya termasuk kepercayaan asli 30%\n| electricity=0 kWh\n| callingcode=+267\n| tld=.bw\n| timezone=UTC+02\n| emergencies=dial '''999'''\n}}\n'''[https://web.archive.org/web/20080705143931/http://www.botswana-tourism.gov.bw/ Botswana]''' adalah negara terkurung daratan yang berada di [[Afrika bagian Selatan|Afrika Selatan]] yang berbatasan dengan [[Namibia]], [[Afrika Selatan]], [[Zimbabwe]] dan [[Zambia]]. Bekas dari protektorat [[Inggris|Britania Raya]], Bechuanaland, Botswana mengadopsi nama barunya pada saat kemerdekaan pada tahun 1989\n\n{{Stub}}\n{{IsPartOf|Afrika bagian Selatan}}"
+}

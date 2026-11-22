@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Barus",
+  "fetched_at": "2026-11-22T07:55:43.272362+00:00",
+  "title": "Barus",
+  "page_id": 3378,
+  "revision_id": "34967",
+  "revision_timestamp": "2026-08-03T13:59:28Z",
+  "sha256": "4a8422d7156b32ee6888a9e4b0d6dbf0c63172d35aa8c805a002d0fa64cbaa2a",
+  "license": "CC BY-SA 4.0",
+  "city": "Barus",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3378,
+          "ns": 0,
+          "title": "Barus",
+          "revisions": [
+            {
+              "revid": 34967,
+              "parentid": 34966,
+              "timestamp": "2026-08-03T13:59:28Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Selamat Datang Di Kota Barus Kota Bertuah.JPG|caption=Gapura kota di tahun 2013}}\n\n'''Barus''' (disebut juga '''Fansur''') adalah sebuah kecamatan di Kabupaten Tapanuli Tengah, Provinsi [[Sumatera Utara]] yang berada di bagian pantai barat Pulau Sumatera, yang menghadap langsung ke Samudera Hindia. Barus sering disebut sebagai kota kecil di banyak literatur kuno dan tulisan populer, walau secara administratif ia hanya tercatat sebagai kecamatan.\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== Dengan mobil ===\n{{Mapframe|2.010225|98.398919|zoom=12}}\nPerjalanan darat menuju Kecamatan Barus dapat ditempuh melalui [[Sibolga|Kota Sibolga]], melewati Jalan Lintas Sibolga-Barus sepanjang kurang lebih 67 Km dengan waktu tempuh selama 2 jam. Salah satu rute yang direkomendasikan untuk mencapai Barus, adalah dengan terlebih dahulu melewati Sibolga.\n\n== Berkeliling ==\n\n== Lihat ==\n* Makam Papan Tinggi (wisata religi)\n* Kompleks Makam Tuan Ambar\n* Kompleks Makam Mahligai\n* Jembatan Hamzah Al-Fansuri Barus\n* Benteng Barus\n* Makam Tuan Ibrahim Syah\n* Makam Tuan Machdum\n* Tugu Titik Nol Peradaban Islam Nusantara\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{isPartOf|Sumatera Utara}}\n{{Geo|2.010225|98.398919}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Selamat Datang Di Kota Barus Kota Bertuah.JPG|caption=Gapura kota di tahun 2013}}\n\n'''Barus''' (disebut juga '''Fansur''') adalah sebuah kecamatan di Kabupaten Tapanuli Tengah, Provinsi [[Sumatera Utara]] yang berada di bagian pantai barat Pulau Sumatera, yang menghadap langsung ke Samudera Hindia. Barus sering disebut sebagai kota kecil di banyak literatur kuno dan tulisan populer, walau secara administratif ia hanya tercatat sebagai kecamatan.\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== Dengan mobil ===\n{{Mapframe|2.010225|98.398919|zoom=12}}\nPerjalanan darat menuju Kecamatan Barus dapat ditempuh melalui [[Sibolga|Kota Sibolga]], melewati Jalan Lintas Sibolga-Barus sepanjang kurang lebih 67 Km dengan waktu tempuh selama 2 jam. Salah satu rute yang direkomendasikan untuk mencapai Barus, adalah dengan terlebih dahulu melewati Sibolga.\n\n== Berkeliling ==\n\n== Lihat ==\n* Makam Papan Tinggi (wisata religi)\n* Kompleks Makam Tuan Ambar\n* Kompleks Makam Mahligai\n* Jembatan Hamzah Al-Fansuri Barus\n* Benteng Barus\n* Makam Tuan Ibrahim Syah\n* Makam Tuan Machdum\n* Tugu Titik Nol Peradaban Islam Nusantara\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{isPartOf|Sumatera Utara}}\n{{Geo|2.010225|98.398919}}"
+}

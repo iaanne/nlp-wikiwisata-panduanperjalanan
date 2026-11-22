@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amerika+%28disambiguasi%29",
+  "fetched_at": "2026-11-22T07:42:45.308417+00:00",
+  "title": "Amerika (disambiguasi)",
+  "page_id": 974,
+  "revision_id": "23382",
+  "revision_timestamp": "2024-12-04T08:35:10Z",
+  "sha256": "e7b93186cd56152eed2364c1d4dfb224c4603a222f461b6d80eb328f7147b65b",
+  "license": "CC BY-SA 4.0",
+  "city": "Amerika (disambiguasi)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 974,
+          "ns": 0,
+          "title": "Amerika (disambiguasi)",
+          "revisions": [
+            {
+              "revid": 23382,
+              "parentid": 4339,
+              "timestamp": "2024-12-04T08:35:10Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat dengan nama '''Amerika''':\n\n*[[Amerika Tengah]]\n*[[Amerika Latin]]\n*[[Amerika Utara]]\n*[[Amerika Selatan]]\n*[[Amerika Serikat]]\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat dengan nama '''Amerika''':\n\n*[[Amerika Tengah]]\n*[[Amerika Latin]]\n*[[Amerika Utara]]\n*[[Amerika Selatan]]\n*[[Amerika Serikat]]\n\n{{Disamb}}"
+}

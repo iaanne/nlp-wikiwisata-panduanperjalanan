@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beaufort",
+  "fetched_at": "2026-11-22T07:57:43.043885+00:00",
+  "title": "Beaufort",
+  "page_id": 1105,
+  "revision_id": "35241",
+  "revision_timestamp": "2026-08-06T04:00:49Z",
+  "sha256": "98a3bded060ac568a95d5d8536bcf8e8ff6746768739af8a4ecf7059ca0e2444",
+  "license": "CC BY-SA 4.0",
+  "city": "Beaufort",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1105,
+          "ns": 0,
+          "title": "Beaufort",
+          "revisions": [
+            {
+              "revid": 35241,
+              "parentid": 6180,
+              "timestamp": "2026-08-06T04:00:49Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Beaufort''' adalah sebuah kota kecil di [[Luksemburg]].\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Beaufort''' adalah sebuah kota kecil di [[Luksemburg]].\n== Pahami ==\n==Bicara==\n== Menuju kesini ==\n==Berkeliling==\n==Lihat==\n== Lakukan ==\n== Makan ==\n== Minum ==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Stub}}"
+}

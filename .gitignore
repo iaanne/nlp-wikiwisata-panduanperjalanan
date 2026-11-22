@@ -7,11 +7,15 @@ __pycache__/
 .env
 
 # Data besar, tidak masuk git
+data/articles.jsonl
+data/chunks_*.jsonl
 data/raw/*
 data/processed/*
 data/indexes/*
 !data/indexes/index_manifest.json
 data/annotations/blind/*
+data/retrieval_cache.jsonl
+data/retrieval_runs.jsonl
 
 # Hasil run besar, manifest dan output per item tetap dilacak
 artifacts/**/runs/*/raw/*

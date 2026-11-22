@@ -1,0 +1,15 @@
+{"id":"s01","split":"smoke","slice":"easy","question":"Apa nama bandara yang melayani Kota Yogyakarta saat ini?","travel_date":"2026-12-01","answerable":true}
+{"id":"s02","split":"smoke","slice":"easy","question":"Di kawasan mana Jalan Malioboro berada?","travel_date":"2026-12-01","answerable":true}
+{"id":"s03","split":"smoke","slice":"easy","question":"Apa makanan khas Yogyakarta yang dibuat dari nangka muda?","travel_date":"2026-12-01","answerable":true}
+{"id":"s04","split":"smoke","slice":"easy","question":"Sebutkan dua transportasi umum yang bisa dipakai dari Stasiun Tugu ke Malioboro.","travel_date":"2026-12-01","answerable":true}
+{"id":"s05","split":"smoke","slice":"easy","question":"Apa nama keraton yang menjadi ikon budaya Yogyakarta?","travel_date":"2026-12-01","answerable":true}
+{"id":"s06","split":"smoke","slice":"multi_hop","question":"Saya tiba di Yogyakarta pukul 08.00 dan ingin mengunjungi Borobudur lalu Malioboro. Susun urutan perjalanan dan transportasi yang masuk akal.","travel_date":"2026-12-02","answerable":true}
+{"id":"s07","split":"smoke","slice":"multi_hop","question":"Rencanakan dua hari di Yogyakarta dengan anggaran Rp1.000.000. Pilih tempat yang murah dan sebutkan perkiraan biayanya.","travel_date":"2026-12-03","answerable":true}
+{"id":"s08","split":"smoke","slice":"multi_hop","question":"Mana yang lebih dekat ke Malioboro, Keraton Yogyakarta atau Candi Prambanan? Jelaskan alasannya.","travel_date":"2026-12-01","answerable":true}
+{"id":"s09","split":"smoke","slice":"multi_hop","question":"Jika saya menginap di Prawirotaman dan ingin makan gudeg, ke mana sebaiknya saya pergi dan bagaimana caranya?","travel_date":"2026-12-04","answerable":true}
+{"id":"s10","split":"smoke","slice":"multi_hop","question":"Saya hanya punya satu hari dan tidak membawa kendaraan. Apa urutan kunjungan yang efisien antara Keraton, Alun-Alun Kidul, dan Malioboro?","travel_date":"2026-12-05","answerable":true}
+{"id":"s11","split":"smoke","slice":"temporal","question":"Apakah harga tiket masuk Candi Borobudur yang berlaku sekarang masih sama dengan tahun 2024?","travel_date":"2026-12-06","answerable":true}
+{"id":"s12","split":"smoke","slice":"temporal","question":"Panduan lama menyebut Bandara Adisutjipto, tetapi sekarang ada Bandara YIA. Bandara mana yang dipakai untuk penerbangan domestik?","travel_date":"2026-12-01","answerable":true}
+{"id":"s13","split":"smoke","slice":"temporal","question":"Apakah jadwal buka Keraton Yogyakarta pada Desember 2026 sama dengan yang tertulis di panduan 2024?","travel_date":"2026-12-07","answerable":true}
+{"id":"s14","split":"smoke","slice":"no_evidence","question":"Berapa tarif visa Schengen untuk pemegang paspor Indonesia?","travel_date":"2026-12-01","answerable":false}
+{"id":"s15","split":"smoke","slice":"no_evidence","question":"Apakah Hotel Tentrem masih menyediakan kamar pada 31 Desember 2026?","travel_date":"2026-12-31","answerable":false}

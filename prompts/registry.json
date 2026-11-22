@@ -3,23 +3,23 @@
   "prompts": [
     {
       "id": "b0_default",
-      "version": "1.0.0",
-      "file": "system/b0_default_v1.0.txt",
-      "created_at": "2026-11-21",
+      "version": "1.1.0",
+      "file": "system/b0_default_v1.1.txt",
+      "created_at": "2026-11-22",
       "author": "ian",
-      "change_note": "versi awal",
+      "change_note": "enum verdict dan status eksplisit",
       "few_shot": null,
-      "sha256": "442b722ce16925208b5fba3cbdd2f40708162fcb140f2618e1a8edb739901499"
+      "sha256": "9bd6bea4d48a4fcce6ba38ad72bd3ee364d55f5006dd2f0a824320a6169b80d0"
     },
     {
       "id": "b1_structured_abstain",
-      "version": "1.0.0",
-      "file": "system/b1_structured_abstain_v1.0.txt",
-      "created_at": "2026-11-21",
+      "version": "1.2.0",
+      "file": "system/b1_structured_abstain_v1.2.txt",
+      "created_at": "2026-11-22",
       "author": "ian",
-      "change_note": "versi awal",
+      "change_note": "larangan field tambahan, sitasi ketat, dan aturan abstain untuk data berubah",
       "few_shot": "few_shot/b1_examples.jsonl",
-      "sha256": "1858d63a89e575f36108b4f8d438e785f456353a8f7dbe45f402d8152c40c682"
+      "sha256": "4c94f7292efee14180af52c67aec32f8b4a458dbd66868b43f2ebfb5be88f0d6"
     },
     {
       "id": "b4_answer",
@@ -70,6 +70,16 @@
       "change_note": "versi awal",
       "few_shot": null,
       "sha256": "eb338b24e553dd485178abb70326e4eaf18918668e14940df36d29e377103e46"
+    },
+    {
+      "id": "format_repair",
+      "version": "1.0.0",
+      "file": "modules/format_repair_v1.0.txt",
+      "created_at": "2026-11-22",
+      "author": "ian",
+      "change_note": "perbaikan format satu kali",
+      "few_shot": null,
+      "sha256": "78fa4a603e534b8a971845b205c8e8c63818bbdbadb40b0e6db9bdb48398afee"
     }
   ]
 }

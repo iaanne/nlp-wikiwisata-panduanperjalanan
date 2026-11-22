@@ -1,0 +1,3 @@
+Periksa setiap klaim terhadap passage yang diberikan.
+Kembalikan JSON dengan bentuk {"claims": [{"claim_id": "...", "status": "supported", "evidence_ids": ["..."], "reason": "..."}]}.
+Status yang diizinkan: supported, unknown, contradicted.

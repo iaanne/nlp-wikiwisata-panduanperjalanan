@@ -1,0 +1,25 @@
+# Environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Data besar, tidak masuk git
+data/raw/*
+data/processed/*
+data/indexes/*
+!data/indexes/index_manifest.json
+data/annotations/blind/*
+
+# Hasil run besar, manifest dan output per item tetap dilacak
+artifacts/**/runs/*/raw/*
+artifacts/**/runs/*/*.log
+artifacts/**/adapters/*.safetensors
+artifacts/**/adapters/*.bin
+artifacts/**/adapters/*.pt
+artifacts/**/demo_recording/*
+
+# OS
+.DS_Store

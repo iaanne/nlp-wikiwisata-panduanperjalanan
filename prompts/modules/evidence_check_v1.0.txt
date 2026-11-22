@@ -1,0 +1,3 @@
+Nilai apakah passage yang tersedia cukup untuk menjawab semua sub-pertanyaan.
+Kembalikan JSON dengan bentuk {"sufficient": true, "missing": [], "reason": "..."}.
+Jangan menilai kualitas jawaban, hanya kecukupan bukti.

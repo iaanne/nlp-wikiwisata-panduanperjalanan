@@ -1,0 +1,14 @@
+Output sebelumnya tidak valid atau tidak sesuai schema.
+
+Kesalahan:
+{error}
+
+Output sebelumnya:
+{raw_output}
+
+Kembalikan hanya satu objek JSON yang valid, tanpa teks lain dan tanpa field tambahan.
+Field wajib: answer, claims, citations, verdict, abstain_reason, tool_calls, meta.
+Nilai verdict hanya answered atau abstain.
+Nilai status klaim hanya supported, unknown, atau contradicted.
+Setiap citation hanya boleh berisi passage_id, doc_id, rev_id, title, section.
+Jangan mengubah fakta. Hanya perbaiki format.

@@ -1,0 +1,3 @@
+Pecah pertanyaan pengguna menjadi sub-pertanyaan yang bisa dicari.
+Tandai setiap sub-pertanyaan dengan needs_retrieval true atau false.
+Kembalikan JSON dengan bentuk {"sub_questions": [{"id": "...", "text": "...", "needs_retrieval": true}]}.

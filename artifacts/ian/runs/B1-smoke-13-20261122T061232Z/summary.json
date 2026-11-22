@@ -1,0 +1,17 @@
+{
+  "config_id": "B1",
+  "split": "smoke",
+  "seed": 13,
+  "items": 15,
+  "parsed": 13,
+  "parse_failures": 2,
+  "parse_rate": 0.8667,
+  "answered": 13,
+  "abstain": 0,
+  "abstain_on_answerable": 0,
+  "abstain_on_unanswerable": 0,
+  "total_prompt_tokens": 5627,
+  "total_output_tokens": 3309,
+  "mean_latency_ms": 7325.5,
+  "p95_latency_ms": 16467.8
+}

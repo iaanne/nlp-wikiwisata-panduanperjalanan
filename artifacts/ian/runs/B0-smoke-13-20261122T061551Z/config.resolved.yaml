@@ -1,0 +1,45 @@
+project: wikiwisata
+seed: 13
+paths:
+  data: data
+  benchmark: data/benchmark
+  registry: data/registry
+  indexes: data/indexes
+  prompts: prompts
+  schemas: schemas
+  artifacts: artifacts
+model:
+  id: Qwen/Qwen2.5-1.5B-Instruct
+  revision: main
+  dtype: bfloat16
+embedder:
+  id: null
+  revision: null
+decoding:
+  temperature: 0.2
+  top_p: 0.95
+  max_new_tokens: 512
+budget:
+  max_context_tokens: 4096
+  max_tool_calls: 4
+  timeout_seconds: 120
+logging:
+  level: INFO
+id: B0
+name: direct_llm_baseline
+parent: null
+prompt: b0_default
+prompt_modules: []
+retrieval:
+  enabled: false
+  backend: null
+  top_k: 0
+verification:
+  enabled: false
+  max_retries: 0
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: false

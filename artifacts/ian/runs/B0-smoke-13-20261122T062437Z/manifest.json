@@ -1,0 +1,207 @@
+{
+  "run_id": "B0-smoke-13-20261122T062437Z",
+  "created_at": "2026-11-22T06:24:37Z",
+  "config_path": "configs/experiments/b0_baseline.yaml",
+  "config_hash": "3eadaf3a6a8e3db36ec712b3c05f711a8dcf4576392f72ac7612e51aa822efcc",
+  "git_commit": "2b63e4f2b20a13294a29e54c0739b64bad12d8dd",
+  "model": {
+    "id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "main",
+    "dtype": "bfloat16"
+  },
+  "prompt_hashes": {
+    "b0_default": "9bd6bea4d48a4fcce6ba38ad72bd3ee364d55f5006dd2f0a824320a6169b80d0"
+  },
+  "index_hash": null,
+  "split": "smoke",
+  "split_hash": "748f6013651687671da97ce5ff5d9c870843a5b4adf6b44aef6b943c0d6a5ba0",
+  "adapter_hash": null,
+  "seed": 13,
+  "decoding": {
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "max_new_tokens": 512
+  },
+  "package_versions": {
+    "torch": "2.15.0",
+    "transformers": "5.24.0",
+    "peft": "0.22.0",
+    "trl": "1.18.2",
+    "datasets": "5.2.0",
+    "accelerate": "1.16.0",
+    "bitsandbytes": "0.50.2",
+    "sentence-transformers": "6.3.0",
+    "rank-bm25": "0.2.2",
+    "jsonschema": "4.26.0",
+    "pyyaml": "6.0.4"
+  },
+  "hardware": {
+    "platform": "Linux-7.3.3-1-cachyos-x86_64-with-glibc2.44",
+    "machine": "x86_64",
+    "processor": "",
+    "gpu": null
+  },
+  "dry_run": false,
+  "per_item": [
+    {
+      "id": "s01",
+      "slice": "easy",
+      "prompt_tokens": 302,
+      "output_tokens": 36,
+      "latency_ms": 1300.0,
+      "parse_ok": true,
+      "verdict": "abstain"
+    },
+    {
+      "id": "s02",
+      "slice": "easy",
+      "prompt_tokens": 298,
+      "output_tokens": 84,
+      "latency_ms": 2062.9,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s03",
+      "slice": "easy",
+      "prompt_tokens": 306,
+      "output_tokens": 83,
+      "latency_ms": 2042.5,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s04",
+      "slice": "easy",
+      "prompt_tokens": 309,
+      "output_tokens": 161,
+      "latency_ms": 3944.8,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s05",
+      "slice": "easy",
+      "prompt_tokens": 301,
+      "output_tokens": 75,
+      "latency_ms": 1968.2,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s06",
+      "slice": "multi_hop",
+      "prompt_tokens": 334,
+      "output_tokens": 324,
+      "latency_ms": 7878.7,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s07",
+      "slice": "multi_hop",
+      "prompt_tokens": 329,
+      "output_tokens": 137,
+      "latency_ms": 3448.5,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s08",
+      "slice": "multi_hop",
+      "prompt_tokens": 314,
+      "output_tokens": 190,
+      "latency_ms": 6245.8,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s09",
+      "slice": "multi_hop",
+      "prompt_tokens": 321,
+      "output_tokens": 145,
+      "latency_ms": 3649.2,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s10",
+      "slice": "multi_hop",
+      "prompt_tokens": 328,
+      "output_tokens": 197,
+      "latency_ms": 5148.7,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s11",
+      "slice": "temporal",
+      "prompt_tokens": 315,
+      "output_tokens": 62,
+      "latency_ms": 1598.0,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s12",
+      "slice": "temporal",
+      "prompt_tokens": 326,
+      "output_tokens": 50,
+      "latency_ms": 1264.1,
+      "parse_ok": true,
+      "verdict": "abstain"
+    },
+    {
+      "id": "s13",
+      "slice": "temporal",
+      "prompt_tokens": 320,
+      "output_tokens": 85,
+      "latency_ms": 2110.9,
+      "parse_ok": true,
+      "verdict": "answered"
+    },
+    {
+      "id": "s14",
+      "slice": "no_evidence",
+      "prompt_tokens": 301,
+      "output_tokens": 93,
+      "latency_ms": 2343.6,
+      "parse_ok": false,
+      "verdict": null
+    },
+    {
+      "id": "s15",
+      "slice": "no_evidence",
+      "prompt_tokens": 308,
+      "output_tokens": 71,
+      "latency_ms": 1900.8,
+      "parse_ok": false,
+      "verdict": null
+    }
+  ],
+  "summary": {
+    "config_id": "B0",
+    "split": "smoke",
+    "seed": 13,
+    "items": 15,
+    "parsed": 8,
+    "parse_failures": 7,
+    "parse_rate": 0.5333,
+    "strict_parsed": 4,
+    "strict_parse_rate": 0.2667,
+    "normalized_items": 4,
+    "answered": 6,
+    "abstain": 2,
+    "abstain_on_answerable": 2,
+    "abstain_on_unanswerable": 0,
+    "supported_without_evidence": 6,
+    "format_repairs": 11,
+    "repair_successes": 4,
+    "total_repair_prompt_tokens": 10797,
+    "total_repair_output_tokens": 1748,
+    "total_prompt_tokens": 4712,
+    "total_output_tokens": 1793,
+    "mean_latency_ms": 3127.1,
+    "p95_latency_ms": 6245.8
+  }
+}

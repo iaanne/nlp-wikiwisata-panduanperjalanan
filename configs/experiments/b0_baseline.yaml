@@ -1,0 +1,19 @@
+id: B0
+name: direct_llm_baseline
+extends: ../base.yaml
+parent: null
+prompt: b0_default
+prompt_modules: []
+retrieval:
+  enabled: false
+  backend: null
+  top_k: 0
+verification:
+  enabled: false
+  max_retries: 0
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: false

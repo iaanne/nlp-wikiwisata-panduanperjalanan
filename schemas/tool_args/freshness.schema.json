@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "check_freshness arguments",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "lastedit",
+    "travel_date",
+    "max_age_days"
+  ],
+  "properties": {
+    "lastedit": {
+      "type": "string",
+      "format": "date"
+    },
+    "travel_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "max_age_days": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

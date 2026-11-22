@@ -1,0 +1,21 @@
+id: B3
+name: hybrid_rag
+extends: ../base.yaml
+parent: B2
+prompt: b1_structured_abstain
+prompt_modules: []
+retrieval:
+  enabled: true
+  backend: hybrid_rerank
+  chunking: fixed
+  top_k: 5
+  metadata_filter: true
+verification:
+  enabled: false
+  max_retries: 0
+tools:
+  enabled: false
+adapter:
+  enabled: false
+abstain:
+  enabled: true

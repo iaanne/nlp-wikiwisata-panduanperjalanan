@@ -1,0 +1,14 @@
+id: A3
+name: verifier
+parent: B4
+parent_config: ../experiments/b4_planner_verifier.yaml
+metric:
+  - unsupported_claim_rate
+  - false_refusal
+variants:
+  - name: off
+    changed:
+      verification.enabled: false
+  - name: on
+    changed:
+      verification.enabled: true

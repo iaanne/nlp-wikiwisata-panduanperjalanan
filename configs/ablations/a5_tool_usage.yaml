@@ -1,0 +1,16 @@
+id: A5
+name: tool_usage
+parent: B6
+parent_config: ../experiments/b6_agentic_tool.yaml
+metric:
+  - tool_correctness
+  - unsafe_call_rate
+  - budget_overrun
+  - end_task_outcome
+variants:
+  - name: off
+    changed:
+      tools.enabled: false
+  - name: on
+    changed:
+      tools.enabled: true

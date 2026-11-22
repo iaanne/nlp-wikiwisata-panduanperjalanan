@@ -1,0 +1,28 @@
+id: B5
+name: b4_plus_qlora
+extends: ../base.yaml
+parent: B4
+prompt: b4_answer
+prompt_modules:
+  - query_planner
+  - evidence_check
+  - claim_verifier
+retrieval:
+  enabled: true
+  backend: hybrid_rerank
+  chunking: fixed
+  top_k: 5
+  metadata_filter: true
+planner:
+  enabled: true
+verification:
+  enabled: true
+  max_retries: 1
+  max_repair: 1
+tools:
+  enabled: false
+adapter:
+  enabled: true
+  path: artifacts/ian/adapters/b5
+abstain:
+  enabled: true

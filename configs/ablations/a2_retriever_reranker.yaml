@@ -1,0 +1,22 @@
+id: A2
+name: retriever_reranker
+parent: B2
+parent_config: ../experiments/b2_retrieval_variant.yaml
+metric:
+  - recall_at_5
+  - recall_at_10
+  - ndcg_at_10
+  - mrr_at_10
+variants:
+  - name: dense
+    changed:
+      retrieval.backend: dense
+  - name: bm25
+    changed:
+      retrieval.backend: bm25
+  - name: hybrid
+    changed:
+      retrieval.backend: hybrid
+  - name: hybrid_rerank
+    changed:
+      retrieval.backend: hybrid_rerank

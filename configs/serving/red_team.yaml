@@ -1,0 +1,4 @@
+cases: data/red_team/cases_20.jsonl
+baseline_config: B0
+mitigated_config: B6
+output: artifacts/jimly/redteam_results.csv

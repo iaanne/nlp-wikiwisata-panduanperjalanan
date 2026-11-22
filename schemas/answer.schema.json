@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wikiwisata.local/schemas/answer.schema.json",
+  "title": "Wikiwisata answer",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "answer",
+    "claims",
+    "citations",
+    "verdict",
+    "abstain_reason",
+    "tool_calls",
+    "meta"
+  ],
+  "properties": {
+    "answer": {
+      "type": "string"
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "claim_id",
+          "text",
+          "status",
+          "evidence_ids"
+        ],
+        "properties": {
+          "claim_id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "supported",
+              "unknown",
+              "contradicted"
+            ]
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "passage_id",
+          "doc_id",
+          "rev_id",
+          "title",
+          "section"
+        ],
+        "properties": {
+          "passage_id": {
+            "type": "string"
+          },
+          "doc_id": {
+            "type": "string"
+          },
+          "rev_id": {
+            "type": "integer"
+          },
+          "title": {
+            "type": "string"
+          },
+          "section": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "verdict": {
+      "enum": [
+        "answered",
+        "abstain"
+      ]
+    },
+    "abstain_reason": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tool_calls": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "tool",
+          "arguments",
+          "status"
+        ],
+        "properties": {
+          "tool": {
+            "type": "string"
+          },
+          "arguments": {
+            "type": "object"
+          },
+          "status": {
+            "enum": [
+              "ok",
+              "invalid_args",
+              "timeout",
+              "error"
+            ]
+          },
+          "result": {}
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "config_id",
+        "prompt_id",
+        "prompt_version"
+      ],
+      "properties": {
+        "config_id": {
+          "type": "string"
+        },
+        "prompt_id": {
+          "type": "string"
+        },
+        "prompt_version": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "verdict": {
+            "const": "abstain"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "abstain_reason": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  ]
+}

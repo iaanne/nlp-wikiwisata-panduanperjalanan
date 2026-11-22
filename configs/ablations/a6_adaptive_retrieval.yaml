@@ -1,0 +1,14 @@
+id: A6
+name: adaptive_retrieval
+parent: B4
+parent_config: ../experiments/b4_planner_verifier.yaml
+metric:
+  - quality_by_slice
+  - cost_per_quality
+variants:
+  - name: fixed
+    changed:
+      planner.enabled: false
+  - name: adaptive
+    changed:
+      planner.enabled: true

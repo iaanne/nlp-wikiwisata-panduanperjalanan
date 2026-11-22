@@ -1,0 +1,30 @@
+id: B6
+name: guarded_agentic
+extends: ../base.yaml
+parent: B4  # ganti ke B5 kalau menang di dev
+parent_policy: best_on_dev
+prompt: b6_tool_system
+prompt_modules:
+  - query_planner
+  - evidence_check
+  - claim_verifier
+retrieval:
+  enabled: true
+  backend: hybrid_rerank
+  chunking: fixed
+  top_k: 5
+  metadata_filter: true
+planner:
+  enabled: true
+verification:
+  enabled: true
+  max_retries: 1
+  max_repair: 1
+tools:
+  enabled: true
+  max_calls: 4
+  timeout_seconds: 5
+adapter:
+  enabled: false
+abstain:
+  enabled: true

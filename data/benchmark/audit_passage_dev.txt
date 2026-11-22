@@ -1,0 +1,27 @@
+Catatan persiapan untuk koordinator. Bagikan hanya paket tanpa label kepada anotator.
+ID | jumlah seluruh chunk fixed artikel sumber | catatan
+q024 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q031 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q037 | 3 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q038 | 2 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q044 | 3 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q047 | 5 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q048 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q052 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q056 | 6 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q059 | 2 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q061 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q064 | 3 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q068 | 3 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q070 | 2 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q079 | 1 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q081 | 4 | Bumiaji disebut sebagai bagian rute, bukan sebagai lokasi Bukit Teletubbies.
+q085 | 6 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q088 | 3 | Bukti lengkap belum terverifikasi di fixed artikel sumber.
+q091 | 7 | Alamat lengkap tercantum bersama nama bandara di fixed:300.
+q092 | 1 | Pencarian 321 snapshot dan 1021 chunk fixed. Pola tangkoko|tang[kc]oko|tangk o k o. Snapshot cocok: 3831:32809. Tarif spesifik belum terkonfirmasi. Status tanpa bukti sementara.
+q093 | 1 | Pencarian 321 snapshot dan 1021 chunk fixed. Pola nirwana. Snapshot cocok: 1098:38865, 1150:33306, 1157:37574, 1160:35388, 1169:33600. Tarif spesifik belum terkonfirmasi. Status tanpa bukti sementara.
+q097 | 2 | Pencarian 321 snapshot dan 1021 chunk fixed. Pola brebes. Snapshot cocok: 4008:33477, 4026:32608. Tarif spesifik belum terkonfirmasi. Status tanpa bukti sementara.
+q098 | 2 | fixed:0 menyebut pengaruh budaya Khyber Pakhtunkhwa. Perjelas frasa berbatasan budaya sebelum anotasi.
+q104 | 1 | fixed:0 menyebut kuil Jain dan Hindu dari abad ke-11 dan ke-12.
+q108 | 12 | fixed:1050 menyebut roti tebu dan mie Aceh.

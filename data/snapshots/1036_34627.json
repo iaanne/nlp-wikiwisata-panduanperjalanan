@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Baghdad",
+  "fetched_at": "2026-11-22T07:49:42.763234+00:00",
+  "title": "Baghdad",
+  "page_id": 1036,
+  "revision_id": "34627",
+  "revision_timestamp": "2026-07-30T07:20:58Z",
+  "sha256": "d6051dac70b5a3f6637e106d58ed1507d7159f184699476552c49875f8bc35d4",
+  "license": "CC BY-SA 4.0",
+  "city": "Baghdad",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1036,
+          "ns": 0,
+          "title": "Baghdad",
+          "revisions": [
+            {
+              "revid": 34627,
+              "parentid": 34626,
+              "timestamp": "2026-07-30T07:20:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Baghdad Wikivoyage banner.jpg}}\n{{Warningbox|Perjalanan ke Baghdad, Irak sangat berbahaya dan tidak dianjurkan. Lihat peringatan di artikel [[Irak]].\n|australia=http://smartraveller.gov.au/countries/middle-east/pages/iraq.aspx\n|canada=http://travel.gc.ca/destinations/iraq\n|de=https://www.auswaertiges-amt.de/de/iraksicherheit/202738\n|ie=https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/iraq/\n|india=https://mea.gov.in/advisories-details.htm?40/Travel+Advisory+for+Indian+nationals+travelling+to+Iraq\n|uk=https://www.gov.uk/foreign-travel-advice/iraq\n|us=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html\n|nz=https://www.safetravel.govt.nz/iraq\n|lastedit=2020-08-15\n}}\n'''Baghdad''' (Arab: بـغداد ''Baġdād'') adalah ibukota dari [[Irak]] dengan perkiraan populasi 6-7 juta jiwa. Dahulu merupakan salah satu pusat pembelajaran dan budaya terbesar di dunia, Baghdad adalah ibu kota Kekhalifahan Abbasiyah selama Zaman Keemasan Islam. Kota ini pernah menjadi tujuan favorit di ' jalur hippie ' dan dipenuhi dengan berbagai tempat wisata.  \n\n==Pahami==\n===Sejarah===\nDidirikan pada tahun 762 masehi oleh Khalifah al-Mansur sebagai Kota Bulat, Bagdad menjadi pusat Kekhalifahan Abbasiyah dan tumbuh menjadi salah satu pusat ilmu pengetahuan terbesar di dunia Islam selama [[Zaman Kejayaan Islam|Zaman Keemasan Islam]]. Perdamaian selama lima abad pun berakhir pada tahun 1258 ketika kota ini dihancurkan oleh [[Kekaisaran Mongol]] yang maju ke arah barat. Setelah periode [[Kesultanan Utsmaniyah|pemerintahan Utsmaniyah]], Bagdad menjadi ibu kota Irak di bawah [[Imperium Britania Raya|protektorat Inggris]] dan menjadi negara merdeka. Sejak itu, Bagdad menjadi sasaran perang, serangan teroris, dan sedang dalam upaya rekonstruksi.\n\n== Menuju ke sini ==\n\n==Berkeliling==\n\n== Lihat ==\n\n== Lakukan ==\n\n* '''Teater Nasional Irak'''\n* '''Taman Pulau Baghdad'''&nbsp;\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n*[[Basra]] — kota terbesar kedua di Irak dan kota pelabuhan utamanya\n*[[Mosul]] — kota terbesar ketiga di Irak\n*[[Assur]] dan [[Hatra]] — situs arkeologi Tempat Lahirnya Peradaban\n*[[Salman Pak|Ctesiphon dan Salman Pak]] — situs arkeologi di selatan Baghdad\n\n{{Outlinecity}}\n{{Geo|33.30313|44.37850|zoom=14}}\n\n{{IsPartOf|Sabuk Baghdad}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Baghdad Wikivoyage banner.jpg}}\n{{Warningbox|Perjalanan ke Baghdad, Irak sangat berbahaya dan tidak dianjurkan. Lihat peringatan di artikel [[Irak]].\n|australia=http://smartraveller.gov.au/countries/middle-east/pages/iraq.aspx\n|canada=http://travel.gc.ca/destinations/iraq\n|de=https://www.auswaertiges-amt.de/de/iraksicherheit/202738\n|ie=https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/iraq/\n|india=https://mea.gov.in/advisories-details.htm?40/Travel+Advisory+for+Indian+nationals+travelling+to+Iraq\n|uk=https://www.gov.uk/foreign-travel-advice/iraq\n|us=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html\n|nz=https://www.safetravel.govt.nz/iraq\n|lastedit=2020-08-15\n}}\n'''Baghdad''' (Arab: بـغداد ''Baġdād'') adalah ibukota dari [[Irak]] dengan perkiraan populasi 6-7 juta jiwa. Dahulu merupakan salah satu pusat pembelajaran dan budaya terbesar di dunia, Baghdad adalah ibu kota Kekhalifahan Abbasiyah selama Zaman Keemasan Islam. Kota ini pernah menjadi tujuan favorit di ' jalur hippie ' dan dipenuhi dengan berbagai tempat wisata.  \n\n==Pahami==\n===Sejarah===\nDidirikan pada tahun 762 masehi oleh Khalifah al-Mansur sebagai Kota Bulat, Bagdad menjadi pusat Kekhalifahan Abbasiyah dan tumbuh menjadi salah satu pusat ilmu pengetahuan terbesar di dunia Islam selama [[Zaman Kejayaan Islam|Zaman Keemasan Islam]]. Perdamaian selama lima abad pun berakhir pada tahun 1258 ketika kota ini dihancurkan oleh [[Kekaisaran Mongol]] yang maju ke arah barat. Setelah periode [[Kesultanan Utsmaniyah|pemerintahan Utsmaniyah]], Bagdad menjadi ibu kota Irak di bawah [[Imperium Britania Raya|protektorat Inggris]] dan menjadi negara merdeka. Sejak itu, Bagdad menjadi sasaran perang, serangan teroris, dan sedang dalam upaya rekonstruksi.\n\n== Menuju ke sini ==\n\n==Berkeliling==\n\n== Lihat ==\n\n== Lakukan ==\n\n* '''Teater Nasional Irak'''\n* '''Taman Pulau Baghdad'''&nbsp;\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n*[[Basra]] — kota terbesar kedua di Irak dan kota pelabuhan utamanya\n*[[Mosul]] — kota terbesar ketiga di Irak\n*[[Assur]] dan [[Hatra]] — situs arkeologi Tempat Lahirnya Peradaban\n*[[Salman Pak|Ctesiphon dan Salman Pak]] — situs arkeologi di selatan Baghdad\n\n{{Outlinecity}}\n{{Geo|33.30313|44.37850|zoom=14}}\n\n{{IsPartOf|Sabuk Baghdad}}"
+}

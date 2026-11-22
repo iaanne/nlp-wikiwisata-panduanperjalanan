@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aljazair",
+  "fetched_at": "2026-11-22T07:41:43.701096+00:00",
+  "title": "Aljazair",
+  "page_id": 966,
+  "revision_id": "34334",
+  "revision_timestamp": "2026-07-28T07:18:57Z",
+  "sha256": "e206c50eab4c4cd4b0afdc0a597d2442356673109656b5b1cb7355271007b375",
+  "license": "CC BY-SA 4.0",
+  "city": "Aljazair",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 966,
+          "ns": 0,
+          "title": "Aljazair",
+          "revisions": [
+            {
+              "revid": 34334,
+              "parentid": 23374,
+              "timestamp": "2026-07-28T07:18:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Aljazair''' (bahasa Arab: al-الجزائر Jazā'ir), adalah sebuah negara Arab dan Barbar di Afrika Utara. Memiliki pantai Laut Mediterania di utara. Hal ini dikelilingi oleh Maroko di barat laut, [[Tunisia]] di timur laut, Libya di timur, Niger di sebelah tenggara, Mali ke barat daya, Mauritania dan Sahara Barat di barat. Setelah pemisahan Sudan Selatan dari Sudan, Aljazair menjadi negara terbesar di Afrika. Banyak sejarah Aljazair baru-baru ini telah didominasi oleh perang sipil dan warlordisme berikutnya. Yang mengatakan, negara secara bertahap memulihkan ketertiban dan akan terbukti menarik - tujuan - jika sulit.\n\n== Pahami ==\nSejarah Aljazair menggambarkan sebuah sejarah yang berlangsung di dataran pantai subur Afrika Utara, yang sering disebut Arab Maghrib (atau Maghrib). Afrika Utara berfungsi sebagai wilayah transit bagi orang-orang yang bergerak menuju Eropa atau Timur Tengah, sehingga penduduk wilayah tersebut telah dipengaruhi oleh populasi dari daerah lain, termasuk Kartago, Romawi, dan Vandal. Wilayah itu ditaklukkan oleh Muslim pada awal abad ke-8 M, tetapi terputus dari Kekhalifahan Umayyah setelah Pemberontakan Berber pada 740. Selama masa Utsmaniyah, Aljazair menjadi kota penting di laut Mediterania yang menimbulkan banyak konflik angkatan laut. Peristiwa penting terakhir dalam sejarah negara baru-baru ini adalah Perang Kemerdekaan Aljazair dan Perang Saudara Aljazair.\n\n==Bicara==\nBahasa resmi adalah bahasa Arab, namun Arab diucapkan di Maghreb Daerah (Maroko, Aljazair, Tunisia) sangat berbeda dari bahasa Arab yang digunakan di bagian lain dari wilayah Arab, jadi jangan heran jika Anda tidak mengerti apa-apa mengatakan Anda bahkan jika Anda kompeten dalam standar bahasa Arab. Aljazair Arab mengandung banyak kata-kata Perancis.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Afrika Utara}}\n{{Geo|28|1|zoom=5}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Aljazair''' (bahasa Arab: al-الجزائر Jazā'ir), adalah sebuah negara Arab dan Barbar di Afrika Utara. Memiliki pantai Laut Mediterania di utara. Hal ini dikelilingi oleh Maroko di barat laut, [[Tunisia]] di timur laut, Libya di timur, Niger di sebelah tenggara, Mali ke barat daya, Mauritania dan Sahara Barat di barat. Setelah pemisahan Sudan Selatan dari Sudan, Aljazair menjadi negara terbesar di Afrika. Banyak sejarah Aljazair baru-baru ini telah didominasi oleh perang sipil dan warlordisme berikutnya. Yang mengatakan, negara secara bertahap memulihkan ketertiban dan akan terbukti menarik - tujuan - jika sulit.\n\n== Pahami ==\nSejarah Aljazair menggambarkan sebuah sejarah yang berlangsung di dataran pantai subur Afrika Utara, yang sering disebut Arab Maghrib (atau Maghrib). Afrika Utara berfungsi sebagai wilayah transit bagi orang-orang yang bergerak menuju Eropa atau Timur Tengah, sehingga penduduk wilayah tersebut telah dipengaruhi oleh populasi dari daerah lain, termasuk Kartago, Romawi, dan Vandal. Wilayah itu ditaklukkan oleh Muslim pada awal abad ke-8 M, tetapi terputus dari Kekhalifahan Umayyah setelah Pemberontakan Berber pada 740. Selama masa Utsmaniyah, Aljazair menjadi kota penting di laut Mediterania yang menimbulkan banyak konflik angkatan laut. Peristiwa penting terakhir dalam sejarah negara baru-baru ini adalah Perang Kemerdekaan Aljazair dan Perang Saudara Aljazair.\n\n==Bicara==\nBahasa resmi adalah bahasa Arab, namun Arab diucapkan di Maghreb Daerah (Maroko, Aljazair, Tunisia) sangat berbeda dari bahasa Arab yang digunakan di bagian lain dari wilayah Arab, jadi jangan heran jika Anda tidak mengerti apa-apa mengatakan Anda bahkan jika Anda kompeten dalam standar bahasa Arab. Aljazair Arab mengandung banyak kata-kata Perancis.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Afrika Utara}}\n{{Geo|28|1|zoom=5}}"
+}

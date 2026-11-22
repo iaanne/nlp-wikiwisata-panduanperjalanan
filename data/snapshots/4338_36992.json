@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Abiko",
+  "fetched_at": "2026-11-22T07:35:43.228200+00:00",
+  "title": "Abiko",
+  "page_id": 4338,
+  "revision_id": "36992",
+  "revision_timestamp": "2026-09-06T08:48:53Z",
+  "sha256": "41fe90743b1091b35818a87f7c962f3d9c2f20db4f763d391fe075f213328c10",
+  "license": "CC BY-SA 4.0",
+  "city": "Abiko",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4338,
+          "ns": 0,
+          "title": "Abiko",
+          "revisions": [
+            {
+              "revid": 36992,
+              "parentid": 36936,
+              "timestamp": "2026-09-06T08:48:53Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Abiko''' adalah sebuah kota di Prefektur Chiba, [[Jepang]].\n\n== Pahami ==\nAbiko terletak di bagian barat laut Prefektur Chiba, Jepang, sekitar 30 kilometer di sebelah barat laut Kota Chiba—ibu kota prefektur Chiba—serta 30 hingga 40 kilometer dari pusat kota Tokyo. Abiko memiliki iklim subtropis basah yang diklasifikasikan sebagai Köppen Cfa, dengan ciri musim panas yang hangat dan lembap serta musim dingin yang sejuk dengan curah salju ringan atau tanpa salju.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Museum Burung Kota Abiko | alt= | url=https://www.city.abiko.chiba.jp | email=\n| address=234-3 Konoyama, Abiko, Chiba 270-1145, Jepang | lat= | long= | directions=\n| phone=+81 4-7185-2212 | tollfree=\n| hours=09:00-16:30 | price=200-300 YEN\n| lastedit=2026-09-06\n| content=Satu-satunya museum komprehensif di Jepang yang didedikasikan untuk burung.\n}}\n* {{see\n| name=Former Murakawa Villa | alt= | url= | email=\n| address=2 Chome-25-8 Kotobuki, Abiko, Chiba 270-1152, Jepang | lat= | long= | directions=\n| phone=+81 4-7185-1583 | tollfree=\n| hours=09:00-16:00 | price=\n| lastedit=2026-09-06\n| content=\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n* {{sleep\n| name=Hotel Mark-1 Abiko | alt= | url= | email=\n| address=1 Chome-9-14 Shibasakidai, Abiko, Prefektur Chiba 270-1176, Jepang | lat= | long= | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=\n| lastedit=2026-09-06\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\nLepaskan alas kaki saat berkunjung ke kuil, siapkan uang tunai untuk berbelanja di toko-toko kecil, serta tunjukkan sikap hormat dan tenang saat mengamati burung di tepi danau.\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Abiko''' adalah sebuah kota di Prefektur Chiba, [[Jepang]].\n\n== Pahami ==\nAbiko terletak di bagian barat laut Prefektur Chiba, Jepang, sekitar 30 kilometer di sebelah barat laut Kota Chiba—ibu kota prefektur Chiba—serta 30 hingga 40 kilometer dari pusat kota Tokyo. Abiko memiliki iklim subtropis basah yang diklasifikasikan sebagai Köppen Cfa, dengan ciri musim panas yang hangat dan lembap serta musim dingin yang sejuk dengan curah salju ringan atau tanpa salju.\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Museum Burung Kota Abiko | alt= | url=https://www.city.abiko.chiba.jp | email=\n| address=234-3 Konoyama, Abiko, Chiba 270-1145, Jepang | lat= | long= | directions=\n| phone=+81 4-7185-2212 | tollfree=\n| hours=09:00-16:30 | price=200-300 YEN\n| lastedit=2026-09-06\n| content=Satu-satunya museum komprehensif di Jepang yang didedikasikan untuk burung.\n}}\n* {{see\n| name=Former Murakawa Villa | alt= | url= | email=\n| address=2 Chome-25-8 Kotobuki, Abiko, Chiba 270-1152, Jepang | lat= | long= | directions=\n| phone=+81 4-7185-1583 | tollfree=\n| hours=09:00-16:00 | price=\n| lastedit=2026-09-06\n| content=\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n* {{sleep\n| name=Hotel Mark-1 Abiko | alt= | url= | email=\n| address=1 Chome-9-14 Shibasakidai, Abiko, Prefektur Chiba 270-1176, Jepang | lat= | long= | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=\n| lastedit=2026-09-06\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\nLepaskan alas kaki saat berkunjung ke kuil, siapkan uang tunai untuk berbelanja di toko-toko kecil, serta tunjukkan sikap hormat dan tenang saat mengamati burung di tepi danau.\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

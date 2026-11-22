@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alpen+Jepang",
+  "fetched_at": "2026-11-22T07:41:45.562825+00:00",
+  "title": "Alpen Jepang",
+  "page_id": 968,
+  "revision_id": "23376",
+  "revision_timestamp": "2024-12-04T08:34:58Z",
+  "sha256": "600076607cd6100f664e2e02aeb41a8101e04c3cba497396f761bbabf1b34470",
+  "license": "CC BY-SA 4.0",
+  "city": "Alpen Jepang",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 968,
+          "ns": 0,
+          "title": "Alpen Jepang",
+          "revisions": [
+            {
+              "revid": 23376,
+              "parentid": 4295,
+              "timestamp": "2024-12-04T08:34:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Japanese-Alps banner.jpg}}\n__NOTOC__\n[[Berkas:ShinHodaka_Mountains_Closeup.JPG|thumb|Pemandangan Alpen Jepang Utara, dekat [[Desa Oku-Hida Onsen|Shin-Hotaka, Gifu]]]]\n\n'''Alpen Jepang''' (日本アルプス ''Nihon Arupusu'') sebutan untuk rangkaian pegunungan yang berjajar di pulau utama [[Jepang]], [[Honshu]].\n\nAlpen Jepang dibagi dalam tiga bagian, yang juga memiliki nama alternatifnya sendiri:\n* '''Alpen Utara''' (北アルプス ''Kita Arupusu''), alias '''Pegungunan Hida''' (飛騨山脈 ''Hida-sanmyaku''), di wilayah [[Oku-Hida]], [[Prefektur Gifu]]\n* '''[[Alpen Chuo|Alpen Tengah]]''' (中央アルプス ''Chūō Arupusu''), alias '''Pegunungan Kiso''' (木曽山脈 ''Kiso-sanmyaku''), kebanyakan di [[Prefektur Nagano]]\n* '''Alpen Selatan''' (南アルプス ''Minami Arupusu''), alias '''Pegunungan Akashi''' (赤石山脈 ''Akashi-sanmyaku'') di [[Nagano]], [[Yamanashi]] dan [[Shizuoka]]\n{{IsPartOf|Chubu}}\n{{Extraregion}}\n{{Geo|36|137}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Japanese-Alps banner.jpg}}\n__NOTOC__\n[[Berkas:ShinHodaka_Mountains_Closeup.JPG|thumb|Pemandangan Alpen Jepang Utara, dekat [[Desa Oku-Hida Onsen|Shin-Hotaka, Gifu]]]]\n\n'''Alpen Jepang''' (日本アルプス ''Nihon Arupusu'') sebutan untuk rangkaian pegunungan yang berjajar di pulau utama [[Jepang]], [[Honshu]].\n\nAlpen Jepang dibagi dalam tiga bagian, yang juga memiliki nama alternatifnya sendiri:\n* '''Alpen Utara''' (北アルプス ''Kita Arupusu''), alias '''Pegungunan Hida''' (飛騨山脈 ''Hida-sanmyaku''), di wilayah [[Oku-Hida]], [[Prefektur Gifu]]\n* '''[[Alpen Chuo|Alpen Tengah]]''' (中央アルプス ''Chūō Arupusu''), alias '''Pegunungan Kiso''' (木曽山脈 ''Kiso-sanmyaku''), kebanyakan di [[Prefektur Nagano]]\n* '''Alpen Selatan''' (南アルプス ''Minami Arupusu''), alias '''Pegunungan Akashi''' (赤石山脈 ''Akashi-sanmyaku'') di [[Nagano]], [[Yamanashi]] dan [[Shizuoka]]\n{{IsPartOf|Chubu}}\n{{Extraregion}}\n{{Geo|36|137}}"
+}

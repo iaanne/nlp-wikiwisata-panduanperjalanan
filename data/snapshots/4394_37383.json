@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bantaeng",
+  "fetched_at": "2026-11-22T07:54:41.448445+00:00",
+  "title": "Bantaeng",
+  "page_id": 4394,
+  "revision_id": "37383",
+  "revision_timestamp": "2026-09-13T06:09:19Z",
+  "sha256": "ee763de5b5b4f6216bdbef10d40f4c52f71df6f7895d3618da2aa9194a699d1d",
+  "license": "CC BY-SA 4.0",
+  "city": "Bantaeng",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4394,
+          "ns": 0,
+          "title": "Bantaeng",
+          "revisions": [
+            {
+              "revid": 37383,
+              "parentid": 37382,
+              "timestamp": "2026-09-13T06:09:19Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg}}\n'''Bantaeng''' merupakan salah satu kabupaten di Provinsi [[Sulawesi Selatan]]. Daerah ini mempunyai julukan \"Butta Toa\", yang dalam bahasa Makassar berarti Tanah Tua, yang menggambarkan wilayah ini sebagai salah satu daerah bersejarah paling awal bagi etnik Makassar. Kabupaten dengan populasi sekitar 214,1 ribu jiwa ini terletak kurang lebih 125 km dari Kota [[Makassar]]. Objek pariwisatanya mencakup pesisir pantai maupun pegunungan. Destinasi yang populer di antaranya adalah situs purba Batu Ejayya, desa wisata Campaga, serta agrowisata kebun stroberi di Dataran Tinggi Muntea.\n\n== Pahami ==\nKabupaten Bantaeng adalah salah satu dari 21 kabupaten dan 3 kota yang terdapat di Provinsi Sulawesi Selatan.\n\n== Menuju ke sini ==\nCara paling umum untuk menuju ke Kabupaten Bantaeng adalah dengan berkendaraan melalui Kota Makassar, Sulawesi Selatan. Rute yang diambil ialah melalui Jalur Poros Selatan Sulawesi, yaitu dari Makassar melalui Kabupaten [[Gowa]] daerah Sungguminasa, Kabupaten [[Takalar]], Kabupaten [[Jeneponto]], dan akhirnya tiba di Kabupaten Bantaeng. Total jarak tempuh ialah sekitar 125 km sejak dari pusat kota Makassar.\n\n=== Dengan bus ===\nAnda dapat naik bus dari Terminal Mallengkeri, Makassar, dan mengambil rute menuju Kabupaten Bulukumba atau Kepulauan Selayar. Rute tersebut pasti akan melewati Kabupaten Bantaeng karena letaknya yang berada di jalur perlintasan utama ke arah selatan. Biayanya antara Rp100.000 hingga Rp150.000. Sebaiknya anda sampaikan ke sopir sejak awal saat membeli tiket, bahwa Anda akan turun di jalan poros Kabupaten Bantaeng. Operator bus yang populer adalah BMA Trans.\n\n== Berkeliling ==\nCara paling nyaman berkeliling Bantaeng ialah dengan menyewa motor atau mobil dan mengendarainya sendiri. Informasi kendaraan sewaan biasanya dapat anda peroleh di hotel atau penginapan tempat anda menginap. Menyewa kendaraan akan membuat lebih leluasa bila ingin mengunjungi destinasi dataran tinggi seperti Dataran Tinggi Muntea atau Desa Wisata Campaga. Bila anda tidak ingin mengendarai sendiri, anda bisa mencari jasa sewa lokal sekaligus sopirnya, yang dapat pula dilakukan sejak dari Kota Makassar.\n\nApabila hanya ingin ingin berjalan-jalan di sekitar pusat kota atau area pesisir seperti Pantai Seruni dan Pantai Marina, anda dapat pula menggunakan layanan ojek pangkalan atau aplikasi ojek online. \n\nBantaeng juga memiliki angkutan umum lokal yang disebut pete-pete. Angkutan kota ini melayani rute tetap yang menghubungkan area pinggiran dengan pusat kota atau jalan poros antar-kecamatan. Namun, pete-pete kurang efisien jika tujuan Anda adalah objek wisata pedalaman atau lereng gunung, karena jalurnya terbatas pada jalan-jalan utama saja dan tidak masuk ke pelosok daerah.\n\n== Makan ==\n* Gagape \n\n== Minum ==\n* Kopi Bantaeng\n\n== Lihat ==\n* Dataran Tinggi Muntea\n* Desa Wisata Campaga\n* Pantai Marina\n* Pantai Seruni\n* Situs Purba Batu Ejayya\n\n== Belajar ==\n\n== Tidur ==\n\n== Tetap sehat ==\n\n== Tujuan berikutnya ==\n\n{{Outlineruralarea}}\n{{IsPartOf|Area Metropolitan Makassar}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg}}\n'''Bantaeng''' merupakan salah satu kabupaten di Provinsi [[Sulawesi Selatan]]. Daerah ini mempunyai julukan \"Butta Toa\", yang dalam bahasa Makassar berarti Tanah Tua, yang menggambarkan wilayah ini sebagai salah satu daerah bersejarah paling awal bagi etnik Makassar. Kabupaten dengan populasi sekitar 214,1 ribu jiwa ini terletak kurang lebih 125 km dari Kota [[Makassar]]. Objek pariwisatanya mencakup pesisir pantai maupun pegunungan. Destinasi yang populer di antaranya adalah situs purba Batu Ejayya, desa wisata Campaga, serta agrowisata kebun stroberi di Dataran Tinggi Muntea.\n\n== Pahami ==\nKabupaten Bantaeng adalah salah satu dari 21 kabupaten dan 3 kota yang terdapat di Provinsi Sulawesi Selatan.\n\n== Menuju ke sini ==\nCara paling umum untuk menuju ke Kabupaten Bantaeng adalah dengan berkendaraan melalui Kota Makassar, Sulawesi Selatan. Rute yang diambil ialah melalui Jalur Poros Selatan Sulawesi, yaitu dari Makassar melalui Kabupaten [[Gowa]] daerah Sungguminasa, Kabupaten [[Takalar]], Kabupaten [[Jeneponto]], dan akhirnya tiba di Kabupaten Bantaeng. Total jarak tempuh ialah sekitar 125 km sejak dari pusat kota Makassar.\n\n=== Dengan bus ===\nAnda dapat naik bus dari Terminal Mallengkeri, Makassar, dan mengambil rute menuju Kabupaten Bulukumba atau Kepulauan Selayar. Rute tersebut pasti akan melewati Kabupaten Bantaeng karena letaknya yang berada di jalur perlintasan utama ke arah selatan. Biayanya antara Rp100.000 hingga Rp150.000. Sebaiknya anda sampaikan ke sopir sejak awal saat membeli tiket, bahwa Anda akan turun di jalan poros Kabupaten Bantaeng. Operator bus yang populer adalah BMA Trans.\n\n== Berkeliling ==\nCara paling nyaman berkeliling Bantaeng ialah dengan menyewa motor atau mobil dan mengendarainya sendiri. Informasi kendaraan sewaan biasanya dapat anda peroleh di hotel atau penginapan tempat anda menginap. Menyewa kendaraan akan membuat lebih leluasa bila ingin mengunjungi destinasi dataran tinggi seperti Dataran Tinggi Muntea atau Desa Wisata Campaga. Bila anda tidak ingin mengendarai sendiri, anda bisa mencari jasa sewa lokal sekaligus sopirnya, yang dapat pula dilakukan sejak dari Kota Makassar.\n\nApabila hanya ingin ingin berjalan-jalan di sekitar pusat kota atau area pesisir seperti Pantai Seruni dan Pantai Marina, anda dapat pula menggunakan layanan ojek pangkalan atau aplikasi ojek online. \n\nBantaeng juga memiliki angkutan umum lokal yang disebut pete-pete. Angkutan kota ini melayani rute tetap yang menghubungkan area pinggiran dengan pusat kota atau jalan poros antar-kecamatan. Namun, pete-pete kurang efisien jika tujuan Anda adalah objek wisata pedalaman atau lereng gunung, karena jalurnya terbatas pada jalan-jalan utama saja dan tidak masuk ke pelosok daerah.\n\n== Makan ==\n* Gagape \n\n== Minum ==\n* Kopi Bantaeng\n\n== Lihat ==\n* Dataran Tinggi Muntea\n* Desa Wisata Campaga\n* Pantai Marina\n* Pantai Seruni\n* Situs Purba Batu Ejayya\n\n== Belajar ==\n\n== Tidur ==\n\n== Tetap sehat ==\n\n== Tujuan berikutnya ==\n\n{{Outlineruralarea}}\n{{IsPartOf|Area Metropolitan Makassar}}"
+}

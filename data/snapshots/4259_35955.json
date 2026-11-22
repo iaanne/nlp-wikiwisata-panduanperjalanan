@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Adama",
+  "fetched_at": "2026-11-22T07:37:40.314989+00:00",
+  "title": "Adama",
+  "page_id": 4259,
+  "revision_id": "35955",
+  "revision_timestamp": "2026-08-19T04:09:09Z",
+  "sha256": "9a5095343fa9da7cc910f8ba4ed20d0a2e2d59032194217df3bfb79cd7ef400b",
+  "license": "CC BY-SA 4.0",
+  "city": "Adama",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4259,
+          "ns": 0,
+          "title": "Adama",
+          "revisions": [
+            {
+              "revid": 35955,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:09:09Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Adama''' atau '''Adaamaa''' , yang sebelumnya dikenal sebagai '''Nazret''' , adalah kota besar di Ethiopia tengah . Kota ini merupakan tujuan liburan akhir pekan yang populer bagi penduduk Addis Ababa dan menjadi tempat penyelenggaraan banyak konferensi pemerintah dan non-pemerintah."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Adama''' atau '''Adaamaa''' , yang sebelumnya dikenal sebagai '''Nazret''' , adalah kota besar di Ethiopia tengah . Kota ini merupakan tujuan liburan akhir pekan yang populer bagi penduduk Addis Ababa dan menjadi tempat penyelenggaraan banyak konferensi pemerintah dan non-pemerintah."
+}

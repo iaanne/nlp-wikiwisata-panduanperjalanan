@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Baku",
+  "fetched_at": "2026-11-22T07:50:41.348109+00:00",
+  "title": "Baku",
+  "page_id": 1041,
+  "revision_id": "34644",
+  "revision_timestamp": "2026-07-30T07:31:26Z",
+  "sha256": "7d43c472fd28f1c8be3b9ab06bbfcd2ebae434ca919a5ecf4fe1a812d54b9f43",
+  "license": "CC BY-SA 4.0",
+  "city": "Baku",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1041,
+          "ns": 0,
+          "title": "Baku",
+          "revisions": [
+            {
+              "revid": 34644,
+              "parentid": 34643,
+              "timestamp": "2026-07-30T07:31:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[http://www.bakutourism.az/ Baku]''' adalah ibukota [[Azerbaijan]].\n\n==Pahami==\n\n'''Baku''', dikenal juga sebagai '''Baky''' atau '''Bakı''', adalah kota terbesar di [[Kaukasus]]. Baku berada di pesisir Laut Kaspia di ujung selatan Semenanjung Absheron.\n\n== Menuju ke sini ==\n==Berkeliling==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n==Tetap aman==\nBaku dianggap sebagai kota yang aman, namun akal sehat tetap harus digunakan layaknya untuk semua kota besar lainnya. Tunawisma tidak melecehkan atau menyerang orang sehingga aman untuk berada di sekitar mereka. Masalah '''terbesar''' di Baku adalah di kendaraan. Banyak pengemudi yang tidak mematuhi aturan dan batas kecepatan.\n\nKeamanan disini agak tinggi, dengan pemeriksaan keamanan rutin di beberapa atraksi dan stasiun metro. Di Metro, polisi menjaga kedua ujung eskalator.\n\nSejak konflik Karabakh kembali berkobar pada September 2020, keamanan semakin diperketat.\n\n===Nomor kontak darurat===\n\n* Ambulans: 103\n* Kebakaran: 101\n* Darurat Gas: 104\n* Telepon Jam: 106\n* Polisi: 102\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Wilayah Baku}}\n{{Geo|40.3952778|49.8822222}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[http://www.bakutourism.az/ Baku]''' adalah ibukota [[Azerbaijan]].\n\n==Pahami==\n\n'''Baku''', dikenal juga sebagai '''Baky''' atau '''Bakı''', adalah kota terbesar di [[Kaukasus]]. Baku berada di pesisir Laut Kaspia di ujung selatan Semenanjung Absheron.\n\n== Menuju ke sini ==\n==Berkeliling==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n==Tetap aman==\nBaku dianggap sebagai kota yang aman, namun akal sehat tetap harus digunakan layaknya untuk semua kota besar lainnya. Tunawisma tidak melecehkan atau menyerang orang sehingga aman untuk berada di sekitar mereka. Masalah '''terbesar''' di Baku adalah di kendaraan. Banyak pengemudi yang tidak mematuhi aturan dan batas kecepatan.\n\nKeamanan disini agak tinggi, dengan pemeriksaan keamanan rutin di beberapa atraksi dan stasiun metro. Di Metro, polisi menjaga kedua ujung eskalator.\n\nSejak konflik Karabakh kembali berkobar pada September 2020, keamanan semakin diperketat.\n\n===Nomor kontak darurat===\n\n* Ambulans: 103\n* Kebakaran: 101\n* Darurat Gas: 104\n* Telepon Jam: 106\n* Polisi: 102\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Wilayah Baku}}\n{{Geo|40.3952778|49.8822222}}"
+}

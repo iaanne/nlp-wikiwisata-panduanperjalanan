@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bicara",
+  "fetched_at": "2026-11-22T08:01:42.946633+00:00",
+  "title": "Bicara",
+  "page_id": 1145,
+  "revision_id": "26017",
+  "revision_timestamp": "2025-01-03T07:40:33Z",
+  "sha256": "e2544ba0b178c5fdda5cb4ec48c8b4f9e5ef03e58f282a2b93b1702a175cfc92",
+  "license": "CC BY-SA 4.0",
+  "city": "Bicara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1145,
+          "ns": 0,
+          "title": "Bicara",
+          "revisions": [
+            {
+              "revid": 26017,
+              "parentid": 23518,
+              "timestamp": "2025-01-03T07:40:33Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Page-banner|Talking with the hands (cropped).jpg}}\n\nDunia memiliki lebih dari 5.000 bahasa yang berbeda, termasuk lebih dari dua puluh dengan 50 juta atau lebih penutur. Perjalanan dapat membuat Anda berhubungan dengan semua ini.\n\nArtikel ini mencoba memberikan gambaran umum tentang cara mengatasi kesulitan bahasa, masalah penting bagi banyak pelancong. Lihat [[Buku percakapan|daftar buku percakapan]] kami untuk informasi tentang bahasa tertentu.\n\n__NEWSECTIONLINK__\n\n==Mengatasi tanpa mengetahui bahasa lokal==\n\n* '''Bergabunglah dalam tur Bahasa Anda''' Ini bisa berarti apa saja, mulai dari mengambil tur kata yang diucapkan di serambi museum, hingga mengikuti tur bus dengan pengawalan ke seluruh negara atau wilayah. Lihat juga tur berpemandu dan agen perjalanan.\n*Temukan tempat yang sering dikunjungi oleh penutur bahasa Indonesia.Tempat-tempat seperti klub-klub Keliling Kota kemungkinan besar akan memiliki penonton yang berbahasa Indonesia.\n*Sewa pemandu atau penerjemah. Ini biasanya memungkinkan, meskipun tidak selalu murah atau nyaman. Jika menyelesaikan sesuatu lebih penting daripada menabung - misalnya, dalam perjalanan bisnis - ini seringkali merupakan solusi terbaik. Terutama jika melibatkan sejumlah besar, mungkin lebih aman menggunakan penerjemah Anda sendiri - misalnya, yang direkrut dari kalangan imigran di negara Anda atau direkomendasikan oleh kedutaan Anda di tempat tujuan - daripada mempercayai penerjemah yang disediakan oleh orang-orang yang akan Anda negosiasikan. dengan.\n*Penerjemah elektronik, seperti banyak aplikasi yang dapat diunduh di ponsel, bisa sangat berguna saat membuat permintaan sederhana di hotel, transportasi, atau bahkan membuat permintaan khusus di restoran. Andalkan itu sebagai komunikasi satu arah, tetapi sering kali bisa menyampaikan pesan ketika tanda tangan gagal.  Buku frasa atau kamus yang sesuai. Mempelajari dasar-dasar pelafalan, salam, cara menanyakan arah, dan angka (untuk transaksi) sudah cukup untuk memenuhi hampir semua hal penting dari perjalanan Anda sendiri, dan bisa menjadi aktivitas yang menyenangkan pada penerbangan yang panjang atau penundaan bus.\n*Tuliskan angka atau masukkan ke dalam kalkulator atau telepon untuk ditampilkan kepada pihak lain. Kata-kata tertulis seringkali lebih mudah dipahami daripada kata-kata yang diucapkan juga. Hal ini terutama berlaku untuk alamat, yang seringkali sulit diucapkan dengan jelas.\n*Coba bahasa lain yang Anda gunakan. Banyak orang di negara-negara pasca-Soviet berbicara bahasa Rusia, beberapa orang Turki dan Arab berbicara bahasa Perancis atau Jerman dengan baik, dan seterusnya.  Jika salah satu atau kedua pemain memiliki keterampilan terbatas dalam bahasa apa pun yang Anda gunakan, lakukan dengan sederhana! Pertahankan kalimat pendek. Gunakan bentuk waktu sekarang. Hindari idiom. Gunakan satu kata dan gerakan tangan untuk menyampaikan makna.  Jika tidak ada yang berhasil untuk situasi Anda, Anda bisa banyak tersenyum dan menggunakan gerakan. Sungguh menakjubkan seberapa jauh hal ini dapat membawa Anda; banyak orang sangat toleran.\n\n==Menggunakan bahasa ==\n{{Quote|Jika Anda dapat berbicara dalam tiga bahasa, Anda menguasai tiga bahasa;\n\nJika Anda dapat berbicara dalam dua bahasa, Anda adalah dwibahasa;\n\nJika Anda hanya dapat berbicara satu bahasa, Anda adalah anglofon.}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Page-banner|Talking with the hands (cropped).jpg}}\n\nDunia memiliki lebih dari 5.000 bahasa yang berbeda, termasuk lebih dari dua puluh dengan 50 juta atau lebih penutur. Perjalanan dapat membuat Anda berhubungan dengan semua ini.\n\nArtikel ini mencoba memberikan gambaran umum tentang cara mengatasi kesulitan bahasa, masalah penting bagi banyak pelancong. Lihat [[Buku percakapan|daftar buku percakapan]] kami untuk informasi tentang bahasa tertentu.\n\n__NEWSECTIONLINK__\n\n==Mengatasi tanpa mengetahui bahasa lokal==\n\n* '''Bergabunglah dalam tur Bahasa Anda''' Ini bisa berarti apa saja, mulai dari mengambil tur kata yang diucapkan di serambi museum, hingga mengikuti tur bus dengan pengawalan ke seluruh negara atau wilayah. Lihat juga tur berpemandu dan agen perjalanan.\n*Temukan tempat yang sering dikunjungi oleh penutur bahasa Indonesia.Tempat-tempat seperti klub-klub Keliling Kota kemungkinan besar akan memiliki penonton yang berbahasa Indonesia.\n*Sewa pemandu atau penerjemah. Ini biasanya memungkinkan, meskipun tidak selalu murah atau nyaman. Jika menyelesaikan sesuatu lebih penting daripada menabung - misalnya, dalam perjalanan bisnis - ini seringkali merupakan solusi terbaik. Terutama jika melibatkan sejumlah besar, mungkin lebih aman menggunakan penerjemah Anda sendiri - misalnya, yang direkrut dari kalangan imigran di negara Anda atau direkomendasikan oleh kedutaan Anda di tempat tujuan - daripada mempercayai penerjemah yang disediakan oleh orang-orang yang akan Anda negosiasikan. dengan.\n*Penerjemah elektronik, seperti banyak aplikasi yang dapat diunduh di ponsel, bisa sangat berguna saat membuat permintaan sederhana di hotel, transportasi, atau bahkan membuat permintaan khusus di restoran. Andalkan itu sebagai komunikasi satu arah, tetapi sering kali bisa menyampaikan pesan ketika tanda tangan gagal.  Buku frasa atau kamus yang sesuai. Mempelajari dasar-dasar pelafalan, salam, cara menanyakan arah, dan angka (untuk transaksi) sudah cukup untuk memenuhi hampir semua hal penting dari perjalanan Anda sendiri, dan bisa menjadi aktivitas yang menyenangkan pada penerbangan yang panjang atau penundaan bus.\n*Tuliskan angka atau masukkan ke dalam kalkulator atau telepon untuk ditampilkan kepada pihak lain. Kata-kata tertulis seringkali lebih mudah dipahami daripada kata-kata yang diucapkan juga. Hal ini terutama berlaku untuk alamat, yang seringkali sulit diucapkan dengan jelas.\n*Coba bahasa lain yang Anda gunakan. Banyak orang di negara-negara pasca-Soviet berbicara bahasa Rusia, beberapa orang Turki dan Arab berbicara bahasa Perancis atau Jerman dengan baik, dan seterusnya.  Jika salah satu atau kedua pemain memiliki keterampilan terbatas dalam bahasa apa pun yang Anda gunakan, lakukan dengan sederhana! Pertahankan kalimat pendek. Gunakan bentuk waktu sekarang. Hindari idiom. Gunakan satu kata dan gerakan tangan untuk menyampaikan makna.  Jika tidak ada yang berhasil untuk situasi Anda, Anda bisa banyak tersenyum dan menggunakan gerakan. Sungguh menakjubkan seberapa jauh hal ini dapat membawa Anda; banyak orang sangat toleran.\n\n==Menggunakan bahasa ==\n{{Quote|Jika Anda dapat berbicara dalam tiga bahasa, Anda menguasai tiga bahasa;\n\nJika Anda dapat berbicara dalam dua bahasa, Anda adalah dwibahasa;\n\nJika Anda hanya dapat berbicara satu bahasa, Anda adalah anglofon.}}"
+}

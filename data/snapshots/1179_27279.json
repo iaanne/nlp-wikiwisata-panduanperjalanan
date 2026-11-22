@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bremen",
+  "fetched_at": "2026-11-22T08:06:39.805683+00:00",
+  "title": "Bremen",
+  "page_id": 1179,
+  "revision_id": "27279",
+  "revision_timestamp": "2025-02-23T12:45:44Z",
+  "sha256": "6f96977758205f4b27e9c43c772be77b378dcee7f99388062e4f2fc9495fc6e2",
+  "license": "CC BY-SA 4.0",
+  "city": "Bremen",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1179,
+          "ns": 0,
+          "title": "Bremen",
+          "revisions": [
+            {
+              "revid": 27279,
+              "parentid": 7040,
+              "timestamp": "2025-02-23T12:45:44Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "[[Berkas:Rathaus Bremen 116thd.jpg|thumb|350px|Bremer Rathaus]]\n[http://www.bremen-tourism.de/btz/english '''Bremen'''] adalah kota yang terletak di utara [[Jerman]] yang memiliki pelabuhan utama di Sungai Weser. Populasi kota ini adalah 548.000 jiwa.\n\n== Menuju ke sini ==\n=== Dengan pesawat ===\n{{Go\n| name=Bandar Udara Bremen | alt={{IATA|BRE}} | url=http://www.airport-bremen.de | email=\n| address= | lat=53.0475 | long=8.786667 | directions=di barat daya kota\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Bandar Udara Bremen | image=Flughafen Bremen 1.JPG | wikidata=Q665365\n| content=Melayani banyak penerbangan bertarif rendah. Maskapai bertarif rendah [http://www.ryanair.com Ryanair] sejauh ini menawarkan koneksi paling banyak, tersebar di seluruh Eropa tetapi dengan fokus yang lebih kuat di Mediterania (khususnya destinasi liburan) dan negara-negara di sekitar Laut Baltik. Selain Ryanair dan spesialis liburan, ada beberapa penerbangan berorientasi bisnis bertarif tinggi ke tujuan tertentu (seperti [[Toulouse]], melayani Airbus Group yang memiliki fasilitas di kedua kota), dan penerbangan pengumpan ke bandara hub utama yang dioperasikan oleh maskapai berbendera operator. Sementara Ryanair telah mengurangi tawarannya di BRE, [http://www.sundair.com Sundair] menawarkan penerbangan ke beberapa tujuan liburan.\n}}\n\n== Makan ==\n{{Stub}}\n{{IsPartOf|Jerman}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "[[Berkas:Rathaus Bremen 116thd.jpg|thumb|350px|Bremer Rathaus]]\n[http://www.bremen-tourism.de/btz/english '''Bremen'''] adalah kota yang terletak di utara [[Jerman]] yang memiliki pelabuhan utama di Sungai Weser. Populasi kota ini adalah 548.000 jiwa.\n\n== Menuju ke sini ==\n=== Dengan pesawat ===\n{{Go\n| name=Bandar Udara Bremen | alt={{IATA|BRE}} | url=http://www.airport-bremen.de | email=\n| address= | lat=53.0475 | long=8.786667 | directions=di barat daya kota\n| phone= | tollfree= | fax=\n| hours= | price=\n| wikipedia=Bandar Udara Bremen | image=Flughafen Bremen 1.JPG | wikidata=Q665365\n| content=Melayani banyak penerbangan bertarif rendah. Maskapai bertarif rendah [http://www.ryanair.com Ryanair] sejauh ini menawarkan koneksi paling banyak, tersebar di seluruh Eropa tetapi dengan fokus yang lebih kuat di Mediterania (khususnya destinasi liburan) dan negara-negara di sekitar Laut Baltik. Selain Ryanair dan spesialis liburan, ada beberapa penerbangan berorientasi bisnis bertarif tinggi ke tujuan tertentu (seperti [[Toulouse]], melayani Airbus Group yang memiliki fasilitas di kedua kota), dan penerbangan pengumpan ke bandara hub utama yang dioperasikan oleh maskapai berbendera operator. Sementara Ryanair telah mengurangi tawarannya di BRE, [http://www.sundair.com Sundair] menawarkan penerbangan ke beberapa tujuan liburan.\n}}\n\n== Makan ==\n{{Stub}}\n{{IsPartOf|Jerman}}"
+}

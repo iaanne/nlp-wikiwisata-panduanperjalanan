@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amarah",
+  "fetched_at": "2026-11-22T07:42:41.340504+00:00",
+  "title": "Amarah",
+  "page_id": 4489,
+  "revision_id": "38810",
+  "revision_timestamp": "2026-11-03T08:51:03Z",
+  "sha256": "4444435cc621cbad83317e2893f93e8805489225686fd3bdb9e732a76599dda7",
+  "license": "CC BY-SA 4.0",
+  "city": "Amarah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4489,
+          "ns": 0,
+          "title": "Amarah",
+          "revisions": [
+            {
+              "revid": 38810,
+              "parentid": 0,
+              "timestamp": "2026-11-03T08:51:03Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Amarah''' adalah kota dengan sekitar 1,2 juta penduduk di Irak Selatan dan ibu kota provinsi Maysan.\n\n== Memahami ==\nAmarah merupakan kota yang relatif baru. Kota ini didirikan pada tahun 1860 oleh pemerintah Utsmaniyah sebagai pos militer, dengan tujuan untuk menjaga keamanan dan menegakkan kendali atas wilayah tersebut—sebuah kawasan yang sebelumnya dikenal rawan terhadap tindakan tanpa hukum."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Amarah''' adalah kota dengan sekitar 1,2 juta penduduk di Irak Selatan dan ibu kota provinsi Maysan.\n\n== Memahami ==\nAmarah merupakan kota yang relatif baru. Kota ini didirikan pada tahun 1860 oleh pemerintah Utsmaniyah sebagai pos militer, dengan tujuan untuk menjaga keamanan dan menegakkan kendali atas wilayah tersebut—sebuah kawasan yang sebelumnya dikenal rawan terhadap tindakan tanpa hukum."
+}

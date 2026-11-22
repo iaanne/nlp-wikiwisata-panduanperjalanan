@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Abbeville+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:35:42.020017+00:00",
+  "title": "Abbeville (Alabama)",
+  "page_id": 917,
+  "revision_id": "34211",
+  "revision_timestamp": "2026-07-27T03:56:20Z",
+  "sha256": "6da0e3ba0aa944b92db22a44005bf3b184394a3b80747f497c6cc0c7fe2c8d81",
+  "license": "CC BY-SA 4.0",
+  "city": "Abbeville (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 917,
+          "ns": 0,
+          "title": "Abbeville (Alabama)",
+          "revisions": [
+            {
+              "revid": 34211,
+              "parentid": 34210,
+              "timestamp": "2026-07-27T03:56:20Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Abbeville''' adalah sebuah kota di dan ibu kota county Henry County, di bagian tenggara [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\nKota ini terletak di Alabama bagian tenggara di sepanjang U.S. Route 431, Alabama State Route 10, dan Alabama State Route 27. U.S. 431 membentang dari utara ke selatan di sepanjang sisi barat kota sebagai jalan raya dengan empat lajur, Iklim di daerah ini ditandai dengan musim panas yang panas, lembab dan musim dingin yang umumnya sedang hingga sejuk. Menurut sistem Klasifikasi iklim Köppen, Abbeville memiliki iklim subtropis basah, yang disingkat \"''Cfa''\" pada peta iklim.\n\n== Menuju ke sini ==\n=== Pesawat ===\nAnda bisa datang melalui sebuah bandar udara yang melayani Abbeville dan terletak di Buigny-Saint-Maclou, 4 km utara-timurlaut Abbeville. namun untuk bendara internasional Abbeville belum memiliki bandara dengan kapasistas internasional jika anda memrlukannya anda tetap bisa mendaptkan koneksi dari Paris.\n\n=== Kereta ===\nAnda juga bisa menggunakan kereta api melalui Depo Kereta Api Jalur Pantai Atlantik di Abbeville.\n\n=== Bus ===\nLayanan bus antarkota disediakan oleh Greyhound Lines.\n\n=== Jalan darat ===\nKota ini terletak di tenggara Alabama di sepanjang Jalan nasional rute 431, Jalan Negara Bagian Alabama Rute 10, dan Jalan Negara Bagian Alabama Rute 27. Jalan nasional US 431 membentang dari utara ke selatan di sepanjang sisi barat kota sebagai jalan raya terbagi empat jalur, mengarah ke utara sejauh 27 mil ( 43 km) ke Eufaula dan barat daya 27 mi (43 km) ke Dothan. Jalan AL-10 membentang dari barat ke timur melalui pusat kota sebagai Washington Street, dan mengarah ke timur 13 mi (21 km) ke garis negara bagian Georgia dekat Fort Gaines dan barat laut 17 mi (27 km) ke Blue Springs. Jalan AL-27 mengarah ke barat daya dari kota 31 mil (50 km) ke Ozark.\n\n== Berkeliling ==\nAnda bisa melakukan kegiatan berkeliling baik dengan berjalan kaki sebab kota ini memerupakan kota yang cukup ramai sehingga anda juga bisa melakukannya hanya dengan berjalan kaki saja.\n\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Dengan berjalan kaki ===\n\n== Lihat ==\n\n=== Burt Stark Mansion ===\nMenajadi sebuah museum rumah itu adalah rumah dua lantai bergaya Kebangkitan Yunani dan menyimpas sejarah yang cukup panjang \n\n=== Trinity Episcopal Church ===\nMerupakan sebuah gereja dan katedral dengan  coordinates  = {{Coord|34|10|35|N|82|22|49|W|display=inline,title}}\n\n=== Parson's Mountain Recreation Area ===\n\n=== Court Square ===\n\n=== Red Barn Likker ===\n\n== Lakukan ==\n== Beli ==\n== Makan ==\n\n* Le Bord De Mer\n* Bourbon Street Deli\n* Cajun Claws\n\n== Minum ==\n\n* Le Royal Bar\n* Le Saint Pierre\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Adamsville (Alabama)|Adamsville]]\n* [[Addison (Alabama)|Addison]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Abbeville''' adalah sebuah kota di dan ibu kota county Henry County, di bagian tenggara [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\nKota ini terletak di Alabama bagian tenggara di sepanjang U.S. Route 431, Alabama State Route 10, dan Alabama State Route 27. U.S. 431 membentang dari utara ke selatan di sepanjang sisi barat kota sebagai jalan raya dengan empat lajur, Iklim di daerah ini ditandai dengan musim panas yang panas, lembab dan musim dingin yang umumnya sedang hingga sejuk. Menurut sistem Klasifikasi iklim Köppen, Abbeville memiliki iklim subtropis basah, yang disingkat \"''Cfa''\" pada peta iklim.\n\n== Menuju ke sini ==\n=== Pesawat ===\nAnda bisa datang melalui sebuah bandar udara yang melayani Abbeville dan terletak di Buigny-Saint-Maclou, 4 km utara-timurlaut Abbeville. namun untuk bendara internasional Abbeville belum memiliki bandara dengan kapasistas internasional jika anda memrlukannya anda tetap bisa mendaptkan koneksi dari Paris.\n\n=== Kereta ===\nAnda juga bisa menggunakan kereta api melalui Depo Kereta Api Jalur Pantai Atlantik di Abbeville.\n\n=== Bus ===\nLayanan bus antarkota disediakan oleh Greyhound Lines.\n\n=== Jalan darat ===\nKota ini terletak di tenggara Alabama di sepanjang Jalan nasional rute 431, Jalan Negara Bagian Alabama Rute 10, dan Jalan Negara Bagian Alabama Rute 27. Jalan nasional US 431 membentang dari utara ke selatan di sepanjang sisi barat kota sebagai jalan raya terbagi empat jalur, mengarah ke utara sejauh 27 mil ( 43 km) ke Eufaula dan barat daya 27 mi (43 km) ke Dothan. Jalan AL-10 membentang dari barat ke timur melalui pusat kota sebagai Washington Street, dan mengarah ke timur 13 mi (21 km) ke garis negara bagian Georgia dekat Fort Gaines dan barat laut 17 mi (27 km) ke Blue Springs. Jalan AL-27 mengarah ke barat daya dari kota 31 mil (50 km) ke Ozark.\n\n== Berkeliling ==\nAnda bisa melakukan kegiatan berkeliling baik dengan berjalan kaki sebab kota ini memerupakan kota yang cukup ramai sehingga anda juga bisa melakukannya hanya dengan berjalan kaki saja.\n\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Dengan berjalan kaki ===\n\n== Lihat ==\n\n=== Burt Stark Mansion ===\nMenajadi sebuah museum rumah itu adalah rumah dua lantai bergaya Kebangkitan Yunani dan menyimpas sejarah yang cukup panjang \n\n=== Trinity Episcopal Church ===\nMerupakan sebuah gereja dan katedral dengan  coordinates  = {{Coord|34|10|35|N|82|22|49|W|display=inline,title}}\n\n=== Parson's Mountain Recreation Area ===\n\n=== Court Square ===\n\n=== Red Barn Likker ===\n\n== Lakukan ==\n== Beli ==\n== Makan ==\n\n* Le Bord De Mer\n* Bourbon Street Deli\n* Cajun Claws\n\n== Minum ==\n\n* Le Royal Bar\n* Le Saint Pierre\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Adamsville (Alabama)|Adamsville]]\n* [[Addison (Alabama)|Addison]]"
+}

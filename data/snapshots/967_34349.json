@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Allgood+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:41:44.395365+00:00",
+  "title": "Allgood (Alabama)",
+  "page_id": 967,
+  "revision_id": "34349",
+  "revision_timestamp": "2026-07-28T07:45:35Z",
+  "sha256": "952f0d2066544db2b015e5336684791824c169ec7d1392382f38d7f95f5c7708",
+  "license": "CC BY-SA 4.0",
+  "city": "Allgood (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 967,
+          "ns": 0,
+          "title": "Allgood (Alabama)",
+          "revisions": [
+            {
+              "revid": 34349,
+              "parentid": 23375,
+              "timestamp": "2026-07-28T07:45:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Allgood''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nRute Negara Bagian Alabama 75 melewati kota, mengarah ke timur laut 3 mil (5 km) ke Oneonta, kursi county, dan barat daya 38 mil (61 km) ke Birmingham.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n* Hwy 75 Thrift Store\n* Dollar General\n\n== Makan ==\n* Busy Bee Food Mart LLC\n\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Aliceville (Alabama)|Aliceville]]\n* [[Altoona (Alabama)|Altoona]]\n* [[Andalusia (Alabama)|Andalusia]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Allgood''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nRute Negara Bagian Alabama 75 melewati kota, mengarah ke timur laut 3 mil (5 km) ke Oneonta, kursi county, dan barat daya 38 mil (61 km) ke Birmingham.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n* Hwy 75 Thrift Store\n* Dollar General\n\n== Makan ==\n* Busy Bee Food Mart LLC\n\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Aliceville (Alabama)|Aliceville]]\n* [[Altoona (Alabama)|Altoona]]\n* [[Andalusia (Alabama)|Andalusia]]"
+}

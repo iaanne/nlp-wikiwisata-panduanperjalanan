@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Achau",
+  "fetched_at": "2026-11-22T07:36:45.076723+00:00",
+  "title": "Achau",
+  "page_id": 925,
+  "revision_id": "23342",
+  "revision_timestamp": "2024-12-04T08:33:41Z",
+  "sha256": "79c0e5a68b9417a649eb860ef3c2794af969fc61217266f2b4dd5d03f17d04b4",
+  "license": "CC BY-SA 4.0",
+  "city": "Achau",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 925,
+          "ns": 0,
+          "title": "Achau",
+          "revisions": [
+            {
+              "revid": 23342,
+              "parentid": 3867,
+              "timestamp": "2024-12-04T08:33:41Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\n'''Achau''' dapat merujuk pada:\n* [[Achao]], di Chili\n* [[Achau, Austria]]\n\n{{Disambig}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\n'''Achau''' dapat merujuk pada:\n* [[Achao]], di Chili\n* [[Achau, Austria]]\n\n{{Disambig}}"
+}

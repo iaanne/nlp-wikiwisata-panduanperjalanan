@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Borjomi",
+  "fetched_at": "2026-11-22T08:04:44.491608+00:00",
+  "title": "Borjomi",
+  "page_id": 4266,
+  "revision_id": "35979",
+  "revision_timestamp": "2026-08-19T04:31:51Z",
+  "sha256": "f2c554307a8056d42f30c56376cc12f4e4e5954109ee792deefb3482f2961679",
+  "license": "CC BY-SA 4.0",
+  "city": "Borjomi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4266,
+          "ns": 0,
+          "title": "Borjomi",
+          "revisions": [
+            {
+              "revid": 35979,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:31:51Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Borjomi''' (ბორჯომი bohr-joh-mee) adalah sebuah kota di Georgia tengah , sekaligus nama cagar alam dan mata air asin vulkanik yang terkenal. Sumber mata air ini terletak di ngarai Borjomi."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Borjomi''' (ბორჯომი bohr-joh-mee) adalah sebuah kota di Georgia tengah , sekaligus nama cagar alam dan mata air asin vulkanik yang terkenal. Sumber mata air ini terletak di ngarai Borjomi."
+}

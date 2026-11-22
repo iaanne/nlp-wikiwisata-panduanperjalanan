@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Akhaltsikhe",
+  "fetched_at": "2026-11-22T07:39:44.413667+00:00",
+  "title": "Akhaltsikhe",
+  "page_id": 4264,
+  "revision_id": "35977",
+  "revision_timestamp": "2026-08-19T04:29:44Z",
+  "sha256": "4adee45b7ab5174cdaa1667b66925eaa96a26ab828fdc81273a1169f9a4ecc11",
+  "license": "CC BY-SA 4.0",
+  "city": "Akhaltsikhe",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4264,
+          "ns": 0,
+          "title": "Akhaltsikhe",
+          "revisions": [
+            {
+              "revid": 35977,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:29:44Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Akhaltsikhe''' ( bahasa Georgia : ახალციხე, \"Benteng Baru\") adalah kota kecil dengan sekitar 18.000 penduduk (2014) dan ibu kota Samtskhe-Javakheti . Kota ini agak tenang, tetapi Kota Tua dan Pemandian Turki Kuno-nya layak dikunjungi, dan merupakan basis yang bagus untuk menjelajahi daerah sekitarnya, termasuk Biara Sapara di dekatnya dan Vardzia di selatan dengan Benteng Khertvisi dan Tmogvi di sepanjang jalan."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Akhaltsikhe''' ( bahasa Georgia : ახალციხე, \"Benteng Baru\") adalah kota kecil dengan sekitar 18.000 penduduk (2014) dan ibu kota Samtskhe-Javakheti . Kota ini agak tenang, tetapi Kota Tua dan Pemandian Turki Kuno-nya layak dikunjungi, dan merupakan basis yang bagus untuk menjelajahi daerah sekitarnya, termasuk Biara Sapara di dekatnya dan Vardzia di selatan dengan Benteng Khertvisi dan Tmogvi di sepanjang jalan."
+}

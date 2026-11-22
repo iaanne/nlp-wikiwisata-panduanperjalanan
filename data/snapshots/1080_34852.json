@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangladesh",
+  "fetched_at": "2026-11-22T07:53:41.739774+00:00",
+  "title": "Bangladesh",
+  "page_id": 1080,
+  "revision_id": "34852",
+  "revision_timestamp": "2026-08-03T07:43:24Z",
+  "sha256": "8d78c4a95826c51d29614ed08f7d95f3da1615845cc4482eeea5485cac2bb8d7",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangladesh",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1080,
+          "ns": 0,
+          "title": "Bangladesh",
+          "revisions": [
+            {
+              "revid": 34852,
+              "parentid": 23464,
+              "timestamp": "2026-08-03T07:43:24Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Ratargul Swamp Forest Sylhet banner.jpg}}\n'''[http://www.parjatan.gov.bd Republik Rakyat Bangladesh]''' adalah sebuah negara di [[Asia Selatan]], yang berada di tepi subkontinen India.\n\n==Wilayah==\n\n==Kota==\nBangladesh terbagi menjadi tujuh divisi, yaitu:\n\n# Divisi Barisal\n# Divisi Chittagong\n# Divisi Dhaka\n# Divisi Khulna\n# Divisi Rajshahi\n# Divisi Rangpur\n# Divisi Sylhet\n\n==Destinasi lainnya==\nBangladesh menawarkan berbagai destinasi menarik, antara lain:\n\n* Cox's Bazar: Pantai terpanjang ketiga di dunia, sepanjang 120 km, terkenal untuk berselancar dan pemandangan matahari terbenam.\n* Sundarbans: Hutan bakau terbesar di dunia, rumah bagi Harimau Benggala dan beragam flora dan fauna.\n* Dhaka: Ibu kota yang kaya akan sejarah dan budaya, dengan berbagai museum dan pasar.\n* Srimangal: Dikenal sebagai \"ibu kota teh\" Bangladesh, menawarkan kebun teh yang indah.\n* Rangamati: Destinasi pegunungan dengan danau indah dan budaya suku asli.\n\n==Pahami==\n\n==Menuju ke sini==\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n===Biaya===\n\n==Makan==\nMasakan Bangladesh kaya akan rasa dan variasi, dipengaruhi oleh tradisi kuliner India dan Timur Tengah. Berikut beberapa hidangan khas yang populer:\n\n* Biryani: Nasi yang dimasak dengan rempah-rempah dan daging, sering disajikan pada acara khusus.\n* Dal Bhat: Nasi dengan sup lentil, acar, dan sayuran.\n* Paratha: Roti pipih yang digoreng.\n* Chotpoti: Olahan buncis dan kentang dengan saus asam.\n* Shorshe Ilish: Ikan hilsa dimasak dengan saus mustard.\n* Rasgulla: Manisan bola dari chhena dalam sirup manis.\n\n==Minum==\n\n==Tidur==\n\n==Kerja==\nDi Bangladesh, pasar kerja menawarkan beragam peluang, terutama di sektor industri, teknologi informasi, dan layanan. Gaji bervariasi tergantung profesi; contohnya, seorang Sales Executive bisa mendapatkan sekitar 48,600 BDT, sementara seorang Pilot memperoleh 45,500 BDT per bulan. Program Better Work berfokus pada peningkatan kualitas pekerjaan dan pemberdayaan perempuan, melibatkan sekitar 1,3 juta pekerja.  Namun, tantangan seperti tingkat pengangguran tinggi dan ketimpangan sosial tetap ada.\n\n==Tetap aman==\n\n==Tetap sehat ==\n\n==Hormati==\n\n==Terhubung==\n\n== Tujuan selanjutnya ==\n{{Geo|24|90|zoom=7}}\n{{IsPartOf|Asia Selatan}}\n{{Outlinecountry}}\n{{Related|Situs Suci di anak benua India}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Ratargul Swamp Forest Sylhet banner.jpg}}\n'''[http://www.parjatan.gov.bd Republik Rakyat Bangladesh]''' adalah sebuah negara di [[Asia Selatan]], yang berada di tepi subkontinen India.\n\n==Wilayah==\n\n==Kota==\nBangladesh terbagi menjadi tujuh divisi, yaitu:\n\n# Divisi Barisal\n# Divisi Chittagong\n# Divisi Dhaka\n# Divisi Khulna\n# Divisi Rajshahi\n# Divisi Rangpur\n# Divisi Sylhet\n\n==Destinasi lainnya==\nBangladesh menawarkan berbagai destinasi menarik, antara lain:\n\n* Cox's Bazar: Pantai terpanjang ketiga di dunia, sepanjang 120 km, terkenal untuk berselancar dan pemandangan matahari terbenam.\n* Sundarbans: Hutan bakau terbesar di dunia, rumah bagi Harimau Benggala dan beragam flora dan fauna.\n* Dhaka: Ibu kota yang kaya akan sejarah dan budaya, dengan berbagai museum dan pasar.\n* Srimangal: Dikenal sebagai \"ibu kota teh\" Bangladesh, menawarkan kebun teh yang indah.\n* Rangamati: Destinasi pegunungan dengan danau indah dan budaya suku asli.\n\n==Pahami==\n\n==Menuju ke sini==\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n===Biaya===\n\n==Makan==\nMasakan Bangladesh kaya akan rasa dan variasi, dipengaruhi oleh tradisi kuliner India dan Timur Tengah. Berikut beberapa hidangan khas yang populer:\n\n* Biryani: Nasi yang dimasak dengan rempah-rempah dan daging, sering disajikan pada acara khusus.\n* Dal Bhat: Nasi dengan sup lentil, acar, dan sayuran.\n* Paratha: Roti pipih yang digoreng.\n* Chotpoti: Olahan buncis dan kentang dengan saus asam.\n* Shorshe Ilish: Ikan hilsa dimasak dengan saus mustard.\n* Rasgulla: Manisan bola dari chhena dalam sirup manis.\n\n==Minum==\n\n==Tidur==\n\n==Kerja==\nDi Bangladesh, pasar kerja menawarkan beragam peluang, terutama di sektor industri, teknologi informasi, dan layanan. Gaji bervariasi tergantung profesi; contohnya, seorang Sales Executive bisa mendapatkan sekitar 48,600 BDT, sementara seorang Pilot memperoleh 45,500 BDT per bulan. Program Better Work berfokus pada peningkatan kualitas pekerjaan dan pemberdayaan perempuan, melibatkan sekitar 1,3 juta pekerja.  Namun, tantangan seperti tingkat pengangguran tinggi dan ketimpangan sosial tetap ada.\n\n==Tetap aman==\n\n==Tetap sehat ==\n\n==Hormati==\n\n==Terhubung==\n\n== Tujuan selanjutnya ==\n{{Geo|24|90|zoom=7}}\n{{IsPartOf|Asia Selatan}}\n{{Outlinecountry}}\n{{Related|Situs Suci di anak benua India}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batanes",
+  "fetched_at": "2026-11-22T07:55:45.739500+00:00",
+  "title": "Batanes",
+  "page_id": 1095,
+  "revision_id": "23479",
+  "revision_timestamp": "2024-12-04T08:38:53Z",
+  "sha256": "8eace48620e7b43c0568190a566ca41745ac0390689db901b4ab6b1554dc0996",
+  "license": "CC BY-SA 4.0",
+  "city": "Batanes",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1095,
+          "ns": 0,
+          "title": "Batanes",
+          "revisions": [
+            {
+              "revid": 23479,
+              "parentid": 6095,
+              "timestamp": "2024-12-04T08:38:53Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner Cagayan Valley Sabatang island coast.jpg}}\n'''[https://web.archive.org/web/20090916195319/http://www.visitmyphilippines.com/index.php?title=Batanes&func=all&pid=424&tbl=0 Batanes]''' adalah provinsi terkecil dan paling utara di [[Filipina]].\n\n== Pulau ==\n{{Mapframe}}\n* '''Pulau Batan'''\n** {{Marker|type=city|name=[[Basco]]|wikidata=Q43180}} - ibukota\n** {{Marker|type=city|name=[[Ivana]]|wikidata=}}\n** {{Marker|type=city|name=[[Mahatao]]|wikidata=}}\n** {{Marker|type=city|name=[[Uyugan]]|wikidata=}}\n* '''Pulau Itbayat'''\n** {{Marker|type=city|name=[[Itbayat]]|wikidata=Q43451}}\n* '''Pulau Sabtang'''\n** {{Marker|type=city|name=[[Sabtang]]|wikidata=Q43460}}\n*  {{Marker|type=city|name=[[Pulau Mavulis]]|wikidata=Q1059103}} - '''Y'ami'''\n\n==Pahami==\n== Menuju ke sini==\n=== Menggunakan pesawat ===\n==== Bandar Udara Basco ====\n(IATA: BSO)\n==== Bandar Udara Itbayat ====\n(IATA: IBB)\n==Berkeliling==\n==Lihat==\n==Makan==\n==Minum==\n==Tetap aman==\n==Tujuan berikutnya==\n* [[Cagayan]]\n* [[Ilocos Norte]]\n{{Geo|20.591667|121.896111|zoom=10}}\n\n{{IsPartOf|Luzon}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner Cagayan Valley Sabatang island coast.jpg}}\n'''[https://web.archive.org/web/20090916195319/http://www.visitmyphilippines.com/index.php?title=Batanes&func=all&pid=424&tbl=0 Batanes]''' adalah provinsi terkecil dan paling utara di [[Filipina]].\n\n== Pulau ==\n{{Mapframe}}\n* '''Pulau Batan'''\n** {{Marker|type=city|name=[[Basco]]|wikidata=Q43180}} - ibukota\n** {{Marker|type=city|name=[[Ivana]]|wikidata=}}\n** {{Marker|type=city|name=[[Mahatao]]|wikidata=}}\n** {{Marker|type=city|name=[[Uyugan]]|wikidata=}}\n* '''Pulau Itbayat'''\n** {{Marker|type=city|name=[[Itbayat]]|wikidata=Q43451}}\n* '''Pulau Sabtang'''\n** {{Marker|type=city|name=[[Sabtang]]|wikidata=Q43460}}\n*  {{Marker|type=city|name=[[Pulau Mavulis]]|wikidata=Q1059103}} - '''Y'ami'''\n\n==Pahami==\n== Menuju ke sini==\n=== Menggunakan pesawat ===\n==== Bandar Udara Basco ====\n(IATA: BSO)\n==== Bandar Udara Itbayat ====\n(IATA: IBB)\n==Berkeliling==\n==Lihat==\n==Makan==\n==Minum==\n==Tetap aman==\n==Tujuan berikutnya==\n* [[Cagayan]]\n* [[Ilocos Norte]]\n{{Geo|20.591667|121.896111|zoom=10}}\n\n{{IsPartOf|Luzon}}\n{{Outlineregion}}"
+}

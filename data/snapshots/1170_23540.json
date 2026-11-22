@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bosnia+Tengah",
+  "fetched_at": "2026-11-22T08:05:40.397437+00:00",
+  "title": "Bosnia Tengah",
+  "page_id": 1170,
+  "revision_id": "23540",
+  "revision_timestamp": "2024-12-04T08:41:18Z",
+  "sha256": "5cc71fc0f8404d7679b8f15d55beb13cec992cfbc39a2236a673f7d712de6837",
+  "license": "CC BY-SA 4.0",
+  "city": "Bosnia Tengah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1170,
+          "ns": 0,
+          "title": "Bosnia Tengah",
+          "revisions": [
+            {
+              "revid": 23540,
+              "parentid": 6960,
+              "timestamp": "2024-12-04T08:41:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|WV banner Central Bosnia Gornja Vrućica village.jpg}}\n'''Bosnia Tengah''' adalah sebuah wilayah di [[Bosnia dan Herzegovina]].\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[Kakanj]]|wikidata=Q963038}}\n* {{Marker|type=city|name=[[Teslic]]|wikidata=Q180753}} — kota dengan mata air mineral, spa, dan gua di pedesaan sekitarnya\n* {{Marker|type=city|name=[[Travnik]]|wikidata=Q159818}} — kota kecil dengan benteng dan bangunan bersejarah\n* {{Marker|type=city|name=[[Zenica]]|wikidata=Q184046}} — kota dengan kawasan tua Utsmaniyah\n\n==Destinasi lainnya==\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tetap aman==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Bosnia dan Herzegovina}}\n{{Outlineregion}}\n\n{{Geo|43.97|17.14|zoom=8}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|WV banner Central Bosnia Gornja Vrućica village.jpg}}\n'''Bosnia Tengah''' adalah sebuah wilayah di [[Bosnia dan Herzegovina]].\n\n==Kota==\n{{Mapframe}}\n* {{Marker|type=city|name=[[Kakanj]]|wikidata=Q963038}}\n* {{Marker|type=city|name=[[Teslic]]|wikidata=Q180753}} — kota dengan mata air mineral, spa, dan gua di pedesaan sekitarnya\n* {{Marker|type=city|name=[[Travnik]]|wikidata=Q159818}} — kota kecil dengan benteng dan bangunan bersejarah\n* {{Marker|type=city|name=[[Zenica]]|wikidata=Q184046}} — kota dengan kawasan tua Utsmaniyah\n\n==Destinasi lainnya==\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Makan==\n\n==Minum==\n\n==Tetap aman==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Bosnia dan Herzegovina}}\n{{Outlineregion}}\n\n{{Geo|43.97|17.14|zoom=8}}"
+}

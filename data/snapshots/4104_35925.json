@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Blora",
+  "fetched_at": "2026-11-22T08:03:40.505939+00:00",
+  "title": "Blora",
+  "page_id": 4104,
+  "revision_id": "35925",
+  "revision_timestamp": "2026-08-16T16:47:24Z",
+  "sha256": "9b034ad21fcac5edf5f90fd0f012e5f26953de3a15ad574aebe1a39fa39ddf2b",
+  "license": "CC BY-SA 4.0",
+  "city": "Blora",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4104,
+          "ns": 0,
+          "title": "Blora",
+          "revisions": [
+            {
+              "revid": 35925,
+              "parentid": 35835,
+              "timestamp": "2026-08-16T16:47:24Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Blora adalah sebuah kota di [[Jawa Tengah]]. Kota ini merupakan pusat pemerintahan kabupaten yang memiliki nama yang sama. Kota ini terkenal dengan kawasan hutan jati di sekitar Gubug Payung. Kota ini juga memiliki beberapa gua besar yang menarik untuk dijelajahi.\n\n== Pahami ==\nBlora terletak di ujung timur tengah Jawa Tengah, [[Indonesia]].\n\nBagian utara Kabupaten Blora merupakan daerah perbukitan yang membentuk rangkaian Pegunungan Kapur Utara serta di bagian selatan (Pegunungan Kendeng) yang membentang dari timur Semarang hingga Lamongan (Jawa Timur).\n\nSeparuh wilayah Kabupaten Blora berupa hutan, terutama di wilayah utara, timur, dan selatan, sedangkan dataran rendah tengah sebagian besar digunakan untuk pertanian (sawah). Pada musim kemarau, sebagian besar Kabupaten Blora mengalami kekurangan air, baik untuk minum maupun irigasi, terutama di daerah kapur dan pegunungan. Pada musim hujan, daerah-daerah rawan longsor.\n\n== Menuju kesini ==\n\n=== Dengan bus ===\nTerdapat beberapa perusahaan bus yang menghubungkan [[Jakarta]] ke Blora, antara lain Berlian Jaya, Garuda Mas, dan Haryanto, yang menyediakan bus ber-AC dan layanan makanan. Tiket dapat dipesan melalui redBus, dan pilih tujuan Terminal Bus Blora.\n\n=== Dengan kereta ===\nStasiun Kereta Api Randublatung (Stasiun Randublatung), Wulung, Randublatung. Ikuti jadwal kereta. KA Airlangga, KA Dharmawangsa, KA Jayabaya, dan KA Kertajaya dari Stasiun Pasar Senen [[Jakarta]] dan Stasiun Pasar Turi [[Surabaya]] serta KA Ambarawa Ekspres dan KA Blora Jaya dari [[semarang]]\n\n=== Dengan mobil ===\nAnda harus menuju ke selatan dari [[Jalan Raya Pos Besar]] di kota [[Rembang.]]\n\nDari [[Cepu]], kota Blora dapat dicapai dengan perjalanan selama 1 jam ke arah barat laut dengan pemandangan hutan jati.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\nSoto Klethuk\n\nSate Ayam Blora\n\nLontong Tahu Blora\n\nNasi Jagung\n\nSego Kobong\n\nPecel Blora\n\nMarning\n\nDumbeg\n\nLedre Blora\n\nEgg Roll Blora\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Blora adalah sebuah kota di [[Jawa Tengah]]. Kota ini merupakan pusat pemerintahan kabupaten yang memiliki nama yang sama. Kota ini terkenal dengan kawasan hutan jati di sekitar Gubug Payung. Kota ini juga memiliki beberapa gua besar yang menarik untuk dijelajahi.\n\n== Pahami ==\nBlora terletak di ujung timur tengah Jawa Tengah, [[Indonesia]].\n\nBagian utara Kabupaten Blora merupakan daerah perbukitan yang membentuk rangkaian Pegunungan Kapur Utara serta di bagian selatan (Pegunungan Kendeng) yang membentang dari timur Semarang hingga Lamongan (Jawa Timur).\n\nSeparuh wilayah Kabupaten Blora berupa hutan, terutama di wilayah utara, timur, dan selatan, sedangkan dataran rendah tengah sebagian besar digunakan untuk pertanian (sawah). Pada musim kemarau, sebagian besar Kabupaten Blora mengalami kekurangan air, baik untuk minum maupun irigasi, terutama di daerah kapur dan pegunungan. Pada musim hujan, daerah-daerah rawan longsor.\n\n== Menuju kesini ==\n\n=== Dengan bus ===\nTerdapat beberapa perusahaan bus yang menghubungkan [[Jakarta]] ke Blora, antara lain Berlian Jaya, Garuda Mas, dan Haryanto, yang menyediakan bus ber-AC dan layanan makanan. Tiket dapat dipesan melalui redBus, dan pilih tujuan Terminal Bus Blora.\n\n=== Dengan kereta ===\nStasiun Kereta Api Randublatung (Stasiun Randublatung), Wulung, Randublatung. Ikuti jadwal kereta. KA Airlangga, KA Dharmawangsa, KA Jayabaya, dan KA Kertajaya dari Stasiun Pasar Senen [[Jakarta]] dan Stasiun Pasar Turi [[Surabaya]] serta KA Ambarawa Ekspres dan KA Blora Jaya dari [[semarang]]\n\n=== Dengan mobil ===\nAnda harus menuju ke selatan dari [[Jalan Raya Pos Besar]] di kota [[Rembang.]]\n\nDari [[Cepu]], kota Blora dapat dicapai dengan perjalanan selama 1 jam ke arah barat laut dengan pemandangan hutan jati.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\nSoto Klethuk\n\nSate Ayam Blora\n\nLontong Tahu Blora\n\nNasi Jagung\n\nSego Kobong\n\nPecel Blora\n\nMarning\n\nDumbeg\n\nLedre Blora\n\nEgg Roll Blora\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

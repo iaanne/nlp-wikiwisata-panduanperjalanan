@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Acajutla",
+  "fetched_at": "2026-11-22T07:36:41.753174+00:00",
+  "title": "Acajutla",
+  "page_id": 4344,
+  "revision_id": "36986",
+  "revision_timestamp": "2026-09-06T08:46:36Z",
+  "sha256": "0be997fd2cb8a0b20484c66791dbdff63f0861057a748fbbb60def2f577bb111",
+  "license": "CC BY-SA 4.0",
+  "city": "Acajutla",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4344,
+          "ns": 0,
+          "title": "Acajutla",
+          "revisions": [
+            {
+              "revid": 36986,
+              "parentid": 36923,
+              "timestamp": "2026-09-06T08:46:36Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Acajutla''' adalah kota pelabuhan di [[Departemen Sonsonate]], [[El Salvador]]. \n\n== Pahami ==\nAcajutla merupakan kota pesisir yang menawan di El Salvador, menawarkan kombinasi sempurna antara keindahan alam dan budaya lokal yang kaya. Dengan pantai berpasir putih yang membentang luas dan laut yang berwarna biru jernih, Acajutla menjadi tempat yang ideal untuk melarikan diri dari kesibukan sehari-hari. Setiap sudut kota ini menyimpan keajaiban yang siap untuk dijelajahi, mulai dari pemandangan matahari terbenam yang menakjubkan hingga aktivitas seru di air.\n\n== Menuju ke sini ==\nUntuk menuju ke Acajutla, sebuah kota pelabuhan utama di El Salvador, perjalanan akan dimulai dengan terbang menuju Bandara Internasional El Salvador (SAL), yang merupakan gerbang masuk udara terdekat. Dari bandara atau ibu kota San Salvador, bisa melanjutkan perjalanan ke ''Terminal de Buses de Occidente'' dengan tujuan ke kota Sonsonate.\n\n=== Dengan Bus ===\n* {{go\n| name=Terminal de Buses de Occidente | alt= | url= | email=\n| address=Blvr. Venezuela, San Salvador, El Salvador | lat= | long= | directions=dengan bus\n| phone= | tollfree=\n| hours=04.30-18.30 | price=1-2$\n| lastedit=2026-09-06\n| content=\n}} naik Bus Rute 205. Setibanya di Terminal Sonsonate, ganti naik Bus Rute 252 yang langsung menuju ke pusat kota Acajutla. Perjalanan kedua ini memakan waktu sekitar 30 menit.\n\n== Berkeliling ==\nAcajutla memiliki area yang relatif kecil dan terpusat di sekitar pelabuhan, pusat kota (''Centro''), dan pantai lokal. Acajutla dapat dijelajahi dengan menggunakan bus lokal (Chicken Bus), taksi, sewa mobil serta menggunakan jasa tur dan antar - jemput pribadi.\n\n== Lihat =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Acajutla''' adalah kota pelabuhan di [[Departemen Sonsonate]], [[El Salvador]]. \n\n== Pahami ==\nAcajutla merupakan kota pesisir yang menawan di El Salvador, menawarkan kombinasi sempurna antara keindahan alam dan budaya lokal yang kaya. Dengan pantai berpasir putih yang membentang luas dan laut yang berwarna biru jernih, Acajutla menjadi tempat yang ideal untuk melarikan diri dari kesibukan sehari-hari. Setiap sudut kota ini menyimpan keajaiban yang siap untuk dijelajahi, mulai dari pemandangan matahari terbenam yang menakjubkan hingga aktivitas seru di air.\n\n== Menuju ke sini ==\nUntuk menuju ke Acajutla, sebuah kota pelabuhan utama di El Salvador, perjalanan akan dimulai dengan terbang menuju Bandara Internasional El Salvador (SAL), yang merupakan gerbang masuk udara terdekat. Dari bandara atau ibu kota San Salvador, bisa melanjutkan perjalanan ke ''Terminal de Buses de Occidente'' dengan tujuan ke kota Sonsonate.\n\n=== Dengan Bus ===\n* {{go\n| name=Terminal de Buses de Occidente | alt= | url= | email=\n| address=Blvr. Venezuela, San Salvador, El Salvador | lat= | long= | directions=dengan bus\n| phone= | tollfree=\n| hours=04.30-18.30 | price=1-2$\n| lastedit=2026-09-06\n| content=\n}} naik Bus Rute 205. Setibanya di Terminal Sonsonate, ganti naik Bus Rute 252 yang langsung menuju ke pusat kota Acajutla. Perjalanan kedua ini memakan waktu sekitar 30 menit.\n\n== Berkeliling ==\nAcajutla memiliki area yang relatif kecil dan terpusat di sekitar pelabuhan, pusat kota (''Centro''), dan pantai lokal. Acajutla dapat dijelajahi dengan menggunakan bus lokal (Chicken Bus), taksi, sewa mobil serta menggunakan jasa tur dan antar - jemput pribadi.\n\n== Lihat =="
+}

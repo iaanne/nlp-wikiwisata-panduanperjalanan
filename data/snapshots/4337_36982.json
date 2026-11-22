@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Abydos",
+  "fetched_at": "2026-11-22T07:36:40.938066+00:00",
+  "title": "Abydos",
+  "page_id": 4337,
+  "revision_id": "36982",
+  "revision_timestamp": "2026-09-06T08:46:01Z",
+  "sha256": "5ec636d5f87c5b06654513910ee2dcaf2f0598dcf4a3e25fc93245c1fa0bcf6d",
+  "license": "CC BY-SA 4.0",
+  "city": "Abydos",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4337,
+          "ns": 0,
+          "title": "Abydos",
+          "revisions": [
+            {
+              "revid": 36982,
+              "parentid": 36974,
+              "timestamp": "2026-09-06T08:46:01Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Abydos''' adalah kota tertua di [[Mesir]] Hulu.\n\n== Pahami ==\nAbydos terbagi menjadi dua bagian, yaitu Abydos Utara dan Abydos Selatan. Abydos Utara merupakan tempat kelahiran sejarah Mesir. Tempat ini merupakan tanah leluhur raja-raja Mesir. Sedangkan di Abydos Selatan merupakan salah satu pusat keagamaan terpenting di peradaban Mesir. Tempat lokasi makam firaun pertama Mesir (sekitar 2800-3000 SM).\n\n== Menuju ke sini ==\nSelain menggunakan pesawat, anda bisa mengakses Abydos menggunakan kereta api, bus, taxi dan mobil sewaan. Pilihan transportasi darat ini sangat umum digunakan oleh wisatawan yang berangkat dari dua titik awal utama, yaitu Kairo atau Luxor.\n* {{go\n| name=Bandara Internasional Sohag (HMB) | alt= | url= | email=\n| address=https://www.google.com/maps/place/Sohag+International+Airport/@26.3394051,31.7351451,17z/data=!3m1!4b1!4m6!3m5!1s0x144f537650874735:0x3b1143a2988fd08d!8m2!3d26.3394003!4d31.73772!16s%2Fm%2F0c3zr24?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D | lat=26.339708 | long=31.737956 | directions=\n| phone=+20932372005 | tollfree=\n| hours=12PM-12AM | price=\n| lastedit=2026-09-06\n| content=Bandara Internasional Sohag adalah bandara regional kecil berdesain ala Firaun yang menyediakan fasilitas esensial minimalis seperti kafe, toko duty-free, ATM, dan layanan medis darurat.\n}}\n=== Pesawat ===\n\n* Bandara Internasional Sohag (HMB)\n* Bandara Internasional Luxor (LXR)\n\n=== Kereta api ===\n\n* Stasiun Luxor\n* {{go\n| name=Luxor Railway Station | alt= | url= | email=\n| address=Luxor City, Luxor, Luxor Governorate 1362367, Mesir | lat=25.696678 | long=31.737956 | directions=\n| phone= | tollfree=\n| hours=12PM-12AM | price=\n| lastedit=2026-09-06\n| content=Stasiun Kereta Api Luxor menyediakan fasilitas dan layanan untuk kenyamanan penumpang dan wisatawan yang melakukan perjalanan antara Kairo dan Aswan.\n}}\n\n=== Dengan Mobil ===\nAnda dapat enyewa mobil beserta sopirnya secara harian untuk memberikan kebebasan waktu bagi Anda untuk mengeksplorasi tanpa terikat jadwal transportasi umum."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Abydos''' adalah kota tertua di [[Mesir]] Hulu.\n\n== Pahami ==\nAbydos terbagi menjadi dua bagian, yaitu Abydos Utara dan Abydos Selatan. Abydos Utara merupakan tempat kelahiran sejarah Mesir. Tempat ini merupakan tanah leluhur raja-raja Mesir. Sedangkan di Abydos Selatan merupakan salah satu pusat keagamaan terpenting di peradaban Mesir. Tempat lokasi makam firaun pertama Mesir (sekitar 2800-3000 SM).\n\n== Menuju ke sini ==\nSelain menggunakan pesawat, anda bisa mengakses Abydos menggunakan kereta api, bus, taxi dan mobil sewaan. Pilihan transportasi darat ini sangat umum digunakan oleh wisatawan yang berangkat dari dua titik awal utama, yaitu Kairo atau Luxor.\n* {{go\n| name=Bandara Internasional Sohag (HMB) | alt= | url= | email=\n| address=https://www.google.com/maps/place/Sohag+International+Airport/@26.3394051,31.7351451,17z/data=!3m1!4b1!4m6!3m5!1s0x144f537650874735:0x3b1143a2988fd08d!8m2!3d26.3394003!4d31.73772!16s%2Fm%2F0c3zr24?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D | lat=26.339708 | long=31.737956 | directions=\n| phone=+20932372005 | tollfree=\n| hours=12PM-12AM | price=\n| lastedit=2026-09-06\n| content=Bandara Internasional Sohag adalah bandara regional kecil berdesain ala Firaun yang menyediakan fasilitas esensial minimalis seperti kafe, toko duty-free, ATM, dan layanan medis darurat.\n}}\n=== Pesawat ===\n\n* Bandara Internasional Sohag (HMB)\n* Bandara Internasional Luxor (LXR)\n\n=== Kereta api ===\n\n* Stasiun Luxor\n* {{go\n| name=Luxor Railway Station | alt= | url= | email=\n| address=Luxor City, Luxor, Luxor Governorate 1362367, Mesir | lat=25.696678 | long=31.737956 | directions=\n| phone= | tollfree=\n| hours=12PM-12AM | price=\n| lastedit=2026-09-06\n| content=Stasiun Kereta Api Luxor menyediakan fasilitas dan layanan untuk kenyamanan penumpang dan wisatawan yang melakukan perjalanan antara Kairo dan Aswan.\n}}\n\n=== Dengan Mobil ===\nAnda dapat enyewa mobil beserta sopirnya secara harian untuk memberikan kebebasan waktu bagi Anda untuk mengeksplorasi tanpa terikat jadwal transportasi umum."
+}

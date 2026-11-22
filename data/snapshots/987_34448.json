@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Angola",
+  "fetched_at": "2026-11-22T07:44:41.410336+00:00",
+  "title": "Angola",
+  "page_id": 987,
+  "revision_id": "34448",
+  "revision_timestamp": "2026-07-29T13:40:49Z",
+  "sha256": "1b6a9b5ff2deb0f75565438e2d9382fd3ffdac65a23eeef353d5606a8a35086e",
+  "license": "CC BY-SA 4.0",
+  "city": "Angola",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 987,
+          "ns": 0,
+          "title": "Angola",
+          "revisions": [
+            {
+              "revid": 34448,
+              "parentid": 34447,
+              "timestamp": "2026-07-29T13:40:49Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Malange (Angola) banner Kalandula waterfalls of the Lucala River.jpg|caption=Air terjun Kalandula di Malange}}\n\n'''[https://web.archive.org/web/20210310142705/https://angola.org/ Angola]''' adalah negara di [[Afrika Tengah]]. Negara ini berbatasan dengan [[Namibia]] di selatan, [[Zambia]] di timur dan [[Republik Kongo]], bersama dengan [[Republik Demokratik Kongo]] di utara. Negara ini memiliki sumber daya alam yang melimpah; Jumlah minyak bumi dan berlian yang cukup besar, potensi hidroelektrik, dan tanah pertanian yang subur. Sangat bertolak belakang dengan kondisi alamnya negara ini merupakan salah satu negara termiskin di dunia, yang disebabkan oleh perang sipil berdarah dari tahun 1975 hingga tahun 2002.\n\n{{Geo|-12.35|17.35|zoom=6}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Afrika Tengah}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Malange (Angola) banner Kalandula waterfalls of the Lucala River.jpg|caption=Air terjun Kalandula di Malange}}\n\n'''[https://web.archive.org/web/20210310142705/https://angola.org/ Angola]''' adalah negara di [[Afrika Tengah]]. Negara ini berbatasan dengan [[Namibia]] di selatan, [[Zambia]] di timur dan [[Republik Kongo]], bersama dengan [[Republik Demokratik Kongo]] di utara. Negara ini memiliki sumber daya alam yang melimpah; Jumlah minyak bumi dan berlian yang cukup besar, potensi hidroelektrik, dan tanah pertanian yang subur. Sangat bertolak belakang dengan kondisi alamnya negara ini merupakan salah satu negara termiskin di dunia, yang disebabkan oleh perang sipil berdarah dari tahun 1975 hingga tahun 2002.\n\n{{Geo|-12.35|17.35|zoom=6}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Afrika Tengah}}\n{{Stub}}"
+}

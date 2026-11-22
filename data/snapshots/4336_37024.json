@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Abancay",
+  "fetched_at": "2026-11-22T07:35:40.874386+00:00",
+  "title": "Abancay",
+  "page_id": 4336,
+  "revision_id": "37024",
+  "revision_timestamp": "2026-09-06T17:41:21Z",
+  "sha256": "83eae836fbf09d923c84daec21d0f5dead5f042f669fd1e7180a4d1ad97dbe24",
+  "license": "CC BY-SA 4.0",
+  "city": "Abancay",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4336,
+          "ns": 0,
+          "title": "Abancay",
+          "revisions": [
+            {
+              "revid": 37024,
+              "parentid": 37023,
+              "timestamp": "2026-09-06T17:41:21Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Abancay''' adalah sebuah kota di selatan [[Peru]] dan merupakan ibu kota dari kawasan Apurimac dan Provinsi Abancay.\n\n== Pahami ==\nAbancay terletak sekitar 300 mil (480 km) di sebelah timur-tenggara Kota Lima dan cukup terpencil. Abancay dilewati oleh Sungai Pachachaca dan Sungai Marino. Abancay terletak di ketinggian {{convert|2377|m|ft}} di atas permukaan laut di selatan Andes Peru. Nama kota Abancay berasal dari kata Quechua “amankay”, yaitu nama bunga liar yang menyerupai bunga lili putih. Kota ini merupakan pusat perdagangan utama selama era kolonial [[Spanyol]]. Abancay merupakan pusat pertanian dan industri bagi sebagian besar wilayah Apurímac.\n\n== Menuju ke sini ==\nAkses ke Kota Abancay dapat menggunakan bus.\n\n=== Transportasi umum ===\nTaksi, bus.\n\n== Berkeliling ==\nDapat berkeliling dengan berjalan kaki untuk jarak pendek, menggunakan “colectivo” (combis atau taksi) untuk jarak jauh, serta mengikuti tur dengan bus ke objek wisata di sekitar kota.\n\n== Lihat ==\n* {{see\n| name=Plaza de Armas Abancay | alt= | url= | email=\n| address=Jr. Lima 401, Abancay 03001, Peru | lat=-13.637132 | long=-72.878963 | directions=\n| phone= | tollfree=\n| hours=24 jam | price=\n| image=Plaza de Armas Abancay, Apurimac.jpg\n| lastedit=2026-09-06\n| content=\n}}\n* {{see\n| name=Virgin of the Rosary Cathedral | alt=Katedral Abancay | url= | email=\n| address=Jr. Puno, Abancay 03001, Peru | lat=-13.637221 | long=-72.878527 | directions=\n| phone=+5183321007 | tollfree=\n| hours= | price=\n| wikipedia=Katedral Abancay | image=Abancay Cathedral's BellsTower.jpg | wikidata=Q5758603\n| lastedit=2026-09-06\n| content=\n}}\n* {{see\n| name=Puente Colonial | alt=Puente Colonial de Pachachaca | url= | email=\n| address=Pachachaca 03400, Peru | lat=-13.663143 | long=-72.937470 | directions=\n| phone= | tollfree=\n| hours=24 jam | price=\n| image=Puente Colonial de Pachachaca.jpg | wikidata=Q24707917\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Saywite | alt=Sayhuite | url= | email=\n| address=3S 711, 03100, Peru | lat=-13.546787 | long=-72.802799 | directions=\n| phone= | tollfree=\n| hours=8.30-13.00 dan 14.30-17.00 | price=Rp52.509\n| image=Sayhuite Archaeological site - rock sculpture.jpg | wikidata=Q2989639\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Baños Termales de Cconoc | alt= | url= | email=\n| address=Cconoc 03100, Peru | lat=-13.542808 | long=-72.638590 | directions=\n| phone=+51978988039 | tollfree=\n| hours=24 jam | price=\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Santuario Nacional de Ampay | alt=Ampay National Sanctuary | url= | email=\n| address=Abancay 03000, Peru | lat=-13.577193 | long=-72.886907 | directions=\n| phone=+51968218435 | tollfree=\n| hours=06:00-19:49 | price=\n| image=Uspaccocha nevado.jpg | wikidata=Q4748086\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Mirador de Taraccasa | alt= | url= | email=\n| address=Abancay 03000, Peru | lat=-13.624029 | long=-72.863929 | directions=\n| phone=+51983738165 | tollfree=\n| hours=24 jam | price=\n| image=Abancay desde el Mirador - panoramio.jpg | wikidata=Q28227072\n| lastedit=2026-09-07\n| content=\n}}\n\n== Lakukan ==\n\n== Beli =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Abancay''' adalah sebuah kota di selatan [[Peru]] dan merupakan ibu kota dari kawasan Apurimac dan Provinsi Abancay.\n\n== Pahami ==\nAbancay terletak sekitar 300 mil (480 km) di sebelah timur-tenggara Kota Lima dan cukup terpencil. Abancay dilewati oleh Sungai Pachachaca dan Sungai Marino. Abancay terletak di ketinggian {{convert|2377|m|ft}} di atas permukaan laut di selatan Andes Peru. Nama kota Abancay berasal dari kata Quechua “amankay”, yaitu nama bunga liar yang menyerupai bunga lili putih. Kota ini merupakan pusat perdagangan utama selama era kolonial [[Spanyol]]. Abancay merupakan pusat pertanian dan industri bagi sebagian besar wilayah Apurímac.\n\n== Menuju ke sini ==\nAkses ke Kota Abancay dapat menggunakan bus.\n\n=== Transportasi umum ===\nTaksi, bus.\n\n== Berkeliling ==\nDapat berkeliling dengan berjalan kaki untuk jarak pendek, menggunakan “colectivo” (combis atau taksi) untuk jarak jauh, serta mengikuti tur dengan bus ke objek wisata di sekitar kota.\n\n== Lihat ==\n* {{see\n| name=Plaza de Armas Abancay | alt= | url= | email=\n| address=Jr. Lima 401, Abancay 03001, Peru | lat=-13.637132 | long=-72.878963 | directions=\n| phone= | tollfree=\n| hours=24 jam | price=\n| image=Plaza de Armas Abancay, Apurimac.jpg\n| lastedit=2026-09-06\n| content=\n}}\n* {{see\n| name=Virgin of the Rosary Cathedral | alt=Katedral Abancay | url= | email=\n| address=Jr. Puno, Abancay 03001, Peru | lat=-13.637221 | long=-72.878527 | directions=\n| phone=+5183321007 | tollfree=\n| hours= | price=\n| wikipedia=Katedral Abancay | image=Abancay Cathedral's BellsTower.jpg | wikidata=Q5758603\n| lastedit=2026-09-06\n| content=\n}}\n* {{see\n| name=Puente Colonial | alt=Puente Colonial de Pachachaca | url= | email=\n| address=Pachachaca 03400, Peru | lat=-13.663143 | long=-72.937470 | directions=\n| phone= | tollfree=\n| hours=24 jam | price=\n| image=Puente Colonial de Pachachaca.jpg | wikidata=Q24707917\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Saywite | alt=Sayhuite | url= | email=\n| address=3S 711, 03100, Peru | lat=-13.546787 | long=-72.802799 | directions=\n| phone= | tollfree=\n| hours=8.30-13.00 dan 14.30-17.00 | price=Rp52.509\n| image=Sayhuite Archaeological site - rock sculpture.jpg | wikidata=Q2989639\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Baños Termales de Cconoc | alt= | url= | email=\n| address=Cconoc 03100, Peru | lat=-13.542808 | long=-72.638590 | directions=\n| phone=+51978988039 | tollfree=\n| hours=24 jam | price=\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Santuario Nacional de Ampay | alt=Ampay National Sanctuary | url= | email=\n| address=Abancay 03000, Peru | lat=-13.577193 | long=-72.886907 | directions=\n| phone=+51968218435 | tollfree=\n| hours=06:00-19:49 | price=\n| image=Uspaccocha nevado.jpg | wikidata=Q4748086\n| lastedit=2026-09-07\n| content=\n}}\n* {{see\n| name=Mirador de Taraccasa | alt= | url= | email=\n| address=Abancay 03000, Peru | lat=-13.624029 | long=-72.863929 | directions=\n| phone=+51983738165 | tollfree=\n| hours=24 jam | price=\n| image=Abancay desde el Mirador - panoramio.jpg | wikidata=Q28227072\n| lastedit=2026-09-07\n| content=\n}}\n\n== Lakukan ==\n\n== Beli =="
+}

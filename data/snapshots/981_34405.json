@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amuntai",
+  "fetched_at": "2026-11-22T07:43:43.335907+00:00",
+  "title": "Amuntai",
+  "page_id": 981,
+  "revision_id": "34405",
+  "revision_timestamp": "2026-07-29T07:33:26Z",
+  "sha256": "88d7c56ffaff36194b843e7990fe5591b2c29336aac77cbb8c4473508ae78e98",
+  "license": "CC BY-SA 4.0",
+  "city": "Amuntai",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 981,
+          "ns": 0,
+          "title": "Amuntai",
+          "revisions": [
+            {
+              "revid": 34405,
+              "parentid": 31617,
+              "timestamp": "2026-07-29T07:33:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Amuntai banner.jpg}}\n'''Amuntai''' adalah ibukota Kabupaten [[Hulu Sungai Utara]].\n\n==Pahami==\nDaerah Kabupaten Hulu Sungai Utara kebanyakannya rawa. Amuntai sendiri berada di dataran rendah.\n==Menuju ke sini==\n* Menggunakan angkutan umum.\n\n==Berkeliling==\n* '''Tugu Itik Amuntai'''.\n* '''Lapangan Pahlawan'''.\n* '''Tugu Pahlawan'''.\n* '''Taman Putri Junjung Buih'''.\n\n==Lihat==\n* '''Candi Agung'''. Berada di Kelurahan Sungai Malang, Kecamatan Amuntai Tengah, candi yang terbuat dari bebatuan dan kayu ini merupakan peninggalan dari Kerajaan Negara Dipa yang merupakan cikal bakal dari Kerajaan Negara Daha kemudian Kesultanan Banjar.\n* '''Kerbau rawa'''. Lebih baik di bulan Agustus, untuk bisa mengunjungi pacu kerbau di '''Desa Bararawa''' dan '''Desa Sapala''' di Kecamatan Paminggir. Namun, bisa dikunjungi kapan saja untuk menyaksikan aktivitas penggembala kerbau dan berkeliling rawa di atas jukung/sampan.\n==Lakukan==\n\n==Belajar==\n* '''Perpustakaan Daerah Kabupaten Hulu Sungai Utara'''.\n==Beli==\n* '''Pasar Induk Amuntai'''.\n* '''Pasar Modern (Plaza) Amuntai'''.\n==Makan==\n* '''Itik Panggang Tanpa Tulang'''.\n==Minum==\n\n==Tidur==\n* '''Hotel Lambung Mangkurat'''. Desa Palampitan Hulu, Kecamatan Amuntai Tengah.\n* '''Hotel Monica'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n* '''Hotel Amuntai Indah'''. Kelurahan Antasari, Kecamatan Amuntai Tengah.\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n* '''RSUD Pambalah Batung'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n* '''Polres Hulu Sungai Utara'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n\n==Tujuan berikutnya==\n\n* [[Balangan]]\n* [[Tabalong]]\n* Barabai\n* [[Kandangan]]\n\n{{IsPartOf|Hulu Sungai Utara}}\n{{Outlinecity}}\n{{Geo|-2.416604|115.239098}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Amuntai banner.jpg}}\n'''Amuntai''' adalah ibukota Kabupaten [[Hulu Sungai Utara]].\n\n==Pahami==\nDaerah Kabupaten Hulu Sungai Utara kebanyakannya rawa. Amuntai sendiri berada di dataran rendah.\n==Menuju ke sini==\n* Menggunakan angkutan umum.\n\n==Berkeliling==\n* '''Tugu Itik Amuntai'''.\n* '''Lapangan Pahlawan'''.\n* '''Tugu Pahlawan'''.\n* '''Taman Putri Junjung Buih'''.\n\n==Lihat==\n* '''Candi Agung'''. Berada di Kelurahan Sungai Malang, Kecamatan Amuntai Tengah, candi yang terbuat dari bebatuan dan kayu ini merupakan peninggalan dari Kerajaan Negara Dipa yang merupakan cikal bakal dari Kerajaan Negara Daha kemudian Kesultanan Banjar.\n* '''Kerbau rawa'''. Lebih baik di bulan Agustus, untuk bisa mengunjungi pacu kerbau di '''Desa Bararawa''' dan '''Desa Sapala''' di Kecamatan Paminggir. Namun, bisa dikunjungi kapan saja untuk menyaksikan aktivitas penggembala kerbau dan berkeliling rawa di atas jukung/sampan.\n==Lakukan==\n\n==Belajar==\n* '''Perpustakaan Daerah Kabupaten Hulu Sungai Utara'''.\n==Beli==\n* '''Pasar Induk Amuntai'''.\n* '''Pasar Modern (Plaza) Amuntai'''.\n==Makan==\n* '''Itik Panggang Tanpa Tulang'''.\n==Minum==\n\n==Tidur==\n* '''Hotel Lambung Mangkurat'''. Desa Palampitan Hulu, Kecamatan Amuntai Tengah.\n* '''Hotel Monica'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n* '''Hotel Amuntai Indah'''. Kelurahan Antasari, Kecamatan Amuntai Tengah.\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n* '''RSUD Pambalah Batung'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n* '''Polres Hulu Sungai Utara'''. Kelurahan Murung Sari, Kecamatan Amuntai Tengah.\n\n==Tujuan berikutnya==\n\n* [[Balangan]]\n* [[Tabalong]]\n* Barabai\n* [[Kandangan]]\n\n{{IsPartOf|Hulu Sungai Utara}}\n{{Outlinecity}}\n{{Geo|-2.416604|115.239098}}"
+}

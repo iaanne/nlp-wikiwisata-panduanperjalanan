@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Belorado",
+  "fetched_at": "2026-11-22T07:58:46.987349+00:00",
+  "title": "Belorado",
+  "page_id": 3511,
+  "revision_id": "28216",
+  "revision_timestamp": "2025-07-03T03:15:59Z",
+  "sha256": "4538e121867ce95542553fa68fb68739b59b9fcce505373770e0a67cd723e53b",
+  "license": "CC BY-SA 4.0",
+  "city": "Belorado",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3511,
+          "ns": 0,
+          "title": "Belorado",
+          "revisions": [
+            {
+              "revid": 28216,
+              "parentid": 0,
+              "timestamp": "2025-07-03T03:15:59Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg}}\n'''Belorado''' merupakan sebuah desa di [[Castile dan León]], [[Spanyol]]. Desa ini memiliki sekitar 1.700 penduduk dan berada di tengah [[Jalur Perancis]] di [[Camino de Santiago]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\nBandara utama di sekitar desa ini adalah [[ Bilbao]], [[ Madrid]] dan [[ Santander]].\n\nDesa ini tidak memiliki jalur kereta api.\n\n== Berkeliling ==\n{{mapframe|42.4205717|-3.1902690}}\nBelorado dapat dengan mudah dijelajahi dengan berjalan kaki.\n\n==Lihat==\n* Ruinas del Castillo de Belorado. Pemandangan desa yang indah.\n\n==Lakukan==\n\n==Beli==\nTersedia beberapa ATM termasuk IberCaja.\n\nTersedia juga beberapa supermarket.\n\n==Makan==\n\nDi Belorado, selain restoran, terdapat beberapa bar yang menyediakan makanan juga. ''Bar El Frontero'' sudah buka pukul 7 pagi.\n\n==Minum==\n\nDi seluruh desa terdapat beberapa pancuran air minum.\n\n==Tidur==\nJika Anda bukan peziarah, tanyakan terlebih dahulu apakah asrama hanya dapat digunakan oleh peziarah.\n\n''Albergue \"A Santiago\"'' hanya dapat digunakan oleh peziarah dan memiliki kolam renang tanpa pemanas, yang berarti airnya hangat di puncak musim panas. Pada hari-hari di luar puncak musim panas, setidaknya kolam ini dapat menyegarkan tubuh pada saat suhu udara lagi panas-panasnya.\n\n== Tujuan berikutnya==\n* Villafranca Montes de Oca, di Camino Frances\n* [[Logroño]]\n* [[Burgos (kota)|Burgos]]\n\n{{IsPartOf| Castile dan León}}\n{{outlinecity}}\n{{geo|42.4205717|-3.1902690}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg}}\n'''Belorado''' merupakan sebuah desa di [[Castile dan León]], [[Spanyol]]. Desa ini memiliki sekitar 1.700 penduduk dan berada di tengah [[Jalur Perancis]] di [[Camino de Santiago]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\nBandara utama di sekitar desa ini adalah [[ Bilbao]], [[ Madrid]] dan [[ Santander]].\n\nDesa ini tidak memiliki jalur kereta api.\n\n== Berkeliling ==\n{{mapframe|42.4205717|-3.1902690}}\nBelorado dapat dengan mudah dijelajahi dengan berjalan kaki.\n\n==Lihat==\n* Ruinas del Castillo de Belorado. Pemandangan desa yang indah.\n\n==Lakukan==\n\n==Beli==\nTersedia beberapa ATM termasuk IberCaja.\n\nTersedia juga beberapa supermarket.\n\n==Makan==\n\nDi Belorado, selain restoran, terdapat beberapa bar yang menyediakan makanan juga. ''Bar El Frontero'' sudah buka pukul 7 pagi.\n\n==Minum==\n\nDi seluruh desa terdapat beberapa pancuran air minum.\n\n==Tidur==\nJika Anda bukan peziarah, tanyakan terlebih dahulu apakah asrama hanya dapat digunakan oleh peziarah.\n\n''Albergue \"A Santiago\"'' hanya dapat digunakan oleh peziarah dan memiliki kolam renang tanpa pemanas, yang berarti airnya hangat di puncak musim panas. Pada hari-hari di luar puncak musim panas, setidaknya kolam ini dapat menyegarkan tubuh pada saat suhu udara lagi panas-panasnya.\n\n== Tujuan berikutnya==\n* Villafranca Montes de Oca, di Camino Frances\n* [[Logroño]]\n* [[Burgos (kota)|Burgos]]\n\n{{IsPartOf| Castile dan León}}\n{{outlinecity}}\n{{geo|42.4205717|-3.1902690}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Balkan",
+  "fetched_at": "2026-11-22T07:51:42.228397+00:00",
+  "title": "Balkan",
+  "page_id": 1049,
+  "revision_id": "32069",
+  "revision_timestamp": "2026-01-09T04:08:13Z",
+  "sha256": "b689ab74ff82a3d43c4ab639e95ffdae4e55f85a51be4f2355cb5c650a9868ff",
+  "license": "CC BY-SA 4.0",
+  "city": "Balkan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1049,
+          "ns": 0,
+          "title": "Balkan",
+          "revisions": [
+            {
+              "revid": 32069,
+              "parentid": 23446,
+              "timestamp": "2026-01-09T04:08:13Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Mostar Old Bridge banner.jpg|caption=Jembatan di Mostar, Bosnia-Herzegovina}}\n{{confused|[[Provinsi Balkan]], Turkmenistan}}\n\n'''Balkan''' adalah kawasan yang terletak di Semenanjung Balkan di sebelah tenggara [[Eropa]], termasuk hampir semua bekas wilayah [[Balkan Barat|Yugoslavia]].\n\n==Kota==\n*[[Belgrad]] – dikenal dengan Kota Putih, ibukota Serbia\n*[[Bukares]] – mempunyai sebutan Little Paris, kota terbesar ke-10 di Eropa\n*[[Chişinău]] – kota modern dengan setengah juta penduduk\n*[[Podgorica]] – mempunyai kawasan ski di musim dingin\n*[[Sarajevo]] – jantung Balkan dan tempat bermulanya Perang Dunia Pertama\n*[[Skopje]] – dekat Matka Canyon di Republik Makedonia\n*[[Sofia]] – ibukota Bulgaria di pegunungan\n*[[Tirana]] – pusat ekonomi Albania dan bekas kota kerajaan Ottoman\n*[[Zagreb]] – ibukota Kroasia yang ramai dikunjungi turis tiap tahunnya\n\n{{isPartOf|Eropa}}\n{{outlineregion}}\n{{geo|44.21|22.15|zoom=6}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Mostar Old Bridge banner.jpg|caption=Jembatan di Mostar, Bosnia-Herzegovina}}\n{{confused|[[Provinsi Balkan]], Turkmenistan}}\n\n'''Balkan''' adalah kawasan yang terletak di Semenanjung Balkan di sebelah tenggara [[Eropa]], termasuk hampir semua bekas wilayah [[Balkan Barat|Yugoslavia]].\n\n==Kota==\n*[[Belgrad]] – dikenal dengan Kota Putih, ibukota Serbia\n*[[Bukares]] – mempunyai sebutan Little Paris, kota terbesar ke-10 di Eropa\n*[[Chişinău]] – kota modern dengan setengah juta penduduk\n*[[Podgorica]] – mempunyai kawasan ski di musim dingin\n*[[Sarajevo]] – jantung Balkan dan tempat bermulanya Perang Dunia Pertama\n*[[Skopje]] – dekat Matka Canyon di Republik Makedonia\n*[[Sofia]] – ibukota Bulgaria di pegunungan\n*[[Tirana]] – pusat ekonomi Albania dan bekas kota kerajaan Ottoman\n*[[Zagreb]] – ibukota Kroasia yang ramai dikunjungi turis tiap tahunnya\n\n{{isPartOf|Eropa}}\n{{outlineregion}}\n{{geo|44.21|22.15|zoom=6}}"
+}

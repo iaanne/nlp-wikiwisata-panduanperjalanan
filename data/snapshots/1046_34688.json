@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bali+Timur",
+  "fetched_at": "2026-11-22T07:51:40.458795+00:00",
+  "title": "Bali Timur",
+  "page_id": 1046,
+  "revision_id": "34688",
+  "revision_timestamp": "2026-07-30T07:53:55Z",
+  "sha256": "e60a7fb52a829604bd4abc185c1a9682bfe7a126dee141a4fe5155dedfa8901f",
+  "license": "CC BY-SA 4.0",
+  "city": "Bali Timur",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1046,
+          "ns": 0,
+          "title": "Bali Timur",
+          "revisions": [
+            {
+              "revid": 34688,
+              "parentid": 34687,
+              "timestamp": "2026-07-30T07:53:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Eastbali-banner-2a.jpg}}\n'''Bali Timur''' adalah sebuah wilayah di [[Bali]], [[Indonesia]].\n\n== Kota ==\n{{mapframe}}\n*{{marker|type=city|name=[[Amlapura]]|wikidata=Q4747059}} &mdash; ibukota Kabupaten Karangasem\n*{{marker|type=city|name=[[Candidasa]]|wikidata=Q1869548}} &mdash; kota pesisir yang tenang, Bali Aga, dan gerbang menuju pesisir timur\n*{{marker|type=city|name=[[Klungkung]]|wikidata=Q11503}} &mdash; kota yang memiliki nilai sejarah dan budaya yang tinggi\n*{{marker|type=city|name=[[Padang Bai]]|wikidata=Q1910262}} &mdash; kota pelabuhan kecil tempat feri ke [[Lombok]] berangkat. Pantai pasir putih yang indah di dekatnya dikenal sebagai Pantai Blue Lagoon.\n\n== Destinasi lainnya ==\n*[[Amed]]\n*{{marker|name=[[Budakeling]]|wikidata=Q13569438}} &mdash; terdapat beberapa pengrajin perak dan emas di desa ini\n*[[Kintamani]]\n*[[Gunung Agung]]\n*[[Tirta Gangga]]\n\n==Pahami==\n\n== Menuju ke sini ==\n===Dengan pesawat===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Bali}}\n{{outlineregion}}\n{{Geo|-8.356|115.451|zoom=11}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Eastbali-banner-2a.jpg}}\n'''Bali Timur''' adalah sebuah wilayah di [[Bali]], [[Indonesia]].\n\n== Kota ==\n{{mapframe}}\n*{{marker|type=city|name=[[Amlapura]]|wikidata=Q4747059}} &mdash; ibukota Kabupaten Karangasem\n*{{marker|type=city|name=[[Candidasa]]|wikidata=Q1869548}} &mdash; kota pesisir yang tenang, Bali Aga, dan gerbang menuju pesisir timur\n*{{marker|type=city|name=[[Klungkung]]|wikidata=Q11503}} &mdash; kota yang memiliki nilai sejarah dan budaya yang tinggi\n*{{marker|type=city|name=[[Padang Bai]]|wikidata=Q1910262}} &mdash; kota pelabuhan kecil tempat feri ke [[Lombok]] berangkat. Pantai pasir putih yang indah di dekatnya dikenal sebagai Pantai Blue Lagoon.\n\n== Destinasi lainnya ==\n*[[Amed]]\n*{{marker|name=[[Budakeling]]|wikidata=Q13569438}} &mdash; terdapat beberapa pengrajin perak dan emas di desa ini\n*[[Kintamani]]\n*[[Gunung Agung]]\n*[[Tirta Gangga]]\n\n==Pahami==\n\n== Menuju ke sini ==\n===Dengan pesawat===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Bali}}\n{{outlineregion}}\n{{Geo|-8.356|115.451|zoom=11}}"
+}

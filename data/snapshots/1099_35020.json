@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batu+Karas",
+  "fetched_at": "2026-11-22T07:56:43.233305+00:00",
+  "title": "Batu Karas",
+  "page_id": 1099,
+  "revision_id": "35020",
+  "revision_timestamp": "2026-08-05T03:27:07Z",
+  "sha256": "5ece468122587208c7d530fd2779fc8402b948b0fb0c18e740f898b076184d7e",
+  "license": "CC BY-SA 4.0",
+  "city": "Batu Karas",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1099,
+          "ns": 0,
+          "title": "Batu Karas",
+          "revisions": [
+            {
+              "revid": 35020,
+              "parentid": 35019,
+              "timestamp": "2026-08-05T03:27:07Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Banner Batu Karas.jpg|caption=}}\n'''Batu Karas''' adalah sebuah desa nelayan kecil di wilayah [[Parahyangan Timur]] pada pantai selatan Jawa, sekitar satu jam perjalanan dari resor tepi pantai yang populer di [[Pangandaran]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Parahyangan Timur}}\n{{Stub}}\n{{RelatedCommonsCat|Batu Karas Beach|rel=y}}\n{{Geo|-7.7466|108.4972}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Banner Batu Karas.jpg|caption=}}\n'''Batu Karas''' adalah sebuah desa nelayan kecil di wilayah [[Parahyangan Timur]] pada pantai selatan Jawa, sekitar satu jam perjalanan dari resor tepi pantai yang populer di [[Pangandaran]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Parahyangan Timur}}\n{{Stub}}\n{{RelatedCommonsCat|Batu Karas Beach|rel=y}}\n{{Geo|-7.7466|108.4972}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Area+Metropolitan+Makassar",
+  "fetched_at": "2026-11-22T07:46:40.022009+00:00",
+  "title": "Area Metropolitan Makassar",
+  "page_id": 1003,
+  "revision_id": "34495",
+  "revision_timestamp": "2026-07-29T14:14:23Z",
+  "sha256": "7b33d90ce159223029aab0d85e82fce66bddf808da903ed215ed087f056e0635",
+  "license": "CC BY-SA 4.0",
+  "city": "Area Metropolitan Makassar",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1003,
+          "ns": 0,
+          "title": "Area Metropolitan Makassar",
+          "revisions": [
+            {
+              "revid": 34495,
+              "parentid": 32937,
+              "timestamp": "2026-07-29T14:14:23Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''Area Metropolitan Makassar''' berada di [[Sulawesi Selatan]]. Kawasan ini juga dikenal sebagai ''Mamminasata''.\n\n==Wilayah==\n{{Mapframe}}\n{{Regionlist\n\n| region1name= Kota [[Makassar]]\n| region1color=#ff0000\n| region1description= \n\n| region2name= Kabupaten [[Gowa]]\n| region2color=\t#0000ff\n| region2description= \n\n| region3name=Kabupaten [[Maros]]\n| region3color=\t#ffff00\n| region3description=\n\n| region4name= Kabupaten [[Takalar]]\n| region4color=\t#008000\n| region4description=\n\n}}\n{{Mapshape|type=geoshape|fill=#ff0000|title=Kota [[Makassar]]|wikidata=Q14634}}\n{{Mapshape|type=geoshape|fill=#0000ff|title=Kabupaten [[Gowa]]|wikidata=Q14601}}\n{{Mapshape|type=geoshape|fill=#ffff00|title=Kabupaten [[Maros]]|wikidata=Q14611}}\n{{Mapshape|type=geoshape|fill=#008000|title=Kabupaten [[Takalar]]|wikidata=Q14630}}\n\n==Kota==\n*{{Marker|type=city|name=Makassar|wikidata=Q14634}} &mdash; ibu kota provinsi Sulawesi Selatan sekligus kota terbesar di pulau itu\n*{{Marker|type=city|name=Pattallassang|wikidata=Q4194431}} &mdash; ibu kota Kabupaten Takalar\n*{{Marker|type=city|name=Turikale|wikidata=Q12711944}} &mdash; ibu kota Kabupaten Maros\n*{{Marker|type=city|name=Sungguminasa|wikidata=Q12518016}} &mdash; ibu kota Kabupaten Gowa\n\n==Destinasi lainnya==\n* {{Marker|type=listing|name=Kepulauan Tanakeke|lat=-5.501004918883877|long=119.28573186707928}} &mdash; Kepulauan Tanakeke terdiri atas Pulau Tanakeke, Bauluang, Satanga, dan Dayang-dayangan menyimpan perpaduan objek wisata alam yaitu agrowisata, berburu/atraksi menangkap ikan, pantai dan penyelam. \n==Pahami==\n\n==Menuju ke sini==\n* {{Go\n| name=Bandar Udara Internasional Sultan Hasanuddin | alt={{IATA|UPG}} | url=http://www.hasanuddin-airport.co.id | email=\n| address= | lat=-5.061667 | long=119.554167 | directions=terletak 20 km dari kota makassar\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q1432006\n| content=Berfungsi sebagai hub utama untuk penerbangan ke Indonesia Timur yang meliputi seluruh pulau Sulawesi, [[Maluku]] dan [[Papua]]. Ada beberapa penerbangan dari ibu kota Indonesia, [[Jakarta]] serta kota-kota kecil seperti [[Surabaya]], [[Bali]], dan [[Labuan Bajo]]. Satu-satunya penerbangan internasional adalah dari [[Kuala Lumpur]] dan [[Singapura]] (tidak setiap hari). Bandara ini cukup lengkap, dengan hotel bandara baru (dioperasikan oleh Ibis Budget), dua kafe Starbucks (di samping banyak toko lainnya), berbagai ATM, dan Wi-Fi gratis.\n}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n*[[Area Metropolitan Banjarmasin]], area metropolitan di pulau Kalimantan ke arah barat, dengan pesawat.\n{{IsPartOf|Sulawesi Selatan}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''Area Metropolitan Makassar''' berada di [[Sulawesi Selatan]]. Kawasan ini juga dikenal sebagai ''Mamminasata''.\n\n==Wilayah==\n{{Mapframe}}\n{{Regionlist\n\n| region1name= Kota [[Makassar]]\n| region1color=#ff0000\n| region1description= \n\n| region2name= Kabupaten [[Gowa]]\n| region2color=\t#0000ff\n| region2description= \n\n| region3name=Kabupaten [[Maros]]\n| region3color=\t#ffff00\n| region3description=\n\n| region4name= Kabupaten [[Takalar]]\n| region4color=\t#008000\n| region4description=\n\n}}\n{{Mapshape|type=geoshape|fill=#ff0000|title=Kota [[Makassar]]|wikidata=Q14634}}\n{{Mapshape|type=geoshape|fill=#0000ff|title=Kabupaten [[Gowa]]|wikidata=Q14601}}\n{{Mapshape|type=geoshape|fill=#ffff00|title=Kabupaten [[Maros]]|wikidata=Q14611}}\n{{Mapshape|type=geoshape|fill=#008000|title=Kabupaten [[Takalar]]|wikidata=Q14630}}\n\n==Kota==\n*{{Marker|type=city|name=Makassar|wikidata=Q14634}} &mdash; ibu kota provinsi Sulawesi Selatan sekligus kota terbesar di pulau itu\n*{{Marker|type=city|name=Pattallassang|wikidata=Q4194431}} &mdash; ibu kota Kabupaten Takalar\n*{{Marker|type=city|name=Turikale|wikidata=Q12711944}} &mdash; ibu kota Kabupaten Maros\n*{{Marker|type=city|name=Sungguminasa|wikidata=Q12518016}} &mdash; ibu kota Kabupaten Gowa\n\n==Destinasi lainnya==\n* {{Marker|type=listing|name=Kepulauan Tanakeke|lat=-5.501004918883877|long=119.28573186707928}} &mdash; Kepulauan Tanakeke terdiri atas Pulau Tanakeke, Bauluang, Satanga, dan Dayang-dayangan menyimpan perpaduan objek wisata alam yaitu agrowisata, berburu/atraksi menangkap ikan, pantai dan penyelam. \n==Pahami==\n\n==Menuju ke sini==\n* {{Go\n| name=Bandar Udara Internasional Sultan Hasanuddin | alt={{IATA|UPG}} | url=http://www.hasanuddin-airport.co.id | email=\n| address= | lat=-5.061667 | long=119.554167 | directions=terletak 20 km dari kota makassar\n| phone= | tollfree=\n| hours= | price=\n| wikidata=Q1432006\n| content=Berfungsi sebagai hub utama untuk penerbangan ke Indonesia Timur yang meliputi seluruh pulau Sulawesi, [[Maluku]] dan [[Papua]]. Ada beberapa penerbangan dari ibu kota Indonesia, [[Jakarta]] serta kota-kota kecil seperti [[Surabaya]], [[Bali]], dan [[Labuan Bajo]]. Satu-satunya penerbangan internasional adalah dari [[Kuala Lumpur]] dan [[Singapura]] (tidak setiap hari). Bandara ini cukup lengkap, dengan hotel bandara baru (dioperasikan oleh Ibis Budget), dua kafe Starbucks (di samping banyak toko lainnya), berbagai ATM, dan Wi-Fi gratis.\n}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n*[[Area Metropolitan Banjarmasin]], area metropolitan di pulau Kalimantan ke arah barat, dengan pesawat.\n{{IsPartOf|Sulawesi Selatan}}\n{{Outlineregion}}"
+}

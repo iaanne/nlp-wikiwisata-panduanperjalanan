@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangka",
+  "fetched_at": "2026-11-22T07:52:43.795613+00:00",
+  "title": "Bangka",
+  "page_id": 1073,
+  "revision_id": "32867",
+  "revision_timestamp": "2026-02-01T09:24:58Z",
+  "sha256": "12c54f3133a12b7e553aaea6c3ce142d7705a85e6a82a3fe539eba8aa50b80c6",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangka",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1073,
+          "ns": 0,
+          "title": "Bangka",
+          "revisions": [
+            {
+              "revid": 32867,
+              "parentid": 32866,
+              "timestamp": "2026-02-01T09:24:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Bangka''':\n\n=== [[Indonesia]] ===\n* [[Bangka (Sulawesi)]] - sebuah pulau di ujung timur laut [[Sulawesi Utara]]\n* [[Bangka (Sumatera)]] - sebuah pulau di lepas pantai [[Sumatera Selatan]]\n* [[Bangka-Belitung]] - provinsi yang meliputi Bangka di Sumatera dan pulau-pulau sekitarnya\n\n<!--\n=== [[Thailand]] ===\n\n* Bangka - suatu tempat di tenggara Bangkok (ada bus ke Bangka dari Ekamai)\n-->\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Bangka''':\n\n=== [[Indonesia]] ===\n* [[Bangka (Sulawesi)]] - sebuah pulau di ujung timur laut [[Sulawesi Utara]]\n* [[Bangka (Sumatera)]] - sebuah pulau di lepas pantai [[Sumatera Selatan]]\n* [[Bangka-Belitung]] - provinsi yang meliputi Bangka di Sumatera dan pulau-pulau sekitarnya\n\n<!--\n=== [[Thailand]] ===\n\n* Bangka - suatu tempat di tenggara Bangkok (ada bus ke Bangka dari Ekamai)\n-->\n\n{{Disamb}}"
+}

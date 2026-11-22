@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Boalemo",
+  "fetched_at": "2026-11-22T08:03:41.673369+00:00",
+  "title": "Boalemo",
+  "page_id": 4475,
+  "revision_id": "38630",
+  "revision_timestamp": "2026-10-18T00:06:22Z",
+  "sha256": "99e3dade5805f9b2c3c2f54294e419c083b930a7789a56a1fa261571ebf6ff1f",
+  "license": "CC BY-SA 4.0",
+  "city": "Boalemo",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4475,
+          "ns": 0,
+          "title": "Boalemo",
+          "revisions": [
+            {
+              "revid": 38630,
+              "parentid": 38629,
+              "timestamp": "2026-10-18T00:06:22Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pantai di Desa Bolihutuo, Kecamatan Botumoito, Kabupaten Boalemo, Gorontalo.jpg}}\n\nKabupaten Boalemo adalah sebuah kabupaten di Provinsi Gorontalo, Indonesia. Kabupaten ini beribu kota di Tilamuta dan merupakan kabupaten hasil pemekaran Kabupaten Gorontalo pada tanggal 12 Oktober 1999 berdasarkan Undang-Undang Nomor 50 Tahun 1999 yang telah diubah dengan Undang-Undang Nomor 10 Tahun 2000 tentang Pembentukan Kabupaten Boalemo.\n\n== Sejarah ==\nBerdasarkan data historis, Boalemo pada abad ke-17 pernah menjadi sebuah daerah kerajaan, wilayahnya mencakup bagian barat Gorontalo. Ketika Belanda berkuasa sistem pemerintahan beberapa kali mengalami perubahan. Dalam Lembaran Negara tahun 1925 Nomor 262, Keresidenan Gorontalo dibagi menjadi dua wilayah pemerintahan, yakni; 1) Onder Afdeling Gorontalo dengan Onder distriknya, meliputi Atinggola, Kwandang, Sumalata, Batudaa, Tibawa, Gorontalo, Telaga, Tapa, Kabila, Suwawa dan Bonepantai, 2) Onder Afdeling Boalemo dengan Onder distriknya, meliputi Paguyaman, Tilamuta dan Paguat.\n\nPada tahun 1946, ketika Sulawesi menjadi bagian dari Negara Indonesia Timur, keswaprajaan yang tertuang dalam Undang-Undang Nomor 29 Tahun 1959 perihal pemebentukan Daerah Tingkat II di seluruh Sulawesi. Dalam UU ini Boalemo menjadi salah satu kawedanan dalam wilayah Kabupaten Gorontalo. Status kewedanan Boalemo berlaku sampai dengan keluarnya Undang-Undang Nomor 5 tahun 1974 yang selanjutnya disusul oleh Permendagri Nomor 132 tahun 1978 tentang Pedoman Susunan Organisasi dan Tata Kerja Kantor Pembantu Bupati/Walikotamadya.\n\n== Pahami ==\nKabupaten Boalemo terletak pada posisi di antara 00°24'04\" - 01°02'30\" Lintang Utara (LU) dan 120°08'04\" - 122°33'33\" Bujur Timur (BT) dengan luas wilayah Kabupaten Boalemo adalah 2.567,36&#x20;km² atau 21,02% dari luas Provinsi Gorontalo, dengan jumlah penduduk 129.177 jiwa, dan tingkat kepadatan penduduk 50,32 jiwa/km². Menurut data terakhir, Kabupaten Boalemo terdiri atas 7 wilayah kecamatan, yaitu: Botumoito, Dulupi, Mananggu, Paguyaman, Paguyaman Pantai, Tilamuta, dan Wonosari, serta 2 kelurahan dan 81 desa.\n\n== Destinasi Wisata ==\nDestinasi wisata yang ada di Kabupaten Boalemo yaitu:\n\n* Pulau Cinta (Pulo Cinta Eco Resort)\n* Pantai Bolihutuo\n* Pantai Ratu\n* Tapadaa Beach Resort\n* Pulau Idaman\n* Air Terjun Ayuhulalo\n* Air Terjun Tenilo\n* Taman Batu (Garden Stone)\n* Bendungan Cekdam Piloliyanga\n\n== Menuju ke sini ==\nGerbang masuk untuk sampai ke Boalemo adalah melalui Kota Gorontalo. Pilihan transportasi menuju ke sini yakni melalui darat dan udara.\n\nPengunjung dari luar Boalemo dapat terbang menuju Bandara Jalaluddin di Isimu, Kabupaten Gorontalo. Dari bandara, perjalanan dapat dilanjutkan melalui jalur darat menuju kabupaten Boalemo.\n\nSementara dari jalur darat, ke Boalemo dapat dijangkau menggunakan mobil, sepeda motor, taksi, atau kendaraan sewaan dari Manado atau dari Palu. Perjalanan menuju Boalemo melewati kawasan perbukitan.\n\nSelain itu, terdapat layanan kendaraan antarkota dan angkutan lokal yang menghubungkan Gorontalo dengan Boalemo. Ketersediaan dan jadwal perlu dikonfirmasi di terminal setempat."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pantai di Desa Bolihutuo, Kecamatan Botumoito, Kabupaten Boalemo, Gorontalo.jpg}}\n\nKabupaten Boalemo adalah sebuah kabupaten di Provinsi Gorontalo, Indonesia. Kabupaten ini beribu kota di Tilamuta dan merupakan kabupaten hasil pemekaran Kabupaten Gorontalo pada tanggal 12 Oktober 1999 berdasarkan Undang-Undang Nomor 50 Tahun 1999 yang telah diubah dengan Undang-Undang Nomor 10 Tahun 2000 tentang Pembentukan Kabupaten Boalemo.\n\n== Sejarah ==\nBerdasarkan data historis, Boalemo pada abad ke-17 pernah menjadi sebuah daerah kerajaan, wilayahnya mencakup bagian barat Gorontalo. Ketika Belanda berkuasa sistem pemerintahan beberapa kali mengalami perubahan. Dalam Lembaran Negara tahun 1925 Nomor 262, Keresidenan Gorontalo dibagi menjadi dua wilayah pemerintahan, yakni; 1) Onder Afdeling Gorontalo dengan Onder distriknya, meliputi Atinggola, Kwandang, Sumalata, Batudaa, Tibawa, Gorontalo, Telaga, Tapa, Kabila, Suwawa dan Bonepantai, 2) Onder Afdeling Boalemo dengan Onder distriknya, meliputi Paguyaman, Tilamuta dan Paguat.\n\nPada tahun 1946, ketika Sulawesi menjadi bagian dari Negara Indonesia Timur, keswaprajaan yang tertuang dalam Undang-Undang Nomor 29 Tahun 1959 perihal pemebentukan Daerah Tingkat II di seluruh Sulawesi. Dalam UU ini Boalemo menjadi salah satu kawedanan dalam wilayah Kabupaten Gorontalo. Status kewedanan Boalemo berlaku sampai dengan keluarnya Undang-Undang Nomor 5 tahun 1974 yang selanjutnya disusul oleh Permendagri Nomor 132 tahun 1978 tentang Pedoman Susunan Organisasi dan Tata Kerja Kantor Pembantu Bupati/Walikotamadya.\n\n== Pahami ==\nKabupaten Boalemo terletak pada posisi di antara 00°24'04\" - 01°02'30\" Lintang Utara (LU) dan 120°08'04\" - 122°33'33\" Bujur Timur (BT) dengan luas wilayah Kabupaten Boalemo adalah 2.567,36&#x20;km² atau 21,02% dari luas Provinsi Gorontalo, dengan jumlah penduduk 129.177 jiwa, dan tingkat kepadatan penduduk 50,32 jiwa/km². Menurut data terakhir, Kabupaten Boalemo terdiri atas 7 wilayah kecamatan, yaitu: Botumoito, Dulupi, Mananggu, Paguyaman, Paguyaman Pantai, Tilamuta, dan Wonosari, serta 2 kelurahan dan 81 desa.\n\n== Destinasi Wisata ==\nDestinasi wisata yang ada di Kabupaten Boalemo yaitu:\n\n* Pulau Cinta (Pulo Cinta Eco Resort)\n* Pantai Bolihutuo\n* Pantai Ratu\n* Tapadaa Beach Resort\n* Pulau Idaman\n* Air Terjun Ayuhulalo\n* Air Terjun Tenilo\n* Taman Batu (Garden Stone)\n* Bendungan Cekdam Piloliyanga\n\n== Menuju ke sini ==\nGerbang masuk untuk sampai ke Boalemo adalah melalui Kota Gorontalo. Pilihan transportasi menuju ke sini yakni melalui darat dan udara.\n\nPengunjung dari luar Boalemo dapat terbang menuju Bandara Jalaluddin di Isimu, Kabupaten Gorontalo. Dari bandara, perjalanan dapat dilanjutkan melalui jalur darat menuju kabupaten Boalemo.\n\nSementara dari jalur darat, ke Boalemo dapat dijangkau menggunakan mobil, sepeda motor, taksi, atau kendaraan sewaan dari Manado atau dari Palu. Perjalanan menuju Boalemo melewati kawasan perbukitan.\n\nSelain itu, terdapat layanan kendaraan antarkota dan angkutan lokal yang menghubungkan Gorontalo dengan Boalemo. Ketersediaan dan jadwal perlu dikonfirmasi di terminal setempat."
+}

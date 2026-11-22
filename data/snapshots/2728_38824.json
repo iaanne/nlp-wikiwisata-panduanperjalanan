@@ -1,11 +1,12 @@
 {
   "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Yogyakarta",
-  "fetched_at": "2026-11-21T16:23:20.471440+00:00",
+  "fetched_at": "2026-11-22T07:35:26.771368+00:00",
   "title": "Yogyakarta",
   "page_id": 2728,
   "revision_id": "38824",
   "revision_timestamp": "2026-11-05T17:39:04Z",
   "sha256": "e6e87d2e02e98a5841519e488eceb5141ef593ab2dd9bd38b9b294c8a1088f00",
+  "license": "CC BY-SA 4.0",
   "city": "Yogyakarta",
   "category": "destination",
   "raw_api_response": {

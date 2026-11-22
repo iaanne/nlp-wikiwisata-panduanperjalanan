@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bermuda",
+  "fetched_at": "2026-11-22T08:00:45.929459+00:00",
+  "title": "Bermuda",
+  "page_id": 1139,
+  "revision_id": "35603",
+  "revision_timestamp": "2026-08-08T09:57:04Z",
+  "sha256": "df15473fa8735b66875db14f9a611b8d715af40a8229a9328b1575e8480011de",
+  "license": "CC BY-SA 4.0",
+  "city": "Bermuda",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1139,
+          "ns": 0,
+          "title": "Bermuda",
+          "revisions": [
+            {
+              "revid": 35603,
+              "parentid": 35602,
+              "timestamp": "2026-08-08T09:57:04Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Bermuda banner View from Gibbs lighthouse.jpg}}\n\n[[Berkas:Bermuda-CIA_WFB_Map.png|thumb|Bermuda]]\n'''{{w|Bermuda}}''' adalah sebuah wilayah seberang laut [[Britania Raya]] di Samudra Atlantik bagian utara. Letaknya sekitar 933&nbsp;km dari pesisir Carolina Utara, Amerika Serikat. Wilayah yang terdiri dari 138 pulau ini dibagi menjadi 10 lingkungan (parish) dan 2 munisipalitas.\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== dengan Kapal ===\nNaik kapal feri dari Carolina Utara, Amerika Tengah.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\nDisini Anda dapat melakukan:\n* Menyelam (diving)\n\n[[Kategori:Amerika Tengah]]\n{{IsPartOf|Amerika Tengah}}\n{{geo|32.313|-64.765|zoom=12}}\n{{usableregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Bermuda banner View from Gibbs lighthouse.jpg}}\n\n[[Berkas:Bermuda-CIA_WFB_Map.png|thumb|Bermuda]]\n'''{{w|Bermuda}}''' adalah sebuah wilayah seberang laut [[Britania Raya]] di Samudra Atlantik bagian utara. Letaknya sekitar 933&nbsp;km dari pesisir Carolina Utara, Amerika Serikat. Wilayah yang terdiri dari 138 pulau ini dibagi menjadi 10 lingkungan (parish) dan 2 munisipalitas.\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== dengan Kapal ===\nNaik kapal feri dari Carolina Utara, Amerika Tengah.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\nDisini Anda dapat melakukan:\n* Menyelam (diving)\n\n[[Kategori:Amerika Tengah]]\n{{IsPartOf|Amerika Tengah}}\n{{geo|32.313|-64.765|zoom=12}}\n{{usableregion}}"
+}

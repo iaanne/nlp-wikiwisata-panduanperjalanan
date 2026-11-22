@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bolivar",
+  "fetched_at": "2026-11-22T08:03:45.399927+00:00",
+  "title": "Bolivar",
+  "page_id": 1161,
+  "revision_id": "27444",
+  "revision_timestamp": "2025-04-04T07:56:00Z",
+  "sha256": "6ae4d71d06f42615aa397be8189ab9c32983fbe10f72a6af390d4184f9f7d4b3",
+  "license": "CC BY-SA 4.0",
+  "city": "Bolivar",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1161,
+          "ns": 0,
+          "title": "Bolivar",
+          "revisions": [
+            {
+              "revid": 27444,
+              "parentid": 23533,
+              "timestamp": "2025-04-04T07:56:00Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Bolivar'''\n\n==== [[Argentina]] ====\n\n* [[Bolivar (Argentina)]], sebuah kota di [[Argentina]].\n\n==== [[Bolivia]] ====\n\n* [[Bolivar (provinsi, Bolivia)]] sebuah provinsi di [[Bolivia]].\n\n==== [[Kolombia]] ====\n\n* [[Bolívar (departemen)]] - di [[Kolombia]].\n* [[Bolívar (Kolombia)]], sebuah kotamadya di [[Kolombia]].\n\n==== [[Ekuador]] ====\n\n* [[Bolivar (provinsi, Ekuador)]] sebuah provinsi di [[Ekuador]].\n\n==== [[Peru]] ====\n\n* [[Bolivar (Peru)]], sebuah kota di [[Peru]].\n\n==== [[Amerika Serikat]] ====\n\n* [[Bolivar (Missouri)]] - di negara bagian [[Missouri]].\n* [[Bolivar (Tennessee)]] - di negara bagian [[Tennessee]].\n* [[Bolivar (New York)]] - di negara bagian [[New York (negara bagian)|New York]].\n* [[Bolivar (Virginia Barat)]] - di negara bagian [[Virginia Barat]].\n* [[Bolivar (Ohio)]] - di negara bagian [[Ohio]].\n\n==== [[Venezuela]] ====\n\n* [[Bolivar (negara bagian)]] - negara bagian di [[Venezuela]].\n\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Bolivar'''\n\n==== [[Argentina]] ====\n\n* [[Bolivar (Argentina)]], sebuah kota di [[Argentina]].\n\n==== [[Bolivia]] ====\n\n* [[Bolivar (provinsi, Bolivia)]] sebuah provinsi di [[Bolivia]].\n\n==== [[Kolombia]] ====\n\n* [[Bolívar (departemen)]] - di [[Kolombia]].\n* [[Bolívar (Kolombia)]], sebuah kotamadya di [[Kolombia]].\n\n==== [[Ekuador]] ====\n\n* [[Bolivar (provinsi, Ekuador)]] sebuah provinsi di [[Ekuador]].\n\n==== [[Peru]] ====\n\n* [[Bolivar (Peru)]], sebuah kota di [[Peru]].\n\n==== [[Amerika Serikat]] ====\n\n* [[Bolivar (Missouri)]] - di negara bagian [[Missouri]].\n* [[Bolivar (Tennessee)]] - di negara bagian [[Tennessee]].\n* [[Bolivar (New York)]] - di negara bagian [[New York (negara bagian)|New York]].\n* [[Bolivar (Virginia Barat)]] - di negara bagian [[Virginia Barat]].\n* [[Bolivar (Ohio)]] - di negara bagian [[Ohio]].\n\n==== [[Venezuela]] ====\n\n* [[Bolivar (negara bagian)]] - negara bagian di [[Venezuela]].\n\n\n{{Disamb}}"
+}

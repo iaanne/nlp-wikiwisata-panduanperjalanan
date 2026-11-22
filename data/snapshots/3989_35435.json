@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bengkalis",
+  "fetched_at": "2026-11-22T07:59:40.521685+00:00",
+  "title": "Bengkalis",
+  "page_id": 3989,
+  "revision_id": "35435",
+  "revision_timestamp": "2026-08-08T05:45:42Z",
+  "sha256": "c3d19d5f74ba36adb8e1d9e70048a509ae6b50cc902c9605524aff23c71d6843",
+  "license": "CC BY-SA 4.0",
+  "city": "Bengkalis",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3989,
+          "ns": 0,
+          "title": "Bengkalis",
+          "revisions": [
+            {
+              "revid": 35435,
+              "parentid": 35434,
+              "timestamp": "2026-08-08T05:45:42Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bengkalis''' adalah salah satu kabupaten di Provinsi [[Riau]].\n\n== Pahami ==\nBengkalis merupakan salah satu daerah yang yang berada di pesisir timur provinsi Riau yang berbatasan dengan selat malaka yang merupakan jalur perdagangan laut internasional. Wilayah Bengkalis juga terdiri atas beberapa pulau yang berada di selat malaka. Keberadaan Bengkalis yang berada di pinggir laut menjadikan daerah ini menjadi salah satu tujuan destinasi wisata yang terdapat di provinsi Riau.\n\n== Menuju kesini ==\nTransportasi yang dapat digunakan yaitu kendaraan pribadi, travel, kendaraan umum seperti bus AKDP (Antar Kota Dalam Provinsi) dengan tarif yang sangat bervariasi, dan bisa melewati tol agar lebih mempersingkat waktu.\n\n== Berkeliling ==\nLetak geografis Kabupaten Bengkalis terdiri dari pulau-pulau dengan daerah pantai pesisir yang menghadap langsung ke Selat Malaka dengan pemandangan yang indah dan menjadi perhatian para turis, berpusat di Pulau Rupat terutama di Kecamatan Rupat Utara.\n\n== Lihat ==\nKabupaten Bengkalis menarwarkan panorama alam berupa pantai, seperti: Pantai Pasir Rupat, Pantai Selat Baru, serta kawasan konservasi gajah sumatra sumatra yang cukup terkenal.\n* {{see\n| name=Pantai Pasir Panjang Rupat Utara | alt= | url= | email=\n| address=Tanjung Punak, Rupat Utara, Bengkalis Regency, Riau 28781 | lat=2.107253 | long=101.731794 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2026-01-11\n| content=\n}}\n* {{see\n| name=Pantai Selat Baru | alt= | url= | email=\n| address=Selat Baru, Bantan, Kec. Bengkalis, Kabupaten Bengkalis, Riau | lat=1.564147 | long=102.250397 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pantai Selat Baru\n| lastedit=2026-01-11\n| content=\n}}\n* {{see\n| name=Hutan Lindung dan Pusat Pelatihan Gajah | alt= | url= | email=\n| address=Kecamatan Bukit Batu | lat=1.472651 | long=101.461023 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2026-01-11\n| content=\n}}\n\n== Lakukan ==\nBengkalis menyajikan destinasi wisata pantai yang dapat dinikmati oleh berbagai kalangan. Kegiatan di pantai yang biasa dilakukan dapat berupa bermain di pasir pantai, berenang di pantai. Selain destinasi pantai pengunjung bisa juga melakukan kegiatan yang bermanfaat lainnya, salah satu yang terkenal yaitunya kegiatan melihat upaya konservasi gajah sumatra serta disuguhkan dengan atraksi gajah sumatra.\n\n== Beli ==\nDi Bengkalis, Para Pengujung dapat memperoleh oleh-oleh seperti Lempuk Durian (dodol durian khas), Mie Sagu, Belacan (terasi udang), Ebi Kering, Kerupuk Ampelang, Keripik Ubi, dan kue-kue tradisional seperti Bolu Kemojo serta jajanan seperti Bakpia Bengkalis dan Manisan Gambas/Cermai. Semua nya dapat ditemui di beberapa toko oleh-oleh khas Bengkalis yang berada di dekat lokasi objek wisata dan juga di toko oleh-oleh yang berada di pusat kota.\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\nDi Bengkalis berbagai pilihan hotel dan penginapan dengan tarif kompetitif, seperti Twin Hotel Bengkalis dan Hotel Berlian.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n* [[Selatpanjang|Selat Panjang]]\n* [[Dumai]]\n* [[Batam]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bengkalis''' adalah salah satu kabupaten di Provinsi [[Riau]].\n\n== Pahami ==\nBengkalis merupakan salah satu daerah yang yang berada di pesisir timur provinsi Riau yang berbatasan dengan selat malaka yang merupakan jalur perdagangan laut internasional. Wilayah Bengkalis juga terdiri atas beberapa pulau yang berada di selat malaka. Keberadaan Bengkalis yang berada di pinggir laut menjadikan daerah ini menjadi salah satu tujuan destinasi wisata yang terdapat di provinsi Riau.\n\n== Menuju kesini ==\nTransportasi yang dapat digunakan yaitu kendaraan pribadi, travel, kendaraan umum seperti bus AKDP (Antar Kota Dalam Provinsi) dengan tarif yang sangat bervariasi, dan bisa melewati tol agar lebih mempersingkat waktu.\n\n== Berkeliling ==\nLetak geografis Kabupaten Bengkalis terdiri dari pulau-pulau dengan daerah pantai pesisir yang menghadap langsung ke Selat Malaka dengan pemandangan yang indah dan menjadi perhatian para turis, berpusat di Pulau Rupat terutama di Kecamatan Rupat Utara.\n\n== Lihat ==\nKabupaten Bengkalis menarwarkan panorama alam berupa pantai, seperti: Pantai Pasir Rupat, Pantai Selat Baru, serta kawasan konservasi gajah sumatra sumatra yang cukup terkenal.\n* {{see\n| name=Pantai Pasir Panjang Rupat Utara | alt= | url= | email=\n| address=Tanjung Punak, Rupat Utara, Bengkalis Regency, Riau 28781 | lat=2.107253 | long=101.731794 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2026-01-11\n| content=\n}}\n* {{see\n| name=Pantai Selat Baru | alt= | url= | email=\n| address=Selat Baru, Bantan, Kec. Bengkalis, Kabupaten Bengkalis, Riau | lat=1.564147 | long=102.250397 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pantai Selat Baru\n| lastedit=2026-01-11\n| content=\n}}\n* {{see\n| name=Hutan Lindung dan Pusat Pelatihan Gajah | alt= | url= | email=\n| address=Kecamatan Bukit Batu | lat=1.472651 | long=101.461023 | directions=\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2026-01-11\n| content=\n}}\n\n== Lakukan ==\nBengkalis menyajikan destinasi wisata pantai yang dapat dinikmati oleh berbagai kalangan. Kegiatan di pantai yang biasa dilakukan dapat berupa bermain di pasir pantai, berenang di pantai. Selain destinasi pantai pengunjung bisa juga melakukan kegiatan yang bermanfaat lainnya, salah satu yang terkenal yaitunya kegiatan melihat upaya konservasi gajah sumatra serta disuguhkan dengan atraksi gajah sumatra.\n\n== Beli ==\nDi Bengkalis, Para Pengujung dapat memperoleh oleh-oleh seperti Lempuk Durian (dodol durian khas), Mie Sagu, Belacan (terasi udang), Ebi Kering, Kerupuk Ampelang, Keripik Ubi, dan kue-kue tradisional seperti Bolu Kemojo serta jajanan seperti Bakpia Bengkalis dan Manisan Gambas/Cermai. Semua nya dapat ditemui di beberapa toko oleh-oleh khas Bengkalis yang berada di dekat lokasi objek wisata dan juga di toko oleh-oleh yang berada di pusat kota.\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\nDi Bengkalis berbagai pilihan hotel dan penginapan dengan tarif kompetitif, seperti Twin Hotel Bengkalis dan Hotel Berlian.\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n\n* [[Selatpanjang|Selat Panjang]]\n* [[Dumai]]\n* [[Batam]]"
+}

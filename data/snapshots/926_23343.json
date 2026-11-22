@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ada",
+  "fetched_at": "2026-11-22T07:36:46.211914+00:00",
+  "title": "Ada",
+  "page_id": 926,
+  "revision_id": "23343",
+  "revision_timestamp": "2024-12-04T08:33:43Z",
+  "sha256": "de9a1e81ea55a39390551386b8d086d95459e2f3b47ed7a6e2f9c9c4f2c61281",
+  "license": "CC BY-SA 4.0",
+  "city": "Ada",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 926,
+          "ns": 0,
+          "title": "Ada",
+          "revisions": [
+            {
+              "revid": 23343,
+              "parentid": 3872,
+              "timestamp": "2024-12-04T08:33:43Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Ada,''' 'Ada' bukan menerangkan sebuah benda namun sebuah lokasi:\n\n===[[Ghana]]===\n\n* [[Ada (Ghana)]] - Sebuah lokasi di tenggara Ghana.\n\n=== [[Nigeria]] ===\n* [[Kota Ada]] - sebuah kota di [[Negara Bagian Osun]], [[Nigeria Barat Daya]]\n\n=== [[Turki]] ===\n* {{IATA|ADA}} - Bandara Adana akirpaşa, [[Dataran Cilicia]]\n\n===[[Amerika Serikat]]===\n* [[Ada (Michigan)]] - Sebuah kota di [[Michigan Barat]].\n* [[Ada (Oklahoma)]] - Sebuah kota di [[Negara Bagian Chickasaw]] dari [[Oklahoma]].\n* [[Ada (Ohio)]] - Sebuah kota di [[Ohio Barat Laut]].\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Ada,''' 'Ada' bukan menerangkan sebuah benda namun sebuah lokasi:\n\n===[[Ghana]]===\n\n* [[Ada (Ghana)]] - Sebuah lokasi di tenggara Ghana.\n\n=== [[Nigeria]] ===\n* [[Kota Ada]] - sebuah kota di [[Negara Bagian Osun]], [[Nigeria Barat Daya]]\n\n=== [[Turki]] ===\n* {{IATA|ADA}} - Bandara Adana akirpaşa, [[Dataran Cilicia]]\n\n===[[Amerika Serikat]]===\n* [[Ada (Michigan)]] - Sebuah kota di [[Michigan Barat]].\n* [[Ada (Oklahoma)]] - Sebuah kota di [[Negara Bagian Chickasaw]] dari [[Oklahoma]].\n* [[Ada (Ohio)]] - Sebuah kota di [[Ohio Barat Laut]].\n\n{{Disamb}}"
+}

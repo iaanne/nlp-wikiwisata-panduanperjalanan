@@ -1,0 +1,1298 @@
+api_url: https://id.wikivoyage.org/w/api.php
+request_delay_seconds: 0.2
+articles:
+- title: Yogyakarta
+  city: Yogyakarta
+  category: destination
+  conflict_revision_ids:
+  - '35263'
+  - '38824'
+- title: A Coruña
+  city: A Coruña
+  category: destination
+  conflict_revision_ids: []
+- title: Aachen
+  city: Aachen
+  category: destination
+  conflict_revision_ids: []
+- title: Aalborg
+  city: Aalborg
+  category: destination
+  conflict_revision_ids: []
+- title: Aalsmeer
+  city: Aalsmeer
+  category: destination
+  conflict_revision_ids: []
+- title: Aalst
+  city: Aalst
+  category: destination
+  conflict_revision_ids: []
+- title: Aarau
+  city: Aarau
+  category: destination
+  conflict_revision_ids: []
+- title: Aarhus
+  city: Aarhus
+  category: destination
+  conflict_revision_ids: []
+- title: Abadan
+  city: Abadan
+  category: destination
+  conflict_revision_ids: []
+- title: Abadeh
+  city: Abadeh
+  category: destination
+  conflict_revision_ids: []
+- title: Abancay
+  city: Abancay
+  category: destination
+  conflict_revision_ids: []
+- title: Abashiri
+  city: Abashiri
+  category: destination
+  conflict_revision_ids: []
+- title: Abbeville (Alabama)
+  city: Abbeville (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Abbeville (Carolina Selatan)
+  city: Abbeville (Carolina Selatan)
+  category: destination
+  conflict_revision_ids: []
+- title: Abiko
+  city: Abiko
+  category: destination
+  conflict_revision_ids: []
+- title: Abilene
+  city: Abilene
+  category: destination
+  conflict_revision_ids: []
+- title: Abkhazia
+  city: Abkhazia
+  category: destination
+  conflict_revision_ids: []
+- title: Abomey
+  city: Abomey
+  category: destination
+  conflict_revision_ids: []
+- title: Abuja
+  city: Abuja
+  category: destination
+  conflict_revision_ids: []
+- title: Abydos
+  city: Abydos
+  category: destination
+  conflict_revision_ids: []
+- title: Acajutla
+  city: Acajutla
+  category: destination
+  conflict_revision_ids: []
+- title: Acapulco
+  city: Acapulco
+  category: destination
+  conflict_revision_ids: []
+- title: Accra
+  city: Accra
+  category: destination
+  conflict_revision_ids: []
+- title: Accrington
+  city: Accrington
+  category: destination
+  conflict_revision_ids: []
+- title: Aceh
+  city: Aceh
+  category: destination
+  conflict_revision_ids: []
+- title: Achau
+  city: Achau
+  category: destination
+  conflict_revision_ids: []
+- title: Ad Dakhla
+  city: Ad Dakhla
+  category: destination
+  conflict_revision_ids: []
+- title: Ada
+  city: Ada
+  category: destination
+  conflict_revision_ids: []
+- title: Adama
+  city: Adama
+  category: destination
+  conflict_revision_ids: []
+- title: Adamsville (Alabama)
+  city: Adamsville (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Adana
+  city: Adana
+  category: destination
+  conflict_revision_ids: []
+- title: Addis Ababa
+  city: Addis Ababa
+  category: destination
+  conflict_revision_ids: []
+- title: Addison (Alabama)
+  city: Addison (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Adelaide
+  city: Adelaide
+  category: destination
+  conflict_revision_ids: []
+- title: Aden
+  city: Aden
+  category: destination
+  conflict_revision_ids: []
+- title: Adrian (Texas)
+  city: Adrian (Texas)
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan
+  city: Afghanistan
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan Barat
+  city: Afghanistan Barat
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan Barat Laut
+  city: Afghanistan Barat Laut
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan Selatan
+  city: Afghanistan Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan Timur
+  city: Afghanistan Timur
+  category: destination
+  conflict_revision_ids: []
+- title: Afghanistan Timur Laut
+  city: Afghanistan Timur Laut
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika
+  city: Afrika
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika Selatan
+  city: Afrika Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika Tengah
+  city: Afrika Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika Timur
+  city: Afrika Timur
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika Utara
+  city: Afrika Utara
+  category: destination
+  conflict_revision_ids: []
+- title: Afrika bagian Selatan
+  city: Afrika bagian Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Agats
+  city: Agats
+  category: destination
+  conflict_revision_ids: []
+- title: Agen perjalanan
+  city: Agen perjalanan
+  category: destination
+  conflict_revision_ids: []
+- title: Agregator
+  city: Agregator
+  category: destination
+  conflict_revision_ids: []
+- title: Ahiara
+  city: Ahiara
+  category: destination
+  conflict_revision_ids: []
+- title: Aichi
+  city: Aichi
+  category: destination
+  conflict_revision_ids: []
+- title: Aiea
+  city: Aiea
+  category: destination
+  conflict_revision_ids: []
+- title: Air terjun
+  city: Air terjun
+  category: destination
+  conflict_revision_ids: []
+- title: Akhaltsikhe
+  city: Akhaltsikhe
+  category: destination
+  conflict_revision_ids: []
+- title: Akita
+  city: Akita
+  category: destination
+  conflict_revision_ids: []
+- title: Akron (Alabama)
+  city: Akron (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Aktivitas luar ruangan
+  city: Aktivitas luar ruangan
+  category: destination
+  conflict_revision_ids: []
+- title: Al Khor
+  city: Al Khor
+  category: destination
+  conflict_revision_ids: []
+- title: Alabama
+  city: Alabama
+  category: destination
+  conflict_revision_ids: []
+- title: Alabaster (Alabama)
+  city: Alabaster (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Alas kaki
+  city: Alas kaki
+  category: destination
+  conflict_revision_ids: []
+- title: Alasan bepergian
+  city: Alasan bepergian
+  category: destination
+  conflict_revision_ids: []
+- title: Alat penunjuk waktu
+  city: Alat penunjuk waktu
+  category: destination
+  conflict_revision_ids: []
+- title: Albania
+  city: Albania
+  category: destination
+  conflict_revision_ids: []
+- title: Albania Tenggara
+  city: Albania Tenggara
+  category: destination
+  conflict_revision_ids: []
+- title: Albertville (Alabama)
+  city: Albertville (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Aleppo
+  city: Aleppo
+  category: destination
+  conflict_revision_ids: []
+- title: Alergi
+  city: Alergi
+  category: destination
+  conflict_revision_ids: []
+- title: Alexander City (Alabama)
+  city: Alexander City (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Alfred
+  city: Alfred
+  category: destination
+  conflict_revision_ids: []
+- title: Alicante
+  city: Alicante
+  category: destination
+  conflict_revision_ids: []
+- title: Aliceville (Alabama)
+  city: Aliceville (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Aljazair
+  city: Aljazair
+  category: destination
+  conflict_revision_ids: []
+- title: Allgood (Alabama)
+  city: Allgood (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Alotau
+  city: Alotau
+  category: destination
+  conflict_revision_ids: []
+- title: Alpen Jepang
+  city: Alpen Jepang
+  category: destination
+  conflict_revision_ids: []
+- title: Altoona (Alabama)
+  city: Altoona (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Amarah
+  city: Amarah
+  category: destination
+  conflict_revision_ids: []
+- title: Ambajogai
+  city: Ambajogai
+  category: destination
+  conflict_revision_ids: []
+- title: Ambarawa
+  city: Ambarawa
+  category: destination
+  conflict_revision_ids: []
+- title: Ambon
+  city: Ambon
+  category: destination
+  conflict_revision_ids: []
+- title: Amed
+  city: Amed
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika
+  city: Amerika
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika (disambiguasi)
+  city: Amerika (disambiguasi)
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika Selatan
+  city: Amerika Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika Serikat
+  city: Amerika Serikat
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika Tengah
+  city: Amerika Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Amerika Utara
+  city: Amerika Utara
+  category: destination
+  conflict_revision_ids: []
+- title: Amlapura
+  city: Amlapura
+  category: destination
+  conflict_revision_ids: []
+- title: Ampana
+  city: Ampana
+  category: destination
+  conflict_revision_ids: []
+- title: Amsterdam
+  city: Amsterdam
+  category: destination
+  conflict_revision_ids: []
+- title: Amuntai
+  city: Amuntai
+  category: destination
+  conflict_revision_ids: []
+- title: Andalusia
+  city: Andalusia
+  category: destination
+  conflict_revision_ids: []
+- title: Andalusia (Alabama)
+  city: Andalusia (Alabama)
+  category: destination
+  conflict_revision_ids: []
+- title: Anderson
+  city: Anderson
+  category: destination
+  conflict_revision_ids: []
+- title: Andorra
+  city: Andorra
+  category: destination
+  conflict_revision_ids: []
+- title: Anggur
+  city: Anggur
+  category: destination
+  conflict_revision_ids: []
+- title: Angola
+  city: Angola
+  category: destination
+  conflict_revision_ids: []
+- title: Anjing
+  city: Anjing
+  category: destination
+  conflict_revision_ids: []
+- title: Anjou
+  city: Anjou
+  category: destination
+  conflict_revision_ids: []
+- title: Ankara
+  city: Ankara
+  category: destination
+  conflict_revision_ids: []
+- title: Anlong Veng
+  city: Anlong Veng
+  category: destination
+  conflict_revision_ids: []
+- title: Ans
+  city: Ans
+  category: destination
+  conflict_revision_ids: []
+- title: Ansen
+  city: Ansen
+  category: destination
+  conflict_revision_ids: []
+- title: Antarktika
+  city: Antarktika
+  category: destination
+  conflict_revision_ids: []
+- title: Antigua Guatemala
+  city: Antigua Guatemala
+  category: destination
+  conflict_revision_ids: []
+- title: Antrim
+  city: Antrim
+  category: destination
+  conflict_revision_ids: []
+- title: Anyer
+  city: Anyer
+  category: destination
+  conflict_revision_ids: []
+- title: Aomori (prefektur)
+  city: Aomori (prefektur)
+  category: destination
+  conflict_revision_ids: []
+- title: Apure
+  city: Apure
+  category: destination
+  conflict_revision_ids: []
+- title: Arab Saudi
+  city: Arab Saudi
+  category: destination
+  conflict_revision_ids: []
+- title: Arad (Israel)
+  city: Arad (Israel)
+  category: destination
+  conflict_revision_ids: []
+- title: Aragon
+  city: Aragon
+  category: destination
+  conflict_revision_ids: []
+- title: Arang
+  city: Arang
+  category: destination
+  conflict_revision_ids: []
+- title: Arcola
+  city: Arcola
+  category: destination
+  conflict_revision_ids: []
+- title: Area Metropolitan Banjarmasin
+  city: Area Metropolitan Banjarmasin
+  category: destination
+  conflict_revision_ids: []
+- title: Area Metropolitan Makassar
+  city: Area Metropolitan Makassar
+  category: destination
+  conflict_revision_ids: []
+- title: Area Metropolitan Semarang
+  city: Area Metropolitan Semarang
+  category: destination
+  conflict_revision_ids: []
+- title: Area Metropolitan Surabaya
+  city: Area Metropolitan Surabaya
+  category: destination
+  conflict_revision_ids: []
+- title: Argentan
+  city: Argentan
+  category: destination
+  conflict_revision_ids: []
+- title: Argentina
+  city: Argentina
+  category: destination
+  conflict_revision_ids: []
+- title: Arktik
+  city: Arktik
+  category: destination
+  conflict_revision_ids: []
+- title: Armenia
+  city: Armenia
+  category: destination
+  conflict_revision_ids: []
+- title: Asahan
+  city: Asahan
+  category: destination
+  conflict_revision_ids: []
+- title: Asahikawa
+  city: Asahikawa
+  category: destination
+  conflict_revision_ids: []
+- title: Ashby
+  city: Ashby
+  category: destination
+  conflict_revision_ids: []
+- title: Ashdod
+  city: Ashdod
+  category: destination
+  conflict_revision_ids: []
+- title: Ashikaga
+  city: Ashikaga
+  category: destination
+  conflict_revision_ids: []
+- title: Ashkelon
+  city: Ashkelon
+  category: destination
+  conflict_revision_ids: []
+- title: Asia
+  city: Asia
+  category: destination
+  conflict_revision_ids: []
+- title: Asia Selatan
+  city: Asia Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Asia Tengah
+  city: Asia Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Asia Tenggara
+  city: Asia Tenggara
+  category: destination
+  conflict_revision_ids: []
+- title: Asia Timur
+  city: Asia Timur
+  category: destination
+  conflict_revision_ids: []
+- title: Asmat
+  city: Asmat
+  category: destination
+  conflict_revision_ids: []
+- title: Astronomi
+  city: Astronomi
+  category: destination
+  conflict_revision_ids: []
+- title: Atambua
+  city: Atambua
+  category: destination
+  conflict_revision_ids: []
+- title: Atapuerca
+  city: Atapuerca
+  category: destination
+  conflict_revision_ids: []
+- title: Athena
+  city: Athena
+  category: destination
+  conflict_revision_ids: []
+- title: Atraksi alam
+  city: Atraksi alam
+  category: destination
+  conflict_revision_ids: []
+- title: Atraksi budaya
+  city: Atraksi budaya
+  category: destination
+  conflict_revision_ids: []
+- title: Attica
+  city: Attica
+  category: destination
+  conflict_revision_ids: []
+- title: Aurora (Missouri)
+  city: Aurora (Missouri)
+  category: destination
+  conflict_revision_ids: []
+- title: Australasia
+  city: Australasia
+  category: destination
+  conflict_revision_ids: []
+- title: Australia
+  city: Australia
+  category: destination
+  conflict_revision_ids: []
+- title: Austria
+  city: Austria
+  category: destination
+  conflict_revision_ids: []
+- title: Azerbaijan
+  city: Azerbaijan
+  category: destination
+  conflict_revision_ids: []
+- title: Azerbaijan Iran
+  city: Azerbaijan Iran
+  category: destination
+  conflict_revision_ids: []
+- title: Babilonia
+  city: Babilonia
+  category: destination
+  conflict_revision_ids: []
+- title: Bacan
+  city: Bacan
+  category: destination
+  conflict_revision_ids: []
+- title: Bagansiapiapi
+  city: Bagansiapiapi
+  category: destination
+  conflict_revision_ids: []
+- title: Baghdad
+  city: Baghdad
+  category: destination
+  conflict_revision_ids: []
+- title: Bagram
+  city: Bagram
+  category: destination
+  conflict_revision_ids: []
+- title: Bahorok
+  city: Bahorok
+  category: destination
+  conflict_revision_ids: []
+- title: Bahrain
+  city: Bahrain
+  category: destination
+  conflict_revision_ids: []
+- title: Bajawa
+  city: Bajawa
+  category: destination
+  conflict_revision_ids: []
+- title: Bak Pasir
+  city: Bak Pasir
+  category: destination
+  conflict_revision_ids: []
+- title: Baker
+  city: Baker
+  category: destination
+  conflict_revision_ids: []
+- title: Baku
+  city: Baku
+  category: destination
+  conflict_revision_ids: []
+- title: Balai Desa Bayan
+  city: Balai Desa Bayan
+  category: destination
+  conflict_revision_ids: []
+- title: Balangan
+  city: Balangan
+  category: destination
+  conflict_revision_ids: []
+- title: Bali
+  city: Bali
+  category: destination
+  conflict_revision_ids: []
+- title: Bali (disambiguasi)
+  city: Bali (disambiguasi)
+  category: destination
+  conflict_revision_ids: []
+- title: Bali Barat
+  city: Bali Barat
+  category: destination
+  conflict_revision_ids: []
+- title: Bali Selatan
+  city: Bali Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Bali Tengah
+  city: Bali Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Bali Timur
+  city: Bali Timur
+  category: destination
+  conflict_revision_ids: []
+- title: Bali Utara
+  city: Bali Utara
+  category: destination
+  conflict_revision_ids: []
+- title: Balikpapan
+  city: Balikpapan
+  category: destination
+  conflict_revision_ids: []
+- title: Balkan
+  city: Balkan
+  category: destination
+  conflict_revision_ids: []
+- title: Balkan Barat
+  city: Balkan Barat
+  category: destination
+  conflict_revision_ids: []
+- title: Balta
+  city: Balta
+  category: destination
+  conflict_revision_ids: []
+- title: Bamiyan
+  city: Bamiyan
+  category: destination
+  conflict_revision_ids: []
+- title: Banda Aceh
+  city: Banda Aceh
+  category: destination
+  conflict_revision_ids: []
+- title: Banda Neira
+  city: Banda Neira
+  category: destination
+  conflict_revision_ids: []
+- title: Bandar Lampung
+  city: Bandar Lampung
+  category: destination
+  conflict_revision_ids: []
+- title: Bandar Seri Begawan
+  city: Bandar Seri Begawan
+  category: destination
+  conflict_revision_ids: []
+- title: Bandar Udara Internasional Kualanamu
+  city: Bandar Udara Internasional Kualanamu
+  category: destination
+  conflict_revision_ids: []
+- title: Bandar Udara Internasional Ngurah Rai
+  city: Bandar Udara Internasional Ngurah Rai
+  category: destination
+  conflict_revision_ids: []
+- title: Bandar Udara Internasional Soekarno-Hatta
+  city: Bandar Udara Internasional Soekarno-Hatta
+  category: destination
+  conflict_revision_ids: []
+- title: Bandung
+  city: Bandung
+  category: destination
+  conflict_revision_ids: []
+- title: Bangar
+  city: Bangar
+  category: destination
+  conflict_revision_ids: []
+- title: Bangka
+  city: Bangka
+  category: destination
+  conflict_revision_ids: []
+- title: Bangka-Belitung
+  city: Bangka-Belitung
+  category: destination
+  conflict_revision_ids: []
+- title: Bangka (Sulawesi)
+  city: Bangka (Sulawesi)
+  category: destination
+  conflict_revision_ids: []
+- title: Bangka (Sumatera)
+  city: Bangka (Sumatera)
+  category: destination
+  conflict_revision_ids: []
+- title: Bangkalan
+  city: Bangkalan
+  category: destination
+  conflict_revision_ids: []
+- title: Bangkok
+  city: Bangkok
+  category: destination
+  conflict_revision_ids: []
+- title: Bangladesh
+  city: Bangladesh
+  category: destination
+  conflict_revision_ids: []
+- title: Bangli
+  city: Bangli
+  category: destination
+  conflict_revision_ids: []
+- title: Bangsal
+  city: Bangsal
+  category: destination
+  conflict_revision_ids: []
+- title: Banjar
+  city: Banjar
+  category: destination
+  conflict_revision_ids: []
+- title: Banjarbaru
+  city: Banjarbaru
+  category: destination
+  conflict_revision_ids: []
+- title: Banjarmasin
+  city: Banjarmasin
+  category: destination
+  conflict_revision_ids: []
+- title: Banjarnegara
+  city: Banjarnegara
+  category: destination
+  conflict_revision_ids: []
+- title: Banlung
+  city: Banlung
+  category: destination
+  conflict_revision_ids: []
+- title: Banská Bystrica
+  city: Banská Bystrica
+  category: destination
+  conflict_revision_ids: []
+- title: Bantaeng
+  city: Bantaeng
+  category: destination
+  conflict_revision_ids: []
+- title: Banteay Chhmar
+  city: Banteay Chhmar
+  category: destination
+  conflict_revision_ids: []
+- title: Banten
+  city: Banten
+  category: destination
+  conflict_revision_ids: []
+- title: Bantimurung
+  city: Bantimurung
+  category: destination
+  conflict_revision_ids: []
+- title: Bantul
+  city: Bantul
+  category: destination
+  conflict_revision_ids: []
+- title: Banyuasin
+  city: Banyuasin
+  category: destination
+  conflict_revision_ids: []
+- title: Banyumas
+  city: Banyumas
+  category: destination
+  conflict_revision_ids: []
+- title: Banyuwangi
+  city: Banyuwangi
+  category: destination
+  conflict_revision_ids: []
+- title: Baoji
+  city: Baoji
+  category: destination
+  conflict_revision_ids: []
+- title: Barabai
+  city: Barabai
+  category: destination
+  conflict_revision_ids: []
+- title: Barcelona
+  city: Barcelona
+  category: destination
+  conflict_revision_ids: []
+- title: Barito Kuala
+  city: Barito Kuala
+  category: destination
+  conflict_revision_ids: []
+- title: Barito Selatan
+  city: Barito Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Barito Utara
+  city: Barito Utara
+  category: destination
+  conflict_revision_ids: []
+- title: Barus
+  city: Barus
+  category: destination
+  conflict_revision_ids: []
+- title: Basra
+  city: Basra
+  category: destination
+  conflict_revision_ids: []
+- title: Batam
+  city: Batam
+  category: destination
+  conflict_revision_ids: []
+- title: Batam Centre
+  city: Batam Centre
+  category: destination
+  conflict_revision_ids: []
+- title: Batanes
+  city: Batanes
+  category: destination
+  conflict_revision_ids: []
+- title: Batang
+  city: Batang
+  category: destination
+  conflict_revision_ids: []
+- title: Batavia
+  city: Batavia
+  category: destination
+  conflict_revision_ids: []
+- title: Batken
+  city: Batken
+  category: destination
+  conflict_revision_ids: []
+- title: Battambang
+  city: Battambang
+  category: destination
+  conflict_revision_ids: []
+- title: Batu
+  city: Batu
+  category: destination
+  conflict_revision_ids: []
+- title: Batu Bara
+  city: Batu Bara
+  category: destination
+  conflict_revision_ids: []
+- title: Batu Karas
+  city: Batu Karas
+  category: destination
+  conflict_revision_ids: []
+- title: Batu Licin
+  city: Batu Licin
+  category: destination
+  conflict_revision_ids: []
+- title: Batu Pahat
+  city: Batu Pahat
+  category: destination
+  conflict_revision_ids: []
+- title: Batujaya
+  city: Batujaya
+  category: destination
+  conflict_revision_ids: []
+- title: Batumi
+  city: Batumi
+  category: destination
+  conflict_revision_ids: []
+- title: Baturraden
+  city: Baturraden
+  category: destination
+  conflict_revision_ids: []
+- title: Batusangkar
+  city: Batusangkar
+  category: destination
+  conflict_revision_ids: []
+- title: Bau-Bau
+  city: Bau-Bau
+  category: destination
+  conflict_revision_ids: []
+- title: Bawean
+  city: Bawean
+  category: destination
+  conflict_revision_ids: []
+- title: Beaufort
+  city: Beaufort
+  category: destination
+  conflict_revision_ids: []
+- title: Beaufort (Sabah)
+  city: Beaufort (Sabah)
+  category: destination
+  conflict_revision_ids: []
+- title: Bedugul
+  city: Bedugul
+  category: destination
+  conflict_revision_ids: []
+- title: Beersheba
+  city: Beersheba
+  category: destination
+  conflict_revision_ids: []
+- title: Begusarai
+  city: Begusarai
+  category: destination
+  conflict_revision_ids: []
+- title: Beijing
+  city: Beijing
+  category: destination
+  conflict_revision_ids: []
+- title: Bekasi
+  city: Bekasi
+  category: destination
+  conflict_revision_ids: []
+- title: Belanda
+  city: Belanda
+  category: destination
+  conflict_revision_ids: []
+- title: Belanda Barat
+  city: Belanda Barat
+  category: destination
+  conflict_revision_ids: []
+- title: Belarus
+  city: Belarus
+  category: destination
+  conflict_revision_ids: []
+- title: Belgia
+  city: Belgia
+  category: destination
+  conflict_revision_ids: []
+- title: Belitung
+  city: Belitung
+  category: destination
+  conflict_revision_ids: []
+- title: Belize
+  city: Belize
+  category: destination
+  conflict_revision_ids: []
+- title: Belize Utara
+  city: Belize Utara
+  category: destination
+  conflict_revision_ids: []
+- title: Belorado
+  city: Belorado
+  category: destination
+  conflict_revision_ids: []
+- title: Beneluks
+  city: Beneluks
+  category: destination
+  conflict_revision_ids: []
+- title: Bengkalis
+  city: Bengkalis
+  category: destination
+  conflict_revision_ids: []
+- title: Bengkulu
+  city: Bengkulu
+  category: destination
+  conflict_revision_ids: []
+- title: Bengkulu (provinsi)
+  city: Bengkulu (provinsi)
+  category: destination
+  conflict_revision_ids: []
+- title: Beni
+  city: Beni
+  category: destination
+  conflict_revision_ids: []
+- title: Benin
+  city: Benin
+  category: destination
+  conflict_revision_ids: []
+- title: Benteng Moraya
+  city: Benteng Moraya
+  category: destination
+  conflict_revision_ids: []
+- title: Benxi
+  city: Benxi
+  category: destination
+  conflict_revision_ids: []
+- title: Bepergian dengan tekanan darah tinggi
+  city: Bepergian dengan tekanan darah tinggi
+  category: destination
+  conflict_revision_ids: []
+- title: Beppu
+  city: Beppu
+  category: destination
+  conflict_revision_ids: []
+- title: Berastagi
+  city: Berastagi
+  category: destination
+  conflict_revision_ids: []
+- title: Berau
+  city: Berau
+  category: destination
+  conflict_revision_ids: []
+- title: Berdorf
+  city: Berdorf
+  category: destination
+  conflict_revision_ids: []
+- title: Berjalan di Pegunungan Selatan
+  city: Berjalan di Pegunungan Selatan
+  category: destination
+  conflict_revision_ids: []
+- title: Berkendara di Indonesia
+  city: Berkendara di Indonesia
+  category: destination
+  conflict_revision_ids: []
+- title: Berkereta api
+  city: Berkereta api
+  category: destination
+  conflict_revision_ids: []
+- title: Berkereta api di Indonesia
+  city: Berkereta api di Indonesia
+  category: destination
+  conflict_revision_ids: []
+- title: Berlin
+  city: Berlin
+  category: destination
+  conflict_revision_ids: []
+- title: Bermuda
+  city: Bermuda
+  category: destination
+  conflict_revision_ids: []
+- title: Bern
+  city: Bern
+  category: destination
+  conflict_revision_ids: []
+- title: Bernalillo
+  city: Bernalillo
+  category: destination
+  conflict_revision_ids: []
+- title: Betlehem
+  city: Betlehem
+  category: destination
+  conflict_revision_ids: []
+- title: Bhutan
+  city: Bhutan
+  category: destination
+  conflict_revision_ids: []
+- title: Biak
+  city: Biak
+  category: destination
+  conflict_revision_ids: []
+- title: Bicara
+  city: Bicara
+  category: destination
+  conflict_revision_ids: []
+- title: Bihoro
+  city: Bihoro
+  category: destination
+  conflict_revision_ids: []
+- title: Bilbao
+  city: Bilbao
+  category: destination
+  conflict_revision_ids: []
+- title: Bima
+  city: Bima
+  category: destination
+  conflict_revision_ids: []
+- title: Binatu
+  city: Binatu
+  category: destination
+  conflict_revision_ids: []
+- title: Binjai
+  city: Binjai
+  category: destination
+  conflict_revision_ids: []
+- title: Bintan
+  city: Bintan
+  category: destination
+  conflict_revision_ids: []
+- title: Bintan Resorts
+  city: Bintan Resorts
+  category: destination
+  conflict_revision_ids: []
+- title: Bira
+  city: Bira
+  category: destination
+  conflict_revision_ids: []
+- title: Bireuen
+  city: Bireuen
+  category: destination
+  conflict_revision_ids: []
+- title: Birnin Kebbi
+  city: Birnin Kebbi
+  category: destination
+  conflict_revision_ids: []
+- title: Bisayak
+  city: Bisayak
+  category: destination
+  conflict_revision_ids: []
+- title: Bisayak Tengah
+  city: Bisayak Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Bishoftu
+  city: Bishoftu
+  category: destination
+  conflict_revision_ids: []
+- title: Bitung
+  city: Bitung
+  category: destination
+  conflict_revision_ids: []
+- title: Blitar
+  city: Blitar
+  category: destination
+  conflict_revision_ids: []
+- title: Blora
+  city: Blora
+  category: destination
+  conflict_revision_ids: []
+- title: Bluffton
+  city: Bluffton
+  category: destination
+  conflict_revision_ids: []
+- title: Boalemo
+  city: Boalemo
+  category: destination
+  conflict_revision_ids: []
+- title: Bogor
+  city: Bogor
+  category: destination
+  conflict_revision_ids: []
+- title: Bogor Raya
+  city: Bogor Raya
+  category: destination
+  conflict_revision_ids: []
+- title: Bohol
+  city: Bohol
+  category: destination
+  conflict_revision_ids: []
+- title: Bojonegoro
+  city: Bojonegoro
+  category: destination
+  conflict_revision_ids: []
+- title: Bolaang Mongondow
+  city: Bolaang Mongondow
+  category: destination
+  conflict_revision_ids: []
+- title: Bolivar
+  city: Bolivar
+  category: destination
+  conflict_revision_ids: []
+- title: Bolivia
+  city: Bolivia
+  category: destination
+  conflict_revision_ids: []
+- title: Bolmsö
+  city: Bolmsö
+  category: destination
+  conflict_revision_ids: []
+- title: Bondowoso
+  city: Bondowoso
+  category: destination
+  conflict_revision_ids: []
+- title: Bone Bolango
+  city: Bone Bolango
+  category: destination
+  conflict_revision_ids: []
+- title: Bongao
+  city: Bongao
+  category: destination
+  conflict_revision_ids: []
+- title: Bontang
+  city: Bontang
+  category: destination
+  conflict_revision_ids: []
+- title: Bordeaux
+  city: Bordeaux
+  category: destination
+  conflict_revision_ids: []
+- title: Borjomi
+  city: Borjomi
+  category: destination
+  conflict_revision_ids: []
+- title: Borneo
+  city: Borneo
+  category: destination
+  conflict_revision_ids: []
+- title: Bornholm
+  city: Bornholm
+  category: destination
+  conflict_revision_ids: []
+- title: Borobudur
+  city: Borobudur
+  category: destination
+  conflict_revision_ids: []
+- title: Bosnia Tengah
+  city: Bosnia Tengah
+  category: destination
+  conflict_revision_ids: []
+- title: Bosnia dan Herzegovina
+  city: Bosnia dan Herzegovina
+  category: destination
+  conflict_revision_ids: []
+- title: Botswana
+  city: Botswana
+  category: destination
+  conflict_revision_ids: []
+- title: Bourbon
+  city: Bourbon
+  category: destination
+  conflict_revision_ids: []
+- title: Bowdon
+  city: Bowdon
+  category: destination
+  conflict_revision_ids: []
+- title: Boyolali
+  city: Boyolali
+  category: destination
+  conflict_revision_ids: []
+- title: Brasil
+  city: Brasil
+  category: destination
+  conflict_revision_ids: []
+- title: Brazzaville
+  city: Brazzaville
+  category: destination
+  conflict_revision_ids: []
+- title: Breaza
+  city: Breaza
+  category: destination
+  conflict_revision_ids: []
+- title: Brebes
+  city: Brebes
+  category: destination
+  conflict_revision_ids: []
+- title: Bremen
+  city: Bremen
+  category: destination
+  conflict_revision_ids: []
+- title: Brisbane
+  city: Brisbane
+  category: destination
+  conflict_revision_ids: []
+embedding_model: intfloat/multilingual-e5-small
+embedding_model_revision: 614241f622f53c4eeff9890bdc4f31cfecc418b3
+reranker_model: BAAI/bge-reranker-v2-m3
+experiment_chunk_strategy: listing
+fixed_chunk_words: 180
+fixed_overlap_words: 30
+top_k: 5
+reranker_candidate_k: 20
+adaptive_score_threshold: 0.025
+context_budgets_words:
+  small: 256
+  large: 1024
+queries_path: data/queries.json

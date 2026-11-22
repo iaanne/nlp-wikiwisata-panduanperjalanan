@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Amerika+Serikat",
+  "fetched_at": "2026-11-22T07:42:46.459997+00:00",
+  "title": "Amerika Serikat",
+  "page_id": 976,
+  "revision_id": "34381",
+  "revision_timestamp": "2026-07-28T08:07:52Z",
+  "sha256": "d45cf7be39ff7a5e2cc9558b90459c3190d1f547a6f8bada69163639696115d6",
+  "license": "CC BY-SA 4.0",
+  "city": "Amerika Serikat",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 976,
+          "ns": 0,
+          "title": "Amerika Serikat",
+          "revisions": [
+            {
+              "revid": 34381,
+              "parentid": 32084,
+              "timestamp": "2026-07-28T08:07:52Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Statue of Liberty light banner.jpg|caption=The Statue of Liberty|origin=0.7,0}}\n\n[[Berkas:WhiteHouseSouthFacade.JPG|thumb|right|250px|Gedung Putih, Washington, D.C.]]\n'''[http://www.discoveramerica.com Amerika Serikat]''' adalah negara yang terletak di [[Amerika Utara]], disingkat sebagai A.S. atau dalam bahasa Inggrisnya \"USA,\"  \"U.S.,\" \"United States,\" atau \"America,\" Luas daerahnya mencapai 9,6 juta km<sup>2</sup> (sekitar setengah dari [[Rusia]] dan sama dengan [[Tiongkok]]). Amerika Serikat adalah negara dengan jumlah penduduk terbanyak ketiga di dunia, dengan jumlah 310 juta orang. Dengan sejarahnya memuat imigrasi besar-besaran sejak abad 17, Amerika Serikat menjadi tempat berkumpulnya budaya dari seluruh dunia. \n\nDestinasi wisata di negara ini bermacam-macam, mulai dari gedung pencakar langit di [[Manhattan]] dan [[Chicago]], keajaiban dunia alam di [[Yellowstone]] dan [[Alaska]], sampai pantai hangat di [[Florida]], [[Hawaii]] dan [[California Selatan]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== Dengan pesawat ===\nrata rata durasi penerbangab nonstop dari Indonesia ke Amerika Serikat adalah 27 jam 18 menit.\n\n===Dengan kereta api===\nPerjalanan antara Utah dan Colorado dianggap sebagi perjalan kereta api paling spektakuler di seluruh Amerika, Salt Lake City ke Denver 15 jam\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* cheseeburger \n* American Pizza\n* Apple Pie\n* Chicken and waddles\n* Buffalo wings\n\n== Minum ==\n* Arizona Fruit Punch Fruit Juice\n* Warheads Soda sour Lemon\n* Warheads Sour Blue Raspberry Soda\n* Crush strawberry\n* Prime hydration Drink Lemonade\n\n==Tidur==\nTerdapat banyak jenis hotel dengan berbagai kelas \n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\nAS berbagi perbatan darat dengan Kanada di utara dan [[Meksiko]] di selatan, [[Rusia]] adalah negara asing terdekat dengan AS yang tidak memiliki perbatasan darat bersama, dekat dengan timur jauh.\n{{IsPartOf|Amerika Utara}}\n{{Stub}}\n{{Geo|45|-104|zoom=4}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Statue of Liberty light banner.jpg|caption=The Statue of Liberty|origin=0.7,0}}\n\n[[Berkas:WhiteHouseSouthFacade.JPG|thumb|right|250px|Gedung Putih, Washington, D.C.]]\n'''[http://www.discoveramerica.com Amerika Serikat]''' adalah negara yang terletak di [[Amerika Utara]], disingkat sebagai A.S. atau dalam bahasa Inggrisnya \"USA,\"  \"U.S.,\" \"United States,\" atau \"America,\" Luas daerahnya mencapai 9,6 juta km<sup>2</sup> (sekitar setengah dari [[Rusia]] dan sama dengan [[Tiongkok]]). Amerika Serikat adalah negara dengan jumlah penduduk terbanyak ketiga di dunia, dengan jumlah 310 juta orang. Dengan sejarahnya memuat imigrasi besar-besaran sejak abad 17, Amerika Serikat menjadi tempat berkumpulnya budaya dari seluruh dunia. \n\nDestinasi wisata di negara ini bermacam-macam, mulai dari gedung pencakar langit di [[Manhattan]] dan [[Chicago]], keajaiban dunia alam di [[Yellowstone]] dan [[Alaska]], sampai pantai hangat di [[Florida]], [[Hawaii]] dan [[California Selatan]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n=== Dengan pesawat ===\nrata rata durasi penerbangab nonstop dari Indonesia ke Amerika Serikat adalah 27 jam 18 menit.\n\n===Dengan kereta api===\nPerjalanan antara Utah dan Colorado dianggap sebagi perjalan kereta api paling spektakuler di seluruh Amerika, Salt Lake City ke Denver 15 jam\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* cheseeburger \n* American Pizza\n* Apple Pie\n* Chicken and waddles\n* Buffalo wings\n\n== Minum ==\n* Arizona Fruit Punch Fruit Juice\n* Warheads Soda sour Lemon\n* Warheads Sour Blue Raspberry Soda\n* Crush strawberry\n* Prime hydration Drink Lemonade\n\n==Tidur==\nTerdapat banyak jenis hotel dengan berbagai kelas \n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\nAS berbagi perbatan darat dengan Kanada di utara dan [[Meksiko]] di selatan, [[Rusia]] adalah negara asing terdekat dengan AS yang tidak memiliki perbatasan darat bersama, dekat dengan timur jauh.\n{{IsPartOf|Amerika Utara}}\n{{Stub}}\n{{Geo|45|-104|zoom=4}}"
+}

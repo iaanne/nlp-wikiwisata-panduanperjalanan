@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+data/articles.jsonl
+data/chunks_*.jsonl
+data/indexes/*
+!data/indexes/index_manifest.json

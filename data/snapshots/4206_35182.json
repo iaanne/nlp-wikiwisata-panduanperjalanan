@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Brisbane",
+  "fetched_at": "2026-11-22T08:06:40.401467+00:00",
+  "title": "Brisbane",
+  "page_id": 4206,
+  "revision_id": "35182",
+  "revision_timestamp": "2026-08-05T05:26:56Z",
+  "sha256": "3fcb8b5998c9f689ce3582af25583487115ed179d71ebc27601fd7041be65d4d",
+  "license": "CC BY-SA 4.0",
+  "city": "Brisbane",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4206,
+          "ns": 0,
+          "title": "Brisbane",
+          "revisions": [
+            {
+              "revid": 35182,
+              "parentid": 35181,
+              "timestamp": "2026-08-05T05:26:56Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Brisbane''' Merupakan ibu kota negara Queensland serta kota terbesar ketiga dengan penduduk terpadat di Australia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Brisbane''' Merupakan ibu kota negara Queensland serta kota terbesar ketiga dengan penduduk terpadat di Australia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

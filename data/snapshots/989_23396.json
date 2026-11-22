@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Anjou",
+  "fetched_at": "2026-11-22T07:44:42.600751+00:00",
+  "title": "Anjou",
+  "page_id": 989,
+  "revision_id": "23396",
+  "revision_timestamp": "2024-12-04T08:35:45Z",
+  "sha256": "de2fa0dd7dfd6d35e0a26cbba2bed4343a3a408f5796b3a8738f15ee7f5b6493",
+  "license": "CC BY-SA 4.0",
+  "city": "Anjou",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 989,
+          "ns": 0,
+          "title": "Anjou",
+          "revisions": [
+            {
+              "revid": 23396,
+              "parentid": 4598,
+              "timestamp": "2024-12-04T08:35:45Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png|pgname=Anjou}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Anjou''':\n\n===[[Perancis]]===\n\n* [[Maine-et-Loire]] - sebuah département di [[Perancis]].\n\n===[[Kanada]]===\n\n* [[Montréal]] - sebuah wilayah di [[Montreal/Ujung Timur]] \n\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png|pgname=Anjou}}\n__NOTOC__\nAda lebih dari satu tempat yang disebut '''Anjou''':\n\n===[[Perancis]]===\n\n* [[Maine-et-Loire]] - sebuah département di [[Perancis]].\n\n===[[Kanada]]===\n\n* [[Montréal]] - sebuah wilayah di [[Montreal/Ujung Timur]] \n\n\n{{Disamb}}"
+}

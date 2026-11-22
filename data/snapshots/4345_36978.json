@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aarau",
+  "fetched_at": "2026-11-22T07:35:32.198992+00:00",
+  "title": "Aarau",
+  "page_id": 4345,
+  "revision_id": "36978",
+  "revision_timestamp": "2026-09-06T08:44:50Z",
+  "sha256": "653bbd7185b808ccc2bc80fed81f15bfb71373346a7eb1c3cae5e6387c774a6a",
+  "license": "CC BY-SA 4.0",
+  "city": "Aarau",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4345,
+          "ns": 0,
+          "title": "Aarau",
+          "revisions": [
+            {
+              "revid": 36978,
+              "parentid": 36965,
+              "timestamp": "2026-09-06T08:44:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Aarau Wikivoyage Banner.jpg}}\n\n'''Aarau''' adalah ibu kota Kanton Aargau di [[Swiss]].\n\n== Pahami ==\nAarau adalah ibu kota Kanton Aargau di Swiss utara. Kota ini berada di tepi Sungai Aare, di antara Zürich, Basel, dan Bern. Pusat kotanya relatif kecil sehingga cocok dikunjungi dalam perjalanan sehari, tetapi juga dapat dijadikan pangkalan untuk menjelajahi wilayah Aargau.\n\nDaya tarik utama Aarau adalah Kota Tua yang terawat, dengan gang-gang pejalan kaki dan atap pelana bercorak yang dikenal sebagai ''bemalte Dachhimmel''. Bahasa sehari-hari yang paling umum adalah bahasa Jerman Swiss, sedangkan bahasa Jerman baku digunakan untuk tulisan dan informasi resmi. Bahasa Inggris umumnya dapat digunakan di tempat wisata, hotel, dan stasiun.\n\n== Menuju ke sini ==\n\n=== Dengan kereta api ===\nStasiun Aarau berada di jalur kereta utama Swiss sehingga mudah dicapai. Kereta langsung menghubungkan Aarau dengan Zürich, Basel, dan Bern.\n\n* Zürich — sekitar 25 menit dari Zürich Hauptbahnhof.\n* Bandar Udara Zürich — sekitar 45 menit.\n* Basel — sekitar 35 menit.\n* [[Bern]] — sekitar 40 menit.\n\nJadwal dan tiket dapat diperiksa melalui situs [https://www.sbb.ch/en SBB] atau aplikasi '''SBB Mobile''', aplikasi resmi Swiss Federal Railways.\n\n=== Dengan mobil ===\nAarau berada di dekat jalan tol A1. Dari arah Zürich, gunakan pintu keluar ''Aarau Ost''. Dari arah [[Bern]] atau Basel, gunakan pintu keluar ''Aarau West''. Ikuti rambu menuju pusat kota Aarau.\n\n=== Dengan bus ===\nBus regional menghubungkan Aarau dengan kota-kota dan desa-desa di sekitarnya. Sebagian besar layanan berangkat atau berhenti di sekitar stasiun utama Aarau.\n* {{go\n| name=BBA Bus Aarau | alt=Busbetrieb Aarau AG | url=https://busaarau.ch/ | email=kontakt@busaarau.ch\n| address=Neumattstrasse 20, 5000 Aarau | lat=47.4005 | long=8.06633 | directions=Layanan bus tersedia dari halte-halte di sekitar Aarau Bahnhof\n| phone=+41 62 544 50 00 | tollfree=\n| hours= | price=\n| image=Mercedes-Benz Citaro Postauto vorm Bahnhof Aarau (2021).jpg\n| lastedit=2026-09-06\n| content=Operator bus perkotaan dan regional yang melayani Aarau serta daerah sekitarnya. Banyak rute berhenti di Aarau Bahnhof. Jadwal dan tiket dapat diperiksa melalui situs BBA atau SBB; layanan menggunakan sistem tarif A-Welle.\n}}\n\n== Berkeliling ==\n{{mapframe|47.3904|8.0457|zoom=13|height=420|width=420|align=right}}\n\nPusat Kota Tua Aarau cukup ringkas dan nyaman dijelajahi dengan berjalan kaki. Bus kota [https://busaarau.ch/ BBA] dapat digunakan untuk mencapai kawasan yang lebih jauh. Jadwal perjalanan dapat diperiksa melalui situs BBA atau aplikasi [https://www.sbb.ch/en SBB Mobile]. Tiket mengikuti sistem zona [https://www.a-welle.ch/ Tarifverbund A-Welle] dan berlaku pada layanan angkutan umum dalam zona yang dipilih.\n\n== Lihat ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Aarau Wikivoyage Banner.jpg}}\n\n'''Aarau''' adalah ibu kota Kanton Aargau di [[Swiss]].\n\n== Pahami ==\nAarau adalah ibu kota Kanton Aargau di Swiss utara. Kota ini berada di tepi Sungai Aare, di antara Zürich, Basel, dan Bern. Pusat kotanya relatif kecil sehingga cocok dikunjungi dalam perjalanan sehari, tetapi juga dapat dijadikan pangkalan untuk menjelajahi wilayah Aargau.\n\nDaya tarik utama Aarau adalah Kota Tua yang terawat, dengan gang-gang pejalan kaki dan atap pelana bercorak yang dikenal sebagai ''bemalte Dachhimmel''. Bahasa sehari-hari yang paling umum adalah bahasa Jerman Swiss, sedangkan bahasa Jerman baku digunakan untuk tulisan dan informasi resmi. Bahasa Inggris umumnya dapat digunakan di tempat wisata, hotel, dan stasiun.\n\n== Menuju ke sini ==\n\n=== Dengan kereta api ===\nStasiun Aarau berada di jalur kereta utama Swiss sehingga mudah dicapai. Kereta langsung menghubungkan Aarau dengan Zürich, Basel, dan Bern.\n\n* Zürich — sekitar 25 menit dari Zürich Hauptbahnhof.\n* Bandar Udara Zürich — sekitar 45 menit.\n* Basel — sekitar 35 menit.\n* [[Bern]] — sekitar 40 menit.\n\nJadwal dan tiket dapat diperiksa melalui situs [https://www.sbb.ch/en SBB] atau aplikasi '''SBB Mobile''', aplikasi resmi Swiss Federal Railways.\n\n=== Dengan mobil ===\nAarau berada di dekat jalan tol A1. Dari arah Zürich, gunakan pintu keluar ''Aarau Ost''. Dari arah [[Bern]] atau Basel, gunakan pintu keluar ''Aarau West''. Ikuti rambu menuju pusat kota Aarau.\n\n=== Dengan bus ===\nBus regional menghubungkan Aarau dengan kota-kota dan desa-desa di sekitarnya. Sebagian besar layanan berangkat atau berhenti di sekitar stasiun utama Aarau.\n* {{go\n| name=BBA Bus Aarau | alt=Busbetrieb Aarau AG | url=https://busaarau.ch/ | email=kontakt@busaarau.ch\n| address=Neumattstrasse 20, 5000 Aarau | lat=47.4005 | long=8.06633 | directions=Layanan bus tersedia dari halte-halte di sekitar Aarau Bahnhof\n| phone=+41 62 544 50 00 | tollfree=\n| hours= | price=\n| image=Mercedes-Benz Citaro Postauto vorm Bahnhof Aarau (2021).jpg\n| lastedit=2026-09-06\n| content=Operator bus perkotaan dan regional yang melayani Aarau serta daerah sekitarnya. Banyak rute berhenti di Aarau Bahnhof. Jadwal dan tiket dapat diperiksa melalui situs BBA atau SBB; layanan menggunakan sistem tarif A-Welle.\n}}\n\n== Berkeliling ==\n{{mapframe|47.3904|8.0457|zoom=13|height=420|width=420|align=right}}\n\nPusat Kota Tua Aarau cukup ringkas dan nyaman dijelajahi dengan berjalan kaki. Bus kota [https://busaarau.ch/ BBA] dapat digunakan untuk mencapai kawasan yang lebih jauh. Jadwal perjalanan dapat diperiksa melalui situs BBA atau aplikasi [https://www.sbb.ch/en SBB Mobile]. Tiket mengikuti sistem zona [https://www.a-welle.ch/ Tarifverbund A-Welle] dan berlaku pada layanan angkutan umum dalam zona yang dipilih.\n\n== Lihat ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tujuan berikutnya =="
+}

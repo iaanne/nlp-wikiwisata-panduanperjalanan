@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bhutan",
+  "fetched_at": "2026-11-22T08:01:41.726662+00:00",
+  "title": "Bhutan",
+  "page_id": 1142,
+  "revision_id": "32087",
+  "revision_timestamp": "2026-01-09T10:42:24Z",
+  "sha256": "2e69c4141922dc337d360215e3147a461cc973066885b0a9502838b002a58cf8",
+  "license": "CC BY-SA 4.0",
+  "city": "Bhutan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1142,
+          "ns": 0,
+          "title": "Bhutan",
+          "revisions": [
+            {
+              "revid": 32087,
+              "parentid": 23516,
+              "timestamp": "2026-01-09T10:42:24Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Bhutan Wikivoyage banner.jpg}}\n\n{{Quickbar\n| image=Trongsa Dzong.jpg\n| location=LocationBhutan.png\n| flag=Flag of Bhutan.svg\n| capital=[[Thimpu|Thimphu]]\n| government=Monarki konstitusional; perjanjian hubungan khusus dengan India\n| currency=Ngultrum (BTN)\n| area=''total:'' 47,000 km<sup>2</sup><br />''lautan:'' 0 km<sup>2</sup><br />''daratan:'' 47,000 km<sup>2</sup>\n| population=672,425 (sensus 2005)\n| language=[[Kosa kata Dzongkha|Dzongkha]] (resmi), Bhotes speak various Tibetan dialects, Nepalese speak various Nepalese dialects\n| religion=Vajrayana Buddhist 75%, Indian and Nepalese-influenced Hinduism 25%\n| electricity=220V/50Hz\n| callingcode=+975\n| tld=.bt\n| timezone=GMT +6\n}}\n\n'''[http://www.tourism.gov.bt Bhutan]''' adalah negara kecil yang berada di [[Himalaya]] diantara [[Tibet]] dan [[India]].\n==Wilayah==\n{{Mapframe|27.478|90.483|zoom=7|height=200|width=450|layer=M|staticmap=Bhutan regions map.png|align=}}\nBhutan secara budaya dan geografis dapat dibagi menjadi tiga wilayah, yang selanjutnya terbagi lagi menjadi 20 distrik atau ''dzongkhag'':\n\n{{Regionlist\n| region1name=[[Bhutan Tengah]]\n| region1color=#d1848b\n| region1description=\n\n| region2name=[[Bhutan Timur]]\n| region2color=#b895b8\n| region2description=\n\n| region3name=[[Bhutan Barat]]\n| region3color=#6ea0c2\n| region3description=\n}}\n\n{{Mapshape|type=geoshape|fill=#d1848b|title=[[Central Bhutan]]|wikidata=Q463242,Q728947,Q728938,Q197564}}\n{{Mapshape|type=geoshape|fill=#b895b8|title=[[Eastern Bhutan]]|wikidata=Q598793,Q389734,Q167279,Q728929,Q652773,Q600200}}\n{{Mapshape|type=geoshape|fill=#6ea0c2|title=[[Western Bhutan]]|wikidata=Q652754,Q735146,Q578294,Q754448,Q652784,Q587062,Q728917,Q254889,Q728922,Q728933}}\n{{Stub}}\n{{IsPartOf|Asia Selatan}}\n{{Geo|27.32297|90.50537|zoom=8}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Bhutan Wikivoyage banner.jpg}}\n\n{{Quickbar\n| image=Trongsa Dzong.jpg\n| location=LocationBhutan.png\n| flag=Flag of Bhutan.svg\n| capital=[[Thimpu|Thimphu]]\n| government=Monarki konstitusional; perjanjian hubungan khusus dengan India\n| currency=Ngultrum (BTN)\n| area=''total:'' 47,000 km<sup>2</sup><br />''lautan:'' 0 km<sup>2</sup><br />''daratan:'' 47,000 km<sup>2</sup>\n| population=672,425 (sensus 2005)\n| language=[[Kosa kata Dzongkha|Dzongkha]] (resmi), Bhotes speak various Tibetan dialects, Nepalese speak various Nepalese dialects\n| religion=Vajrayana Buddhist 75%, Indian and Nepalese-influenced Hinduism 25%\n| electricity=220V/50Hz\n| callingcode=+975\n| tld=.bt\n| timezone=GMT +6\n}}\n\n'''[http://www.tourism.gov.bt Bhutan]''' adalah negara kecil yang berada di [[Himalaya]] diantara [[Tibet]] dan [[India]].\n==Wilayah==\n{{Mapframe|27.478|90.483|zoom=7|height=200|width=450|layer=M|staticmap=Bhutan regions map.png|align=}}\nBhutan secara budaya dan geografis dapat dibagi menjadi tiga wilayah, yang selanjutnya terbagi lagi menjadi 20 distrik atau ''dzongkhag'':\n\n{{Regionlist\n| region1name=[[Bhutan Tengah]]\n| region1color=#d1848b\n| region1description=\n\n| region2name=[[Bhutan Timur]]\n| region2color=#b895b8\n| region2description=\n\n| region3name=[[Bhutan Barat]]\n| region3color=#6ea0c2\n| region3description=\n}}\n\n{{Mapshape|type=geoshape|fill=#d1848b|title=[[Central Bhutan]]|wikidata=Q463242,Q728947,Q728938,Q197564}}\n{{Mapshape|type=geoshape|fill=#b895b8|title=[[Eastern Bhutan]]|wikidata=Q598793,Q389734,Q167279,Q728929,Q652773,Q600200}}\n{{Mapshape|type=geoshape|fill=#6ea0c2|title=[[Western Bhutan]]|wikidata=Q652754,Q735146,Q578294,Q754448,Q652784,Q587062,Q728917,Q254889,Q728922,Q728933}}\n{{Stub}}\n{{IsPartOf|Asia Selatan}}\n{{Geo|27.32297|90.50537|zoom=8}}"
+}

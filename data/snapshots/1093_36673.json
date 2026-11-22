@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batam",
+  "fetched_at": "2026-11-22T07:55:44.569263+00:00",
+  "title": "Batam",
+  "page_id": 1093,
+  "revision_id": "36673",
+  "revision_timestamp": "2026-08-31T02:12:52Z",
+  "sha256": "e32c82f748bc8a05899f153801c223003a15c0b5e83529cc949ebe368541fa88",
+  "license": "CC BY-SA 4.0",
+  "city": "Batam",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1093,
+          "ns": 0,
+          "title": "Batam",
+          "revisions": [
+            {
+              "revid": 36673,
+              "parentid": 36672,
+              "timestamp": "2026-08-31T02:12:52Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Batam banner.jpg|caption=}}\n\n'''Batam''' merupakan sebuah pulau kecil tapi sibuk yang berada di [[Indonesia]] dengan ukuran 45&nbsp;km x 25&nbsp;km dan memiliki penduduk hampir satu juta orang, ratusan pabrik milik perusahaan multinasional, kota, pusat perbelanjaan dan pintu masuk ke [[Kepulauan Riau]].\n\n==Pahami==\n==Menuju ke sini==\n===Dengan pesawat===\n'''Bandar Udara Internasional Hang Nadim''' adalah bandar udara yang melayani Batam dan hampir semua penerbangan ke Batam adalah penerbangan domestik kecuali penerbangan oleh maskapai penerbangan ''Firefly'' ke [[Kuala Lumpur|Kuala Lumpur-Subang]]. Maskapai penerbangan yang melayani penerbangan domestik antara lain Garuda Indonesia, Lion Air, Citilink, Sky Aviation dan Sriwijaya Air. Rata-rata tujuan dari dan ke bandar udara ini adalah dari [[Jakarta]], [[Medan]], [[Pekanbaru]], [[Natuna]] dan [[Padang]].\n\n=== Dengan kapal ===\nTransportasi dengan jalur laut dihubungkan melalui Pelabuhan, baik itu pelabuhan domestik maupun pelabuhan internasional. Pelabuhan domestik diantaranya:  Harbour Bay, Sekupang, dan Telaga Punggur. Pelabuhan internasional yaitunya: Batam Centre, Harbour Bay, Nongsa, Waterfront dan Sekupang.\n\n=== Dengan Mobil ===\nTransportasi untuk berkeliling di daratan batam akan sangat nyaman bila menggunakan [https://www.salsarentcar.co.id/ rental mobil batam]. Tersedia sangat banyak pilihan rental mobil di batam yang bisa kamu gunakan.\n\n==Berkeliling==\n==Lihat==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* '''Nasi Dagong''' - singkatan dari Nasi Daging Gonggong, berupa hidangan olahan nasi goreng yang khas dengan campuran siput yang disebut gonggong.\n* '''Nasi Lemak''' - Nasi lemak juga merupakan makanan khas Batam, hal tersebut dikarenakan di Batam banyal populasi Melayu. \n* '''Mie Lendir Kasan Ciblek''' - mie lendir ini merupakan khas batam dengan kuahnya menggunakan tepung kanji dengan rasa sedikit manis. Mie lendir ini dilengkapi dengan tauge, telur rebus, cabe hijau, saledri, dan daun bawang.\n* '''Mie Tarempa Sei Panas''' - dimasak dengan rempah yang kaya rasa, terbuat dari mie gepeng agak lebar dengan sedikit kuah berwarna kemerahan.\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\nBatam memiliki koneksi feri yang baik, menjadikannya batu loncatan yang sangat baik ke bagian [[Kepulauan Riau]] lainnya seperti Tanjung Uban, [[Bintan]] di Pulau Kijang, serta menuju daratan [[Sumatera]]. Koneksi udara yang baik juga menjadikan Batam tempat yang baik untuk mendapatkan tiket pesawat murah ke [[Jakarta]] dan juga ke wilayah lain di Indonesia.\n\n{{Outlineregion}}\n{{Geo|1.0833|104.0333|zoom=12}}\n{{IsPartOf|Kepulauan Riau}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Batam banner.jpg|caption=}}\n\n'''Batam''' merupakan sebuah pulau kecil tapi sibuk yang berada di [[Indonesia]] dengan ukuran 45&nbsp;km x 25&nbsp;km dan memiliki penduduk hampir satu juta orang, ratusan pabrik milik perusahaan multinasional, kota, pusat perbelanjaan dan pintu masuk ke [[Kepulauan Riau]].\n\n==Pahami==\n==Menuju ke sini==\n===Dengan pesawat===\n'''Bandar Udara Internasional Hang Nadim''' adalah bandar udara yang melayani Batam dan hampir semua penerbangan ke Batam adalah penerbangan domestik kecuali penerbangan oleh maskapai penerbangan ''Firefly'' ke [[Kuala Lumpur|Kuala Lumpur-Subang]]. Maskapai penerbangan yang melayani penerbangan domestik antara lain Garuda Indonesia, Lion Air, Citilink, Sky Aviation dan Sriwijaya Air. Rata-rata tujuan dari dan ke bandar udara ini adalah dari [[Jakarta]], [[Medan]], [[Pekanbaru]], [[Natuna]] dan [[Padang]].\n\n=== Dengan kapal ===\nTransportasi dengan jalur laut dihubungkan melalui Pelabuhan, baik itu pelabuhan domestik maupun pelabuhan internasional. Pelabuhan domestik diantaranya:  Harbour Bay, Sekupang, dan Telaga Punggur. Pelabuhan internasional yaitunya: Batam Centre, Harbour Bay, Nongsa, Waterfront dan Sekupang.\n\n=== Dengan Mobil ===\nTransportasi untuk berkeliling di daratan batam akan sangat nyaman bila menggunakan [https://www.salsarentcar.co.id/ rental mobil batam]. Tersedia sangat banyak pilihan rental mobil di batam yang bisa kamu gunakan.\n\n==Berkeliling==\n==Lihat==\n\n== Lakukan ==\n\n== Beli ==\n\n==Makan==\n* '''Nasi Dagong''' - singkatan dari Nasi Daging Gonggong, berupa hidangan olahan nasi goreng yang khas dengan campuran siput yang disebut gonggong.\n* '''Nasi Lemak''' - Nasi lemak juga merupakan makanan khas Batam, hal tersebut dikarenakan di Batam banyal populasi Melayu. \n* '''Mie Lendir Kasan Ciblek''' - mie lendir ini merupakan khas batam dengan kuahnya menggunakan tepung kanji dengan rasa sedikit manis. Mie lendir ini dilengkapi dengan tauge, telur rebus, cabe hijau, saledri, dan daun bawang.\n* '''Mie Tarempa Sei Panas''' - dimasak dengan rempah yang kaya rasa, terbuat dari mie gepeng agak lebar dengan sedikit kuah berwarna kemerahan.\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\nBatam memiliki koneksi feri yang baik, menjadikannya batu loncatan yang sangat baik ke bagian [[Kepulauan Riau]] lainnya seperti Tanjung Uban, [[Bintan]] di Pulau Kijang, serta menuju daratan [[Sumatera]]. Koneksi udara yang baik juga menjadikan Batam tempat yang baik untuk mendapatkan tiket pesawat murah ke [[Jakarta]] dan juga ke wilayah lain di Indonesia.\n\n{{Outlineregion}}\n{{Geo|1.0833|104.0333|zoom=12}}\n{{IsPartOf|Kepulauan Riau}}"
+}

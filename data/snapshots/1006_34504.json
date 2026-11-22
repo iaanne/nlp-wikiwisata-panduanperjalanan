@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Argentan",
+  "fetched_at": "2026-11-22T07:46:41.842957+00:00",
+  "title": "Argentan",
+  "page_id": 1006,
+  "revision_id": "34504",
+  "revision_timestamp": "2026-07-29T14:35:32Z",
+  "sha256": "36d7418e2b05081308a7ead2149c765dc29dd246f6db72532ca92413d401c6c3",
+  "license": "CC BY-SA 4.0",
+  "city": "Argentan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1006,
+          "ns": 0,
+          "title": "Argentan",
+          "revisions": [
+            {
+              "revid": 34504,
+              "parentid": 23410,
+              "timestamp": "2026-07-29T14:35:32Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Argentan Wikivoyage Banner.jpg}}\n\n'''Argentan''' ada di departemen [[Orne]] di [[Normandia Bawah]].\n\n==Pahami==\nArgentan terletak agak jauh di selatan [[Caen]] dan [[Pantai D-Day]]. [[Falaise]], di mana [[Pantai D-Day|pertempuran besar]] terjadi selama Perang Dunia Kedua, berjarak sekitar setengah jalan antara Caen dan Argentan. Akhir dari pertempuran itu pasukan Amerika menduduki Argentan.\n\n==Menuju ke sini==\nArgentan berada di tengah jalan raya yang membentang dari [[Caen]] ke [[Le Mans]].\n\n==Berkeliling==\n\n==Lihat==\n* {{See\n| name=Museum Renda Argentina| alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=\n| content=\n}}\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Normandia Bawah}}\n{{Outlinecity}}\n{{Geo|48.75|-0.02}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Argentan Wikivoyage Banner.jpg}}\n\n'''Argentan''' ada di departemen [[Orne]] di [[Normandia Bawah]].\n\n==Pahami==\nArgentan terletak agak jauh di selatan [[Caen]] dan [[Pantai D-Day]]. [[Falaise]], di mana [[Pantai D-Day|pertempuran besar]] terjadi selama Perang Dunia Kedua, berjarak sekitar setengah jalan antara Caen dan Argentan. Akhir dari pertempuran itu pasukan Amerika menduduki Argentan.\n\n==Menuju ke sini==\nArgentan berada di tengah jalan raya yang membentang dari [[Caen]] ke [[Le Mans]].\n\n==Berkeliling==\n\n==Lihat==\n* {{See\n| name=Museum Renda Argentina| alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=\n| content=\n}}\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Normandia Bawah}}\n{{Outlinecity}}\n{{Geo|48.75|-0.02}}"
+}

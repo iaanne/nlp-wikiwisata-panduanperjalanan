@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ashby",
+  "fetched_at": "2026-11-22T07:46:45.492963+00:00",
+  "title": "Ashby",
+  "page_id": 1013,
+  "revision_id": "23414",
+  "revision_timestamp": "2024-12-04T08:36:25Z",
+  "sha256": "a45f6558bae24ad8ef3b0f9d2d602e077ad5625bc41c35c58997ec6cb2f34329",
+  "license": "CC BY-SA 4.0",
+  "city": "Ashby",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1013,
+          "ns": 0,
+          "title": "Ashby",
+          "revisions": [
+            {
+              "revid": 23414,
+              "parentid": 4801,
+              "timestamp": "2024-12-04T08:36:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Ashby''':\n\n===[[Amerika Serikat]]===\n\n* [[Ashby (Massachusetts)]] — sebuah kota di [[County North (Massachusetts)]]\n\n===[[Britania Raya]]===\n\n* [[Ashby-de-la-Zouch]] — sebuah kota di [[Leicestershire]]\n\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Ashby''':\n\n===[[Amerika Serikat]]===\n\n* [[Ashby (Massachusetts)]] — sebuah kota di [[County North (Massachusetts)]]\n\n===[[Britania Raya]]===\n\n* [[Ashby-de-la-Zouch]] — sebuah kota di [[Leicestershire]]\n\n\n{{Disamb}}"
+}

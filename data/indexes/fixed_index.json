@@ -1,6 +1,0 @@
-{
-  "index_hash": "fd721680d547cf078c46c791922c158b7031db13c93e06b8a2454c63c196e795",
-  "embedding_model": "intfloat/multilingual-e5-small",
-  "chunk_strategy": "fixed",
-  "chunk_count": 9
-}

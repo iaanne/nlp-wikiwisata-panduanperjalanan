@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bajawa",
+  "fetched_at": "2026-11-22T07:49:45.194815+00:00",
+  "title": "Bajawa",
+  "page_id": 3936,
+  "revision_id": "37049",
+  "revision_timestamp": "2026-09-07T13:12:18Z",
+  "sha256": "aed22b1fc0230c1ae42294e2f6e5f00dce616894437bceb7f43c565b14d9d498",
+  "license": "CC BY-SA 4.0",
+  "city": "Bajawa",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3936,
+          "ns": 0,
+          "title": "Bajawa",
+          "revisions": [
+            {
+              "revid": 37049,
+              "parentid": 34639,
+              "timestamp": "2026-09-07T13:12:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg}}\n\n'''Bajawa''' ada di Kabupaten Ngada, [[Nusa Tenggara|Nusa Tenggara Timur]].\n\n==Pahami==\nBahasa lokal yang digunakan di Bajawa adalah bahasa Ngada. Namun, mereka juga sering menggunakan bahasa Indonesia sebagai bahasa komunikasi.\n\n==Menuju ke sini==\n{{Mapframe}}\n* {{go\n| name=Bandar Udara Turelelo Soa | alt={{IATA|BJW}} | url= | email=\n| address=Masumeli, Soa, Kabupaten Ngada | lat=-8.708612 | long=121.057901 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Bandar Udara Soa | wikidata=Q82882\n| lastedit=2025-12-22\n| content=Melayani penerbangan dari dan ke Kupang dan Labuanbajo masing-masing sehari sekali. Pesawat hanya tersedia Wings Air.\n}}\n\n==Berkeliling==\nPengunjung dapat menggunakan kendaraan sewaan yang tersedia di Bajawa dengan tarif Rp100.000.\n\n==Lihat==\n* {{see\n| name=Air Terjun Orgi | alt= | url= | email=\n| address= | lat=-8.7737615 | long=121.0071399 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-22\n| content=Air terjun deras dengan ketinggian 30 meter.\n}}\n\n==Lakukan==\n* {{do\n| name=Pemandian Air Panas Mengeruda | alt= | url= | email=\n| address= | lat=-8.7097585 | long=121.0827872 | directions=\n| phone= | tollfree=\n| hours=08:00-18:00 | price=Rp4.000 (lokal) dan Rp12.000 (asing)\n| wikidata=Q16858053\n| lastedit=2025-12-22\n| content=Pemandian air panas dari Gunung Inielika yang dipercaya baik untuk kesehatan.\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n* [[Ende]]\n* [[Labuan Bajo]]\n\n{{IsPartOf|Flores (Indonesia)}}\n{{outlinecity}}\n{{geo||}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg}}\n\n'''Bajawa''' ada di Kabupaten Ngada, [[Nusa Tenggara|Nusa Tenggara Timur]].\n\n==Pahami==\nBahasa lokal yang digunakan di Bajawa adalah bahasa Ngada. Namun, mereka juga sering menggunakan bahasa Indonesia sebagai bahasa komunikasi.\n\n==Menuju ke sini==\n{{Mapframe}}\n* {{go\n| name=Bandar Udara Turelelo Soa | alt={{IATA|BJW}} | url= | email=\n| address=Masumeli, Soa, Kabupaten Ngada | lat=-8.708612 | long=121.057901 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Bandar Udara Soa | wikidata=Q82882\n| lastedit=2025-12-22\n| content=Melayani penerbangan dari dan ke Kupang dan Labuanbajo masing-masing sehari sekali. Pesawat hanya tersedia Wings Air.\n}}\n\n==Berkeliling==\nPengunjung dapat menggunakan kendaraan sewaan yang tersedia di Bajawa dengan tarif Rp100.000.\n\n==Lihat==\n* {{see\n| name=Air Terjun Orgi | alt= | url= | email=\n| address= | lat=-8.7737615 | long=121.0071399 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikidata=\n| lastedit=2025-12-22\n| content=Air terjun deras dengan ketinggian 30 meter.\n}}\n\n==Lakukan==\n* {{do\n| name=Pemandian Air Panas Mengeruda | alt= | url= | email=\n| address= | lat=-8.7097585 | long=121.0827872 | directions=\n| phone= | tollfree=\n| hours=08:00-18:00 | price=Rp4.000 (lokal) dan Rp12.000 (asing)\n| wikidata=Q16858053\n| lastedit=2025-12-22\n| content=Pemandian air panas dari Gunung Inielika yang dipercaya baik untuk kesehatan.\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n* [[Ende]]\n* [[Labuan Bajo]]\n\n{{IsPartOf|Flores (Indonesia)}}\n{{outlinecity}}\n{{geo||}}"
+}

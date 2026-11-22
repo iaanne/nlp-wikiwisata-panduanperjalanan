@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afghanistan+Timur+Laut",
+  "fetched_at": "2026-11-22T07:38:42.161512+00:00",
+  "title": "Afghanistan Timur Laut",
+  "page_id": 4384,
+  "revision_id": "37254",
+  "revision_timestamp": "2026-09-09T15:52:46Z",
+  "sha256": "aad3af19d518c0cc88e1db4ca617b7b8f3be66d206a2a4f275e4acca7badd5dd",
+  "license": "CC BY-SA 4.0",
+  "city": "Afghanistan Timur Laut",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4384,
+          "ns": 0,
+          "title": "Afghanistan Timur Laut",
+          "revisions": [
+            {
+              "revid": 37254,
+              "parentid": 0,
+              "timestamp": "2026-09-09T15:52:46Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "\nBagian ini mencakup wilayah '''timur laut''' Afghanistan .\n\nWilayah bersejarah Bactria meliputi wilayah yang mencakup sebagian wilayah Afghanistan utara—ditambah wilayah yang sekarang berada di Uzbekistan atau Tajikistan .<mapframe align=\"right\" height=\"420\" image=\"\" show=\"mask,around,buy,city,do,event,drink,eat,go,listing,other,see,sleep,vicinity,view,black,blue,brown,chocolate,forestgreen,gold,gray,grey,lime,magenta,maroon,mediumaquamarine,navy,red,royalblue,orange,silver,steelblue,teal,fuchsia,route1,route2,route3,route4,route5\" text=\"Map of Northeast Afghanistan\" title=\"\" url=\"\" width=\"420\"></mapframe>"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "\nBagian ini mencakup wilayah '''timur laut''' Afghanistan .\n\nWilayah bersejarah Bactria meliputi wilayah yang mencakup sebagian wilayah Afghanistan utara—ditambah wilayah yang sekarang berada di Uzbekistan atau Tajikistan .<mapframe align=\"right\" height=\"420\" image=\"\" show=\"mask,around,buy,city,do,event,drink,eat,go,listing,other,see,sleep,vicinity,view,black,blue,brown,chocolate,forestgreen,gold,gray,grey,lime,magenta,maroon,mediumaquamarine,navy,red,royalblue,orange,silver,steelblue,teal,fuchsia,route1,route2,route3,route4,route5\" text=\"Map of Northeast Afghanistan\" title=\"\" url=\"\" width=\"420\"></mapframe>"
+}

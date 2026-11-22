@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Boyolali",
+  "fetched_at": "2026-11-22T08:05:43.504019+00:00",
+  "title": "Boyolali",
+  "page_id": 1174,
+  "revision_id": "35903",
+  "revision_timestamp": "2026-08-14T16:51:46Z",
+  "sha256": "a3cbd33e2e288229f766e256e057b9bd1a07bcb346ea2906f8b8948ed2a2f465",
+  "license": "CC BY-SA 4.0",
+  "city": "Boyolali",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1174,
+          "ns": 0,
+          "title": "Boyolali",
+          "revisions": [
+            {
+              "revid": 35903,
+              "parentid": 35558,
+              "timestamp": "2026-08-14T16:51:46Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Boyolali, Central Java banner.jpg}}\n\n'''Boyolali''' ([[Buku percakapan Jawa|Jawa]]: ꦧꦺꦴꦪꦭꦭꦶ, translit. ''Boyalali'') adalah sebuah kabupaten di Provinsi [[Jawa Tengah]]. Kota ini sering disebut sebagai '''Kota Susu'''.\n\n== Pahami ==\nKabupaten Boyolali adalah wilayah di Provinsi Jawa Tengah yang terletak di antara gunung Merapi dan gunung Merbabu. Daerah ini terkenal sebagai kota susu atau ''New Zealand van Java'' karena menjadi pusat penghasil susu sapi terbesar di Pulau Jawa, serta memiliki sejarah dari perjalanan Ki Ageng Pandan Arang. \n\n== Menuju ke sini ==\nBoyolali terletak di kaki sebelah timur [[Gunung Merapi]] dan [[Gunung Merbabu]] yang memiliki pemandangan sangat indah dan mempesona, sayuran hijau yang luas dan berbukit-bukit serta aktivitas Gunung Merapi yang terlihat dengan jelas aliran lahar dan asapnya. Jalur Solo-Boyolali-Cepogo-Selo-Borobudur (SSB) yang melintasi kedua gunung tersebut dipromosikan menjadi jalur wisata menarik yang menjadi pilihan bagi wisatawan baik domestik maupun negara asing dari kota budaya Surakarta menuju Candi Borobudur untuk melintasi Kabupaten Boyolali. \n=== Dengan mobil ===\nBoyolali dilewati oleh jalan nasional dan Jalan Tol Trans Jawa.\n\n=== Dengan pesawat ===\n* {{Marker|type=go|name=Bandara Adi Sumarmo|content=bandara terdekat dari Boyolali.}}\n\n== Berkeliling ==\n\n== Lihat ==\n\n[[Berkas:Air_Terjun_Kedung_Kayang.jpg|225px|thumb|Air Terjun Kedung Kayang]]\n* {{See|Air terjun Kedung Kayang|address= Desa Klakah|content= Air Terjun Kedung Kayang yang memiliki ketinggian 30 meter ini masih alami dan belum dieksploitasi besar-besaran, mengingat jalan menuju ke objek wisata tersebut seperti layaknya jalan di daerah perkampungan. Di sekitar objek wisata ini terdapat tanah datar yang cocok untuk area perkemahan. Potensial untuk aktivitas berkemah dan mendaki.}}\n\n* {{See|name=Umbul Tlatar|address= Dukuh Tlatar, Desa Kebonbimo|content= Nuansa pesona alam terhampar dengan latar belakang budaya desa dan air yang melimpah, aroma kelezatan masakan ikan air tawar yang disajikan baik secara goreng maupun bakar sambil memancing dan duduk santai sungguh merupakan rekreasi menyegarkan di Objek Wisata Tlatar. Pemandian ini adalah pemandian untuk keluarga dengan sumber air berasal dari mata air. Ada 2 buah pemandian de, yaitu Pemandian Umbul Pengilon dan Pemandian Umbul Asem. Selain itu ada beberapa kolam renang rekreasi, termasuk kolam renang berstandar olimpiade}}\n\n== Lakukan ==\n\n==Beli==\nKecamatan Selo dikenal sebagai daerah peristirahatan sementara bagi para pendaki Gunung Merapi dan Merbabu yang mempunyai tempat penjualan cenderamata yang representatif. Kecamatan Cepogo dan Selo merupakan sentra penghasil sayuran hijau yang segar dan murah serta pusat kerajinan tembaga di Boyolali.\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Surakarta}}\n[[Kategori:WikiWastra]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Boyolali, Central Java banner.jpg}}\n\n'''Boyolali''' ([[Buku percakapan Jawa|Jawa]]: ꦧꦺꦴꦪꦭꦭꦶ, translit. ''Boyalali'') adalah sebuah kabupaten di Provinsi [[Jawa Tengah]]. Kota ini sering disebut sebagai '''Kota Susu'''.\n\n== Pahami ==\nKabupaten Boyolali adalah wilayah di Provinsi Jawa Tengah yang terletak di antara gunung Merapi dan gunung Merbabu. Daerah ini terkenal sebagai kota susu atau ''New Zealand van Java'' karena menjadi pusat penghasil susu sapi terbesar di Pulau Jawa, serta memiliki sejarah dari perjalanan Ki Ageng Pandan Arang. \n\n== Menuju ke sini ==\nBoyolali terletak di kaki sebelah timur [[Gunung Merapi]] dan [[Gunung Merbabu]] yang memiliki pemandangan sangat indah dan mempesona, sayuran hijau yang luas dan berbukit-bukit serta aktivitas Gunung Merapi yang terlihat dengan jelas aliran lahar dan asapnya. Jalur Solo-Boyolali-Cepogo-Selo-Borobudur (SSB) yang melintasi kedua gunung tersebut dipromosikan menjadi jalur wisata menarik yang menjadi pilihan bagi wisatawan baik domestik maupun negara asing dari kota budaya Surakarta menuju Candi Borobudur untuk melintasi Kabupaten Boyolali. \n=== Dengan mobil ===\nBoyolali dilewati oleh jalan nasional dan Jalan Tol Trans Jawa.\n\n=== Dengan pesawat ===\n* {{Marker|type=go|name=Bandara Adi Sumarmo|content=bandara terdekat dari Boyolali.}}\n\n== Berkeliling ==\n\n== Lihat ==\n\n[[Berkas:Air_Terjun_Kedung_Kayang.jpg|225px|thumb|Air Terjun Kedung Kayang]]\n* {{See|Air terjun Kedung Kayang|address= Desa Klakah|content= Air Terjun Kedung Kayang yang memiliki ketinggian 30 meter ini masih alami dan belum dieksploitasi besar-besaran, mengingat jalan menuju ke objek wisata tersebut seperti layaknya jalan di daerah perkampungan. Di sekitar objek wisata ini terdapat tanah datar yang cocok untuk area perkemahan. Potensial untuk aktivitas berkemah dan mendaki.}}\n\n* {{See|name=Umbul Tlatar|address= Dukuh Tlatar, Desa Kebonbimo|content= Nuansa pesona alam terhampar dengan latar belakang budaya desa dan air yang melimpah, aroma kelezatan masakan ikan air tawar yang disajikan baik secara goreng maupun bakar sambil memancing dan duduk santai sungguh merupakan rekreasi menyegarkan di Objek Wisata Tlatar. Pemandian ini adalah pemandian untuk keluarga dengan sumber air berasal dari mata air. Ada 2 buah pemandian de, yaitu Pemandian Umbul Pengilon dan Pemandian Umbul Asem. Selain itu ada beberapa kolam renang rekreasi, termasuk kolam renang berstandar olimpiade}}\n\n== Lakukan ==\n\n==Beli==\nKecamatan Selo dikenal sebagai daerah peristirahatan sementara bagi para pendaki Gunung Merapi dan Merbabu yang mempunyai tempat penjualan cenderamata yang representatif. Kecamatan Cepogo dan Selo merupakan sentra penghasil sayuran hijau yang segar dan murah serta pusat kerajinan tembaga di Boyolali.\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Surakarta}}\n[[Kategori:WikiWastra]]"
+}

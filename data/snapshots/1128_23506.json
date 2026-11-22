@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beppu",
+  "fetched_at": "2026-11-22T07:59:45.646963+00:00",
+  "title": "Beppu",
+  "page_id": 1128,
+  "revision_id": "23506",
+  "revision_timestamp": "2024-12-04T08:40:01Z",
+  "sha256": "6428f0fac13550d27190caa4542ca80b86e37a52a76b8e41c8e3608100cc6f3d",
+  "license": "CC BY-SA 4.0",
+  "city": "Beppu",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1128,
+          "ns": 0,
+          "title": "Beppu",
+          "revisions": [
+            {
+              "revid": 23506,
+              "parentid": 6573,
+              "timestamp": "2024-12-04T08:40:01Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Beppu banner.jpg|caption=Salah satu \"neraka\" Beppu: Chinoike Jigoku (Neraka Kolam Darah)}}\n[http://www.city.beppu.oita.jp/ '''Beppu'''] (別府市 ''Beppu-shi'')adalah sebuah kota di [[Oita (prefektur)|Prefektur Oita]] di pulau [[Kyushu]], [[Jepang]].\n\n== Fahami ==\n\n== Menuju ke sini ==\n\n==Makan==\n* {{Eat\n| name=Kogetsu | alt=胡月 | url= | email=\n| address= | lat=33.3024002 | long=131.4993108 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Mie dingin yang disebut ''reimen''.\n}}\n* {{Eat\n| name=Toyoken | alt=東洋軒 | url= | email=\n| address= | lat=33.300905 | long=131.49955 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Tempura ayam\n}}\n* {{Eat\n| name=Ogawa | alt=お食事処お川 | url= | email=\n| address= | lat=33.3157621 | long=131.4768777 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=¥3.000 untuk makan siang, ¥15.000 untuk makan malam\n| lastedit=2016-03-27\n| content=Sashimi dan makanan laut lainnya.\n}}\n* {{Eat\n| name=Izutsu | alt=海鮮いづつ | url= | email=\n| address= | lat=33.2765214 | long=131.50486 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Set sashimi yang enak dengan harga murah.\n}}\n* {{Eat\n| name=Yakiniku Ichiriki | alt=焼肉一力 | url= | email=\n| address= | lat=33.2801125 | long=131.5022582 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=¥3.000 untuk makan siang, ¥5.000 untuk makan malam\n| lastedit=2016-03-27\n| content=Daging panggang.\n}}\n\n{{IsPartOf|Oita_(prefektur)}}\n{{Geo|33.284722222222|131.49111111111}}\n\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Beppu banner.jpg|caption=Salah satu \"neraka\" Beppu: Chinoike Jigoku (Neraka Kolam Darah)}}\n[http://www.city.beppu.oita.jp/ '''Beppu'''] (別府市 ''Beppu-shi'')adalah sebuah kota di [[Oita (prefektur)|Prefektur Oita]] di pulau [[Kyushu]], [[Jepang]].\n\n== Fahami ==\n\n== Menuju ke sini ==\n\n==Makan==\n* {{Eat\n| name=Kogetsu | alt=胡月 | url= | email=\n| address= | lat=33.3024002 | long=131.4993108 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Mie dingin yang disebut ''reimen''.\n}}\n* {{Eat\n| name=Toyoken | alt=東洋軒 | url= | email=\n| address= | lat=33.300905 | long=131.49955 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Tempura ayam\n}}\n* {{Eat\n| name=Ogawa | alt=お食事処お川 | url= | email=\n| address= | lat=33.3157621 | long=131.4768777 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=¥3.000 untuk makan siang, ¥15.000 untuk makan malam\n| lastedit=2016-03-27\n| content=Sashimi dan makanan laut lainnya.\n}}\n* {{Eat\n| name=Izutsu | alt=海鮮いづつ | url= | email=\n| address= | lat=33.2765214 | long=131.50486 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| lastedit=2016-03-27\n| content=Set sashimi yang enak dengan harga murah.\n}}\n* {{Eat\n| name=Yakiniku Ichiriki | alt=焼肉一力 | url= | email=\n| address= | lat=33.2801125 | long=131.5022582 | directions=\n| phone= | tollfree= | fax=\n| hours= | price=¥3.000 untuk makan siang, ¥5.000 untuk makan malam\n| lastedit=2016-03-27\n| content=Daging panggang.\n}}\n\n{{IsPartOf|Oita_(prefektur)}}\n{{Geo|33.284722222222|131.49111111111}}\n\n{{Stub}}"
+}

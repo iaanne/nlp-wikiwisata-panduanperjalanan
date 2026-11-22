@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bali+Utara",
+  "fetched_at": "2026-11-22T07:51:41.016886+00:00",
+  "title": "Bali Utara",
+  "page_id": 1047,
+  "revision_id": "34692",
+  "revision_timestamp": "2026-07-30T07:56:53Z",
+  "sha256": "1a67eacb63a48acb54f667e32043ca266aa041338d1c456d0aa01fc002da7630",
+  "license": "CC BY-SA 4.0",
+  "city": "Bali Utara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1047,
+          "ns": 0,
+          "title": "Bali Utara",
+          "revisions": [
+            {
+              "revid": 34692,
+              "parentid": 34691,
+              "timestamp": "2026-07-30T07:56:53Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|WV banner North Bali Lovina Temple.jpg}}\n'''Bali Utara''' adalah sebuah wilayah pesisir di [[Bali]], [[Indonesia]].\n\n[[Berkas:Lovina_Beach.jpg|thumb|right|300px|Pantai sepi di Lovina]]\n\n== Kota ==\n* [[Lovina]]\n* [[Singaraja]]\n\n{{IsPartOf|Bali}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{stub}}\n{{geo|-8.110|115.183|zoom=11}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|WV banner North Bali Lovina Temple.jpg}}\n'''Bali Utara''' adalah sebuah wilayah pesisir di [[Bali]], [[Indonesia]].\n\n[[Berkas:Lovina_Beach.jpg|thumb|right|300px|Pantai sepi di Lovina]]\n\n== Kota ==\n* [[Lovina]]\n* [[Singaraja]]\n\n{{IsPartOf|Bali}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{stub}}\n{{geo|-8.110|115.183|zoom=11}}"
+}

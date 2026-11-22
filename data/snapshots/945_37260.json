@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Air+terjun",
+  "fetched_at": "2026-11-22T07:39:43.838489+00:00",
+  "title": "Air terjun",
+  "page_id": 945,
+  "revision_id": "37260",
+  "revision_timestamp": "2026-09-10T01:05:57Z",
+  "sha256": "20ef401286188430ff4faacd30fb9906a5f175776174e6dc14676762181d780b",
+  "license": "CC BY-SA 4.0",
+  "city": "Air terjun",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 945,
+          "ns": 0,
+          "title": "Air terjun",
+          "revisions": [
+            {
+              "revid": 37260,
+              "parentid": 23361,
+              "timestamp": "2026-09-10T01:05:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Iguaçu Falls banner.jpg}}\n[[Berkas:Ulaan Tsutgalan Waterfall (2026).jpg|jmpl|Air terjun di Mongolia]]\n\n'''Air Terjun''' adalah salah satu destinasi wisata alam yang dikenal dengan keindahannya yang asri dan alami. Air terjun menjadi salah satu tujuan favorit bagi wisatawan lokal maupun pendatang yang ingin menikmati suasana alam yang sejuk dan menenangkan.\n\n==Destinasi notabel==\n*'''[[Air terjun Victoria]]''', terletak di perbatasan antara [[Zambia]] dan [[Zimbabwe]], air terjun satu sisi terbesar di dunia, dengan lebar {{Km|1,7}} dan tinggi {{M|108}}.\n*'''[[Air terjun Niagara]]''', air terjun '''yang paling banyak dikunjungi''' sedunia, terletak di perbatasan antara [[Kanada]] dan [[Amerika Serikat]]\n*'''[[Air terjun Iguaçu]]''' di perbatasan tiga negara sekaligus ([[Brasil]], [[Paraguay]], dan [[Argentina]]), merupakan salah satu yang terbesar dan paling mengesankan di dunia.\n\n== Lihat ==\nAir terjun memiliki aliran air yang jernih dan segar, yang biasanya berasal dari pegunungan di sekitarnya. Keindahan air terjun terlihat dari alirannya yang bertingkat, mengalir lembut di antara bebatuan alami yang membentuk sungai di bawahnya (atau juga kolam-kolam kecil). Saat dikelilingi oleh pepohonan hijau yang lebat, air terjun menghadirkan suasana yang tenang dan cocok untuk bersantai.\n\nBila tidak jauh dari lokasi air terjun terdapat area dataran rumput yang cukup luas, area tersebut kadang dimanfaatkan oleh pengunjung sebagai tempat beristirahat sambil menikmati pemandangan atau piknik bersama keluarga dan teman-teman.\n\n=== Daya tarik budaya dan alam sekitar ===\nSelain keindahan air terjun, pengunjung juga dapat menjelajahi desa atau kota sekitar dan mengenal kehidupan masyarakat lokal. Terkadang, pengunjung juga dapat menyaksikan aktivitas budaya seperti tarian dan musik tradisional yang dimainkan dalam acara-acara khusus di desa atau kota itu.\n\n== Akses dan fasilitas ==\nAkses menuju bisa jadi menantang. Pengunjung terkadang perlu melakukan perjalanan melalui jalur yang berbatu dan terjal; walau ada beberapa air terjun yang dapat ditempuh dengan perjalanan singkat yakni dengan berjalan kaki dari tempat parkir kendaraan. Meski demikian, perjalanan ini terbayar lunas begitu sampai di lokasi dan disambut dengan keindahan alam yang eksotis.\n\nDi sekitar air terjun, belum tentu terdapat fasilitas seperti warung atau penginapan, sehingga para pengunjung disarankan untuk membawa bekal sendiri jika berencana berlama-lama di sana. Jika beruntung, warga sekitar biasanya menyediakan area parkir dan pemandu lokal yang dapat membantu mengarahkan wisatawan menuju lokasi dengan aman.\n\n== Tips ==\nBagi wisatawan yang ingin berkunjung ke air terjun, berikut beberapa tips yang dapat membantu:\n# '''Pilih waktu yang tepat''': Musim kemarau adalah waktu terbaik untuk berkunjung, karena jalur menuju air terjun lebih kering dan lebih aman untuk dilalui.\n# '''Bawa perlengkapan yang sesuai''': Gunakan alas kaki yang nyaman dan tahan air, karena jalurnya bisa licin, terutama setelah hujan.\n# '''Siapkan bekal makanan dan minuman''': Jika fasilitas di sekitar lokasi air terjun diketahui minim, membawa bekal pribadi sangat disarankan.\n# '''Jaga kebersihan lingkungan''': Bawalah kantong sampah sendiri untuk memastikan tidak ada sampah yang tertinggal dan menjaga keasrian alam.\n\n{{Outlinetopic}}\n{{PartOfTopic|Atraksi alam}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Iguaçu Falls banner.jpg}}\n[[Berkas:Ulaan Tsutgalan Waterfall (2026).jpg|jmpl|Air terjun di Mongolia]]\n\n'''Air Terjun''' adalah salah satu destinasi wisata alam yang dikenal dengan keindahannya yang asri dan alami. Air terjun menjadi salah satu tujuan favorit bagi wisatawan lokal maupun pendatang yang ingin menikmati suasana alam yang sejuk dan menenangkan.\n\n==Destinasi notabel==\n*'''[[Air terjun Victoria]]''', terletak di perbatasan antara [[Zambia]] dan [[Zimbabwe]], air terjun satu sisi terbesar di dunia, dengan lebar {{Km|1,7}} dan tinggi {{M|108}}.\n*'''[[Air terjun Niagara]]''', air terjun '''yang paling banyak dikunjungi''' sedunia, terletak di perbatasan antara [[Kanada]] dan [[Amerika Serikat]]\n*'''[[Air terjun Iguaçu]]''' di perbatasan tiga negara sekaligus ([[Brasil]], [[Paraguay]], dan [[Argentina]]), merupakan salah satu yang terbesar dan paling mengesankan di dunia.\n\n== Lihat ==\nAir terjun memiliki aliran air yang jernih dan segar, yang biasanya berasal dari pegunungan di sekitarnya. Keindahan air terjun terlihat dari alirannya yang bertingkat, mengalir lembut di antara bebatuan alami yang membentuk sungai di bawahnya (atau juga kolam-kolam kecil). Saat dikelilingi oleh pepohonan hijau yang lebat, air terjun menghadirkan suasana yang tenang dan cocok untuk bersantai.\n\nBila tidak jauh dari lokasi air terjun terdapat area dataran rumput yang cukup luas, area tersebut kadang dimanfaatkan oleh pengunjung sebagai tempat beristirahat sambil menikmati pemandangan atau piknik bersama keluarga dan teman-teman.\n\n=== Daya tarik budaya dan alam sekitar ===\nSelain keindahan air terjun, pengunjung juga dapat menjelajahi desa atau kota sekitar dan mengenal kehidupan masyarakat lokal. Terkadang, pengunjung juga dapat menyaksikan aktivitas budaya seperti tarian dan musik tradisional yang dimainkan dalam acara-acara khusus di desa atau kota itu.\n\n== Akses dan fasilitas ==\nAkses menuju bisa jadi menantang. Pengunjung terkadang perlu melakukan perjalanan melalui jalur yang berbatu dan terjal; walau ada beberapa air terjun yang dapat ditempuh dengan perjalanan singkat yakni dengan berjalan kaki dari tempat parkir kendaraan. Meski demikian, perjalanan ini terbayar lunas begitu sampai di lokasi dan disambut dengan keindahan alam yang eksotis.\n\nDi sekitar air terjun, belum tentu terdapat fasilitas seperti warung atau penginapan, sehingga para pengunjung disarankan untuk membawa bekal sendiri jika berencana berlama-lama di sana. Jika beruntung, warga sekitar biasanya menyediakan area parkir dan pemandu lokal yang dapat membantu mengarahkan wisatawan menuju lokasi dengan aman.\n\n== Tips ==\nBagi wisatawan yang ingin berkunjung ke air terjun, berikut beberapa tips yang dapat membantu:\n# '''Pilih waktu yang tepat''': Musim kemarau adalah waktu terbaik untuk berkunjung, karena jalur menuju air terjun lebih kering dan lebih aman untuk dilalui.\n# '''Bawa perlengkapan yang sesuai''': Gunakan alas kaki yang nyaman dan tahan air, karena jalurnya bisa licin, terutama setelah hujan.\n# '''Siapkan bekal makanan dan minuman''': Jika fasilitas di sekitar lokasi air terjun diketahui minim, membawa bekal pribadi sangat disarankan.\n# '''Jaga kebersihan lingkungan''': Bawalah kantong sampah sendiri untuk memastikan tidak ada sampah yang tertinggal dan menjaga keasrian alam.\n\n{{Outlinetopic}}\n{{PartOfTopic|Atraksi alam}}"
+}

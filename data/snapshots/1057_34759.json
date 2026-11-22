@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bandar+Udara+Internasional+Ngurah+Rai",
+  "fetched_at": "2026-11-22T07:52:41.014149+00:00",
+  "title": "Bandar Udara Internasional Ngurah Rai",
+  "page_id": 1057,
+  "revision_id": "34759",
+  "revision_timestamp": "2026-07-31T06:43:14Z",
+  "sha256": "02e3df3686d723c42f3f80f7bd085649a4510a792091f90121366f042382707b",
+  "license": "CC BY-SA 4.0",
+  "city": "Bandar Udara Internasional Ngurah Rai",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1057,
+          "ns": 0,
+          "title": "Bandar Udara Internasional Ngurah Rai",
+          "revisions": [
+            {
+              "revid": 34759,
+              "parentid": 34758,
+              "timestamp": "2026-07-31T06:43:14Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[https://www.bali-airport.com/en Bandar Udara Internasional Ngurah Rai]''' ({{IATA|DPS}}) terletak di ujung selatan [[Bali]], menempati tanah genting sempit antara [[Kuta]] dan [[Jimbaran]]. Ini adalah pintu utama untuk masuk ke tujuan wisata yang paling banyak dikunjungi di Indonesia.\n\n==Pahami==\n==Menuju ke sini==\n==Transportasi darat==\n===Dengan taksi===\n{{Infobox|Tarif taksi prabayar dari Bandara Ngurah Rai ke tujuan utama Bali\n|--Dapat berubah sewaktu-waktu--\n* Kuta: Rp 80.000\n* Tuban: Rp 55.000\n* Legian: Rp 95.000\n* Seminyak: Rp 110.000 - 135.000\n* Jimbaran: Rp 100.000 - 150.000\n* Denpasar: Rp 125.000 - 150.000\n* Sanur: Rp 150.000\n* Nusa Dua: Rp 150.000 - 185.000\n* Ubud: Rp 300.000 - Rp 350.000\n* Padang Bai: Rp 400.000\n* Candidasa: Rp 425.000\n* Amed: Rp 750.000\n* Lovina: Rp 650.000\n* Pemuteran: Rp 850.000\n}}\n===Dengan bus===\n===Dengan mobil===\n==Berkeliling==\n==Lihat==\n===Lokal===\n===Internasional===\n==Lakukan==\n==Beli==\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n*[[Jimbaran]], sebuah pantai di sebelah selatan dari bandara\n{{DEFAULTSORT:Ngurah Rai, Bandar udara internasional}}\n{{IsPartOf|Kuta}}\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Outlineairport}}\n{{Geo|34.8583|136.8053}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[https://www.bali-airport.com/en Bandar Udara Internasional Ngurah Rai]''' ({{IATA|DPS}}) terletak di ujung selatan [[Bali]], menempati tanah genting sempit antara [[Kuta]] dan [[Jimbaran]]. Ini adalah pintu utama untuk masuk ke tujuan wisata yang paling banyak dikunjungi di Indonesia.\n\n==Pahami==\n==Menuju ke sini==\n==Transportasi darat==\n===Dengan taksi===\n{{Infobox|Tarif taksi prabayar dari Bandara Ngurah Rai ke tujuan utama Bali\n|--Dapat berubah sewaktu-waktu--\n* Kuta: Rp 80.000\n* Tuban: Rp 55.000\n* Legian: Rp 95.000\n* Seminyak: Rp 110.000 - 135.000\n* Jimbaran: Rp 100.000 - 150.000\n* Denpasar: Rp 125.000 - 150.000\n* Sanur: Rp 150.000\n* Nusa Dua: Rp 150.000 - 185.000\n* Ubud: Rp 300.000 - Rp 350.000\n* Padang Bai: Rp 400.000\n* Candidasa: Rp 425.000\n* Amed: Rp 750.000\n* Lovina: Rp 650.000\n* Pemuteran: Rp 850.000\n}}\n===Dengan bus===\n===Dengan mobil===\n==Berkeliling==\n==Lihat==\n===Lokal===\n===Internasional===\n==Lakukan==\n==Beli==\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n*[[Jimbaran]], sebuah pantai di sebelah selatan dari bandara\n{{DEFAULTSORT:Ngurah Rai, Bandar udara internasional}}\n{{IsPartOf|Kuta}}\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Outlineairport}}\n{{Geo|34.8583|136.8053}}"
+}

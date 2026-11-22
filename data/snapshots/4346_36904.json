@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Adana",
+  "fetched_at": "2026-11-22T07:37:41.766898+00:00",
+  "title": "Adana",
+  "page_id": 4346,
+  "revision_id": "36904",
+  "revision_timestamp": "2026-09-06T08:20:23Z",
+  "sha256": "81ed4111b5828251abd12eef3191ba0d587bd960b378fa704515fcde3175fc8b",
+  "license": "CC BY-SA 4.0",
+  "city": "Adana",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4346,
+          "ns": 0,
+          "title": "Adana",
+          "revisions": [
+            {
+              "revid": 36904,
+              "parentid": 36902,
+              "timestamp": "2026-09-06T08:20:23Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Adana''' adalah provinsi yang  berada di terdapat di tenggara Turki. Populasinya 2.085.225. Mempunyai garis pantai 160 km. Provinsi ini dikunjungi penghuni pondok dan turis domestik.\n\n== Pahami ==\nAndana  mempunyai permukiman kuno seperti taman nasional,air terjun,daratan tinggi dan gunung. Andana pusat perdagangan regional,layanan kesehatan dan layanan publik\n\n== Menuju ke sini ==\nTransportasi menuju Andana pesawat, bus antar kota, kereta api . Transportasi didalam kota Andana Bus kota dan dolmus,metro dan taksi."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Adana''' adalah provinsi yang  berada di terdapat di tenggara Turki. Populasinya 2.085.225. Mempunyai garis pantai 160 km. Provinsi ini dikunjungi penghuni pondok dan turis domestik.\n\n== Pahami ==\nAndana  mempunyai permukiman kuno seperti taman nasional,air terjun,daratan tinggi dan gunung. Andana pusat perdagangan regional,layanan kesehatan dan layanan publik\n\n== Menuju ke sini ==\nTransportasi menuju Andana pesawat, bus antar kota, kereta api . Transportasi didalam kota Andana Bus kota dan dolmus,metro dan taksi."
+}

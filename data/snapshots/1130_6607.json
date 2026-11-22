@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Berau",
+  "fetched_at": "2026-11-22T08:00:41.420579+00:00",
+  "title": "Berau",
+  "page_id": 1130,
+  "revision_id": "6607",
+  "revision_timestamp": "2024-12-03T22:58:05Z",
+  "sha256": "0cd6a19297e5a4983e18843b4fbd778cf36d7cb7939468e04073c9383d47f241",
+  "license": "CC BY-SA 4.0",
+  "city": "Berau",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1130,
+          "ns": 0,
+          "title": "Berau",
+          "revisions": [
+            {
+              "revid": 6607,
+              "parentid": 6606,
+              "timestamp": "2024-12-03T22:58:05Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner}}\n'''Berau''' adalah sebuah kabupaten di Provinsi [[Kalimantan Timur]].\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan bus=== \nTerdapat bus Damri jurusan Samarinda-Berau dengan harga tiket per 2023 sebesar Rp330.000 dengan titik naik di Pool Damri Jalan A.W. Syahranie Samarinda dan titik turun di Terminal Rinding, Teluk Bayur.\n\n== Lakukan ==\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n{{Stub}}\n{{IsPartOf|Kalimantan Timur}}\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner}}\n'''Berau''' adalah sebuah kabupaten di Provinsi [[Kalimantan Timur]].\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan bus=== \nTerdapat bus Damri jurusan Samarinda-Berau dengan harga tiket per 2023 sebesar Rp330.000 dengan titik naik di Pool Damri Jalan A.W. Syahranie Samarinda dan titik turun di Terminal Rinding, Teluk Bayur.\n\n== Lakukan ==\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n{{Stub}}\n{{IsPartOf|Kalimantan Timur}}\n"
+}

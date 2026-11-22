@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ans",
+  "fetched_at": "2026-11-22T07:44:44.460518+00:00",
+  "title": "Ans",
+  "page_id": 990,
+  "revision_id": "23397",
+  "revision_timestamp": "2024-12-04T08:35:47Z",
+  "sha256": "121d785d6e125d7b8bcb9cac957e152683b0b25e1905edcf719f436eb6fca622",
+  "license": "CC BY-SA 4.0",
+  "city": "Ans",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 990,
+          "ns": 0,
+          "title": "Ans",
+          "revisions": [
+            {
+              "revid": 23397,
+              "parentid": 4601,
+              "timestamp": "2024-12-04T08:35:47Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Ans''':\n===[[Belgia]]===\n\n* [[Ans (Belgia)]] — sebuah desa dekat [[Liège]], di [[Liège (provinsi)]]\n\n===[[Denmark]]===\n\n* [[Ans (Denmark)]] — sebuah desa dekat [[Silkeborg]], di [[Jutlandia Timur]]\n\n===[[Peru]]===\n* {{IATA|ANS}} — [[Andahuaylas]] Bandara di [[Sierra Selatan (Peru)]]\n\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Ans''':\n===[[Belgia]]===\n\n* [[Ans (Belgia)]] — sebuah desa dekat [[Liège]], di [[Liège (provinsi)]]\n\n===[[Denmark]]===\n\n* [[Ans (Denmark)]] — sebuah desa dekat [[Silkeborg]], di [[Jutlandia Timur]]\n\n===[[Peru]]===\n* {{IATA|ANS}} — [[Andahuaylas]] Bandara di [[Sierra Selatan (Peru)]]\n\n{{Disamb}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Adamsville+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:37:41.041817+00:00",
+  "title": "Adamsville (Alabama)",
+  "page_id": 927,
+  "revision_id": "34245",
+  "revision_timestamp": "2026-07-27T06:15:25Z",
+  "sha256": "ea182ecbe4740d4ffc86b9836bb94c45f2fe596e5fd7aedebd2e96d87215341c",
+  "license": "CC BY-SA 4.0",
+  "city": "Adamsville (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 927,
+          "ns": 0,
+          "title": "Adamsville (Alabama)",
+          "revisions": [
+            {
+              "revid": 34245,
+              "parentid": 23344,
+              "timestamp": "2026-07-27T06:15:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Adamsville''' adalah sebuah kota di barat Jefferson County, [[Alabama]], [[Amerika Serikat]]. Itu di utara dari pinggiran Pleasant Grove di Birmingham.\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Abbeville (Alabama)|Abbeville]]\n* [[Addison (Alabama)|Addison]]\n* [[Akron (Alabama)|Akron]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Adamsville''' adalah sebuah kota di barat Jefferson County, [[Alabama]], [[Amerika Serikat]]. Itu di utara dari pinggiran Pleasant Grove di Birmingham.\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Abbeville (Alabama)|Abbeville]]\n* [[Addison (Alabama)|Addison]]\n* [[Akron (Alabama)|Akron]]"
+}

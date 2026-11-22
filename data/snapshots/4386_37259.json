@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bagram",
+  "fetched_at": "2026-11-22T07:49:43.351484+00:00",
+  "title": "Bagram",
+  "page_id": 4386,
+  "revision_id": "37259",
+  "revision_timestamp": "2026-09-09T15:55:45Z",
+  "sha256": "c87f356dbcd27cb73b278484dbec6100874509c0939596e39e434358bb0606a6",
+  "license": "CC BY-SA 4.0",
+  "city": "Bagram",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4386,
+          "ns": 0,
+          "title": "Bagram",
+          "revisions": [
+            {
+              "revid": 37259,
+              "parentid": 37258,
+              "timestamp": "2026-09-09T15:55:45Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Bagram terletak di lokasi strategis yang mengendalikan akses ke jalur-jalur pegunungan di utara Kabul . Alexander Agung membangun sebuah kota bernama Alexandria di Kaukasus dekat sini pada abad ke-4 SM, Uni Soviet memiliki pangkalan militer utama di daerah ini ketika mereka menginvasi pada abad ke-20 M, dan begitu pula Amerika ketika mereka dan sekutu mereka menginvasi pada abad ke-21.\n\nTidak banyak alasan bagi seorang pelancong untuk mengunjungi Bagram, dan mungkin tempat itu juga bukan tempat teraman.Jika Anda berada di area tersebut, jangan mencoba berhenti di dekat fasilitas dan mengamati operasi: ketertarikan ini mungkin dilihat berbeda oleh orang lain karena situasi di Afghanistan sangat tidak stabil."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Bagram terletak di lokasi strategis yang mengendalikan akses ke jalur-jalur pegunungan di utara Kabul . Alexander Agung membangun sebuah kota bernama Alexandria di Kaukasus dekat sini pada abad ke-4 SM, Uni Soviet memiliki pangkalan militer utama di daerah ini ketika mereka menginvasi pada abad ke-20 M, dan begitu pula Amerika ketika mereka dan sekutu mereka menginvasi pada abad ke-21.\n\nTidak banyak alasan bagi seorang pelancong untuk mengunjungi Bagram, dan mungkin tempat itu juga bukan tempat teraman.Jika Anda berada di area tersebut, jangan mencoba berhenti di dekat fasilitas dan mengamati operasi: ketertarikan ini mungkin dilihat berbeda oleh orang lain karena situasi di Afghanistan sangat tidak stabil."
+}

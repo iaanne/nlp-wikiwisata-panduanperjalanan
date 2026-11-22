@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batken",
+  "fetched_at": "2026-11-22T07:56:40.826334+00:00",
+  "title": "Batken",
+  "page_id": 1097,
+  "revision_id": "34990",
+  "revision_timestamp": "2026-08-05T03:13:47Z",
+  "sha256": "811f7650c46150db4bf7b7cc5a61a6e411008cf2f7e38868d680b46e38a8df80",
+  "license": "CC BY-SA 4.0",
+  "city": "Batken",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1097,
+          "ns": 0,
+          "title": "Batken",
+          "revisions": [
+            {
+              "revid": 34990,
+              "parentid": 34989,
+              "timestamp": "2026-08-05T03:13:47Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''Batken''' adalah sebuah kota di [[Lembah Ferghana (Kirgizstan)|Lembah Ferghana]], [[Kirgizstan]] dekat dengan penyeberangan perbatasan ke [[Tajikistan]].\n\n== Pahami ==\n\n==Menuju ke sini==\nTaksi bersama akan berangkat saat penuh dari [[Osh]], memakan waktu sekitar 5 jam dan biaya 1000 som jika tidak melintasi daerah kantong Uzbekistan. Karena jalan utama antara Osh dan Batken melewati sedikit area Uzbekistan, ingatlah untuk meminta pengemudi untuk berkeliling jika Anda tidak memiliki visa Uzbekistan, selain visa masuk Kirgizstan.\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n==Beli==\n==Makan==\n\n==Minum==\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n[[Tajikistan]]\n\n{{Geo|40.0667|70.8167}}\n\n{{IsPartOf|Lembah Ferghana (Kirgistan)}}\n{{Outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''Batken''' adalah sebuah kota di [[Lembah Ferghana (Kirgizstan)|Lembah Ferghana]], [[Kirgizstan]] dekat dengan penyeberangan perbatasan ke [[Tajikistan]].\n\n== Pahami ==\n\n==Menuju ke sini==\nTaksi bersama akan berangkat saat penuh dari [[Osh]], memakan waktu sekitar 5 jam dan biaya 1000 som jika tidak melintasi daerah kantong Uzbekistan. Karena jalan utama antara Osh dan Batken melewati sedikit area Uzbekistan, ingatlah untuk meminta pengemudi untuk berkeliling jika Anda tidak memiliki visa Uzbekistan, selain visa masuk Kirgizstan.\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n==Beli==\n==Makan==\n\n==Minum==\n==Tidur==\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n[[Tajikistan]]\n\n{{Geo|40.0667|70.8167}}\n\n{{IsPartOf|Lembah Ferghana (Kirgistan)}}\n{{Outlinecity}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bandar+Seri+Begawan",
+  "fetched_at": "2026-11-22T07:52:39.872392+00:00",
+  "title": "Bandar Seri Begawan",
+  "page_id": 1055,
+  "revision_id": "36665",
+  "revision_timestamp": "2026-08-29T16:19:30Z",
+  "sha256": "7bcb5bb604c9a236a89a7e7dce553fe1448d898f425ae1b98c117bf7285fc0ac",
+  "license": "CC BY-SA 4.0",
+  "city": "Bandar Seri Begawan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1055,
+          "ns": 0,
+          "title": "Bandar Seri Begawan",
+          "revisions": [
+            {
+              "revid": 36665,
+              "parentid": 35947,
+              "timestamp": "2026-08-29T16:19:30Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Bandar Seri Begawan banner Sultan Omar Ali Saifuddin mosque.jpg}}\n'''Bandar Seri Begawan''', juga dikenal sebagai '''BSB''' atau hanya '''Bandar''', adalah ibukota dari negara [[Brunei]].\n\n{{Wikipedia|Bandar Seri Begawan}}\n{{Commons|Bandar Seri Begawan}}\n\n== Pahami ==\nBandar Seri Begawan adalah kota modern dengan jalan-jalan yang lebar dan bangunan-bangunan seperti istana. Dari segi sejarah, kota ini dulunya merupakan desa nelayan Melayu dan terletak di Sungai Brunei tempat penduduk tinggal di rumah-rumah tepi sungai serta pernah menjadi sasaran serangan bajak laut, Portugis, dan Spanyol.\n\n===Informasi Wisatawan===\n* {{listing\n| name=Pusat Informasi Wisatawan | alt= | url=https://www.bruneitourism.com/tourist-information-centres/ | email=\n| address= | lat=4.886956 | long=114.942926 | directions=di gedung bea cukai lama di tepi perairan\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2019-02-12\n| content=Jangan terlalu berharap banyak, mereka ramah, tetapi tidak terlalu paham. Setidaknya, mereka memiliki peta kota yang berguna.\n}}\n\n== Menuju ke sini ==\n\n=== Transportasi darat ===\nTaksi dari bandara ke pusat kota memakan waktu 20 menit dan biayanya sekitar $25. Mobil sewaan pribadi (DART) sekarang diizinkan untuk menjemput penumpang dari bandara tetapi hanya dari tempat parkir P2, sekitar 5 menit berjalan kaki di area beratap dan bertanda jelas. Biayanya lebih murah daripada taksi biasa (sekitar $11 ke tepi pantai). Beberapa hotel mungkin menyediakan transportasi antara bandara dan hotel secara gratis atau dengan harga lebih murah. Halte bus berada di sebelah kiri saat keluar dari terminal, tetapi jangan terlalu percaya pada jam operasionalnya, lebih baik tanyakan kepada seseorang apakah bus beroperasi.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Bandar Seri Begawan banner Sultan Omar Ali Saifuddin mosque.jpg}}\n'''Bandar Seri Begawan''', juga dikenal sebagai '''BSB''' atau hanya '''Bandar''', adalah ibukota dari negara [[Brunei]].\n\n{{Wikipedia|Bandar Seri Begawan}}\n{{Commons|Bandar Seri Begawan}}\n\n== Pahami ==\nBandar Seri Begawan adalah kota modern dengan jalan-jalan yang lebar dan bangunan-bangunan seperti istana. Dari segi sejarah, kota ini dulunya merupakan desa nelayan Melayu dan terletak di Sungai Brunei tempat penduduk tinggal di rumah-rumah tepi sungai serta pernah menjadi sasaran serangan bajak laut, Portugis, dan Spanyol.\n\n===Informasi Wisatawan===\n* {{listing\n| name=Pusat Informasi Wisatawan | alt= | url=https://www.bruneitourism.com/tourist-information-centres/ | email=\n| address= | lat=4.886956 | long=114.942926 | directions=di gedung bea cukai lama di tepi perairan\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2019-02-12\n| content=Jangan terlalu berharap banyak, mereka ramah, tetapi tidak terlalu paham. Setidaknya, mereka memiliki peta kota yang berguna.\n}}\n\n== Menuju ke sini ==\n\n=== Transportasi darat ===\nTaksi dari bandara ke pusat kota memakan waktu 20 menit dan biayanya sekitar $25. Mobil sewaan pribadi (DART) sekarang diizinkan untuk menjemput penumpang dari bandara tetapi hanya dari tempat parkir P2, sekitar 5 menit berjalan kaki di area beratap dan bertanda jelas. Biayanya lebih murah daripada taksi biasa (sekitar $11 ke tepi pantai). Beberapa hotel mungkin menyediakan transportasi antara bandara dan hotel secara gratis atau dengan harga lebih murah. Halte bus berada di sebelah kiri saat keluar dari terminal, tetapi jangan terlalu percaya pada jam operasionalnya, lebih baik tanyakan kepada seseorang apakah bus beroperasi.\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+}

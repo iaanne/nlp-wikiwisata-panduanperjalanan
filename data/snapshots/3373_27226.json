@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bourbon",
+  "fetched_at": "2026-11-22T08:05:42.214445+00:00",
+  "title": "Bourbon",
+  "page_id": 3373,
+  "revision_id": "27226",
+  "revision_timestamp": "2025-02-15T06:46:57Z",
+  "sha256": "9a0014282b3f5142ea80aadd636078040fb84c990fdadcf84377c8fdcaa0ece4",
+  "license": "CC BY-SA 4.0",
+  "city": "Bourbon",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3373,
+          "ns": 0,
+          "title": "Bourbon",
+          "revisions": [
+            {
+              "revid": 27226,
+              "parentid": 27225,
+              "timestamp": "2025-02-15T06:46:57Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Pagebanner default.jpg}}\n'''[http://www.bourbonmo.com Bourbon]''' adalah sebuah kota di [[Missouri Tengah]].\n\n==Menuju ke sini==\n{{mapframe|zoom=auto}}\n{{mapshape}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n* {{sleep\n| name=Budget Inn Motel | url= | email=\n| address=55 Highway C | lat= | long= | directions=\n| phone =+1 573 732-4080 | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n\n==Tujuan berikutnya==\n\n{{routebox\n| image1=I-44.svg\n| imagesize1=22\n| directionl1=B\n| majorl1=[[Springfield (Missouri)|Springfield]]\n| minorl1=[[Cuba (Missouri)|Cuba]]\n| directionr1=T\n| majorr1=[[St. Louis]]\n| minorr1=[[Sullivan]]\n\n| image2=US 66 (historic).svg\n| imagesize2=22\n| directionl2=B\n| majorl2=[[Springfield (Missouri)|Springfield]]\n| minorl2=[[Cuba (Missouri)|Cuba]]\n| directionr2=T\n| majorr2=[[St. Louis]]\n| minorr2=[[Sullivan]]\n| link2=Route 66\n}}\n\n{{geo|38.151667|-91.247500}}\n\n{{IsPartOf|Missouri Tengah}}\n{{outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Pagebanner default.jpg}}\n'''[http://www.bourbonmo.com Bourbon]''' adalah sebuah kota di [[Missouri Tengah]].\n\n==Menuju ke sini==\n{{mapframe|zoom=auto}}\n{{mapshape}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n\n* {{sleep\n| name=Budget Inn Motel | url= | email=\n| address=55 Highway C | lat= | long= | directions=\n| phone =+1 573 732-4080 | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n\n==Tujuan berikutnya==\n\n{{routebox\n| image1=I-44.svg\n| imagesize1=22\n| directionl1=B\n| majorl1=[[Springfield (Missouri)|Springfield]]\n| minorl1=[[Cuba (Missouri)|Cuba]]\n| directionr1=T\n| majorr1=[[St. Louis]]\n| minorr1=[[Sullivan]]\n\n| image2=US 66 (historic).svg\n| imagesize2=22\n| directionl2=B\n| majorl2=[[Springfield (Missouri)|Springfield]]\n| minorl2=[[Cuba (Missouri)|Cuba]]\n| directionr2=T\n| majorr2=[[St. Louis]]\n| minorr2=[[Sullivan]]\n| link2=Route 66\n}}\n\n{{geo|38.151667|-91.247500}}\n\n{{IsPartOf|Missouri Tengah}}\n{{outlinecity}}"
+}

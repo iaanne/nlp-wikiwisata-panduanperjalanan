@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Altoona+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:42:40.684455+00:00",
+  "title": "Altoona (Alabama)",
+  "page_id": 969,
+  "revision_id": "34350",
+  "revision_timestamp": "2026-07-28T07:47:25Z",
+  "sha256": "60e73965d95b1d4299643e1be73f049bf6de9c65a541afe1a03af515476a6c9c",
+  "license": "CC BY-SA 4.0",
+  "city": "Altoona (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 969,
+          "ns": 0,
+          "title": "Altoona (Alabama)",
+          "revisions": [
+            {
+              "revid": 34350,
+              "parentid": 23377,
+              "timestamp": "2026-07-28T07:47:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Altoona''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Dengan pesawat ===\n=== Dengan kereta ===\n=== Dengan mobil ===\nAlabama State Route 132 (Main Street) mengarah ke barat daya 10 mil (16 km) ke Oneonta, kursi Blount County, dan timur laut menuju Gadsden melalui U.S. Route 278\n\n=== Dengan bus ===\n\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n* Jimmy's Body Shop & Wrecker\n\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Allgood (Alabama)|Allgood]]\n* [[Andalusia (Alabama)|Andalusia]]\n* [[Anderson (Alabama)|Altoona]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n'''Altoona''' adalah sebuah kota di [[Alabama]], [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Dengan pesawat ===\n=== Dengan kereta ===\n=== Dengan mobil ===\nAlabama State Route 132 (Main Street) mengarah ke barat daya 10 mil (16 km) ke Oneonta, kursi Blount County, dan timur laut menuju Gadsden melalui U.S. Route 278\n\n=== Dengan bus ===\n\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n* Jimmy's Body Shop & Wrecker\n\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Allgood (Alabama)|Allgood]]\n* [[Andalusia (Alabama)|Andalusia]]\n* [[Anderson (Alabama)|Altoona]]"
+}

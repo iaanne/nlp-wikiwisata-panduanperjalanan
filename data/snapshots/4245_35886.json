@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Accra",
+  "fetched_at": "2026-11-22T07:36:43.025870+00:00",
+  "title": "Accra",
+  "page_id": 4245,
+  "revision_id": "35886",
+  "revision_timestamp": "2026-08-14T16:03:17Z",
+  "sha256": "60e11c6b8012860ef82d914987b03b4e121127a67b1a2a620d186169d2938ae5",
+  "license": "CC BY-SA 4.0",
+  "city": "Accra",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4245,
+          "ns": 0,
+          "title": "Accra",
+          "revisions": [
+            {
+              "revid": 35886,
+              "parentid": 0,
+              "timestamp": "2026-08-14T16:03:17Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "adalah ibu kota Ghana . Accra memiliki perpaduan arsitektur kolonial abad ke-19, gedung pencakar langit dan blok apartemen modern, serta permukiman kumuh yang berdebu."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "adalah ibu kota Ghana . Accra memiliki perpaduan arsitektur kolonial abad ke-19, gedung pencakar langit dan blok apartemen modern, serta permukiman kumuh yang berdebu."
+}

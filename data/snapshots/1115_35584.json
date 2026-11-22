@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Belanda+Barat",
+  "fetched_at": "2026-11-22T07:58:42.505343+00:00",
+  "title": "Belanda Barat",
+  "page_id": 1115,
+  "revision_id": "35584",
+  "revision_timestamp": "2026-08-08T09:08:01Z",
+  "sha256": "368dc302b19a15657f9e3fdc409a02e56b0defe8927bb553fd2bf16251aebbde",
+  "license": "CC BY-SA 4.0",
+  "city": "Belanda Barat",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1115,
+          "ns": 0,
+          "title": "Belanda Barat",
+          "revisions": [
+            {
+              "revid": 35584,
+              "parentid": 35583,
+              "timestamp": "2026-08-08T09:08:01Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Zaandijk banner.jpg|caption=Houses along the waterfront in Zaandijk}}\n'''Belanda Barat''' adalah wilayah yang paling banyak dikunjungi oleh turis yang ke Belanda. Sejujurnya, banyak dari mereka bahkan tidak melihat bagian lain dari negara Belanda sama sekali karena wilayah ini memiliki semua yang hal-hal unik dari negara ini dan memiliki pemandangan serta padat aktivitas. Ini adalah daerah yang paling terurbanisasi di negara Belanda.\n\n==Wilayah==\n{{Mapframe|staticmap=Western-netherlands-map.png}}\n{{Regionlist\n| region1name=[[Flevoland]]\n| region1color=#b383b3\n| region1description=Provinsi terbaru Belanda, hampir seluruhnya terbentuk melalui reklamasi lahan.\n\n| region2name=[[Holandia Utara]]\n| region2color=#a4c28d\n| region2description=Wilayah yang paling banyak dikunjungi, termasuk Amsterdam dan desa-desa pedesaan tradisional Belanda.\n\n| region3name=[[Holandia Selatan]]\n| region3color=#c5995c\n| region3description=Wilayah terpadat dengan banyak lanskap pedesaan yang berbeda - polder, ladang umbi, bukit pasir, pulau, danau, dan area pertanian.\n\n| region4name=[[Utrecht (provinsi)|Utrecht]]\n| region4color=#c8b7b7\n| region4description=Sungai, danau dan alam, dan beberapa kota bersejarah.\n}}\n\n{{Mapshape|type=geoshape|fill=#b383b3|title=[[Flevoland]]|wikidata=Q707}}\n{{Mapshape|type=geoshape|fill=#a4c28d|title=[[Holandia Utara]]|wikidata=Q701}}\n{{Mapshape|type=geoshape|fill=#c5995c|title=[[Holandia Selatan]]|wikidata=Q694}}\n{{Mapshape|type=geoshape|fill=#c8b7b7|title=[[Utrecht (provinsi)|Utrecht]]|wikidata=Q776}}\n\n== Pahami ==\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n[[Taman Nasional Hoge Veluwe]] adalah kunjungan populer di kalangan penduduk setempat. Yang dapat ditempuh dengan perjalanan sehari, antara lain [['s-Hertogenbosch|'s-Hertogenbosch]], [[Breda]], [[Nijmegen]] dan [[Zwolle]].\n\n{{Stub}}\n{{IsPartOf|Belanda}}\n{{Geo|52.35212|5.14435|zoom=9}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Zaandijk banner.jpg|caption=Houses along the waterfront in Zaandijk}}\n'''Belanda Barat''' adalah wilayah yang paling banyak dikunjungi oleh turis yang ke Belanda. Sejujurnya, banyak dari mereka bahkan tidak melihat bagian lain dari negara Belanda sama sekali karena wilayah ini memiliki semua yang hal-hal unik dari negara ini dan memiliki pemandangan serta padat aktivitas. Ini adalah daerah yang paling terurbanisasi di negara Belanda.\n\n==Wilayah==\n{{Mapframe|staticmap=Western-netherlands-map.png}}\n{{Regionlist\n| region1name=[[Flevoland]]\n| region1color=#b383b3\n| region1description=Provinsi terbaru Belanda, hampir seluruhnya terbentuk melalui reklamasi lahan.\n\n| region2name=[[Holandia Utara]]\n| region2color=#a4c28d\n| region2description=Wilayah yang paling banyak dikunjungi, termasuk Amsterdam dan desa-desa pedesaan tradisional Belanda.\n\n| region3name=[[Holandia Selatan]]\n| region3color=#c5995c\n| region3description=Wilayah terpadat dengan banyak lanskap pedesaan yang berbeda - polder, ladang umbi, bukit pasir, pulau, danau, dan area pertanian.\n\n| region4name=[[Utrecht (provinsi)|Utrecht]]\n| region4color=#c8b7b7\n| region4description=Sungai, danau dan alam, dan beberapa kota bersejarah.\n}}\n\n{{Mapshape|type=geoshape|fill=#b383b3|title=[[Flevoland]]|wikidata=Q707}}\n{{Mapshape|type=geoshape|fill=#a4c28d|title=[[Holandia Utara]]|wikidata=Q701}}\n{{Mapshape|type=geoshape|fill=#c5995c|title=[[Holandia Selatan]]|wikidata=Q694}}\n{{Mapshape|type=geoshape|fill=#c8b7b7|title=[[Utrecht (provinsi)|Utrecht]]|wikidata=Q776}}\n\n== Pahami ==\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n[[Taman Nasional Hoge Veluwe]] adalah kunjungan populer di kalangan penduduk setempat. Yang dapat ditempuh dengan perjalanan sehari, antara lain [['s-Hertogenbosch|'s-Hertogenbosch]], [[Breda]], [[Nijmegen]] dan [[Zwolle]].\n\n{{Stub}}\n{{IsPartOf|Belanda}}\n{{Geo|52.35212|5.14435|zoom=9}}"
+}

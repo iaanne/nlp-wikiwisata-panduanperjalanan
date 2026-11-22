@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bishoftu",
+  "fetched_at": "2026-11-22T08:02:44.369652+00:00",
+  "title": "Bishoftu",
+  "page_id": 4260,
+  "revision_id": "35956",
+  "revision_timestamp": "2026-08-19T04:11:01Z",
+  "sha256": "ac75e0d7d358a28bc6f4df3acba27c279dda831035872fac8c3d2d6f3e9d6832",
+  "license": "CC BY-SA 4.0",
+  "city": "Bishoftu",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4260,
+          "ns": 0,
+          "title": "Bishoftu",
+          "revisions": [
+            {
+              "revid": 35956,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:11:01Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bishoftu''' , juga dikenal sebagai '''Debre Zeyit''' , adalah kota resor berpenduduk 171.000 orang (2012) di Etiopia Tengah , sekitar 50 km dari ibu kota Addis Ababa\n\n== Pahami ==\nBishoftu terletak di jalan dari Addis Ababa ke Adama . Karena letaknya dekat dengan ibu kota dan memiliki beberapa danau, tempat ini merupakan tujuan liburan populer bagi warga Ethiopia dan wisatawan."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bishoftu''' , juga dikenal sebagai '''Debre Zeyit''' , adalah kota resor berpenduduk 171.000 orang (2012) di Etiopia Tengah , sekitar 50 km dari ibu kota Addis Ababa\n\n== Pahami ==\nBishoftu terletak di jalan dari Addis Ababa ke Adama . Karena letaknya dekat dengan ibu kota dan memiliki beberapa danau, tempat ini merupakan tujuan liburan populer bagi warga Ethiopia dan wisatawan."
+}

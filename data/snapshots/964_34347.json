@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alicante",
+  "fetched_at": "2026-11-22T07:41:42.405350+00:00",
+  "title": "Alicante",
+  "page_id": 964,
+  "revision_id": "34347",
+  "revision_timestamp": "2026-07-28T07:42:50Z",
+  "sha256": "7e0daab356f65d05dc0cb679b53d30c6bf750649f5b6d7c6538807fffccadc70",
+  "license": "CC BY-SA 4.0",
+  "city": "Alicante",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 964,
+          "ns": 0,
+          "title": "Alicante",
+          "revisions": [
+            {
+              "revid": 34347,
+              "parentid": 34346,
+              "timestamp": "2026-07-28T07:42:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[http://www.alicanteturismo.com/ Alacante]''' adalah sebuah kota pariwisata terkenal di [[Valencia (wilayah)|Wilayah Valencia]], [[Spanyol]]. Kota ini adalah ibukota provinsi Alicante.\n[[Berkas:Puerto de Alicante.jpg|thumb|Gunung Benacantil di Alicante, dilihat dari laut]]\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Castillo de Santa Barbara | alt=Santa barbara castle | url=https://alicanteturismo.com/en/santa-barbara-castle/ | email=\n| address=Castillo de Santa Bárbara, 03002 Alicante, Spanyol | lat=38.349 | long=-0.478 | directions=\n| phone=+34673849890 | tollfree=\n| hours=10:00-23:00 | price=\n| wikipedia=Santa barbara castle | wikidata=Q429562\n| lastedit=2026-07-28\n| content=Castillo de Santa Barbara atau santa barbara castil merupakan benteng tua di puncak gunung Benacantil, kota Alicante,Spanyol. Benteng tua ini terenal dengan pemandangan indahnya yang menjadi tempat wisata.\n}}\n* {{see\n| name=Guadalest Valley | alt=Lembah Guadalest | url=https://www.fascinatingspain.com/articulo/what-to-see-in-valencian-community/guadalest-valley-spain-little-known/20241122132800071381.html | email=\n| address=03517 Benimantell, Alicante, Spanyol | lat=38.682730 | long=-0.199127 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Guadalest Valley | image=Guadalest Valley\n| lastedit=2026-07-28\n| content=Guadalest Valley merupakan salah satu lembah terindah di Spanyol, terletak di jantung provinsi Alicante. Lembah ini memiliki perairan biru kehijauan yang kerap membuat pengunjung terpikat dengan pesonanya.\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\nKota ini menyediakan Wi-Fi gratis untuk semua orang pada sejumlah tempat di pusat kota, termasuk {{Marker|name=Plaça Ajuntament|lat=38.34497|long=-0.48098|image=Plaça de l'Ajuntament, Alacant.JPG}} (''Plaza del Ayuntamiento''), {{Marker|name=Plaça dels Estels|lat=38.34600|long=-0.49071|image=Luceros2.jpg}} (''Plaza de los Luceros''), {{Marker|name=Plaça de la Muntanyeta|lat=38.34425|long=-0.48801|image=La plaça de la Muntanyeta d'Alacant.JPG}} (''Plaza de la Montañeta''), '''Castell de la Santa Bàrbara''' (''Kastil Santa Barbara''), dan '''Platja del Postiguet''' (''Pantai Postiguet'').\n\n== Tujuan berikutnya ==\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[http://www.alicanteturismo.com/ Alacante]''' adalah sebuah kota pariwisata terkenal di [[Valencia (wilayah)|Wilayah Valencia]], [[Spanyol]]. Kota ini adalah ibukota provinsi Alicante.\n[[Berkas:Puerto de Alicante.jpg|thumb|Gunung Benacantil di Alicante, dilihat dari laut]]\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n* {{see\n| name=Castillo de Santa Barbara | alt=Santa barbara castle | url=https://alicanteturismo.com/en/santa-barbara-castle/ | email=\n| address=Castillo de Santa Bárbara, 03002 Alicante, Spanyol | lat=38.349 | long=-0.478 | directions=\n| phone=+34673849890 | tollfree=\n| hours=10:00-23:00 | price=\n| wikipedia=Santa barbara castle | wikidata=Q429562\n| lastedit=2026-07-28\n| content=Castillo de Santa Barbara atau santa barbara castil merupakan benteng tua di puncak gunung Benacantil, kota Alicante,Spanyol. Benteng tua ini terenal dengan pemandangan indahnya yang menjadi tempat wisata.\n}}\n* {{see\n| name=Guadalest Valley | alt=Lembah Guadalest | url=https://www.fascinatingspain.com/articulo/what-to-see-in-valencian-community/guadalest-valley-spain-little-known/20241122132800071381.html | email=\n| address=03517 Benimantell, Alicante, Spanyol | lat=38.682730 | long=-0.199127 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Guadalest Valley | image=Guadalest Valley\n| lastedit=2026-07-28\n| content=Guadalest Valley merupakan salah satu lembah terindah di Spanyol, terletak di jantung provinsi Alicante. Lembah ini memiliki perairan biru kehijauan yang kerap membuat pengunjung terpikat dengan pesonanya.\n}}\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\nKota ini menyediakan Wi-Fi gratis untuk semua orang pada sejumlah tempat di pusat kota, termasuk {{Marker|name=Plaça Ajuntament|lat=38.34497|long=-0.48098|image=Plaça de l'Ajuntament, Alacant.JPG}} (''Plaza del Ayuntamiento''), {{Marker|name=Plaça dels Estels|lat=38.34600|long=-0.49071|image=Luceros2.jpg}} (''Plaza de los Luceros''), {{Marker|name=Plaça de la Muntanyeta|lat=38.34425|long=-0.48801|image=La plaça de la Muntanyeta d'Alacant.JPG}} (''Plaza de la Montañeta''), '''Castell de la Santa Bàrbara''' (''Kastil Santa Barbara''), dan '''Platja del Postiguet''' (''Pantai Postiguet'').\n\n== Tujuan berikutnya ==\n{{Stub}}"
+}

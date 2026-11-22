@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bolms%C3%B6",
+  "fetched_at": "2026-11-22T08:04:39.872041+00:00",
+  "title": "Bolmsö",
+  "page_id": 1164,
+  "revision_id": "23535",
+  "revision_timestamp": "2024-12-04T08:41:07Z",
+  "sha256": "9cf548127ff169bf156fb927bf2513eb261d50295c207c243fd3f3fa18af0129",
+  "license": "CC BY-SA 4.0",
+  "city": "Bolmsö",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1164,
+          "ns": 0,
+          "title": "Bolmsö",
+          "revisions": [
+            {
+              "revid": 23535,
+              "parentid": 6910,
+              "timestamp": "2024-12-04T08:41:07Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bolmsö Wikivoyage Banner.jpg}}\n'''Bolmsö''' adalah sebuah pulau di [[Småland]]. Terletak di danau Bolmen dekat Växjö, pulau ini memiliki 382 penduduk pada tahun 1998.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\nBanyak jalan-jalan yang indah. Juga gereja di ujung utara pulau ini.\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\nBanyak tempat berkemah di pulau\n* {{Sleep\n| name=Anna's Bed and Breakfast | alt= | url= | email=\n| address= | lat= | long= | directions=naik feri dari Bolmsö ke Sunnaryd (gratis) lalu belok kanan dari jalan utama setelah 1 km, Anna's B&B ada di sebelah kiri Anda setelah 1 km.\n| phone= +46 70 308 7898| tollfree= | fax=\n| checkin= | checkout= | price=\n| wikipedia= | wikidata=\n| lastedit=\n| content=B&B kecil yang indah yang dijalankan oleh pasangan pensiunan di luar pulau, ada 6 tempat tidur tersedia.\n}}\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Småland}}\n{{Geo|57.018731|13.701656}}\n{{Outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bolmsö Wikivoyage Banner.jpg}}\n'''Bolmsö''' adalah sebuah pulau di [[Småland]]. Terletak di danau Bolmen dekat Växjö, pulau ini memiliki 382 penduduk pada tahun 1998.\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\nBanyak jalan-jalan yang indah. Juga gereja di ujung utara pulau ini.\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\nBanyak tempat berkemah di pulau\n* {{Sleep\n| name=Anna's Bed and Breakfast | alt= | url= | email=\n| address= | lat= | long= | directions=naik feri dari Bolmsö ke Sunnaryd (gratis) lalu belok kanan dari jalan utama setelah 1 km, Anna's B&B ada di sebelah kiri Anda setelah 1 km.\n| phone= +46 70 308 7898| tollfree= | fax=\n| checkin= | checkout= | price=\n| wikipedia= | wikidata=\n| lastedit=\n| content=B&B kecil yang indah yang dijalankan oleh pasangan pensiunan di luar pulau, ada 6 tempat tidur tersedia.\n}}\n\n==Terhubung==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Småland}}\n{{Geo|57.018731|13.701656}}\n{{Outlinecity}}"
+}

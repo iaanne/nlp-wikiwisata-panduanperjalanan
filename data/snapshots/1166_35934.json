@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bondowoso",
+  "fetched_at": "2026-11-22T08:04:40.614206+00:00",
+  "title": "Bondowoso",
+  "page_id": 1166,
+  "revision_id": "35934",
+  "revision_timestamp": "2026-08-16T16:53:43Z",
+  "sha256": "c001d49298dfa4276f9df903afda7ef9d5de8e26431726d8f18a873b4cc02f38",
+  "license": "CC BY-SA 4.0",
+  "city": "Bondowoso",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1166,
+          "ns": 0,
+          "title": "Bondowoso",
+          "revisions": [
+            {
+              "revid": 35934,
+              "parentid": 35933,
+              "timestamp": "2026-08-16T16:53:43Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Kawasn Kawah Ijen (cropped).jpg|caption=}}\n'''Bondowoso''' adalah sebuah kota di [[Jawa Timur]], [[Indonesia]].\n\n==Pahami==\nDipenuhi dengan kota kuno yang hilang dan gerbang barat menuju Kawah Ijen. Wilayah ini memiliki banyak batu kuno yang tersebar di berbagai distrik dan hampir terlupakan. Alun-alun ibu kota adalah tempat berkumpulnya masyarakat. Di sebelah utara, terdapat bangunan tua peninggalan Belanda yang sekarang menjadi SMP Bondowoso 1 dan juga terdapat bangunan yang disebut Balai Bupati.\n\n==Menuju kesini==\n==Berkeliling==\n==Lihat ==\n\n== Lakukan ==\n\n==Beli==\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n==Tetap sehat==\n==Hormati ==\n==Terhubung==\n==Bicara==\nBahasa utama disini adalah [[Buku frasa bahasa Madura|bahasa Madura]].\n== Tujuan berikutnya ==\n\n* Desa Kalianyar yang berjarak 15 Kilometer dari selatan kota tersebut.\n* [[Jember]] untuk Taman Nasional Meru Betiri dan Watu Ulo.\n* [[Taman Nasioanl Baluran|Taman Nasional Baluran]].\n* [[Bali]]\n\n{{Stub}}\n{{Geo|-7.9167|113.8333}}\n{{IsPartOf|Tapal Kuda}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Kawasn Kawah Ijen (cropped).jpg|caption=}}\n'''Bondowoso''' adalah sebuah kota di [[Jawa Timur]], [[Indonesia]].\n\n==Pahami==\nDipenuhi dengan kota kuno yang hilang dan gerbang barat menuju Kawah Ijen. Wilayah ini memiliki banyak batu kuno yang tersebar di berbagai distrik dan hampir terlupakan. Alun-alun ibu kota adalah tempat berkumpulnya masyarakat. Di sebelah utara, terdapat bangunan tua peninggalan Belanda yang sekarang menjadi SMP Bondowoso 1 dan juga terdapat bangunan yang disebut Balai Bupati.\n\n==Menuju kesini==\n==Berkeliling==\n==Lihat ==\n\n== Lakukan ==\n\n==Beli==\n==Makan==\n==Minum==\n==Tidur==\n==Tetap aman==\n==Tetap sehat==\n==Hormati ==\n==Terhubung==\n==Bicara==\nBahasa utama disini adalah [[Buku frasa bahasa Madura|bahasa Madura]].\n== Tujuan berikutnya ==\n\n* Desa Kalianyar yang berjarak 15 Kilometer dari selatan kota tersebut.\n* [[Jember]] untuk Taman Nasional Meru Betiri dan Watu Ulo.\n* [[Taman Nasioanl Baluran|Taman Nasional Baluran]].\n* [[Bali]]\n\n{{Stub}}\n{{Geo|-7.9167|113.8333}}\n{{IsPartOf|Tapal Kuda}}"
+}

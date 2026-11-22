@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bernalillo",
+  "fetched_at": "2026-11-22T08:01:40.579451+00:00",
+  "title": "Bernalillo",
+  "page_id": 963,
+  "revision_id": "34336",
+  "revision_timestamp": "2026-07-28T07:20:23Z",
+  "sha256": "a42c60282201c9d4bf3138042ce0f4e4e0a2358ea85d6bb5af3fa110880aadab",
+  "license": "CC BY-SA 4.0",
+  "city": "Bernalillo",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 963,
+          "ns": 0,
+          "title": "Bernalillo",
+          "revisions": [
+            {
+              "revid": 34336,
+              "parentid": 34335,
+              "timestamp": "2026-07-28T07:20:23Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''[https://www.tobnm.gov/ Bernalillo]''' adalah sebuah kota di [[New Mexico Tengah]].\n\n== Pahami ==\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n* {{drink\n| name=Silva's Saloon | alt= | url= | email=\n| address=955 Camino Del Pueblo | lat= | long= | directions=\n| phone=+1 505 867-9976 | tollfree= | fax=\n| hours= | price=\n| content=Bar antik berizin yang konon tertua di New Mexico dan telah digunakan sebagai latar untuk sejumlah film Barat. Banyak memorabilia dan foto-foto lama di dinding dari beberapa generasi pengunjung bar.\n}}\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=I-25.svg\n| imagesize1=22\n| directionl1=U\n| majorl1=[[Pueblo]]\n| minorl1=[[Santa Fe (New Mexico)|Santa Fe]]\n| directionr1=S\n| majorr1=[[Albuquerque]]\n| minorr1=[[Bernalillo]]\n\n| image2=US 550.svg\n| imagesize2=22\n| directionl2=BL\n| majorl2=[[Farmington (New Mexico)|Farmington]]\n| minorl2=[[Cuba (New Mexico)|Cuba]]\n| directionr2=TG\n| majorr2=AKHIR\n| minorr2=\n\n}}\n\n{{Geo|35.38056|-106.47917}}\n\n{{IsPartOf|New Mexico Tengah}}\n{{Outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''[https://www.tobnm.gov/ Bernalillo]''' adalah sebuah kota di [[New Mexico Tengah]].\n\n== Pahami ==\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n* {{drink\n| name=Silva's Saloon | alt= | url= | email=\n| address=955 Camino Del Pueblo | lat= | long= | directions=\n| phone=+1 505 867-9976 | tollfree= | fax=\n| hours= | price=\n| content=Bar antik berizin yang konon tertua di New Mexico dan telah digunakan sebagai latar untuk sejumlah film Barat. Banyak memorabilia dan foto-foto lama di dinding dari beberapa generasi pengunjung bar.\n}}\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=I-25.svg\n| imagesize1=22\n| directionl1=U\n| majorl1=[[Pueblo]]\n| minorl1=[[Santa Fe (New Mexico)|Santa Fe]]\n| directionr1=S\n| majorr1=[[Albuquerque]]\n| minorr1=[[Bernalillo]]\n\n| image2=US 550.svg\n| imagesize2=22\n| directionl2=BL\n| majorl2=[[Farmington (New Mexico)|Farmington]]\n| minorl2=[[Cuba (New Mexico)|Cuba]]\n| directionr2=TG\n| majorr2=AKHIR\n| minorr2=\n\n}}\n\n{{Geo|35.38056|-106.47917}}\n\n{{IsPartOf|New Mexico Tengah}}\n{{Outlinecity}}"
+}

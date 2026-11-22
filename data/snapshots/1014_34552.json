@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ashdod",
+  "fetched_at": "2026-11-22T07:47:40.547892+00:00",
+  "title": "Ashdod",
+  "page_id": 1014,
+  "revision_id": "34552",
+  "revision_timestamp": "2026-07-30T06:30:09Z",
+  "sha256": "e2116e85f6d6c2490d8601d43b2fe98ab5473844bd600d4013c9f69510c954d9",
+  "license": "CC BY-SA 4.0",
+  "city": "Ashdod",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1014,
+          "ns": 0,
+          "title": "Ashdod",
+          "revisions": [
+            {
+              "revid": 34552,
+              "parentid": 34551,
+              "timestamp": "2026-07-30T06:30:09Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Ashdod''' adalah sebuah kota di pesisir Mediterania di [[Israel]], yang berada diantara [[Tel Aviv]] dan [[Jalur Gaza|Gaza]]. Salah satu dari dua pelabuhan industri di Israel berada di kota tersebut. Tempat tersebut adalah pelabuhan tersibuk di Israel, dengan 60% dari seluruh barang impor dan ekspor dioper kesitu.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Ashdod''' adalah sebuah kota di pesisir Mediterania di [[Israel]], yang berada diantara [[Tel Aviv]] dan [[Jalur Gaza|Gaza]]. Salah satu dari dua pelabuhan industri di Israel berada di kota tersebut. Tempat tersebut adalah pelabuhan tersibuk di Israel, dengan 60% dari seluruh barang impor dan ekspor dioper kesitu.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

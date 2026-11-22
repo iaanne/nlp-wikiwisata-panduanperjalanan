@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bangka-Belitung",
+  "fetched_at": "2026-11-22T07:52:44.361433+00:00",
+  "title": "Bangka-Belitung",
+  "page_id": 1074,
+  "revision_id": "34817",
+  "revision_timestamp": "2026-08-03T07:02:40Z",
+  "sha256": "8b5f4ab813af4787b206b9b3ec1484155bbd055d39a79d1a4c0dc2fb239989cb",
+  "license": "CC BY-SA 4.0",
+  "city": "Bangka-Belitung",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1074,
+          "ns": 0,
+          "title": "Bangka-Belitung",
+          "revisions": [
+            {
+              "revid": 34817,
+              "parentid": 34799,
+              "timestamp": "2026-08-03T07:02:40Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bangka-Belitung banner.jpg|caption=}}\n'''[http://www.belitungisland.com/ Bangka-Belitung]''' adalah salah satu provinsi di [[Indonesia]] yang terletak di tenggara pulau [[Sumatera]].\n\n==Kota==\n* [[Pangkal Pinang]] &mdash; ibukota Bangka-Belitung\n* [[Tanjung Pandan]] &mdash; ibukota Belitung\n* [[Manggar]] &mdash; ibukota Belitung Timur\n* [[Sungai Liat]] &mdash; ibukota Bangka\n* [[Mentok]] &mdash; ibukota Bangka Barat\n* [[Koba]] &mdash; ibukota Bangka Tengah\n* [[Toboali]] &mdash; ibukota Bangka Selatan\n\n==Pahami==\nBaik [[Bangka (Sumatera)|Bangka]] dan [[Belitung]], yang merupakan pulau-pulau terluar di lepas pantai Sumatera, perlahan tapi pasti tumbuh sebagai pusat ekonomi dan pariwisata. Bangka terlihat lebih berkembang karena populasi yang lebih besar dan luas daratan yang lebih besar serta keberadaan ibu kota provinsi, [[Pangkal Pinang]].\n\nNamun, semakin banyak wisatawan dan profesional perhotelan telah mengalihkan perhatian mereka ke Belitung. Belitung memiliki beberapa pantai terindah di Indonesia dan salah satu yang paling unik di Asia Tenggara. Di sana, laut pirus dan langit biru bertemu dengan pantai berpasir putih dan batu-batu granit abu-abu.\n\nBangka dan Belitung menjadi tempat istirahat akhir pekan yang santai bagi para pekerja kantoran dari [[Jakarta]] dan [[Palembang]].\n\nBanyak orang Tionghoa dari kedua pulau telah pindah ke provinsi lain, dan bersilaturahmi pada [[Tahun Baru Imlek]]. Sehingga beberapa hari sebelum Tahun Baru Imlek dan 2 pekan setelahnya, maskapai penerbangan menambahkan penerbangan ekstra, tetapi mereka juga menaikkan harga secara drastis, dan hotel pun mengikuti jejak yang sama.\n\n==Menuju ke sini==\n===Dengan pesawat===\nAntara kota [[Pangkal Pinang]] (Bangka) dan [[Tanjung Pandan]] (Belitung) dihubungkan oleh beberapa maskapai penerbangan. Penerbangan rutin ke [[Jakarta]] (Garuda Indonesia, Lion Air, dan Sriwijaya Air) dan ke [[Palembang]] (Sky Aviation).\n===Dengan bus===\n\n==Berkeliling==\n\n==Lihat==\n\n===Rencana perjalanan===\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* Martabak Bangka\n* Bakmi Bangka\n* Asem Pedas\n\n== Minum ==\n* Kupi Belitong\n* Es campur ala belitung \n* Es kacang merah\n* Jeruk kunci mirando \n* Tew fu sui\n* Es babel gula merah\n\n==Tidur==\nAda banyak resor di kedua pulau tersebut.\n\n==Tetap aman==\nBuaya air asin (Crocodylus porosus) terdapat di sungai-sungai di Kepulauan Bangka dan Belitung, tetapi mereka jarang terlihat di dekat kawasan wisata populer.\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Sumatera Selatan]] - provinsi terdekat di daratan Sumatera.\n\n{{Geo|-2.4|107.1|zoom=9}}\n{{IsPartOf|Sumatera}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bangka-Belitung banner.jpg|caption=}}\n'''[http://www.belitungisland.com/ Bangka-Belitung]''' adalah salah satu provinsi di [[Indonesia]] yang terletak di tenggara pulau [[Sumatera]].\n\n==Kota==\n* [[Pangkal Pinang]] &mdash; ibukota Bangka-Belitung\n* [[Tanjung Pandan]] &mdash; ibukota Belitung\n* [[Manggar]] &mdash; ibukota Belitung Timur\n* [[Sungai Liat]] &mdash; ibukota Bangka\n* [[Mentok]] &mdash; ibukota Bangka Barat\n* [[Koba]] &mdash; ibukota Bangka Tengah\n* [[Toboali]] &mdash; ibukota Bangka Selatan\n\n==Pahami==\nBaik [[Bangka (Sumatera)|Bangka]] dan [[Belitung]], yang merupakan pulau-pulau terluar di lepas pantai Sumatera, perlahan tapi pasti tumbuh sebagai pusat ekonomi dan pariwisata. Bangka terlihat lebih berkembang karena populasi yang lebih besar dan luas daratan yang lebih besar serta keberadaan ibu kota provinsi, [[Pangkal Pinang]].\n\nNamun, semakin banyak wisatawan dan profesional perhotelan telah mengalihkan perhatian mereka ke Belitung. Belitung memiliki beberapa pantai terindah di Indonesia dan salah satu yang paling unik di Asia Tenggara. Di sana, laut pirus dan langit biru bertemu dengan pantai berpasir putih dan batu-batu granit abu-abu.\n\nBangka dan Belitung menjadi tempat istirahat akhir pekan yang santai bagi para pekerja kantoran dari [[Jakarta]] dan [[Palembang]].\n\nBanyak orang Tionghoa dari kedua pulau telah pindah ke provinsi lain, dan bersilaturahmi pada [[Tahun Baru Imlek]]. Sehingga beberapa hari sebelum Tahun Baru Imlek dan 2 pekan setelahnya, maskapai penerbangan menambahkan penerbangan ekstra, tetapi mereka juga menaikkan harga secara drastis, dan hotel pun mengikuti jejak yang sama.\n\n==Menuju ke sini==\n===Dengan pesawat===\nAntara kota [[Pangkal Pinang]] (Bangka) dan [[Tanjung Pandan]] (Belitung) dihubungkan oleh beberapa maskapai penerbangan. Penerbangan rutin ke [[Jakarta]] (Garuda Indonesia, Lion Air, dan Sriwijaya Air) dan ke [[Palembang]] (Sky Aviation).\n===Dengan bus===\n\n==Berkeliling==\n\n==Lihat==\n\n===Rencana perjalanan===\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n* Martabak Bangka\n* Bakmi Bangka\n* Asem Pedas\n\n== Minum ==\n* Kupi Belitong\n* Es campur ala belitung \n* Es kacang merah\n* Jeruk kunci mirando \n* Tew fu sui\n* Es babel gula merah\n\n==Tidur==\nAda banyak resor di kedua pulau tersebut.\n\n==Tetap aman==\nBuaya air asin (Crocodylus porosus) terdapat di sungai-sungai di Kepulauan Bangka dan Belitung, tetapi mereka jarang terlihat di dekat kawasan wisata populer.\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Sumatera Selatan]] - provinsi terdekat di daratan Sumatera.\n\n{{Geo|-2.4|107.1|zoom=9}}\n{{IsPartOf|Sumatera}}\n{{Outlineregion}}"
+}

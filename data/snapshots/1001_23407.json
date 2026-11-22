@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Arcola",
+  "fetched_at": "2026-11-22T07:45:45.443891+00:00",
+  "title": "Arcola",
+  "page_id": 1001,
+  "revision_id": "23407",
+  "revision_timestamp": "2024-12-04T08:36:09Z",
+  "sha256": "79328da4f8c56481431cfba62669d95feaa5c40c6566f487494f05cec1669dcb",
+  "license": "CC BY-SA 4.0",
+  "city": "Arcola",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1001,
+          "ns": 0,
+          "title": "Arcola",
+          "revisions": [
+            {
+              "revid": 23407,
+              "parentid": 4706,
+              "timestamp": "2024-12-04T08:36:09Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Arcola''':\n\n# [[Arcola (Virginia)]], terletak di [[County Loudoun (Virginia)|County Loudoun]], [[Virginia]], [[Amerika Serikat]].\n# [[Arcola (Illinois)]], terletak di [[Illinois Tengah|Tengah]] bagian dari [[Illinois]], [[Amerika Serikat]].\n# [[Arcola (Italia)]], terletak di provinsi di La Spezia, [[Liguria]], [[Italia]].\n{{Disamb}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Disambiguation banner.png}}\nAda lebih dari satu tempat yang disebut '''Arcola''':\n\n# [[Arcola (Virginia)]], terletak di [[County Loudoun (Virginia)|County Loudoun]], [[Virginia]], [[Amerika Serikat]].\n# [[Arcola (Illinois)]], terletak di [[Illinois Tengah|Tengah]] bagian dari [[Illinois]], [[Amerika Serikat]].\n# [[Arcola (Italia)]], terletak di provinsi di La Spezia, [[Liguria]], [[Italia]].\n{{Disamb}}"
+}

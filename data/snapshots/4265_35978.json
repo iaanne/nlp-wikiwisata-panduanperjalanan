@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Batumi",
+  "fetched_at": "2026-11-22T07:57:39.873650+00:00",
+  "title": "Batumi",
+  "page_id": 4265,
+  "revision_id": "35978",
+  "revision_timestamp": "2026-08-19T04:30:55Z",
+  "sha256": "22a7271ee0f47317b8307afa6516855ab5eb1bb359c682d6c80257b73779a5ce",
+  "license": "CC BY-SA 4.0",
+  "city": "Batumi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4265,
+          "ns": 0,
+          "title": "Batumi",
+          "revisions": [
+            {
+              "revid": 35978,
+              "parentid": 0,
+              "timestamp": "2026-08-19T04:30:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Batumi''' adalah ibu kota Republik Otonom Ajara di negara Georgia . Lokasi pesisir dan iklim subtropis Batumi menjadikannya tujuan liburan yang populer. Kota ini merupakan pusat hiburan malam di kawasan tersebut, dengan kehidupan malam yang meriah, yang semakin sering menampilkan DJ internasional ternama di klub-klub tepi pantai."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Batumi''' adalah ibu kota Republik Otonom Ajara di negara Georgia . Lokasi pesisir dan iklim subtropis Batumi menjadikannya tujuan liburan yang populer. Kota ini merupakan pusat hiburan malam di kawasan tersebut, dengan kehidupan malam yang meriah, yang semakin sering menampilkan DJ internasional ternama di klub-klub tepi pantai."
+}

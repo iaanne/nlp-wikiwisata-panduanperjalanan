@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Betlehem",
+  "fetched_at": "2026-11-22T08:01:41.154394+00:00",
+  "title": "Betlehem",
+  "page_id": 1141,
+  "revision_id": "23515",
+  "revision_timestamp": "2024-12-04T08:40:21Z",
+  "sha256": "14007e57e495879f788619b3b5adf6fbbb0fe1ea523e73dcf4770e4a7ffc4deb",
+  "license": "CC BY-SA 4.0",
+  "city": "Betlehem",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1141,
+          "ns": 0,
+          "title": "Betlehem",
+          "revisions": [
+            {
+              "revid": 23515,
+              "parentid": 6721,
+              "timestamp": "2024-12-04T08:40:21Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bethlehem banner Church of the nativity.jpg|unesco=yes}}\n[[Berkas:Chuonat.jpg|thumb|250px|Gereja Kelahiran]]\n\n'''Betlehem''' (Arab: بيت لحم, ''Beit Lahm''  Ibrani: בית לחם ''Beit Lechem'')[http://www.bethlehem-city.org/] adalah sebuah kota kecil yang terletak sekitar 10&nbsp;km (6 mil) sebelah selatan Kota Tua [[Yerusalem]] di [[Tepi Barat]], di zona \"Area A\" yang dikuasai oleh [[Teritorial Palestina|Otoritas Palestina]].\n\n== Fahami ==\n\n== Menuju kesini ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Lakukan ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bethlehem banner Church of the nativity.jpg|unesco=yes}}\n[[Berkas:Chuonat.jpg|thumb|250px|Gereja Kelahiran]]\n\n'''Betlehem''' (Arab: بيت لحم, ''Beit Lahm''  Ibrani: בית לחם ''Beit Lechem'')[http://www.bethlehem-city.org/] adalah sebuah kota kecil yang terletak sekitar 10&nbsp;km (6 mil) sebelah selatan Kota Tua [[Yerusalem]] di [[Tepi Barat]], di zona \"Area A\" yang dikuasai oleh [[Teritorial Palestina|Otoritas Palestina]].\n\n== Fahami ==\n\n== Menuju kesini ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Lakukan ==\n\n== Tujuan berikutnya =="
+}

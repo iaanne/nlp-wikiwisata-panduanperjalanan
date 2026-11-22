@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aurora+%28Missouri%29",
+  "fetched_at": "2026-11-22T07:48:43.954210+00:00",
+  "title": "Aurora (Missouri)",
+  "page_id": 1028,
+  "revision_id": "34592",
+  "revision_timestamp": "2026-07-30T07:03:27Z",
+  "sha256": "f21c74d256a4b20efa16601a5ebd433ec7c94fb9e281594209e0531132d6fc11",
+  "license": "CC BY-SA 4.0",
+  "city": "Aurora (Missouri)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1028,
+          "ns": 0,
+          "title": "Aurora (Missouri)",
+          "revisions": [
+            {
+              "revid": 34592,
+              "parentid": 23428,
+              "timestamp": "2026-07-30T07:03:27Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg|pgname=Aurora}}\n'''[http://www.auroramochamber.com Aurora]''' adalah kota kecil di [[Missouri Barat Daya]] wilayah [[Missouri]] [[Ozarks]].\n\n==Pahami==\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n* {{Sleep\n| name=Aurora Inn | url= | email=rogermedlin@sbcglobal.net\n| address=3037 S Elliott Ave | lat= | long= | directions=\n| phone=+1 417 678-5035 | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=US 60.svg\n| imagesize1=22\n| directionl1=B\n| majorl1=[[Vinita]]\n| minorl1=[[Monett]]\n| directionr1=T\n| majorr1=[[Sikeston]]\n| minorr1='''[[Springfield (Missouri)|Springfield]]'''\n}}\n\n{{Outlinecity}}\n\n{{Geo|36.970000|-93.720556}}\n\n{{IsPartOf|Missouri Barat Daya}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg|pgname=Aurora}}\n'''[http://www.auroramochamber.com Aurora]''' adalah kota kecil di [[Missouri Barat Daya]] wilayah [[Missouri]] [[Ozarks]].\n\n==Pahami==\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n* {{Sleep\n| name=Aurora Inn | url= | email=rogermedlin@sbcglobal.net\n| address=3037 S Elliott Ave | lat= | long= | directions=\n| phone=+1 417 678-5035 | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=US 60.svg\n| imagesize1=22\n| directionl1=B\n| majorl1=[[Vinita]]\n| minorl1=[[Monett]]\n| directionr1=T\n| majorr1=[[Sikeston]]\n| minorr1='''[[Springfield (Missouri)|Springfield]]'''\n}}\n\n{{Outlinecity}}\n\n{{Geo|36.970000|-93.720556}}\n\n{{IsPartOf|Missouri Barat Daya}}"
+}

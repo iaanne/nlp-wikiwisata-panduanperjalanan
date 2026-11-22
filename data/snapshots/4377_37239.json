@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Antigua+Guatemala",
+  "fetched_at": "2026-11-22T07:44:46.382112+00:00",
+  "title": "Antigua Guatemala",
+  "page_id": 4377,
+  "revision_id": "37239",
+  "revision_timestamp": "2026-09-09T15:33:59Z",
+  "sha256": "ec1876197a4b7368afdc6bd13bbbbba393b4c03699c326079557e3f1660e6c6c",
+  "license": "CC BY-SA 4.0",
+  "city": "Antigua Guatemala",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4377,
+          "ns": 0,
+          "title": "Antigua Guatemala",
+          "revisions": [
+            {
+              "revid": 37239,
+              "parentid": 37238,
+              "timestamp": "2026-09-09T15:33:59Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''La Antigua Guatemala''' adalah Situs Warisan Dunia UNESCO , dan mungkin merupakan destinasi wisata paling populer di Guatemala . Kota ini dulunya merupakan ibu kota kolonial Spanyol di Amerika Tengah.{{unesco}}\n\n== Memahami ==\n\n=== Sejarah ===\nSekarang umumnya disebut hanya sebagai Antigua (atau La Antigua), kota ini merupakan salah satu ibu kota kolonial besar Kekaisaran Spanyol di Amerika dari abad ke-16 hingga ke-18. Dengan nama ''Santiago de los Caballeros de Guatemala'' , kota ini adalah \"Kota Guatemala\" yang asli.Gempa bumi dahsyat pada tahun 1773 menghancurkan atau merusak sebagian besar kota, dan mahkota Spanyol memerintahkan ibu kota dipindahkan ke kota baru, yang kemudian menjadi Kota Guatemala modern .Pada tahun 1776, kota tua ini diperintahkan untuk ditinggalkan. Tidak semua orang pergi, tetapi kota ini berubah dari ibu kota yang ramai menjadi kota provinsi, dipenuhi dengan reruntuhan kejayaan masa lalunya.Kota ini kemudian dikenal sebagai \"Antigua Guatemala\", yang berarti \"Guatemala Lama\".\n\nPada abad ke-20, apresiasi terhadap banyaknya arsitektur kolonial Spanyol yang terpelihara di sini semakin meningkat, pembangunan dilakukan untuk menampung pengunjung, dan kota ini dinyatakan sebagai Situs Warisan Dunia UNESCO pada tahun 1979."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''La Antigua Guatemala''' adalah Situs Warisan Dunia UNESCO , dan mungkin merupakan destinasi wisata paling populer di Guatemala . Kota ini dulunya merupakan ibu kota kolonial Spanyol di Amerika Tengah.{{unesco}}\n\n== Memahami ==\n\n=== Sejarah ===\nSekarang umumnya disebut hanya sebagai Antigua (atau La Antigua), kota ini merupakan salah satu ibu kota kolonial besar Kekaisaran Spanyol di Amerika dari abad ke-16 hingga ke-18. Dengan nama ''Santiago de los Caballeros de Guatemala'' , kota ini adalah \"Kota Guatemala\" yang asli.Gempa bumi dahsyat pada tahun 1773 menghancurkan atau merusak sebagian besar kota, dan mahkota Spanyol memerintahkan ibu kota dipindahkan ke kota baru, yang kemudian menjadi Kota Guatemala modern .Pada tahun 1776, kota tua ini diperintahkan untuk ditinggalkan. Tidak semua orang pergi, tetapi kota ini berubah dari ibu kota yang ramai menjadi kota provinsi, dipenuhi dengan reruntuhan kejayaan masa lalunya.Kota ini kemudian dikenal sebagai \"Antigua Guatemala\", yang berarti \"Guatemala Lama\".\n\nPada abad ke-20, apresiasi terhadap banyaknya arsitektur kolonial Spanyol yang terpelihara di sini semakin meningkat, pembangunan dilakukan untuk menampung pengunjung, dan kota ini dinyatakan sebagai Situs Warisan Dunia UNESCO pada tahun 1979."
+}

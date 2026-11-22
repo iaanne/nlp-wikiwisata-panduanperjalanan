@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Albania",
+  "fetched_at": "2026-11-22T07:40:44.853454+00:00",
+  "title": "Albania",
+  "page_id": 953,
+  "revision_id": "34324",
+  "revision_timestamp": "2026-07-28T07:04:52Z",
+  "sha256": "b2fc2e12265001c7eb3dc41640a55b9f8f8c7b7f921b381ec159b5b71e9a8866",
+  "license": "CC BY-SA 4.0",
+  "city": "Albania",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 953,
+          "ns": 0,
+          "title": "Albania",
+          "revisions": [
+            {
+              "revid": 34324,
+              "parentid": 23366,
+              "timestamp": "2026-07-28T07:04:52Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[http://www.albaniantourism.com/ Albania]''' (bahasa Albania: ''Shqipëria'') adalah negara kecil yang terletak di [[Balkan]]. Albania berbagi perbatasan dengan dengan [[Yunani]], [[Republik Makedonia]], [[Kosovo]], dan [[Montenegro]]. \n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Balkan}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[http://www.albaniantourism.com/ Albania]''' (bahasa Albania: ''Shqipëria'') adalah negara kecil yang terletak di [[Balkan]]. Albania berbagi perbatasan dengan dengan [[Yunani]], [[Republik Makedonia]], [[Kosovo]], dan [[Montenegro]]. \n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{IsPartOf|Balkan}}\n{{Stub}}"
+}

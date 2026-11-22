@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bahorok",
+  "fetched_at": "2026-11-22T07:49:43.896507+00:00",
+  "title": "Bahorok",
+  "page_id": 3606,
+  "revision_id": "34635",
+  "revision_timestamp": "2026-07-30T07:25:16Z",
+  "sha256": "0437ff3be7dadf5621ed0633e3ecc79f6c26989c893706b77ba031377659dfe0",
+  "license": "CC BY-SA 4.0",
+  "city": "Bahorok",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3606,
+          "ns": 0,
+          "title": "Bahorok",
+          "revisions": [
+            {
+              "revid": 34635,
+              "parentid": 34634,
+              "timestamp": "2026-07-30T07:25:16Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bahorok''' adalah sebuah kecamatan di Kabupaten Langkat, Provinsi Sumatera Utara. Terletak di kaki '''Pegunungan Leuser''', Bahorok dikenal dengan suasana alamnya yang sejuk dan masyarakatnya yang ramah. Sebelum dikenal luas sebagai pintu gerbang ke Bukit Lawang, Bahorok sendiri telah lama menjadi wilayah pertanian dan perkebunan yang subur, serta bagian dari sejarah kolonial dan perlawanan rakyat Langkat.\n----\n\n== Pahami ==\n\n=== Informasi Umum ===\n\n* Wilayah administratif: Kecamatan Bahorok, Kabupaten Langkat\n* Penduduk: Sekitar 45.000 jiwa\n* Bahasa: Melayu, Karo, dan Indonesia\n* Identitas: Kawasan agraris, berhawa sejuk, dekat hutan hujan tropis\n\n=== Pusat Informasi ===\n\n* '''Kantor Camat Bahorok''', Jl. Proklamasi Bahorok, ☏ +62 614 888XXX\n* '''Balai Penyuluhan Pertanian Bahorok''', Jl. Perkebunan\n* '''Pusat Informasi Desa Wisata Bahorok''', terletak di dekat jembatan utama\n\n----\n\n== Menuju ke Sini ==\n\n=== Dari Medan: ===\n\n* Jarak: ±90 km\n* Waktu tempuh: Sekitar 3–4 jam melalui jalur Medan – Binjai – Stabat – Tanjung Langkat – Bahorok\n* Tersedia travel dan bus kecil dari Terminal Pinang Baris, Medan\n\n=== Dari Stabat atau Binjai: ===\n\n* Dapat ditempuh dengan mobil pribadi atau angkutan desa\n* Jalan cukup sempit dan berliku, namun pemandangan sawah dan perbukitan indah\n\n----\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n=== Aktivitas Lokal ===\n\n==== 1. Menjelajahi Sungai Bahorok ====\nSungai yang membelah kawasan Bahorok menjadi tempat populer untuk bermain air, memancing, atau sekadar menikmati aliran air jernih di tepi bebatuan.\n\n==== 2. Mengikuti Tradisi Pasar Pekanan ====\nBahorok masih menjalankan '''pasar tradisional mingguan''' yang ramai oleh warga dari desa-desa sekitar. Cocok untuk melihat kehidupan lokal, mencicipi jajanan pasar, dan membeli hasil tani.\n\n==== 3. Trekking Kampung ====\nJalur-jalur jalan desa bisa dijelajahi dengan jalan kaki atau sepeda untuk menikmati suasana pedesaan, tanaman kopi dan kakao, serta keramahan warga lokal.\n\n==== 4. Wisata Budaya dan Cerita Rakyat ====\nBeberapa warga tua Bahorok masih menyimpan cerita rakyat dan sejarah lokal, seperti kisah perlawanan rakyat terhadap penjajah Belanda, serta mitos Sungai Bahorok.\n----\n\n== Beli ==\n\n== Makan & Minum ==\nKuliner di Bahorok sederhana, berbasis hasil bumi lokal dan kearifan kuliner desa:\n\n* '''Lontong Sayur Bahorok''' – Sarapan khas dengan cita rasa pedas santan dan sambal ikan\n* '''Ikan Bakar Sungai''' – Disajikan di beberapa warung dekat jembatan Bahorok\n* '''Kopi Bahorok''' – Hasil petik dari perkebunan lokal, cita rasa kuat dan pahit alami\n* '''Warung Bu Siti''' – Jl. Jembatan Bahorok, masakan rumahan dan gorengan\n* '''Kedai Kopi Pak Madi''' – Tempat ngopi sore dan diskusi warga setempat\n\n----\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap Sehat ==\n\n* '''Puskesmas Bahorok''', pusat layanan kesehatan utama di wilayah ini\n* '''Klinik Bersama Bahorok''', dekat pasar utama\n* '''Apotek Amanah''', Jl. Jembatan Bahorok\n\n----\n\n== Hormati ==\n\n== Terhubung ==\n\n* '''Kantor Kecamatan Bahorok''' – Administrasi lokal\n* '''Kantor Desa dan BPD''' – Tersebar di desa-desa sekitar\n* '''Balai Pertemuan Bahorok''' – Digunakan untuk musyawarah warga dan acara sosial\n* '''Pasar Bahorok''' – Pusat ekonomi rakyat, buka tiap pagi dan hari pasar\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bahorok''' adalah sebuah kecamatan di Kabupaten Langkat, Provinsi Sumatera Utara. Terletak di kaki '''Pegunungan Leuser''', Bahorok dikenal dengan suasana alamnya yang sejuk dan masyarakatnya yang ramah. Sebelum dikenal luas sebagai pintu gerbang ke Bukit Lawang, Bahorok sendiri telah lama menjadi wilayah pertanian dan perkebunan yang subur, serta bagian dari sejarah kolonial dan perlawanan rakyat Langkat.\n----\n\n== Pahami ==\n\n=== Informasi Umum ===\n\n* Wilayah administratif: Kecamatan Bahorok, Kabupaten Langkat\n* Penduduk: Sekitar 45.000 jiwa\n* Bahasa: Melayu, Karo, dan Indonesia\n* Identitas: Kawasan agraris, berhawa sejuk, dekat hutan hujan tropis\n\n=== Pusat Informasi ===\n\n* '''Kantor Camat Bahorok''', Jl. Proklamasi Bahorok, ☏ +62 614 888XXX\n* '''Balai Penyuluhan Pertanian Bahorok''', Jl. Perkebunan\n* '''Pusat Informasi Desa Wisata Bahorok''', terletak di dekat jembatan utama\n\n----\n\n== Menuju ke Sini ==\n\n=== Dari Medan: ===\n\n* Jarak: ±90 km\n* Waktu tempuh: Sekitar 3–4 jam melalui jalur Medan – Binjai – Stabat – Tanjung Langkat – Bahorok\n* Tersedia travel dan bus kecil dari Terminal Pinang Baris, Medan\n\n=== Dari Stabat atau Binjai: ===\n\n* Dapat ditempuh dengan mobil pribadi atau angkutan desa\n* Jalan cukup sempit dan berliku, namun pemandangan sawah dan perbukitan indah\n\n----\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n=== Aktivitas Lokal ===\n\n==== 1. Menjelajahi Sungai Bahorok ====\nSungai yang membelah kawasan Bahorok menjadi tempat populer untuk bermain air, memancing, atau sekadar menikmati aliran air jernih di tepi bebatuan.\n\n==== 2. Mengikuti Tradisi Pasar Pekanan ====\nBahorok masih menjalankan '''pasar tradisional mingguan''' yang ramai oleh warga dari desa-desa sekitar. Cocok untuk melihat kehidupan lokal, mencicipi jajanan pasar, dan membeli hasil tani.\n\n==== 3. Trekking Kampung ====\nJalur-jalur jalan desa bisa dijelajahi dengan jalan kaki atau sepeda untuk menikmati suasana pedesaan, tanaman kopi dan kakao, serta keramahan warga lokal.\n\n==== 4. Wisata Budaya dan Cerita Rakyat ====\nBeberapa warga tua Bahorok masih menyimpan cerita rakyat dan sejarah lokal, seperti kisah perlawanan rakyat terhadap penjajah Belanda, serta mitos Sungai Bahorok.\n----\n\n== Beli ==\n\n== Makan & Minum ==\nKuliner di Bahorok sederhana, berbasis hasil bumi lokal dan kearifan kuliner desa:\n\n* '''Lontong Sayur Bahorok''' – Sarapan khas dengan cita rasa pedas santan dan sambal ikan\n* '''Ikan Bakar Sungai''' – Disajikan di beberapa warung dekat jembatan Bahorok\n* '''Kopi Bahorok''' – Hasil petik dari perkebunan lokal, cita rasa kuat dan pahit alami\n* '''Warung Bu Siti''' – Jl. Jembatan Bahorok, masakan rumahan dan gorengan\n* '''Kedai Kopi Pak Madi''' – Tempat ngopi sore dan diskusi warga setempat\n\n----\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap Sehat ==\n\n* '''Puskesmas Bahorok''', pusat layanan kesehatan utama di wilayah ini\n* '''Klinik Bersama Bahorok''', dekat pasar utama\n* '''Apotek Amanah''', Jl. Jembatan Bahorok\n\n----\n\n== Hormati ==\n\n== Terhubung ==\n\n* '''Kantor Kecamatan Bahorok''' – Administrasi lokal\n* '''Kantor Desa dan BPD''' – Tersebar di desa-desa sekitar\n* '''Balai Pertemuan Bahorok''' – Digunakan untuk musyawarah warga dan acara sosial\n* '''Pasar Bahorok''' – Pusat ekonomi rakyat, buka tiap pagi dan hari pasar\n\n== Tujuan berikutnya =="
+}

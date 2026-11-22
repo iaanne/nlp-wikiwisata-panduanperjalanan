@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Adelaide",
+  "fetched_at": "2026-11-22T07:37:43.759872+00:00",
+  "title": "Adelaide",
+  "page_id": 4205,
+  "revision_id": "35167",
+  "revision_timestamp": "2026-08-05T05:21:21Z",
+  "sha256": "e55eddc6a68522ff960b83daf64fad143533edc7a3c8d21c093889e9317ccb77",
+  "license": "CC BY-SA 4.0",
+  "city": "Adelaide",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4205,
+          "ns": 0,
+          "title": "Adelaide",
+          "revisions": [
+            {
+              "revid": 35167,
+              "parentid": 35166,
+              "timestamp": "2026-08-05T05:21:21Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Adelaide''' adalah sebuah kota pesisir di samudera selatan, serta merupakan ibu kota dan kota terbesar di wilayah bagian Selatan Australia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Adelaide''' adalah sebuah kota pesisir di samudera selatan, serta merupakan ibu kota dan kota terbesar di wilayah bagian Selatan Australia.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Acapulco",
+  "fetched_at": "2026-11-22T07:36:42.322401+00:00",
+  "title": "Acapulco",
+  "page_id": 923,
+  "revision_id": "34243",
+  "revision_timestamp": "2026-07-27T06:08:41Z",
+  "sha256": "07583c23e2345d2eaa239a7005da58b419100fddb9420475e3dab5ad3e778760",
+  "license": "CC BY-SA 4.0",
+  "city": "Acapulco",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 923,
+          "ns": 0,
+          "title": "Acapulco",
+          "revisions": [
+            {
+              "revid": 34243,
+              "parentid": 27438,
+              "timestamp": "2026-07-27T06:08:41Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Acapulco banner La Quebrada cliff divers.jpg|unesco=yes}}\n'''Acapulco''' adalah sebuah kota resor di [[Meksiko]].\n\n== Pahami ==\n\n==Menuju ke sini==\n'''Menggunakan pesawat'''\n\nACA Acapulco Airport\n\n'''Menggunakan Bus'''\n\nDe las Naciones Bus Station, Acapulco\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{Outlinecity}}\n\n{{Geo|16.863611|-99.882500}}\n\n{{IsPartOf|Guerrero}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Acapulco banner La Quebrada cliff divers.jpg|unesco=yes}}\n'''Acapulco''' adalah sebuah kota resor di [[Meksiko]].\n\n== Pahami ==\n\n==Menuju ke sini==\n'''Menggunakan pesawat'''\n\nACA Acapulco Airport\n\n'''Menggunakan Bus'''\n\nDe las Naciones Bus Station, Acapulco\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n== Beli ==\n\n==Makan==\n\n==Minum==\n\n== Tidur ==\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{Outlinecity}}\n\n{{Geo|16.863611|-99.882500}}\n\n{{IsPartOf|Guerrero}}"
+}

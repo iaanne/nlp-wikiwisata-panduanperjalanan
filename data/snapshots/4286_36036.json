@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bordeaux",
+  "fetched_at": "2026-11-22T08:04:43.937332+00:00",
+  "title": "Bordeaux",
+  "page_id": 4286,
+  "revision_id": "36036",
+  "revision_timestamp": "2026-08-20T16:38:12Z",
+  "sha256": "7152290a956decf825160a450cd266e68e442a5501cc5a12e96f90ca1554d71a",
+  "license": "CC BY-SA 4.0",
+  "city": "Bordeaux",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4286,
+          "ns": 0,
+          "title": "Bordeaux",
+          "revisions": [
+            {
+              "revid": 36036,
+              "parentid": 0,
+              "timestamp": "2026-08-20T16:38:12Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bordeaux''' adalah kota di wilayah Gironde di barat daya Prancis, yang terletak di tepi Sungai Garonne. Kota ini merupakan kota terbesar kelima di negara itu, dengan populasi 259.809 jiwa pada tahun 2020, dan satu juta jiwa lainnya tinggal di kota-kota sekitarnya. Bordeaux terkenal dengan anggurnya dan pantas untuk sama terkenalnya dengan kawasan tepi sungai neo-klasik yang megah dan kota tuanya, yang merupakan Situs Warisan Dunia UNESCO ."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bordeaux''' adalah kota di wilayah Gironde di barat daya Prancis, yang terletak di tepi Sungai Garonne. Kota ini merupakan kota terbesar kelima di negara itu, dengan populasi 259.809 jiwa pada tahun 2020, dan satu juta jiwa lainnya tinggal di kota-kota sekitarnya. Bordeaux terkenal dengan anggurnya dan pantas untuk sama terkenalnya dengan kawasan tepi sungai neo-klasik yang megah dan kota tuanya, yang merupakan Situs Warisan Dunia UNESCO ."
+}

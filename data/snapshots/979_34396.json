@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ampana",
+  "fetched_at": "2026-11-22T07:43:42.137088+00:00",
+  "title": "Ampana",
+  "page_id": 979,
+  "revision_id": "34396",
+  "revision_timestamp": "2026-07-29T07:26:00Z",
+  "sha256": "bf3a297a70446e9e14972ec55683481dc8bea0280a6210d65d31d3a31d9164a7",
+  "license": "CC BY-SA 4.0",
+  "city": "Ampana",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 979,
+          "ns": 0,
+          "title": "Ampana",
+          "revisions": [
+            {
+              "revid": 34396,
+              "parentid": 34395,
+              "timestamp": "2026-07-29T07:26:00Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Ampana, sunset (6970625081) (cropped).jpg|caption=Matahari terbenam di Ampana}}\n'''Ampana''' adalah ibu kota dari Kabupaten Tojo Una-Una, [[Sulawesi Tengah]] di [[Indonesia]].\n==Pahami==\nAmpana terkenal terutama karena pelabuhannya, dari mana feri setiap hari berangkat ke [[Kepulauan Togian]].\n==Menuju ke sini==\n[[Berkas:KM.Mbura-Mbura.jpg|thumb|Sebuah kapal menuju Ampana]]\n===Dengan pesawat===\n* {{Go\n| name=Bandar Udara Tanjung Api | alt={{IATA|OJU}} | url= | email=\n| address= | lat=-0.8670 | long=121.6235 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia= | wikidata=Q25468650\n| lastedit=2020-05-12\n| content=Bandara kecil ini mulai beroperasi pada tahun 2015. Ada penerbangan terjadwal ke Ampana dari [[Luwuk]], [[Palu]], dan [[Gorontalo (kota)|Gorontalo]] yang dioperasikan oleh Aviastar.\n}}\n\n=== Dengan kapal ===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n* {{Do\n| name=Permandian Malotong | alt= | url= | email=\n| address=Jl. Sam Ratulangi No.45, Malotong | lat=-0.8856 | long=121.5233 | directions=sekitar 8 km arah barat Amapana di jalan utama\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2020-08-27\n| content=Mata air tawar di kolam buatan, di mana Anda dapat pergi berenang (dan sayangnya kadang-kadang mandi dengan sabun).\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n* {{Sleep\n| name=Hotel oasis | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harganya mulai dari Rp 100.000 (kamar standar), Rp 185.000 (kamar superior) dan Rp 250.000 (kamar deluks) | checkin= | checkout=\n| content=Terletak di pusat Ampana dan merupakan titik transit yang sempurna setelah perjalanan panjang dari Sulawesi Selatan atau dari Kepulauan Togian. Dekat dengan bank, pasar, dan hanya 5 menit berjalan kaki ke pelabuhan. \n}}\n* {{Sleep\n| name=Marina Cottage | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harga mulai dari Rp 110.000 (kamar standar) dan Rp 350.000 (Kamar vip) | checkin= | checkout=\n| content=Terletak sekitar 3 km dari pusat Ampana. Dan itu adalah bungalow dasar kayu dengan fantastis dari bungalow tepi pantai. \n}}\n* {{Sleep\n| name=Hotel Ananda | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harganya mulai dari Rp 70.000/kamar hingga Rp 250.000/kamar. | checkin= | checkout=\n| content=Hotel dengan layanan kawasan bersinyal, terletak sekitar 1 km dari pelabuhan. \n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n== Tujuan berikutnya ==\n* [[Kepulauan Togian]] — kepulauan di Teluk Tomini.\n\n{{IsPartOf|Sulawesi Tengah}}\n{{Outlinecity}}\n\n{{Geo|-0.870|121.583}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Ampana, sunset (6970625081) (cropped).jpg|caption=Matahari terbenam di Ampana}}\n'''Ampana''' adalah ibu kota dari Kabupaten Tojo Una-Una, [[Sulawesi Tengah]] di [[Indonesia]].\n==Pahami==\nAmpana terkenal terutama karena pelabuhannya, dari mana feri setiap hari berangkat ke [[Kepulauan Togian]].\n==Menuju ke sini==\n[[Berkas:KM.Mbura-Mbura.jpg|thumb|Sebuah kapal menuju Ampana]]\n===Dengan pesawat===\n* {{Go\n| name=Bandar Udara Tanjung Api | alt={{IATA|OJU}} | url= | email=\n| address= | lat=-0.8670 | long=121.6235 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia= | wikidata=Q25468650\n| lastedit=2020-05-12\n| content=Bandara kecil ini mulai beroperasi pada tahun 2015. Ada penerbangan terjadwal ke Ampana dari [[Luwuk]], [[Palu]], dan [[Gorontalo (kota)|Gorontalo]] yang dioperasikan oleh Aviastar.\n}}\n\n=== Dengan kapal ===\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n* {{Do\n| name=Permandian Malotong | alt= | url= | email=\n| address=Jl. Sam Ratulangi No.45, Malotong | lat=-0.8856 | long=121.5233 | directions=sekitar 8 km arah barat Amapana di jalan utama\n| phone= | tollfree=\n| hours= | price=\n| lastedit=2020-08-27\n| content=Mata air tawar di kolam buatan, di mana Anda dapat pergi berenang (dan sayangnya kadang-kadang mandi dengan sabun).\n}}\n\n==Beli==\n\n==Makan==\n\n==Minum==\n\n==Tidur==\n* {{Sleep\n| name=Hotel oasis | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harganya mulai dari Rp 100.000 (kamar standar), Rp 185.000 (kamar superior) dan Rp 250.000 (kamar deluks) | checkin= | checkout=\n| content=Terletak di pusat Ampana dan merupakan titik transit yang sempurna setelah perjalanan panjang dari Sulawesi Selatan atau dari Kepulauan Togian. Dekat dengan bank, pasar, dan hanya 5 menit berjalan kaki ke pelabuhan. \n}}\n* {{Sleep\n| name=Marina Cottage | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harga mulai dari Rp 110.000 (kamar standar) dan Rp 350.000 (Kamar vip) | checkin= | checkout=\n| content=Terletak sekitar 3 km dari pusat Ampana. Dan itu adalah bungalow dasar kayu dengan fantastis dari bungalow tepi pantai. \n}}\n* {{Sleep\n| name=Hotel Ananda | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| price=Harganya mulai dari Rp 70.000/kamar hingga Rp 250.000/kamar. | checkin= | checkout=\n| content=Hotel dengan layanan kawasan bersinyal, terletak sekitar 1 km dari pelabuhan. \n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n== Tujuan berikutnya ==\n* [[Kepulauan Togian]] — kepulauan di Teluk Tomini.\n\n{{IsPartOf|Sulawesi Tengah}}\n{{Outlinecity}}\n\n{{Geo|-0.870|121.583}}"
+}

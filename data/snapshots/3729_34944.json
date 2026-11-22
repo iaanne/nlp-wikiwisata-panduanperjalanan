@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Barito+Selatan",
+  "fetched_at": "2026-11-22T07:55:42.092935+00:00",
+  "title": "Barito Selatan",
+  "page_id": 3729,
+  "revision_id": "34944",
+  "revision_timestamp": "2026-08-03T13:41:29Z",
+  "sha256": "14c21814f128db72f91fb1fb8c3f9e7bc4b315c42157fb05e31e584b052deff7",
+  "license": "CC BY-SA 4.0",
+  "city": "Barito Selatan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3729,
+          "ns": 0,
+          "title": "Barito Selatan",
+          "revisions": [
+            {
+              "revid": 34944,
+              "parentid": 34943,
+              "timestamp": "2026-08-03T13:41:29Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "\n'''Barito Selatan''' adalah sebuah kabupaten di [[Kalimantan Tengah]], [[Indonesia]]. Ibu kotanya adalah Kota Buntok.\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\nKota ini di dilayani oleh '''Bandar Udara Sanggu'''.\n\n=== Dengan angkutan umum ===\nTerminal Simpang Tiga Sanggu : Jl. Poros Buntok - Ampah, Dusun Selatan\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\n*Piknik di Danau Sanggu.\n*Bermain air di Pemandian Rawa Wendu\n\n== Beli ==\n* {{buy\n| name=Pasar Plaza Beringin Buntok | alt=Plaza Beringin | url=https://kalteng.antaranews.com/berita/243512/plaza-beringin-buntok-ramai-dikunjungi-masyarakat | email=\n| address=7RHM+7H2, Pasar beringin, Buntok Kota, Kec. Dusun Sel., Kabupaten Barito Selatan, Kalimantan Tengah 73711 | lat=-1.721476 | long=114.833850 | directions=\n| phone= | tollfree=\n| hours=06:20-20:15 | price=\n| wikipedia=Pasar Plaza Beringin Buntok | image=Pasar Plaza Beringin Buntok\n| lastedit=2026-08-03\n| content=Pasar Plaza Beringin Buntok adalah pusat perbelanjaan dan pasar induk di kota Buntok.\n}}\n* {{buy\n| name=Pasar Sayur dan Ikan (Saik) | alt= | url=https://infopublik.id/kategori/nasional-ekonomi-bisnis/845286/index.html | email=\n| address=75VG+93Q, Jl. M Saleh, Mendawai, Kec. Sukamara, Kabupaten Sukamara, Kalimantan Tengah 74172 | lat=-2.558389 | long=111.117555 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pasar Sayur dan Ikan (Saik) | image=Pasar Sayur dan Ikan (Saik)\n| lastedit=2026-08-03\n| content=Pasar Sayur dan Ikan (Saik) merupakan pasar tradisional yang menjadi pusat ekonomi UMKM lokal dengan berbagai dagangan segar seperti sayuran dan ikan segar\n}}\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Banjarmasin]] - kota sungai\n* [[Palangka Raya]] - ibu kota Kalimantan Tengah\n{{Geo|-2.2000|113.8333}}\n{{IsPartOf|Kalimantan Tengah}}\n{{Outlinecity}}\n\n[[Kategori:Wikibalalah II]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "\n'''Barito Selatan''' adalah sebuah kabupaten di [[Kalimantan Tengah]], [[Indonesia]]. Ibu kotanya adalah Kota Buntok.\n\n== Pahami ==\n\n==Menuju ke sini==\n===Dengan pesawat===\nKota ini di dilayani oleh '''Bandar Udara Sanggu'''.\n\n=== Dengan angkutan umum ===\nTerminal Simpang Tiga Sanggu : Jl. Poros Buntok - Ampah, Dusun Selatan\n\n== Berkeliling ==\n\n== Lihat ==\n\n==Lakukan==\n*Piknik di Danau Sanggu.\n*Bermain air di Pemandian Rawa Wendu\n\n== Beli ==\n* {{buy\n| name=Pasar Plaza Beringin Buntok | alt=Plaza Beringin | url=https://kalteng.antaranews.com/berita/243512/plaza-beringin-buntok-ramai-dikunjungi-masyarakat | email=\n| address=7RHM+7H2, Pasar beringin, Buntok Kota, Kec. Dusun Sel., Kabupaten Barito Selatan, Kalimantan Tengah 73711 | lat=-1.721476 | long=114.833850 | directions=\n| phone= | tollfree=\n| hours=06:20-20:15 | price=\n| wikipedia=Pasar Plaza Beringin Buntok | image=Pasar Plaza Beringin Buntok\n| lastedit=2026-08-03\n| content=Pasar Plaza Beringin Buntok adalah pusat perbelanjaan dan pasar induk di kota Buntok.\n}}\n* {{buy\n| name=Pasar Sayur dan Ikan (Saik) | alt= | url=https://infopublik.id/kategori/nasional-ekonomi-bisnis/845286/index.html | email=\n| address=75VG+93Q, Jl. M Saleh, Mendawai, Kec. Sukamara, Kabupaten Sukamara, Kalimantan Tengah 74172 | lat=-2.558389 | long=111.117555 | directions=\n| phone= | tollfree=\n| hours= | price=\n| wikipedia=Pasar Sayur dan Ikan (Saik) | image=Pasar Sayur dan Ikan (Saik)\n| lastedit=2026-08-03\n| content=Pasar Sayur dan Ikan (Saik) merupakan pasar tradisional yang menjadi pusat ekonomi UMKM lokal dengan berbagai dagangan segar seperti sayuran dan ikan segar\n}}\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n* [[Banjarmasin]] - kota sungai\n* [[Palangka Raya]] - ibu kota Kalimantan Tengah\n{{Geo|-2.2000|113.8333}}\n{{IsPartOf|Kalimantan Tengah}}\n{{Outlinecity}}\n\n[[Kategori:Wikibalalah II]]"
+}

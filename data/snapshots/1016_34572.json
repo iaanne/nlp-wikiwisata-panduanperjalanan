@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ashkelon",
+  "fetched_at": "2026-11-22T07:47:41.715329+00:00",
+  "title": "Ashkelon",
+  "page_id": 1016,
+  "revision_id": "34572",
+  "revision_timestamp": "2026-07-30T06:48:59Z",
+  "sha256": "5c7fce83f0a41e3c065dfff836226b0e45b40ca0ec8cb87ce6881fcb7116c5bb",
+  "license": "CC BY-SA 4.0",
+  "city": "Ashkelon",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1016,
+          "ns": 0,
+          "title": "Ashkelon",
+          "revisions": [
+            {
+              "revid": 34572,
+              "parentid": 34571,
+              "timestamp": "2026-07-30T06:48:59Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''[https://web.archive.org/web/20060827141931/http://www.ashkelon.muni.il/openning_eng.asp Ashkelon]''' atau '''Ashqelon''' [[Ibrani]] אַשְׁקְלוֹן [[Arab]] عسقلان ˁAsqalān ; adalah sebuah kota di pesisir Mediterania di [[Israel]], 50&nbsp;km (40 menit menggunakan bus) dari sebelah kota [[Tel Aviv]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''[https://web.archive.org/web/20060827141931/http://www.ashkelon.muni.il/openning_eng.asp Ashkelon]''' atau '''Ashqelon''' [[Ibrani]] אַשְׁקְלוֹן [[Arab]] عسقلان ˁAsqalān ; adalah sebuah kota di pesisir Mediterania di [[Israel]], 50&nbsp;km (40 menit menggunakan bus) dari sebelah kota [[Tel Aviv]].\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya =="
+}

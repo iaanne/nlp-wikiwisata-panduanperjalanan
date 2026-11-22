@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Akron+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:39:45.691654+00:00",
+  "title": "Akron (Alabama)",
+  "page_id": 948,
+  "revision_id": "34314",
+  "revision_timestamp": "2026-07-28T06:54:55Z",
+  "sha256": "9df1bb027bdb7f08bd96c2838264fa95373af5c1345f32b1a1f54062e3242541",
+  "license": "CC BY-SA 4.0",
+  "city": "Akron (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 948,
+          "ns": 0,
+          "title": "Akron (Alabama)",
+          "revisions": [
+            {
+              "revid": 34314,
+              "parentid": 4158,
+              "timestamp": "2026-07-28T06:54:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n'''Akron''' adalah sebuah kota di Hale County, Alabama, [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\nBandar udara internasional terdekat dari kota ini adalah Bandar Udara Bandar Udara Internasional Birmingham–Shuttlesworth yang berada di Birmingham, Alabama.\n\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n* Hunter's Family Restaurant\n* Here Kitty, Kitty Fish Co.\n\n== Minum ==\nAnda dapat memesan minuman mulai dari\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Addison (Alabama)|Addison]]\n* [[Alabaster (Alabama)|Alabaster]]\n* [[Albertville (Alabama)|Albertville]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n'''Akron''' adalah sebuah kota di Hale County, Alabama, [[Amerika Serikat]].\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\nBandar udara internasional terdekat dari kota ini adalah Bandar Udara Bandar Udara Internasional Birmingham–Shuttlesworth yang berada di Birmingham, Alabama.\n\n=== Kereta ===\n=== Jalan darat ===\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n* Hunter's Family Restaurant\n* Here Kitty, Kitty Fish Co.\n\n== Minum ==\nAnda dapat memesan minuman mulai dari\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n* [[Addison (Alabama)|Addison]]\n* [[Alabaster (Alabama)|Alabaster]]\n* [[Albertville (Alabama)|Albertville]]"
+}

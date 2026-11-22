@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bogor+Raya",
+  "fetched_at": "2026-11-22T08:03:42.899108+00:00",
+  "title": "Bogor Raya",
+  "page_id": 1158,
+  "revision_id": "35993",
+  "revision_timestamp": "2026-08-20T15:39:43Z",
+  "sha256": "0c968aba5af63e1901b541f515c04e92444cec94d8abef460a964860fbd1d1df",
+  "license": "CC BY-SA 4.0",
+  "city": "Bogor Raya",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1158,
+          "ns": 0,
+          "title": "Bogor Raya",
+          "revisions": [
+            {
+              "revid": 35993,
+              "parentid": 35992,
+              "timestamp": "2026-08-20T15:39:43Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bogor Raya region banner.jpg}}\n'''Bogor Raya''' dikenal juga sebagai '''Parahyangan Barat''' adalah sebuah wilayah di [[Jawa Barat]], Indonesia. Panduan perjalanan ini mencakup kabupaten dan kota '''Bogor''', '''Sukabumi''', dan '''Cianjur'''. Meskipun daerah ini merupakan bagian dari provinsi Jawa Barat, ada usulan untuk membuat provinsi tersendiri, yakni ''Bogor Raya''.\n\n==Kota==\n{{Mapframe}}\n[[Berkas:Map of Bogor Raya region Wikivoyage.png|thumb|350x350px|Peta Bogor Raya.]]\n* {{Marker|type=city|name=[[Bogor]]|wikidata=Q10393}}\n* {{Marker|type=city|name=[[Cianjur]]|wikidata=Q565795}}\n* {{Marker|type=city|name=[[Pelabuhan Ratu]]|wikidata=Q1154707}} \n* {{Marker|type=city|name=[[Sukabumi]]|wikidata=Q10397}} \n\n==Destinasi lainnya==\n* {{Marker|name=[[Cimaja]]|wikidata=Q12479022}}\n* {{Marker|name=[[Taman Nasional Gunung Gede Pangrango]]|wikidata=Q1134731}} \n* {{Marker|name=[[Taman Nasional Gunung Halimun Salak]]|wikidata=Q1187903}}\n* {{Marker|name=[[Puncak]]|wikidata=Q2788344}} \n* {{Marker|name=[[Ujung Genteng]]|wikidata=Q14753499}}\n\n== Pahami ==\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Jawa Barat}}{{Geo|-6.9|106.9|zoom=9}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bogor Raya region banner.jpg}}\n'''Bogor Raya''' dikenal juga sebagai '''Parahyangan Barat''' adalah sebuah wilayah di [[Jawa Barat]], Indonesia. Panduan perjalanan ini mencakup kabupaten dan kota '''Bogor''', '''Sukabumi''', dan '''Cianjur'''. Meskipun daerah ini merupakan bagian dari provinsi Jawa Barat, ada usulan untuk membuat provinsi tersendiri, yakni ''Bogor Raya''.\n\n==Kota==\n{{Mapframe}}\n[[Berkas:Map of Bogor Raya region Wikivoyage.png|thumb|350x350px|Peta Bogor Raya.]]\n* {{Marker|type=city|name=[[Bogor]]|wikidata=Q10393}}\n* {{Marker|type=city|name=[[Cianjur]]|wikidata=Q565795}}\n* {{Marker|type=city|name=[[Pelabuhan Ratu]]|wikidata=Q1154707}} \n* {{Marker|type=city|name=[[Sukabumi]]|wikidata=Q10397}} \n\n==Destinasi lainnya==\n* {{Marker|name=[[Cimaja]]|wikidata=Q12479022}}\n* {{Marker|name=[[Taman Nasional Gunung Gede Pangrango]]|wikidata=Q1134731}} \n* {{Marker|name=[[Taman Nasional Gunung Halimun Salak]]|wikidata=Q1187903}}\n* {{Marker|name=[[Puncak]]|wikidata=Q2788344}} \n* {{Marker|name=[[Ujung Genteng]]|wikidata=Q14753499}}\n\n== Pahami ==\n\n== Menuju kesini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Jawa Barat}}{{Geo|-6.9|106.9|zoom=9}}"
+}

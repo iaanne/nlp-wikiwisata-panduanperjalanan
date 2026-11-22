@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Balta",
+  "fetched_at": "2026-11-22T07:51:43.357449+00:00",
+  "title": "Balta",
+  "page_id": 1051,
+  "revision_id": "34719",
+  "revision_timestamp": "2026-07-30T08:16:54Z",
+  "sha256": "6a43f0647b657eea86fec00da57fd5e6c4f1a3eded429e7fd554abe34830a4af",
+  "license": "CC BY-SA 4.0",
+  "city": "Balta",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1051,
+          "ns": 0,
+          "title": "Balta",
+          "revisions": [
+            {
+              "revid": 34719,
+              "parentid": 34718,
+              "timestamp": "2026-07-30T08:16:54Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n'''Balta''' adalah kota kecil berpenduduk 73 orang di [[Lakes and Gardens]] wilayah [[Dakota Utara]] yang berada di ketinggian 1.542 kaki.\n\n==Pahami==\nBegitu dekat, namun begitu jauh: Balta terletak sekitar 16 mil di selatan dari pusat geografis Amerika Utara.  Awalnya, kota itu bernama Egan, untuk menghormati Egan Pierce (seorang pejabat di jalur kereta api Soo Line). Kota dinamai oleh penduduk setempat dari Balta, daerah di Rusia Ukraina, rumah asli dari banyak pemukim imigran disini.\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n* '''Dengan mobil''': Exit 200 dari I-94, ke arah utara sekitar 90 mil di ND-3 (melewati US-52).\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n*  {{Eat\n| name=Balta Bar & Grill | alt= | url= | email=\n| address= | lat= | long= | directions=di sudut Jalan Utama dan 2nd Ave\n| phone=+1 701 542-3322 | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n*  {{Sleep\n| name=Davis Lake | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone=+1 701 542-3321 | tollfree= | fax=\n| hours= | price=\n| content=Kemah tenda dan 2 situs RV dengan listrik. Ada tanjakan perahu.\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=ND-3 (2015).svg\n| imagesize1=22\n| directionl1=U\n| majorl1=[[Dunseith]]\n| minorl1=[[Rugby (Dakota Utara)|Rugby]]\n| directionr1=S\n| majorr1=[[Steele]]\n| minorr1=[[Harvey (Dakota Utara)|Harvey]]\n}}\n\n{{IsPartOf|Lakes and Gardens}}\n{{Geo|48.167154|-100.036770}}\n{{Outlinecity}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n'''Balta''' adalah kota kecil berpenduduk 73 orang di [[Lakes and Gardens]] wilayah [[Dakota Utara]] yang berada di ketinggian 1.542 kaki.\n\n==Pahami==\nBegitu dekat, namun begitu jauh: Balta terletak sekitar 16 mil di selatan dari pusat geografis Amerika Utara.  Awalnya, kota itu bernama Egan, untuk menghormati Egan Pierce (seorang pejabat di jalur kereta api Soo Line). Kota dinamai oleh penduduk setempat dari Balta, daerah di Rusia Ukraina, rumah asli dari banyak pemukim imigran disini.\n\n==Menuju ke sini==\n{{Mapframe|zoom=auto}}\n{{Mapshape}}\n* '''Dengan mobil''': Exit 200 dari I-94, ke arah utara sekitar 90 mil di ND-3 (melewati US-52).\n\n==Berkeliling==\n\n==Lihat==\n\n==Lakukan==\n\n==Beli==\n\n==Makan==\n*  {{Eat\n| name=Balta Bar & Grill | alt= | url= | email=\n| address= | lat= | long= | directions=di sudut Jalan Utama dan 2nd Ave\n| phone=+1 701 542-3322 | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Minum==\n\n==Tidur==\n*  {{Sleep\n| name=Davis Lake | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone=+1 701 542-3321 | tollfree= | fax=\n| hours= | price=\n| content=Kemah tenda dan 2 situs RV dengan listrik. Ada tanjakan perahu.\n}}\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n{{Routebox\n| image1=ND-3 (2015).svg\n| imagesize1=22\n| directionl1=U\n| majorl1=[[Dunseith]]\n| minorl1=[[Rugby (Dakota Utara)|Rugby]]\n| directionr1=S\n| majorr1=[[Steele]]\n| minorr1=[[Harvey (Dakota Utara)|Harvey]]\n}}\n\n{{IsPartOf|Lakes and Gardens}}\n{{Geo|48.167154|-100.036770}}\n{{Outlinecity}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bohol",
+  "fetched_at": "2026-11-22T08:03:43.478386+00:00",
+  "title": "Bohol",
+  "page_id": 1159,
+  "revision_id": "23531",
+  "revision_timestamp": "2024-12-04T08:40:58Z",
+  "sha256": "f05fce3dc9fe7acf2962c95c442a31538d40e18325ac7ae3cfb29a3d700908dd",
+  "license": "CC BY-SA 4.0",
+  "city": "Bohol",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1159,
+          "ns": 0,
+          "title": "Bohol",
+          "revisions": [
+            {
+              "revid": 23531,
+              "parentid": 6872,
+              "timestamp": "2024-12-04T08:40:58Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Bohol (Philippines) banner Chocolate Hills.jpg|caption=Bukit Cokelat}}\n'''[https://web.archive.org/web/20210527025018/https://bohol.gov.ph/ Bohol]''' adalah pulau utama dari Provinsi Bohol, yang juga termasuk 75 pulau kecil. Pulau ini berbatasan dengan [[Cebu (pulau)|Pulau Cebu]] pada bagian tenggara dan [[Leyte|Pulau Leyte]] di [[Bisayak Tengah|wilayah Bisayak Tengah]] pada bagian barat daya. Pulau berbentuk oval ini adalah pulau kesepuluh terbesar di [[Filipina|kepulauan Filipina]].\n[[Berkas:Bohol Plaza.jpg|thumb|Pemandangan dari sebuah resor]]\nBohol adalah pulau tropis yang memiliki kecantikan alami.\n==Pahami==\nPada Oktober 2013, gempa berkekuatan 7,2 skala Richter dari 56&nbsp;km di bawah Carmen menewaskan sedikitnya 144 orang. Beberapa bangunan di kawasan wisata termasuk gereja bersejarah menjadi rusak atau tidak dapat digunakan lagi.\n\n\n{{IsPartOf|Bisayak}}\n{{Stub}}\n{{Geo|9.884|124.216|zoom=9}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Bohol (Philippines) banner Chocolate Hills.jpg|caption=Bukit Cokelat}}\n'''[https://web.archive.org/web/20210527025018/https://bohol.gov.ph/ Bohol]''' adalah pulau utama dari Provinsi Bohol, yang juga termasuk 75 pulau kecil. Pulau ini berbatasan dengan [[Cebu (pulau)|Pulau Cebu]] pada bagian tenggara dan [[Leyte|Pulau Leyte]] di [[Bisayak Tengah|wilayah Bisayak Tengah]] pada bagian barat daya. Pulau berbentuk oval ini adalah pulau kesepuluh terbesar di [[Filipina|kepulauan Filipina]].\n[[Berkas:Bohol Plaza.jpg|thumb|Pemandangan dari sebuah resor]]\nBohol adalah pulau tropis yang memiliki kecantikan alami.\n==Pahami==\nPada Oktober 2013, gempa berkekuatan 7,2 skala Richter dari 56&nbsp;km di bawah Carmen menewaskan sedikitnya 144 orang. Beberapa bangunan di kawasan wisata termasuk gereja bersejarah menjadi rusak atau tidak dapat digunakan lagi.\n\n\n{{IsPartOf|Bisayak}}\n{{Stub}}\n{{Geo|9.884|124.216|zoom=9}}"
+}

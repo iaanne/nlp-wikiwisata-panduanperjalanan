@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Balangan",
+  "fetched_at": "2026-11-22T07:50:42.585663+00:00",
+  "title": "Balangan",
+  "page_id": 3889,
+  "revision_id": "34659",
+  "revision_timestamp": "2026-07-30T07:37:37Z",
+  "sha256": "496157f0971055f71c4b0ff7e61c08c869de6ec8f691f4a1fd78b6a8042a9d39",
+  "license": "CC BY-SA 4.0",
+  "city": "Balangan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3889,
+          "ns": 0,
+          "title": "Balangan",
+          "revisions": [
+            {
+              "revid": 34659,
+              "parentid": 34658,
+              "timestamp": "2026-07-30T07:37:37Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Balangan''' adalah sebuah kabupaten di [[Kalimantan Selatan]], [[Indonesia]]. Ibu kotanya adalah Paringin.\n\n== Pahami ==\n\n== Menuju ke sini ==\nPerjalanan menuju Kabupaten Balangan dari Banjarmasin atau Bandara Syamsudin Noor dapat ditempuh dalam 4 hingga 5 jam melalui jalur darat.\n\n=== Mobil Pribadi/Taksi: ===\nRute utama melalui '''Jalan Ahmad Yani''' menuju utara.\n\n=== Transportasi Umum: ===\nNaik bus dari '''Terminal Pal 6''' Banjarmasin atau gunakan layanan travel/shuttle langsung menuju Paringin (ibu kota Balangan).\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n* Wisata Keluarga di Taman Hijau Balangan\n* Petualangan di Sungai Maranting\n* Petualangan di Air Terjun Manyandar\n* Petualangan di Batu Badinding\n* Wisata Sejarah di Benteng Tundakan\n* Pendakian di Gunung Hauk\n* Bermain di Batu Ajung\n* Wisata Budaya di Pasar Budaya Racah Mampulang\n* Wisata Budaya di Suku Dayak Halon\n\n== Beli ==\n\n* '''Pasar Paringin''', Pasar lantai 2 blok h17, Halubau Utara, Kec. Paringin Sel., Kabupaten Balangan, Kalimantan Selatan 71618\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n\n* [[Amuntai]]\n* Tabalong\n\n[[Kategori:Wikibalalah II]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Balangan''' adalah sebuah kabupaten di [[Kalimantan Selatan]], [[Indonesia]]. Ibu kotanya adalah Paringin.\n\n== Pahami ==\n\n== Menuju ke sini ==\nPerjalanan menuju Kabupaten Balangan dari Banjarmasin atau Bandara Syamsudin Noor dapat ditempuh dalam 4 hingga 5 jam melalui jalur darat.\n\n=== Mobil Pribadi/Taksi: ===\nRute utama melalui '''Jalan Ahmad Yani''' menuju utara.\n\n=== Transportasi Umum: ===\nNaik bus dari '''Terminal Pal 6''' Banjarmasin atau gunakan layanan travel/shuttle langsung menuju Paringin (ibu kota Balangan).\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n* Wisata Keluarga di Taman Hijau Balangan\n* Petualangan di Sungai Maranting\n* Petualangan di Air Terjun Manyandar\n* Petualangan di Batu Badinding\n* Wisata Sejarah di Benteng Tundakan\n* Pendakian di Gunung Hauk\n* Bermain di Batu Ajung\n* Wisata Budaya di Pasar Budaya Racah Mampulang\n* Wisata Budaya di Suku Dayak Halon\n\n== Beli ==\n\n* '''Pasar Paringin''', Pasar lantai 2 blok h17, Halubau Utara, Kec. Paringin Sel., Kabupaten Balangan, Kalimantan Selatan 71618\n\n== Makan ==\n\n== Minum ==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan Berikutnya ==\n\n* [[Amuntai]]\n* Tabalong\n\n[[Kategori:Wikibalalah II]]"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Benxi",
+  "fetched_at": "2026-11-22T07:59:44.025202+00:00",
+  "title": "Benxi",
+  "page_id": 1126,
+  "revision_id": "23504",
+  "revision_timestamp": "2024-12-04T08:39:55Z",
+  "sha256": "afb5fe9735e6e7fcb2c54df6c0a36e1ebe2f0750d4e1cc716185b99fe006f789",
+  "license": "CC BY-SA 4.0",
+  "city": "Benxi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1126,
+          "ns": 0,
+          "title": "Benxi",
+          "revisions": [
+            {
+              "revid": 23504,
+              "parentid": 6539,
+              "timestamp": "2024-12-04T08:39:55Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n[[Berkas:Benxi Watercave National Park entrance.JPG|thumb|350px|Taman Nasional Gua Air Benxi]]\n'''Benxi''' (本溪; ''Běnxī'') adalah sebuah kota di Provinsi [[Liaoning]], [[Tiongkok]] Benxi juga dapat merujuk kepada Kabupaten Otonomi Suku Manzhu di provinsi yang sama.\n\n== Fahami ==\n\n== Menuju kesini ==\n\n== Makan ==\n\n== Minum ==\n\n== Lakukan ==\n{{Stub}}\n\n{{IsPartOf|Perbukitan Timur (Liaoning)}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Mena-asia_default_banner.jpg}}\n[[Berkas:Benxi Watercave National Park entrance.JPG|thumb|350px|Taman Nasional Gua Air Benxi]]\n'''Benxi''' (本溪; ''Běnxī'') adalah sebuah kota di Provinsi [[Liaoning]], [[Tiongkok]] Benxi juga dapat merujuk kepada Kabupaten Otonomi Suku Manzhu di provinsi yang sama.\n\n== Fahami ==\n\n== Menuju kesini ==\n\n== Makan ==\n\n== Minum ==\n\n== Lakukan ==\n{{Stub}}\n\n{{IsPartOf|Perbukitan Timur (Liaoning)}}"
+}

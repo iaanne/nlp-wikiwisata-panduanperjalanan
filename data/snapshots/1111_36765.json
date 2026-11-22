@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Beijing",
+  "fetched_at": "2026-11-22T07:58:40.353577+00:00",
+  "title": "Beijing",
+  "page_id": 1111,
+  "revision_id": "36765",
+  "revision_timestamp": "2026-09-03T07:38:31Z",
+  "sha256": "0eea08c0a4ec68eaa6d78478f28ef5027f4ee9c6f4b23c0b5f2a98e6de40813e",
+  "license": "CC BY-SA 4.0",
+  "city": "Beijing",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1111,
+          "ns": 0,
+          "title": "Beijing",
+          "revisions": [
+            {
+              "revid": 36765,
+              "parentid": 35247,
+              "timestamp": "2026-09-03T07:38:31Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner | Beijing banner Tiananmen.jpg|caption=Gerbang Kedamaian Surgawi, Tiananmen|origin=0,0}}\n{{PrintDistricts}}\n'''Beijing''' (北京) adalah ibukota dari negara berpenduduk terbesar di dunia, [[Tiongkok|Republik Rakyat Tiongkok]]. Kota ini juga kota terbesar kedua di Tiongkok setelah [[Shanghai]]. Beijing juga menjadi pusat pemerintahan pada masa Dinasti Ming dan Qing sampai pembentukan negara Republik tahun 1911. Saat ini, Beijing berperan sebagai pusat pemerintahan, pendidikan, dan budaya Tionghoa serta terdapat beberapa tempat-tempat bersejarah.Pada tahun 2008, Beijing menjadi tuan rumah Olimpiade musim panas 2008. \n\nBeijing adalah kota tempat perpaduan antara yang lama dan yang baru, terutama di dalam Jalan Lingkar ke-2 dan ke-3. Di sini, teknologi mutakhir dan inovasi sosial modern berdampingan dengan arsitektur bersejarah dan gang-gang kecil. Meskipun penduduk Beijing mungkin awalnya tampak pendiam, mereka ramah dan menyenangkan begitu Anda mengenal mereka. Saat menjelajahi Beijing, perhatikan kebiasaan dan norma sosial yang mungkin berbeda dari kebiasaan Anda sendiri; lihat artikel tentang Tiongkok untuk wawasan lebih lanjut. Namun, Beijing adalah rumah bagi kaum urban yang canggih, sehingga perbedaan budaya di sini mungkin kurang kentara dibandingkan di daerah pedesaan atau kota-kota lain di pedalaman Tiongkok. \n\n==Pahami==\n\n==Menuju ke sini==\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Lakukan==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Beli==\n\n==Makan==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Minum==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Tidur==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Tiongkok Utara}}\n{{outlinecity}}\n{{Geo|39.913|116.391|zoom=10}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner | Beijing banner Tiananmen.jpg|caption=Gerbang Kedamaian Surgawi, Tiananmen|origin=0,0}}\n{{PrintDistricts}}\n'''Beijing''' (北京) adalah ibukota dari negara berpenduduk terbesar di dunia, [[Tiongkok|Republik Rakyat Tiongkok]]. Kota ini juga kota terbesar kedua di Tiongkok setelah [[Shanghai]]. Beijing juga menjadi pusat pemerintahan pada masa Dinasti Ming dan Qing sampai pembentukan negara Republik tahun 1911. Saat ini, Beijing berperan sebagai pusat pemerintahan, pendidikan, dan budaya Tionghoa serta terdapat beberapa tempat-tempat bersejarah.Pada tahun 2008, Beijing menjadi tuan rumah Olimpiade musim panas 2008. \n\nBeijing adalah kota tempat perpaduan antara yang lama dan yang baru, terutama di dalam Jalan Lingkar ke-2 dan ke-3. Di sini, teknologi mutakhir dan inovasi sosial modern berdampingan dengan arsitektur bersejarah dan gang-gang kecil. Meskipun penduduk Beijing mungkin awalnya tampak pendiam, mereka ramah dan menyenangkan begitu Anda mengenal mereka. Saat menjelajahi Beijing, perhatikan kebiasaan dan norma sosial yang mungkin berbeda dari kebiasaan Anda sendiri; lihat artikel tentang Tiongkok untuk wawasan lebih lanjut. Namun, Beijing adalah rumah bagi kaum urban yang canggih, sehingga perbedaan budaya di sini mungkin kurang kentara dibandingkan di daerah pedesaan atau kota-kota lain di pedalaman Tiongkok. \n\n==Pahami==\n\n==Menuju ke sini==\n\n===Dengan pesawat===\n\n===Dengan kereta===\n\n===Dengan mobil===\n\n===Dengan bus===\n\n===Dengan kapal===\n\n==Berkeliling==\n\n==Lihat==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Lakukan==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Beli==\n\n==Makan==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Minum==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Tidur==\n<!-- Harap tempatkan entri individu pada artikel distrik yang sesuai, bukan di sini. Disini hanya sekedar memberi gambaran umum dan petunjuk. -->\n\n==Tetap aman==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Tiongkok Utara}}\n{{outlinecity}}\n{{Geo|39.913|116.391|zoom=10}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aiea",
+  "fetched_at": "2026-11-22T07:39:43.246635+00:00",
+  "title": "Aiea",
+  "page_id": 944,
+  "revision_id": "34307",
+  "revision_timestamp": "2026-07-28T06:48:42Z",
+  "sha256": "120621497c6ee339201db75dda13f46eddf70a3add2184202f8a8e252738e66a",
+  "license": "CC BY-SA 4.0",
+  "city": "Aiea",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 944,
+          "ns": 0,
+          "title": "Aiea",
+          "revisions": [
+            {
+              "revid": 34307,
+              "parentid": 23360,
+              "timestamp": "2026-07-28T06:48:42Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Aiea''' ada di [[Oahu Tengah]].\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n* {{See\n| name=Stadium Aloha | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n* {{See\n| name=Area Rekreasi Negara Bagian Keaiwa Heiau | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n* {{See\n| name=Peternakan Sumida | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Lakukan==\n\n==Beli==\n*  {{Buy\n| name=Pearlridge Center | alt= | url=http://www.pearlridgeonline.com/ | email=\n| address=98 - 1005 Jalan Moanalua | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Pusat perbelanjaan utama di Leeward Oahu, yang sebenarnya adalah dua mal dalam satu, dengan dua gaya arsitektur yang berbeda. Uptown Pearlridge yang dibangun oleh Macy's, memiliki dekorasi bernuansa kayu yang mewah; sedangkan Downtown Pearlridge yang dibangun oleh Sears, dibangun dengan tema perkotaan. Kedua gedung tersebut dihubungkan oleh SkyTrain, sebuah monorel yang beroperasi bolak-balik di antara kedua mal tersebut.\n}}\n\n==Makan==\n\n* [http://www.dirtylickinshawaii.com/ Dirty Lickins Chicken]\n* El Charro Mexicano\n* [http://www.makotosushiaiea.com/ Makoto Sushi]\n* [https://aieabowl.com/#/ms-3/6 The Alley Restaurant at Aiea Bowl]\n* [https://web.archive.org/web/20221015032438/https://www.aieachopsuey.com/ Aiea Chop Suey]\n* Ice Garden\n* [http://www.koapancakehouse.com/ Koa Pancake House]\n* [https://www.facebook.com/pages/Roast-Duck-Kitchen/178633238852508 Roast Duck Kitchen Inc]\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{IsPartOf|Oahu Tengah}}\n{{Outlinecity}}\n{{Geo|21.385897|-157.930925}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Pagebanner default.jpg}}\n\n'''Aiea''' ada di [[Oahu Tengah]].\n\n==Pahami==\n\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Lihat==\n* {{See\n| name=Stadium Aloha | alt= | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n* {{See\n| name=Area Rekreasi Negara Bagian Keaiwa Heiau | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n* {{See\n| name=Peternakan Sumida | url= | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=\n}}\n==Lakukan==\n\n==Beli==\n*  {{Buy\n| name=Pearlridge Center | alt= | url=http://www.pearlridgeonline.com/ | email=\n| address=98 - 1005 Jalan Moanalua | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| content=Pusat perbelanjaan utama di Leeward Oahu, yang sebenarnya adalah dua mal dalam satu, dengan dua gaya arsitektur yang berbeda. Uptown Pearlridge yang dibangun oleh Macy's, memiliki dekorasi bernuansa kayu yang mewah; sedangkan Downtown Pearlridge yang dibangun oleh Sears, dibangun dengan tema perkotaan. Kedua gedung tersebut dihubungkan oleh SkyTrain, sebuah monorel yang beroperasi bolak-balik di antara kedua mal tersebut.\n}}\n\n==Makan==\n\n* [http://www.dirtylickinshawaii.com/ Dirty Lickins Chicken]\n* El Charro Mexicano\n* [http://www.makotosushiaiea.com/ Makoto Sushi]\n* [https://aieabowl.com/#/ms-3/6 The Alley Restaurant at Aiea Bowl]\n* [https://web.archive.org/web/20221015032438/https://www.aieachopsuey.com/ Aiea Chop Suey]\n* Ice Garden\n* [http://www.koapancakehouse.com/ Koa Pancake House]\n* [https://www.facebook.com/pages/Roast-Duck-Kitchen/178633238852508 Roast Duck Kitchen Inc]\n==Minum==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n\n==Tujuan berikutnya==\n{{IsPartOf|Oahu Tengah}}\n{{Outlinecity}}\n{{Geo|21.385897|-157.930925}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Aichi",
+  "fetched_at": "2026-11-22T07:39:42.665890+00:00",
+  "title": "Aichi",
+  "page_id": 943,
+  "revision_id": "34306",
+  "revision_timestamp": "2026-07-28T06:47:19Z",
+  "sha256": "4b054e85ed3eae34fd322d91fccbc411792371d5230185590637fbb6ee909f03",
+  "license": "CC BY-SA 4.0",
+  "city": "Aichi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 943,
+          "ns": 0,
+          "title": "Aichi",
+          "revisions": [
+            {
+              "revid": 34306,
+              "parentid": 34305,
+              "timestamp": "2026-07-28T06:47:19Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Aichi banner.jpg}}\n[[Berkas:Japan_aichi_map_small.png|right]]\n\n'''[https://www.pref.aichi.jp/global/en/index.html Prefektur Aichi]''' (愛知) adalah sebuah prefektur di wilayah [[Chubu]], [[Jepang]] dan tuan rumah [[Expo 2005]].\n\n==Kota==\n* [[Nagoya]]\n* [[Gamagori]]\n* [[Ichinomiya]]\n* [[Inuyama]]\n* [[Nagakute]]\n* [[Okazaki]]\n* [[Seto]]\n* [[Tahara]]\n* [[Toyohashi]]\n* [[Toyota]]\n==Pahami==\n* {{Listing\n| name=Asosiasi Turis Prefektur Aichi | alt= | url=https://www.aichi-now.jp/en/ | email=\n| address=4-4-38 Meieki, Nakamura-ku, Nagoya | lat=35.17065 | long=136.88648 | directions=\n| phone=+81 52-581-5788 | tollfree=\n| hours= | price=\n| lastedit=2015-12-07\n| content=\n}}\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n==Minum==\nSoda melon menjadi minuman yang cukup populer di musim panas.\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n===Radio===\n====AM====\n* Radio NHK 1 – 729&nbsp;kHz\n* Radio NHK 2 – 909&nbsp;kHz\n==== FM ====\n*FM AICHI 807 - 80,7&nbsp;MHz\n\n==Tujuan berikutnya==\n* [[Ise]] - salah satu kuil tersuci di Jepang, hanya perjalanan singkat ke selatan dari Aichi\n\n{{Geo|35.180189|136.913508|zoom=10}}\n{{IsPartOf|Chubu}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Aichi banner.jpg}}\n[[Berkas:Japan_aichi_map_small.png|right]]\n\n'''[https://www.pref.aichi.jp/global/en/index.html Prefektur Aichi]''' (愛知) adalah sebuah prefektur di wilayah [[Chubu]], [[Jepang]] dan tuan rumah [[Expo 2005]].\n\n==Kota==\n* [[Nagoya]]\n* [[Gamagori]]\n* [[Ichinomiya]]\n* [[Inuyama]]\n* [[Nagakute]]\n* [[Okazaki]]\n* [[Seto]]\n* [[Tahara]]\n* [[Toyohashi]]\n* [[Toyota]]\n==Pahami==\n* {{Listing\n| name=Asosiasi Turis Prefektur Aichi | alt= | url=https://www.aichi-now.jp/en/ | email=\n| address=4-4-38 Meieki, Nakamura-ku, Nagoya | lat=35.17065 | long=136.88648 | directions=\n| phone=+81 52-581-5788 | tollfree=\n| hours= | price=\n| lastedit=2015-12-07\n| content=\n}}\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n==Minum==\nSoda melon menjadi minuman yang cukup populer di musim panas.\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n===Radio===\n====AM====\n* Radio NHK 1 – 729&nbsp;kHz\n* Radio NHK 2 – 909&nbsp;kHz\n==== FM ====\n*FM AICHI 807 - 80,7&nbsp;MHz\n\n==Tujuan berikutnya==\n* [[Ise]] - salah satu kuil tersuci di Jepang, hanya perjalanan singkat ke selatan dari Aichi\n\n{{Geo|35.180189|136.913508|zoom=10}}\n{{IsPartOf|Chubu}}\n{{Outlineregion}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Binatu",
+  "fetched_at": "2026-11-22T08:01:45.399906+00:00",
+  "title": "Binatu",
+  "page_id": 1148,
+  "revision_id": "23521",
+  "revision_timestamp": "2024-12-04T08:40:35Z",
+  "sha256": "301a13c7cc12baa75b1f2cb643090d10bc121420d8dce6a2d3898a40dc4dce11",
+  "license": "CC BY-SA 4.0",
+  "city": "Binatu",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1148,
+          "ns": 0,
+          "title": "Binatu",
+          "revisions": [
+            {
+              "revid": 23521,
+              "parentid": 6779,
+              "timestamp": "2024-12-04T08:40:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Laundromat banner.jpg}}\nSemakin lama Anda bepergian, semakin besar kemungkinan Anda perlu mencuci [[pakaian]], seprai, atau tekstil pribadi lainnya. Anda bisa:\n* Gunakan binatu yang dioperasikan dengan koin – umum ditemukan di Amerika Utara dan Eropa, tetapi tidak begitu umum di Asia dan Amerika Selatan\n* Gunakan layanan binatu hotel – seringkali merupakan pilihan yang paling mahal\n* Gunakan akomodasi di mana fasilitas binatu tersedia (tangan atau mesin; beberapa akomodasi berbiaya rendah atau untuk keluarga; beberapa kamp dan marina)\n* Pergi ke toko bisnis binatu atau pencucian kering – cukup mahal di beberapa negara, terutama jika Anda harus membayar per potong, tetapi mungkin cukup murah di negara dengan biaya tenaga kerja rendah dan memiliki sedikit toko binatu\n* Bayar penduduk setempat untuk mencucikannya – pilihan yang baik di negara-negara berpenghasilan rendah, meskipun ini akan menjadi mahal atau sulit ditemukan pada tempat-tempat berpenghasilan tinggi\n* Cucilah sendiri – misalnya di kamar mandi hotel, kalau dibolehkan\n\nJika biaya binatu dibebankan berdasarkan berat dan pakaiannya sudah basah, Anda akan membayar jauh lebih banyak. Karena itu, biarkan barangnya mengering terlebih dahulu, serta tawar harga yang lebih rendah bila memmungkinkan.\n==Lihat juga==\n* [[Kebersihan dan perawatan tubuh]]\n* [[Tekstil]]\n* [[Toilet]]\n* [[Air]]\n\n{{Outlinetopic}}\n{{PartOfTopic|Perlengkapan}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Laundromat banner.jpg}}\nSemakin lama Anda bepergian, semakin besar kemungkinan Anda perlu mencuci [[pakaian]], seprai, atau tekstil pribadi lainnya. Anda bisa:\n* Gunakan binatu yang dioperasikan dengan koin – umum ditemukan di Amerika Utara dan Eropa, tetapi tidak begitu umum di Asia dan Amerika Selatan\n* Gunakan layanan binatu hotel – seringkali merupakan pilihan yang paling mahal\n* Gunakan akomodasi di mana fasilitas binatu tersedia (tangan atau mesin; beberapa akomodasi berbiaya rendah atau untuk keluarga; beberapa kamp dan marina)\n* Pergi ke toko bisnis binatu atau pencucian kering – cukup mahal di beberapa negara, terutama jika Anda harus membayar per potong, tetapi mungkin cukup murah di negara dengan biaya tenaga kerja rendah dan memiliki sedikit toko binatu\n* Bayar penduduk setempat untuk mencucikannya – pilihan yang baik di negara-negara berpenghasilan rendah, meskipun ini akan menjadi mahal atau sulit ditemukan pada tempat-tempat berpenghasilan tinggi\n* Cucilah sendiri – misalnya di kamar mandi hotel, kalau dibolehkan\n\nJika biaya binatu dibebankan berdasarkan berat dan pakaiannya sudah basah, Anda akan membayar jauh lebih banyak. Karena itu, biarkan barangnya mengering terlebih dahulu, serta tawar harga yang lebih rendah bila memmungkinkan.\n==Lihat juga==\n* [[Kebersihan dan perawatan tubuh]]\n* [[Tekstil]]\n* [[Toilet]]\n* [[Air]]\n\n{{Outlinetopic}}\n{{PartOfTopic|Perlengkapan}}"
+}

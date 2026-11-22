@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Ad+Dakhla",
+  "fetched_at": "2026-11-22T07:36:45.636781+00:00",
+  "title": "Ad Dakhla",
+  "page_id": 4349,
+  "revision_id": "36998",
+  "revision_timestamp": "2026-09-06T08:51:02Z",
+  "sha256": "7ff6ea98fa117626be046f1e5201acf232308afc8f60076bf48645a859540c5b",
+  "license": "CC BY-SA 4.0",
+  "city": "Ad Dakhla",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4349,
+          "ns": 0,
+          "title": "Ad Dakhla",
+          "revisions": [
+            {
+              "revid": 36998,
+              "parentid": 36958,
+              "timestamp": "2026-09-06T08:51:02Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "Ad Dakhla merupakan sebuah kota di wilayah sengketa [[Sahara Barat]].\n\n== Pahami ==\nAd Dakhla merupakan sebuah kota di Semenanjung dekat Sahara. Ad Dakhla dapat disebut sebagai kota kecil di ujung dunia. Ad Dakhla merupakan merupakan kota turis di Semenanjung Atlantik, memiliki penduduk kurang dari 200 ribu jiwa. Ad Dakhla menjadi menarik karena merupakan kota yang menjadi tempat bertemunya Gurun Sahara dan Samudera Atlantik."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "Ad Dakhla merupakan sebuah kota di wilayah sengketa [[Sahara Barat]].\n\n== Pahami ==\nAd Dakhla merupakan sebuah kota di Semenanjung dekat Sahara. Ad Dakhla dapat disebut sebagai kota kecil di ujung dunia. Ad Dakhla merupakan merupakan kota turis di Semenanjung Atlantik, memiliki penduduk kurang dari 200 ribu jiwa. Ad Dakhla menjadi menarik karena merupakan kota yang menjadi tempat bertemunya Gurun Sahara dan Samudera Atlantik."
+}

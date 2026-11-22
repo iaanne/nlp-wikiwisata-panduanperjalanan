@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Abomey",
+  "fetched_at": "2026-11-22T07:35:45.207245+00:00",
+  "title": "Abomey",
+  "page_id": 4343,
+  "revision_id": "36912",
+  "revision_timestamp": "2026-09-06T08:22:27Z",
+  "sha256": "8cf81e2d6abe520a5e709afa5bca44fdeafbe4b461be786ed6996e8243a9e736",
+  "license": "CC BY-SA 4.0",
+  "city": "Abomey",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4343,
+          "ns": 0,
+          "title": "Abomey",
+          "revisions": [
+            {
+              "revid": 36912,
+              "parentid": 36907,
+              "timestamp": "2026-09-06T08:22:27Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Abomey''' merupakan kota yang terletak di Benin bagian selatan. Abomey dikenal sebagai bekas pusat Kerajaan Dahomey.\n\n== Pahami ==\nKerajaan ini berkembang menjadi salah satu kerajaan yang kuat di pesisir Afrika Barat dan diperintah oleh dua belas raja dari sekitar tahun 1625-1900. Salah satu peninggalan terpenting di Abomey adalah Istana Kerajaan Abomey, yang menjadi Situs Warisan Dunia UNESCO sejak tahun 1985 dan merupakan salah satu peninggalan penting sejarah dan budaya Benin.\n\n== Menuju ke sini ==\nAkses jalan dapat dilakukan dengan:\n\n=== Bus atau taksi bersama ===\nBus dan taksi bersama tersedia dari Cotonou menuju Bohicon. Dari Bohicon, perjalanan dapat dilanjutkan menggunakan ojek motor (zemidjan) menuju Abomey yang berjarak sekitar 12 km.\n\n=== Mobil ===\nAbomey dapat dicapai dengan mobil pribadi atau mobil sewaan dari Cotonou melalui jalan nasional menuju Bohicon dan kemudian dilnjutkan ke Abomey. Perjalanan langsung dari Cotonou memerlukan waktu sekitar 2,5-3 jam.\n\n== Berkeliling ==\nAbomey dapat dijelajahi dengan berjalan kaku untuk mengunjungi tempat-tempat yang berada di pusat kota. Untuk jarang yang lebih jauh, wisatawan dapat menggunakan zemidjan (taksi sepeda motor) atau taksi. Tarif zemidjan sebaiknya disepakati trlebih dahulu sebelum perjalanan."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Abomey''' merupakan kota yang terletak di Benin bagian selatan. Abomey dikenal sebagai bekas pusat Kerajaan Dahomey.\n\n== Pahami ==\nKerajaan ini berkembang menjadi salah satu kerajaan yang kuat di pesisir Afrika Barat dan diperintah oleh dua belas raja dari sekitar tahun 1625-1900. Salah satu peninggalan terpenting di Abomey adalah Istana Kerajaan Abomey, yang menjadi Situs Warisan Dunia UNESCO sejak tahun 1985 dan merupakan salah satu peninggalan penting sejarah dan budaya Benin.\n\n== Menuju ke sini ==\nAkses jalan dapat dilakukan dengan:\n\n=== Bus atau taksi bersama ===\nBus dan taksi bersama tersedia dari Cotonou menuju Bohicon. Dari Bohicon, perjalanan dapat dilanjutkan menggunakan ojek motor (zemidjan) menuju Abomey yang berjarak sekitar 12 km.\n\n=== Mobil ===\nAbomey dapat dicapai dengan mobil pribadi atau mobil sewaan dari Cotonou melalui jalan nasional menuju Bohicon dan kemudian dilnjutkan ke Abomey. Perjalanan langsung dari Cotonou memerlukan waktu sekitar 2,5-3 jam.\n\n== Berkeliling ==\nAbomey dapat dijelajahi dengan berjalan kaku untuk mengunjungi tempat-tempat yang berada di pusat kota. Untuk jarang yang lebih jauh, wisatawan dapat menggunakan zemidjan (taksi sepeda motor) atau taksi. Tarif zemidjan sebaiknya disepakati trlebih dahulu sebelum perjalanan."
+}

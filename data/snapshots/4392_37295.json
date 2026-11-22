@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bantimurung",
+  "fetched_at": "2026-11-22T07:54:43.188045+00:00",
+  "title": "Bantimurung",
+  "page_id": 4392,
+  "revision_id": "37295",
+  "revision_timestamp": "2026-09-13T04:25:56Z",
+  "sha256": "f5977288f0be06a91c68692e73768ea2f57f412ba64df682c6bee8c8f5ca1f61",
+  "license": "CC BY-SA 4.0",
+  "city": "Bantimurung",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 4392,
+          "ns": 0,
+          "title": "Bantimurung",
+          "revisions": [
+            {
+              "revid": 37295,
+              "parentid": 0,
+              "timestamp": "2026-09-13T04:25:56Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "'''Bantimurung''' adalah kecamatan yang berada di [[Kabupaten Maros]], [[Sulawesi Selatan|Provinsi Sulawesi Selatan]]\n==Pahami==\nBantimurung berasal dari Bahasa Bugis '''''benti''''' yang memiliki arti tetesan air dan '''''merrung''''' yang berarti bunyi gemuruh\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Beli==\n\n==Makan==\n{{Eat|name=RM AMORY MAROS - RESTO SEAFOOD SPECIALIST & NASI TEMPONG|address=Depan Kantor KPU, Jl. Angsana, Pettuadae, Kec. Turikale, Kabupaten Maros, Sulawesi Selatan 90511|price=Rp 25.000 - Rp 50.000 per orang|phone=+6281344877377|hours=Buka setiap hari jam 9:00 - 21:00}}\n\n==Minum==\n\n==Tidur==\n\n==Tujuan berikutnya=="
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "'''Bantimurung''' adalah kecamatan yang berada di [[Kabupaten Maros]], [[Sulawesi Selatan|Provinsi Sulawesi Selatan]]\n==Pahami==\nBantimurung berasal dari Bahasa Bugis '''''benti''''' yang memiliki arti tetesan air dan '''''merrung''''' yang berarti bunyi gemuruh\n==Menuju ke sini==\n\n==Berkeliling==\n\n==Beli==\n\n==Makan==\n{{Eat|name=RM AMORY MAROS - RESTO SEAFOOD SPECIALIST & NASI TEMPONG|address=Depan Kantor KPU, Jl. Angsana, Pettuadae, Kec. Turikale, Kabupaten Maros, Sulawesi Selatan 90511|price=Rp 25.000 - Rp 50.000 per orang|phone=+6281344877377|hours=Buka setiap hari jam 9:00 - 21:00}}\n\n==Minum==\n\n==Tidur==\n\n==Tujuan berikutnya=="
+}

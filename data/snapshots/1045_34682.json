@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Bali+Tengah",
+  "fetched_at": "2026-11-22T07:50:45.475094+00:00",
+  "title": "Bali Tengah",
+  "page_id": 1045,
+  "revision_id": "34682",
+  "revision_timestamp": "2026-07-30T07:51:25Z",
+  "sha256": "8814a2a61a99bba865316b838e1c3dbb8483d6460e2410f4ec3c674506cdad25",
+  "license": "CC BY-SA 4.0",
+  "city": "Bali Tengah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1045,
+          "ns": 0,
+          "title": "Bali Tengah",
+          "revisions": [
+            {
+              "revid": 34682,
+              "parentid": 34681,
+              "timestamp": "2026-07-30T07:51:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|WV banner Central Bali Rice terraces.jpg}}\n\n'''Bali Tengah''' adalah sebuah wilayah pegunungan di [[Bali]], yang paling terkenal karena karyanya, budayanya, candi-candinya, dan danau-danaunya.\n\n[[Berkas:Ubud cremation procession.jpg|thumb|300px|Prosesi kremasi di Ubud]]\n\n\n==Kota==\n* [[Tabanan]]\n* [[Bangli]]\n* [[Ubud]]\n\n==Destinasi lainnya==\n* {{marker|type=listing|name=[[Bedugul]]|wikidata=Q2517139}} &mdash; danau pegunungan, kebun raya, Pasar Candikuning dan Pura Ulun Danu Bratan yang terkenal\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Bali}}\n\n{{Geo|-8.35826|115.16693|zoom=12}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|WV banner Central Bali Rice terraces.jpg}}\n\n'''Bali Tengah''' adalah sebuah wilayah pegunungan di [[Bali]], yang paling terkenal karena karyanya, budayanya, candi-candinya, dan danau-danaunya.\n\n[[Berkas:Ubud cremation procession.jpg|thumb|300px|Prosesi kremasi di Ubud]]\n\n\n==Kota==\n* [[Tabanan]]\n* [[Bangli]]\n* [[Ubud]]\n\n==Destinasi lainnya==\n* {{marker|type=listing|name=[[Bedugul]]|wikidata=Q2517139}} &mdash; danau pegunungan, kebun raya, Pasar Candikuning dan Pura Ulun Danu Bratan yang terkenal\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}\n{{IsPartOf|Bali}}\n\n{{Geo|-8.35826|115.16693|zoom=12}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Astronomi",
+  "fetched_at": "2026-11-22T07:47:46.203667+00:00",
+  "title": "Astronomi",
+  "page_id": 1023,
+  "revision_id": "23424",
+  "revision_timestamp": "2024-12-04T08:36:48Z",
+  "sha256": "6476babd9e3e97d1387ebd760e0b473e7e1fefd85d7121517552b559c68b616f",
+  "license": "CC BY-SA 4.0",
+  "city": "Astronomi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1023,
+          "ns": 0,
+          "title": "Astronomi",
+          "revisions": [
+            {
+              "revid": 23424,
+              "parentid": 4934,
+              "timestamp": "2024-12-04T08:36:48Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Agence Rol, L’éclipse, gare Saint-Lazare, 1921 (cropped).jpg|caption=Wanita di Paris sedang mengamati gerhana matahari pada tahun 1921}}\n'''Astronomi''' juga disebut ilmu bintang atau ilmu falak, adalah ilmu alam yang mempelajari benda langit dan fenomena alam yang terjadi di luar Bumi, termasuk fenomena di atmosfer atas Bumi yang berasal dari luar angkasa seperti meteor dan komet.\n\nSangat sedikit orang yang mendapat hak istimewa untuk mengunjungi [[luar angkasa]], tetapi setiap orang yang memiliki mata yang baik dapat melihat setidaknya beberapa keajaiban alam semesta dari permukaan bumi.\n==Lihat juga==\n* [[Wisata sains]]\n* [[Luar angkasa]]\n* [[Situs penerbangan luar angkasa]]\n* [[Astrowisata di Australia]]\n* [[Taman langit gelap di Eropa]]\n* [[Taman langit gelap di Amerika Serikat]]\n* [[Wisata matematika]]\n\n{{PartOfTopic|Luar angkasa}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Agence Rol, L’éclipse, gare Saint-Lazare, 1921 (cropped).jpg|caption=Wanita di Paris sedang mengamati gerhana matahari pada tahun 1921}}\n'''Astronomi''' juga disebut ilmu bintang atau ilmu falak, adalah ilmu alam yang mempelajari benda langit dan fenomena alam yang terjadi di luar Bumi, termasuk fenomena di atmosfer atas Bumi yang berasal dari luar angkasa seperti meteor dan komet.\n\nSangat sedikit orang yang mendapat hak istimewa untuk mengunjungi [[luar angkasa]], tetapi setiap orang yang memiliki mata yang baik dapat melihat setidaknya beberapa keajaiban alam semesta dari permukaan bumi.\n==Lihat juga==\n* [[Wisata sains]]\n* [[Luar angkasa]]\n* [[Situs penerbangan luar angkasa]]\n* [[Astrowisata di Australia]]\n* [[Taman langit gelap di Eropa]]\n* [[Taman langit gelap di Amerika Serikat]]\n* [[Wisata matematika]]\n\n{{PartOfTopic|Luar angkasa}}\n{{Stub}}"
+}

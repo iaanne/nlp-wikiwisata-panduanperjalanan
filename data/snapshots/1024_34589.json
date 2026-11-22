@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Athena",
+  "fetched_at": "2026-11-22T07:48:41.513660+00:00",
+  "title": "Athena",
+  "page_id": 1024,
+  "revision_id": "34589",
+  "revision_timestamp": "2026-07-30T06:59:26Z",
+  "sha256": "7a3804b6eb514546437723ebb2c4af6ab9757a4df73e5c602af3e2c0c0e385f6",
+  "license": "CC BY-SA 4.0",
+  "city": "Athena",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1024,
+          "ns": 0,
+          "title": "Athena",
+          "revisions": [
+            {
+              "revid": 34589,
+              "parentid": 34588,
+              "timestamp": "2026-07-30T06:59:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Athens Banner.jpg|disambig=yes|unesco=yes}}\n'''Athena''' ([[Buku frase Yunani|Yunani]]: , ''Athína'') adalah ibu kota [[Yunani]] dengan populasi sebesar 3,7 juta jiwa (2020). Ini adalah tempat kelahiran [[Yunani Klasik]] dan terkait dengan peradaban Barat.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n{{Geo|37.9667|23.7167|zoom=11}}\n{{IsPartOf|Attica}}\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Athens Banner.jpg|disambig=yes|unesco=yes}}\n'''Athena''' ([[Buku frase Yunani|Yunani]]: , ''Athína'') adalah ibu kota [[Yunani]] dengan populasi sebesar 3,7 juta jiwa (2020). Ini adalah tempat kelahiran [[Yunani Klasik]] dan terkait dengan peradaban Barat.\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== Beli ==\n\n== Makan ==\n\n== Minum ==\n{{Geo|37.9667|23.7167|zoom=11}}\n{{IsPartOf|Attica}}\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n== Tujuan berikutnya ==\n{{Stub}}"
+}

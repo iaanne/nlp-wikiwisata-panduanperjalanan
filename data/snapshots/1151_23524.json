@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Birnin+Kebbi",
+  "fetched_at": "2026-11-22T08:02:42.379017+00:00",
+  "title": "Birnin Kebbi",
+  "page_id": 1151,
+  "revision_id": "23524",
+  "revision_timestamp": "2024-12-04T08:40:42Z",
+  "sha256": "caab9fd1821b9a5ac33799abdd2eba9a144164309863ff0ad1652a80b0881516",
+  "license": "CC BY-SA 4.0",
+  "city": "Birnin Kebbi",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1151,
+          "ns": 0,
+          "title": "Birnin Kebbi",
+          "revisions": [
+            {
+              "revid": 23524,
+              "parentid": 6801,
+              "timestamp": "2024-12-04T08:40:42Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Kebbi stadium car park pagebanner.jpg}}\n'''Birnin Kebbi''' adalah sebuah kota di [[Nigeria Barat Laut]] dan ibu kota dari [[Kebbi State]].\n== Tidur ==\n* {{Sleep\n| name=Fab International Hotel  | alt=FAB hotel | url= | email=\n| address=Church Rd opposite RCCG Badariya Area | lat=12.4413 | long=4.182654 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦7200 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Madonna Guest Inn | alt= | url= | email=\n| address=Opposite mammy Market Badariya Area | lat=12.448162 | long=4.199251 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦2,400 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Regal Suites Hotel Limited | alt= | url= | email=\n| address=Near Kent Village off Ali Bagubo House | long=4.174406 | lat=12.443259 | directions=\n| phone=+234 808 142 3151 | tollfree=\n| checkin= | checkout= | price=₦3000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Saffar Guest Inn Limited | alt= | url= | email=\n| address=Abubakar Umar Road Birnin Kebbi | lat=12.450479 | long=4.213244 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦11,000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Asmara Lodge | alt= | url= | email=\n| address=Behind Presidential Lodge | long=4.195613 | lat=12.431753 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦4000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Gesse Hotel | alt= | url= | email=\n| address=94 Emir Usman Rd | lat=12.450454 | long=4.212157 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦2650 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Nakowa Hotel | alt= | url= | email=\n| address= Sani Abacha Bye Pass | lat= | long= | directions=\n| phone= +234806 921 4686| tollfree= | fax=\n| checkin= | checkout= | price=\n| wikidata=\n| lastedit=2021-12-19\n| content=\n}}\n\n== Menuju ke sini ==\n\n== Tidur ==\n{{IsPartOf|Kebbi State}}\n\n{{Geo|12.45|4.2|zoom=13}}\n{{Stub}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Kebbi stadium car park pagebanner.jpg}}\n'''Birnin Kebbi''' adalah sebuah kota di [[Nigeria Barat Laut]] dan ibu kota dari [[Kebbi State]].\n== Tidur ==\n* {{Sleep\n| name=Fab International Hotel  | alt=FAB hotel | url= | email=\n| address=Church Rd opposite RCCG Badariya Area | lat=12.4413 | long=4.182654 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦7200 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Madonna Guest Inn | alt= | url= | email=\n| address=Opposite mammy Market Badariya Area | lat=12.448162 | long=4.199251 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦2,400 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Regal Suites Hotel Limited | alt= | url= | email=\n| address=Near Kent Village off Ali Bagubo House | long=4.174406 | lat=12.443259 | directions=\n| phone=+234 808 142 3151 | tollfree=\n| checkin= | checkout= | price=₦3000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Saffar Guest Inn Limited | alt= | url= | email=\n| address=Abubakar Umar Road Birnin Kebbi | lat=12.450479 | long=4.213244 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦11,000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Asmara Lodge | alt= | url= | email=\n| address=Behind Presidential Lodge | long=4.195613 | lat=12.431753 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦4000 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Gesse Hotel | alt= | url= | email=\n| address=94 Emir Usman Rd | lat=12.450454 | long=4.212157 | directions=\n| phone= | tollfree=\n| checkin= | checkout= | price=₦2650 per malam\n| lastedit=2021-06-28\n| content=\n}}\n* {{Sleep\n| name=Nakowa Hotel | alt= | url= | email=\n| address= Sani Abacha Bye Pass | lat= | long= | directions=\n| phone= +234806 921 4686| tollfree= | fax=\n| checkin= | checkout= | price=\n| wikidata=\n| lastedit=2021-12-19\n| content=\n}}\n\n== Menuju ke sini ==\n\n== Tidur ==\n{{IsPartOf|Kebbi State}}\n\n{{Geo|12.45|4.2|zoom=13}}\n{{Stub}}"
+}

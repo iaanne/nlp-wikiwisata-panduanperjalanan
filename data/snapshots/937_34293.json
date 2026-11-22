@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afrika+Utara",
+  "fetched_at": "2026-11-22T07:38:45.884173+00:00",
+  "title": "Afrika Utara",
+  "page_id": 937,
+  "revision_id": "34293",
+  "revision_timestamp": "2026-07-28T06:39:26Z",
+  "sha256": "5e7016f894315afa0bdf1dd7e127d60287efe284089c0cddf214d71d7ce16599",
+  "license": "CC BY-SA 4.0",
+  "city": "Afrika Utara",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 937,
+          "ns": 0,
+          "title": "Afrika Utara",
+          "revisions": [
+            {
+              "revid": 34293,
+              "parentid": 34292,
+              "timestamp": "2026-07-28T06:39:26Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Sidi Abderahmane Ain Diab Casablanca banner.jpg|caption=Casablanca, Maroko}}\n'''Afrika Utara''' adalah wilayah yang meliputi bagian utara benua [[Afrika]]. \n\n== Wilayah ==\n* [[Aljazair]]\n* [[Libya]]\n* [[Maroko]]\n* [[Mesir]]\n* [[Sahara Barat]]\n* [[Tunisia]]\n==Pahami==\nTidak ada ruang lingkup yang diterima secara tunggal untuk wilayah ini dan kadang-kadang didefinisikan sebagai membentang dari pantai Atlantik Mauritania di barat, ke Terusan Suez Mesir dan Laut Merah di timur. Lainnya telah membatasi ke negara-negara [[Aljazair]], [[Maroko]], dan [[Tunisia]], sebuah wilayah yang dikenal oleh Perancis selama masa kolonial sebagai \"Afrique du Nord\" dan dikenal oleh orang Arab sebagai Maghreb (\"Barat\", bagian barat Arab). Dunia ). Definisi yang paling umum diterima termasuk Maroko , Aljazair , Tunisia , Libya , Mesir , dan Sudan , 6 negara yang membentuk puncak Utara benua Afrika. Sementara itu, \"Afrika Utara\", khususnya ketika digunakan dalam istilah Afrika Utara dan Timur Tengah (MENA), sering merujuk hanya ke negara-negara Maghreb dan Libya. Mesir, yang juga merupakan bagian dari Timur Tengah , sering dianggap secara terpisah, karena menjadi Afrika Utara dan Timur Tengah secara bersamaan.\n== Menuju ke sini ==\n'''Dengan Pesawat'''\n\nRata rata durasi penerbangan nonstop dari indonesia ke Afrika selatan adalah 20j 47m, mencakup jarak 14476 km\n\n==Berkeliling==\nAfrika sangat terkenal dengan sungainya yang mempunyai aliran air yang indah dan panjang serta besar.\n\n==Lihat==\n[[Berkas:Libya 4985 Tadrart Acacus Luca Galuzzi 2007.jpg|thumbnail|Sahara]]\n==Lakukan==\n-kerja sama regional\n\n- Agenda 2063\n\n- Diplomasi ekonomi\n\n== Beli ==\n\n==Makan==\n- Kapenra dan Sadza \n\n- jollof Rice \n\n-Potjiekos\n\n-Namibian\n\n==Minum==\nMinuman Khas :\n\n# Alouda\n# Zobo\n# Mazagran\n# Rooibos\n\n== Tidur ==\n\n==Tetap aman==\nJangan meminum air tanah yang tidak diolah. Hindari daerah Libya, Aljazair selatan, wilayah Sahrawi di Sahara Barat, dan Tunisia selatan karena risiko konflik bersenjata atau kekerasan oleh para pemberontak.\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Afrika}}\n{{Outlineregion}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Sidi Abderahmane Ain Diab Casablanca banner.jpg|caption=Casablanca, Maroko}}\n'''Afrika Utara''' adalah wilayah yang meliputi bagian utara benua [[Afrika]]. \n\n== Wilayah ==\n* [[Aljazair]]\n* [[Libya]]\n* [[Maroko]]\n* [[Mesir]]\n* [[Sahara Barat]]\n* [[Tunisia]]\n==Pahami==\nTidak ada ruang lingkup yang diterima secara tunggal untuk wilayah ini dan kadang-kadang didefinisikan sebagai membentang dari pantai Atlantik Mauritania di barat, ke Terusan Suez Mesir dan Laut Merah di timur. Lainnya telah membatasi ke negara-negara [[Aljazair]], [[Maroko]], dan [[Tunisia]], sebuah wilayah yang dikenal oleh Perancis selama masa kolonial sebagai \"Afrique du Nord\" dan dikenal oleh orang Arab sebagai Maghreb (\"Barat\", bagian barat Arab). Dunia ). Definisi yang paling umum diterima termasuk Maroko , Aljazair , Tunisia , Libya , Mesir , dan Sudan , 6 negara yang membentuk puncak Utara benua Afrika. Sementara itu, \"Afrika Utara\", khususnya ketika digunakan dalam istilah Afrika Utara dan Timur Tengah (MENA), sering merujuk hanya ke negara-negara Maghreb dan Libya. Mesir, yang juga merupakan bagian dari Timur Tengah , sering dianggap secara terpisah, karena menjadi Afrika Utara dan Timur Tengah secara bersamaan.\n== Menuju ke sini ==\n'''Dengan Pesawat'''\n\nRata rata durasi penerbangan nonstop dari indonesia ke Afrika selatan adalah 20j 47m, mencakup jarak 14476 km\n\n==Berkeliling==\nAfrika sangat terkenal dengan sungainya yang mempunyai aliran air yang indah dan panjang serta besar.\n\n==Lihat==\n[[Berkas:Libya 4985 Tadrart Acacus Luca Galuzzi 2007.jpg|thumbnail|Sahara]]\n==Lakukan==\n-kerja sama regional\n\n- Agenda 2063\n\n- Diplomasi ekonomi\n\n== Beli ==\n\n==Makan==\n- Kapenra dan Sadza \n\n- jollof Rice \n\n-Potjiekos\n\n-Namibian\n\n==Minum==\nMinuman Khas :\n\n# Alouda\n# Zobo\n# Mazagran\n# Rooibos\n\n== Tidur ==\n\n==Tetap aman==\nJangan meminum air tanah yang tidak diolah. Hindari daerah Libya, Aljazair selatan, wilayah Sahrawi di Sahara Barat, dan Tunisia selatan karena risiko konflik bersenjata atau kekerasan oleh para pemberontak.\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n\n==Tujuan berikutnya==\n\n{{IsPartOf|Afrika}}\n{{Outlineregion}}"
+}

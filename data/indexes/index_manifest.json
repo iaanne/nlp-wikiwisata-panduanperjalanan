@@ -1,0 +1,14 @@
+{
+  "corpus_hash": "d1f7a39c92b890d71f03691cf634ce7932b6598589a23e968564c9525c328e1c",
+  "index_hashes": {
+    "fixed": "f8746ab771d295976e3406d0fe3d4146e1c90457d6e6a8442d1425415e93956d",
+    "section": "97fd2867b1f766ea2abd352cf7797693990a3d022a1c72459dc70ca7b9369e2f",
+    "listing": "cf3f563f326244920fa4adee76b3af90838c6dc5c75d27d191a8465232de8c0c"
+  },
+  "embedder": {
+    "id": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3"
+  },
+  "chunker_version": "1",
+  "built_at": "2026-11-22T08:10:04.615125+00:00"
+}

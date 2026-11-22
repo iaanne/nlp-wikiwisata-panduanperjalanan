@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Afrika+Tengah",
+  "fetched_at": "2026-11-22T07:38:44.712767+00:00",
+  "title": "Afrika Tengah",
+  "page_id": 935,
+  "revision_id": "34268",
+  "revision_timestamp": "2026-07-27T06:41:37Z",
+  "sha256": "4e9cf0edc5441b7ac1c1f777c8b246adb7df3af6483eb32b35bb598db27413c2",
+  "license": "CC BY-SA 4.0",
+  "city": "Afrika Tengah",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 935,
+          "ns": 0,
+          "title": "Afrika Tengah",
+          "revisions": [
+            {
+              "revid": 34268,
+              "parentid": 34267,
+              "timestamp": "2026-07-27T06:41:37Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Gabon banner Grassland with clumps of trees.jpg}}\n'''Afrika Tengah''' adalah wilayah Afrika yang berbatasan dengan Samudra Atlantik di barat, Lembah Celah Afrika di timur, dataran Sahel di utara, dan cekungan Zambezi di selatan.\n\n==Negara==\n{{Regionlist\n| regionmap=Central Africa regions map.png\n| regionmaptext=Wilayah Afrika Tengah\n| regionmapsize=400px\n\n| region1name=[[Angola]]\n| region1color=#bba180\n| region1items=\n| region1description=\n\n| region2name=[[Kamerun]]\n| region2color=#71b673\n| region2items=\n| region2description=\n\n| region3name=[[Republik Afrika Tengah]]\n| region3color=#69835c\n| region3items=\n| region3description=\n\n| region4name=[[Republik Demokratik Kongo]]\n| region4color=#569a72\n| region4items=\n| region4description=\n\n| region5name=[[Guinea Khatulistiwa]]\n| region5color=#bb7cda\n| region5items=\n| region5description=\n\n| region6name=[[Gabon]]\n| region6color=#70a0a0\n| region6items=\n| region6description=\n\n| region7name=[[Republik Kongo]]\n| region7color=#8abb98\n| region7items=\n| region7description=\n\n| region8name=[[São Tomé dan Príncipe]]\n| region8color=#ec6038\n| region8items=\n| region8description=\n| region9name=[[Sudan Selatan]]\n| region9color=#84ad70\n| region9items=\n| region9description=\n}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== beli ==\n\n== Makan ==\n==Minum==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n==Tujuan berikutnya==\n{{Outlineregion}}\n{{IsPartOf|Afrika}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Gabon banner Grassland with clumps of trees.jpg}}\n'''Afrika Tengah''' adalah wilayah Afrika yang berbatasan dengan Samudra Atlantik di barat, Lembah Celah Afrika di timur, dataran Sahel di utara, dan cekungan Zambezi di selatan.\n\n==Negara==\n{{Regionlist\n| regionmap=Central Africa regions map.png\n| regionmaptext=Wilayah Afrika Tengah\n| regionmapsize=400px\n\n| region1name=[[Angola]]\n| region1color=#bba180\n| region1items=\n| region1description=\n\n| region2name=[[Kamerun]]\n| region2color=#71b673\n| region2items=\n| region2description=\n\n| region3name=[[Republik Afrika Tengah]]\n| region3color=#69835c\n| region3items=\n| region3description=\n\n| region4name=[[Republik Demokratik Kongo]]\n| region4color=#569a72\n| region4items=\n| region4description=\n\n| region5name=[[Guinea Khatulistiwa]]\n| region5color=#bb7cda\n| region5items=\n| region5description=\n\n| region6name=[[Gabon]]\n| region6color=#70a0a0\n| region6items=\n| region6description=\n\n| region7name=[[Republik Kongo]]\n| region7color=#8abb98\n| region7items=\n| region7description=\n\n| region8name=[[São Tomé dan Príncipe]]\n| region8color=#ec6038\n| region8items=\n| region8description=\n| region9name=[[Sudan Selatan]]\n| region9color=#84ad70\n| region9items=\n| region9description=\n}}\n\n== Pahami ==\n\n== Menuju ke sini ==\n\n== Berkeliling ==\n\n== Lihat ==\n\n== Lakukan ==\n\n== beli ==\n\n== Makan ==\n==Minum==\n\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n==Tujuan berikutnya==\n{{Outlineregion}}\n{{IsPartOf|Afrika}}"
+}

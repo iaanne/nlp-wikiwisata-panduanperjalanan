@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Azerbaijan",
+  "fetched_at": "2026-11-22T07:49:39.842068+00:00",
+  "title": "Azerbaijan",
+  "page_id": 1032,
+  "revision_id": "34609",
+  "revision_timestamp": "2026-07-30T07:12:40Z",
+  "sha256": "88c94715eba075bead456359b48b26683fbe25d2a67de04d9015f5f6c2e112a5",
+  "license": "CC BY-SA 4.0",
+  "city": "Azerbaijan",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1032,
+          "ns": 0,
+          "title": "Azerbaijan",
+          "revisions": [
+            {
+              "revid": 34609,
+              "parentid": 34608,
+              "timestamp": "2026-07-30T07:12:40Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner | Azerbajiani landscape banner.jpg|caption=Lanskap lembah Khinalug di Azerbaijan}}\n{{About|Azerbaijan Utara, negara independen|Azerbaijan Selatan|Azerbaijan Iran}}\n[https://web.archive.org/web/20190408004607/http://azerbaijan.travel/en/ '''Azerbaijan'''] adalah pecahan bekas Uni Soviet di [[Kaukasus]] dan secara bervariasi menjadi bagian dari [[Eropa]] atau [[Asia]]. Negara ini terletak dengan Laut Kaspia dan berbatasan dengan [[Rusia]] dan [[Iran]] dan juga berbatasan dengan [[Georgia (negara)|Georgia]] dan [[Armenia]] di barat. Eksklave otonom [[Nakhchivan (wilayah)|Nakhchivan]] terletak diantara [[Armenia]] dan [[Iran]] dengan perbatasan yang pendek dengan [[Turki]].\n\n== Pahami ==\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\nMelalui bandara Baku Heydar Aliyev International.\n\n==Berkeliling==\n==Lihat==\n==Lakukan==\n\n== Beli ==\n\n== Makan ==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n==Tujuan berikutnya==\nAzerbaijan memiliki penerbangan dengan tiket super murah dari Baku ke [[Budapest]] dan [[Abu Dhabi]].\n\n{{Outlinecountry}}\n{{IsPartOf|Kaukasus}}\n{{Geo|40.3|47.7|zoom=7}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner | Azerbajiani landscape banner.jpg|caption=Lanskap lembah Khinalug di Azerbaijan}}\n{{About|Azerbaijan Utara, negara independen|Azerbaijan Selatan|Azerbaijan Iran}}\n[https://web.archive.org/web/20190408004607/http://azerbaijan.travel/en/ '''Azerbaijan'''] adalah pecahan bekas Uni Soviet di [[Kaukasus]] dan secara bervariasi menjadi bagian dari [[Eropa]] atau [[Asia]]. Negara ini terletak dengan Laut Kaspia dan berbatasan dengan [[Rusia]] dan [[Iran]] dan juga berbatasan dengan [[Georgia (negara)|Georgia]] dan [[Armenia]] di barat. Eksklave otonom [[Nakhchivan (wilayah)|Nakhchivan]] terletak diantara [[Armenia]] dan [[Iran]] dengan perbatasan yang pendek dengan [[Turki]].\n\n== Pahami ==\n== Menuju ke sini ==\n\n=== Dengan pesawat ===\nMelalui bandara Baku Heydar Aliyev International.\n\n==Berkeliling==\n==Lihat==\n==Lakukan==\n\n== Beli ==\n\n== Makan ==\n==Minum==\n==Tidur==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n==Terhubung==\n==Tujuan berikutnya==\nAzerbaijan memiliki penerbangan dengan tiket super murah dari Baku ke [[Budapest]] dan [[Abu Dhabi]].\n\n{{Outlinecountry}}\n{{IsPartOf|Kaukasus}}\n{{Geo|40.3|47.7|zoom=7}}"
+}

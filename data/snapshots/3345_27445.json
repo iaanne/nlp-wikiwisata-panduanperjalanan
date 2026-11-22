@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alasan+bepergian",
+  "fetched_at": "2026-11-22T07:40:43.645868+00:00",
+  "title": "Alasan bepergian",
+  "page_id": 3345,
+  "revision_id": "27445",
+  "revision_timestamp": "2025-04-04T07:56:35Z",
+  "sha256": "db9e2d6e227cd88d10f63f7cbaa978963dfe1c2a0a9196e7040facba6f2e7522",
+  "license": "CC BY-SA 4.0",
+  "city": "Alasan bepergian",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 3345,
+          "ns": 0,
+          "title": "Alasan bepergian",
+          "revisions": [
+            {
+              "revid": 27445,
+              "parentid": 27009,
+              "timestamp": "2025-04-04T07:56:35Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{pagebanner|Reasons to travel Wikivoyage banner.jpg}}\n{{quote|''Kita bepergian bukan hanya demi berdagang – angin yang lebih panas mengipasi hati kita yang berapi-api<br/>Karena ada nafsu ingin tahu akan apa yang seharusnya tidak diketahui, kita akan menempuh jalan emas menuju Samarkand.''|author=James Elroy Flecker|source=\"Hassan\"}}\n\n: (Pada kenyataannya, jalan ini lebih mirip jalan yang dilalui kambing di malam hari, saat mobil Anda menuruni bukit di tengah kepulan debu kambing, lampu kota [[Samarkand]] berkilauan di depan mata Anda.)\n\nPembaca halaman ini tidak perlu banyak penjelasan tentang '''alasan untuk bepergian''', dan mungkin telah memiliki banyak kenangan perjalanan untuk dijadikan bahan bacaan, serta rencana dan harapan untuk lebih banyak berpetualang lagi. Indeks ini berisi beberapa [[topik wisata]] yang berkaitan dengan saran relevan dan tergantung pada alasan perjalanan yang Anda rencanakan.\n\n== Bepergian untuk alasan praktis ==\n* [[Perjalanan bisnis]]\n* [[Belajar bahasa di luar negeri]]\n* [[Perjalanan medis]]\n* [[Belajar di luar negeri]]\n** [[Belajar di Australia]]\n** [[Belajar di Tiongkok]]\n** [[Belajar di Amerika Serikat]]\n* [[Bekerja di luar negeri]]\n** [[Pengembara digital]]\n** [[Mengajar bahasa Inggris]]\n** [[Menulis perjalanan]]\n** [[Perjalanan sukarela]]\n** [[Bekerja di Tiongkok]]\n** [[Bekerja dan belajar di Jepang]]\n** [[Bekerja di Amerika Serikat]]\n\n== Liburan dan perjalanan keagamaan ==\n* [[Perjalanan Natal dan Tahun Baru]]\n* [[Karnaval]]\n* [[Liburan musim semi]]\n* [[Perjalanan Paskah]]\n* [[Perjalanan tahun kosong]]\n* [[Resor pantai yang ramah LGBT]]\n* [[Agama dan spiritualitas]]\n\n== Acara keluarga ==\n* [[Pesta bujangan]]\n* [[Perjalanan pernikahan]]\n* [[Perjalanan bulan madu]]\n* [[Perjalanan pemakaman]]\n\n== Kategori pelancong ==\nLihat [[Perhatian#Kategori pelancong]].\n\n* [[Mengatur perjalanan kelompok]]\n* [[Pensiun di luar negeri]]\n* [[Liburan berkemah]]\n\n\n{{PartOfTopic|topik wisata}}\n{{outlinetopic}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{pagebanner|Reasons to travel Wikivoyage banner.jpg}}\n{{quote|''Kita bepergian bukan hanya demi berdagang – angin yang lebih panas mengipasi hati kita yang berapi-api<br/>Karena ada nafsu ingin tahu akan apa yang seharusnya tidak diketahui, kita akan menempuh jalan emas menuju Samarkand.''|author=James Elroy Flecker|source=\"Hassan\"}}\n\n: (Pada kenyataannya, jalan ini lebih mirip jalan yang dilalui kambing di malam hari, saat mobil Anda menuruni bukit di tengah kepulan debu kambing, lampu kota [[Samarkand]] berkilauan di depan mata Anda.)\n\nPembaca halaman ini tidak perlu banyak penjelasan tentang '''alasan untuk bepergian''', dan mungkin telah memiliki banyak kenangan perjalanan untuk dijadikan bahan bacaan, serta rencana dan harapan untuk lebih banyak berpetualang lagi. Indeks ini berisi beberapa [[topik wisata]] yang berkaitan dengan saran relevan dan tergantung pada alasan perjalanan yang Anda rencanakan.\n\n== Bepergian untuk alasan praktis ==\n* [[Perjalanan bisnis]]\n* [[Belajar bahasa di luar negeri]]\n* [[Perjalanan medis]]\n* [[Belajar di luar negeri]]\n** [[Belajar di Australia]]\n** [[Belajar di Tiongkok]]\n** [[Belajar di Amerika Serikat]]\n* [[Bekerja di luar negeri]]\n** [[Pengembara digital]]\n** [[Mengajar bahasa Inggris]]\n** [[Menulis perjalanan]]\n** [[Perjalanan sukarela]]\n** [[Bekerja di Tiongkok]]\n** [[Bekerja dan belajar di Jepang]]\n** [[Bekerja di Amerika Serikat]]\n\n== Liburan dan perjalanan keagamaan ==\n* [[Perjalanan Natal dan Tahun Baru]]\n* [[Karnaval]]\n* [[Liburan musim semi]]\n* [[Perjalanan Paskah]]\n* [[Perjalanan tahun kosong]]\n* [[Resor pantai yang ramah LGBT]]\n* [[Agama dan spiritualitas]]\n\n== Acara keluarga ==\n* [[Pesta bujangan]]\n* [[Perjalanan pernikahan]]\n* [[Perjalanan bulan madu]]\n* [[Perjalanan pemakaman]]\n\n== Kategori pelancong ==\nLihat [[Perhatian#Kategori pelancong]].\n\n* [[Mengatur perjalanan kelompok]]\n* [[Pensiun di luar negeri]]\n* [[Liburan berkemah]]\n\n\n{{PartOfTopic|topik wisata}}\n{{outlinetopic}}"
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://id.wikivoyage.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2&titles=Alabaster+%28Alabama%29",
+  "fetched_at": "2026-11-22T07:40:42.464389+00:00",
+  "title": "Alabaster (Alabama)",
+  "page_id": 952,
+  "revision_id": "34323",
+  "revision_timestamp": "2026-07-28T07:01:49Z",
+  "sha256": "d17b6550b6fec6439a7a51b3867718614a7db4e9580fcd2d9a0633506b54b7ad",
+  "license": "CC BY-SA 4.0",
+  "city": "Alabaster (Alabama)",
+  "category": "destination",
+  "raw_api_response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 952,
+          "ns": 0,
+          "title": "Alabaster (Alabama)",
+          "revisions": [
+            {
+              "revid": 34323,
+              "parentid": 4178,
+              "timestamp": "2026-07-28T07:01:49Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Pagebanner|Whole world North gy.jpg}}\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nAkses ke kota dari jalan raya utama dari Rute 31 AS, yang melintasi kota, dan melalui pintu keluar I-65 238. Pusat kota Birmingham berjarak 23 mil (37 km) utara, dan Montgomery berjarak 69 mil (111 km) selatan, baik melalui US-31 atau I-65.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Akron (Alabama)|Akron]]\n* [[Albertville (Alabama)|Albertville]]\n* [[Alexander City (Alabama)|Alexander City]]"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "wikitext": "{{Pagebanner|Whole world North gy.jpg}}\n\n== Pahami ==\n== Menuju ke sini ==\n=== Pesawat ===\n=== Kereta ===\n=== Jalan darat ===\nAkses ke kota dari jalan raya utama dari Rute 31 AS, yang melintasi kota, dan melalui pintu keluar I-65 238. Pusat kota Birmingham berjarak 23 mil (37 km) utara, dan Montgomery berjarak 69 mil (111 km) selatan, baik melalui US-31 atau I-65.\n\n=== Bus ===\n== Berkeliling ==\n=== Kereta ===\n=== Bus ===\n=== Mobil ===\n=== Jalan kaki ===\n== Lihat ==\n== Lakukan ==\n== Beli ==\n== Makan ==\n== Minum ==\n== Tidur ==\n\n== Tetap aman ==\n\n== Tetap sehat ==\n\n== Hormati ==\n\n== Terhubung ==\n== Tujuan berikutnya ==\n\n* [[Akron (Alabama)|Akron]]\n* [[Albertville (Alabama)|Albertville]]\n* [[Alexander City (Alabama)|Alexander City]]"
+}
